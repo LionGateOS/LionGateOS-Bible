@@ -1,0 +1,6 @@
+*.tmp
+*.log
+*.zip
+*.tar.gz
+.DS_Store
+editions/esword/build/
