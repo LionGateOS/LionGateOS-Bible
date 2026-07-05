@@ -19,9 +19,9 @@ source code or search through the repository to determine what is included.
 | Directly aligned Strong's verses | 26,926 |
 | Safe fallback verses | 4,174 |
 | Missing verses | 0 |
-| Custom KJV text operations | 368 |
-| Unique verses affected by custom revisions | 320 |
-| Documented custom revision rules | 28 |
+| Custom KJV text operations | 383 |
+| Unique verses affected by custom revisions | 335 |
+| Documented custom revision rules | 33 |
 
 ## The three editions
 
@@ -40,8 +40,8 @@ The LionGateOS revised KJV with:
 
 - The same Strong's study support
 - Words spoken by Jesus displayed in royal purple
-- 368 documented text operations
-- 320 unique affected verses
+- 383 documented text operations
+- 335 unique affected verses
 - A record of every revision rule and its purpose
 
 ### 3. LionGateOS Custom KJV for e-Sword
@@ -75,16 +75,16 @@ See [Strong's Data Explained](docs/STRONGS_DATA.md).
 
 ## What changed in the LionGateOS Custom KJV?
 
-The custom edition contains 368 individual text operations in 320 unique
+The custom edition contains 383 individual text operations in 335 unique
 verses.
 
 | Testament | Text operations | Unique verses |
 |---|---:|---:|
-| Old Testament | 140 | 120 |
-| New Testament | 228 | 200 |
-| **Total** | **368** | **320** |
+| Old Testament | 146 | 126 |
+| New Testament | 237 | 209 |
+| **Total** | **383** | **335** |
 
-The number 368 includes the main wording replacements and necessary companion
+The number 383 includes the main wording replacements and necessary companion
 changes such as pronouns, articles, and capitalization.
 
 Major wording revisions include:
@@ -111,6 +111,11 @@ Major wording revisions include:
 | devils | demons | 55 |
 | corn | grain | 102 |
 | unicorn | wild ox | 6 |
+| careful | anxious | 4 |
+| quick | living | 4 |
+| carriages | baggage | 2 |
+| peculiar | special | 4 |
+| target | spear | 1 |
 
 Additional operations adjust nearby grammar or capitalization so the revised
 phrases remain readable and grammatically correct.

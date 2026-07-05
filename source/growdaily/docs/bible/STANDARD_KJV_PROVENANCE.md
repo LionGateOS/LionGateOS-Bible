@@ -25,7 +25,7 @@ The King James Version text is in the public domain worldwide. The thiagobodruk 
 |---|---|
 | `en_kjv.json` (repaired standard) | `aa93816e3ca6a47deae0de21b4212527384cf143c0588032c199b817ab5adeec` |
 | `en_kjv.json.before-clean` (pre-cleaning backup) | `47463eb68296f9a0e487d7b5c56f6fecdeadc0ddeb64db18fea3b31ca286cd99` |
-| `kjv_modified.json` (custom) | `a38066ee769d4224ec51db78a1b9ba370df9a2e232ab6757f89d86def22454ba` |
+| `kjv_modified.json` (custom) | `7baa9a815e504d901c4a8dd6104d917c2c960869a70f5cdec4319ca6e81c6312` |
 | `strong_kjv.json` (Phase 1 Strong's) | `dcc057b771f73e4ca6690d526cab07f256dfb5971b6a5d3c48cad042f5c4534a` |
 
 ## Deterministic Regeneration

@@ -78,6 +78,51 @@ VERSE_REPLACEMENTS_BY_REF = {
             "Meekness and humility, self-control: against such there is no law.",
         ),
     ],
+    ("jr", 17, 8): [
+        ("shall not be careful in the year of drought", "shall not be anxious in the year of drought"),
+    ],
+    ("dn", 3, 16): [
+        ("we are not careful to answer thee in this matter", "we are not anxious to answer thee in this matter"),
+    ],
+    ("lk", 10, 41): [
+        ("thou art careful and troubled about many things", "thou art anxious and troubled about many things"),
+    ],
+    ("act", 10, 42): [
+        ("Judge of quick and dead", "Judge of the living and the dead"),
+    ],
+    ("act", 21, 15): [
+        ("we took up our carriages", "we took up our baggage"),
+    ],
+    ("dt", 14, 2): [
+        ("a peculiar people unto himself", "a special people unto himself"),
+    ],
+    ("dt", 26, 18): [
+        ("his peculiar people", "his special people"),
+    ],
+    ("1sm", 17, 6): [
+        ("a target of brass between his shoulders", "a spear of brass between his shoulders"),
+    ],
+    ("is", 10, 28): [
+        ("he hath laid up his carriages", "he hath laid up his baggage"),
+    ],
+    ("ph", 4, 6): [
+        ("Be careful for nothing", "Be anxious for nothing"),
+    ],
+    ("hb", 4, 12): [
+        ("the word of God is quick, and powerful", "the word of God is living, and powerful"),
+    ],
+    ("tt", 2, 14): [
+        ("a peculiar people", "a special people"),
+    ],
+    ("2tm", 4, 1): [
+        ("who shall judge the quick and the dead", "who shall judge the living and the dead"),
+    ],
+    ("1pe", 2, 9): [
+        ("a peculiar people", "a special people"),
+    ],
+    ("1pe", 4, 5): [
+        ("to judge the quick and the dead", "to judge the living and the dead"),
+    ],
 }
 
 BRACE_BLOCK_RE = re.compile(r"\{([^{}]*)\}")

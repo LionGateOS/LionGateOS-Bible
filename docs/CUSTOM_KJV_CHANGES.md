@@ -5,14 +5,14 @@
 The LionGateOS Custom KJV preserves the complete 66-book, 31,100-verse
 structure of the Standard KJV.
 
-The custom edition applies 368 documented text operations across 320 unique
+The custom edition applies 383 documented text operations across 335 unique
 verses.
 
 | Testament | Text operations | Unique verses |
 |---|---:|---:|
-| Old Testament | 140 | 120 |
-| New Testament | 228 | 200 |
-| **Total** | **368** | **320** |
+| Old Testament | 146 | 126 |
+| New Testament | 237 | 209 |
+| **Total** | **383** | **335** |
 
 A text operation means one recorded replacement or adjustment. Several
 operations can occur in the same verse.
@@ -52,7 +52,12 @@ a noun change and a nearby pronoun change.
 | R026 | corn | grain | 91 | 11 | 102 |
 | R027 | unicorn | wild ox | 6 | 0 | 6 |
 | R028 | an | a | 3 | 0 | 3 |
-| **Total** |  |  | **140** | **228** | **368** |
+| R029 | careful | anxious | 2 | 2 | 4 |
+| R030 | quick | living | 0 | 4 | 4 |
+| R031 | carriages | baggage | 1 | 1 | 2 |
+| R032 | peculiar | special | 2 | 2 | 4 |
+| R033 | target | spear | 1 | 0 | 1 |
+| **Total** |  |  | **146** | **237** | **383** |
 
 ## Explanation of the rules
 
@@ -129,9 +134,19 @@ Five further controlled global rules are now documented:
 - `corn` becomes `grain` in 102 applications
 - `unicorn` becomes `wild ox` in 6 applications
 
+### Additional verse-specific clarification subset
+
+This pass also adds fifteen more controlled verse-specific clarifications:
+
+- `careful` becomes `anxious` in 4 selected verses
+- `quick` becomes `living` in 4 selected verses
+- `carriages` becomes `baggage` in 2 selected verses
+- `peculiar` becomes `special` in 4 selected verses
+- `target` becomes `spear` in 1 selected verse
+
 ## Important counting note
 
-The 368 total is not 368 different theological rewrites.
+The 383 total is not 383 different theological rewrites.
 
 It consists of:
 
@@ -141,7 +156,7 @@ It consists of:
 - one capitalization adjustment
 - controlled phrase expansions where the modern wording needs more than one token
 
-There are 320 unique affected verses because some verses contain more than one
+There are 335 unique affected verses because some verses contain more than one
 operation.
 
 ## Authoritative records
