@@ -23,6 +23,16 @@ Original counts:
   Easter: 1
   conversation: 20
   Conversation: 0
+  prevent: 7
+  Prevent: 0
+  charity: 26
+  Charity: 2
+  devils: 55
+  Devils: 0
+  corn: 102
+  Corn: 0
+  unicorn: 6
+  Unicorn: 0
 
 Remaining counts after modification:
   Holy Ghost: 0
@@ -35,6 +45,16 @@ Remaining counts after modification:
   Easter: 0
   conversation: 0
   Conversation: 0
+  prevent: 0
+  Prevent: 0
+  charity: 0
+  Charity: 0
+  devils: 0
+  Devils: 0
+  corn: 0
+  Corn: 0
+  unicorn: 0
+  Unicorn: 0
 
 Target groups:
   Ghost verses: 19
@@ -42,6 +62,11 @@ Target groups:
   Scapegoat verses: 3 with 4 original occurrences
   Easter verses: 1
   Conversation verses: 20 with 20 original occurrences
+  Prevent verses: 7 with 7 original occurrences
+  Charity verses: 24 with 28 original occurrences
+  Devils verses: 48 with 55 original occurrences
+  Corn verses: 94 with 102 original occurrences
+  Unicorn verses: 6 with 6 original occurrences
   Luke 23:46 exact: True
   Acts 12:4 has Passover and not Easter: True
   Leviticus 16:8 has Azazel: True
@@ -166,7 +191,7 @@ Conversation verse samples
    After:  For our conduct is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ:
 9. 1 Timothy 4:12
    Before: Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity.
-   After:  Let no man despise thy youth; but be thou an example of the believers, in word, in conduct, in charity, in spirit, in faith, in purity.
+   After:  Let no man despise thy youth; but be thou an example of the believers, in word, in conduct, in love, in spirit, in faith, in purity.
 10. Hebrews 13:5
    Before: Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.
    After:  Let your conduct be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.
@@ -200,6 +225,553 @@ Conversation verse samples
 20. 2 Peter 3:11
    Before: Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conversation and godliness,
    After:  Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conduct and godliness,
+
+Prevent verse samples
+1. Job 3:12
+   Before: Why did the knees prevent me? or why the breasts that I should suck?
+   After:  Why did the knees precede me? or why the breasts that I should suck?
+2. Psalms 59:10
+   Before: The God of my mercy shall prevent me: God shall let me see my desire upon mine enemies.
+   After:  The God of my mercy shall precede me: God shall let me see my desire upon mine enemies.
+3. Psalms 79:8
+   Before: O remember not against us former iniquities: let thy tender mercies speedily prevent us: for we are brought very low.
+   After:  O remember not against us former iniquities: let thy tender mercies speedily precede us: for we are brought very low.
+4. Psalms 88:13
+   Before: But unto thee have I cried, O LORD; and in the morning shall my prayer prevent thee.
+   After:  But unto thee have I cried, O LORD; and in the morning shall my prayer precede thee.
+5. Psalms 119:148
+   Before: Mine eyes prevent the night watches, that I might meditate in thy word.
+   After:  Mine eyes precede the night watches, that I might meditate in thy word.
+6. Amos 9:10
+   Before: All the sinners of my people shall die by the sword, which say, The evil shall not overtake nor prevent us.
+   After:  All the sinners of my people shall die by the sword, which say, The evil shall not overtake nor precede us.
+7. 1 Thessalonians 4:15
+   Before: For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep.
+   After:  For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not precede them which are asleep.
+
+Charity verse samples
+1. 1 Corinthians 8:1
+   Before: Now as touching things offered unto idols, we know that we all have knowledge. Knowledge puffeth up, but charity edifieth.
+   After:  Now as touching things offered unto idols, we know that we all have knowledge. Knowledge puffeth up, but love edifieth.
+2. 1 Corinthians 13:1
+   Before: Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal.
+   After:  Though I speak with the tongues of men and of angels, and have not love, I am become as sounding brass, or a tinkling cymbal.
+3. 1 Corinthians 13:2
+   Before: And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing.
+   After:  And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not love, I am nothing.
+4. 1 Corinthians 13:3
+   Before: And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing.
+   After:  And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not love, it profiteth me nothing.
+5. 1 Corinthians 13:4
+   Before: Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,
+   After:  Love suffereth long, and is kind; love envieth not; love vaunteth not itself, is not puffed up,
+6. 1 Corinthians 13:8
+   Before: Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away.
+   After:  Love never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away.
+7. 1 Corinthians 13:13
+   Before: And now abideth faith, hope, charity, these three; but the greatest of these is charity.
+   After:  And now abideth faith, hope, love, these three; but the greatest of these is love.
+8. 1 Corinthians 14:1
+   Before: Follow after charity, and desire spiritual gifts, but rather that ye may prophesy.
+   After:  Follow after love, and desire spiritual gifts, but rather that ye may prophesy.
+9. 1 Corinthians 16:14
+   Before: Let all your things be done with charity.
+   After:  Let all your things be done with love.
+10. Colossians 3:14
+   Before: And above all these things put on charity, which is the bond of perfectness.
+   After:  And above all these things put on love, which is the bond of perfectness.
+11. 1 Thessalonians 3:6
+   Before: But now when Timotheus came from you unto us, and brought us good tidings of your faith and charity, and that ye have good remembrance of us always, desiring greatly to see us, as we also to see you:
+   After:  But now when Timotheus came from you unto us, and brought us good tidings of your faith and love, and that ye have good remembrance of us always, desiring greatly to see us, as we also to see you:
+12. 2 Thessalonians 1:3
+   Before: We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth;
+   After:  We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the love of every one of you all toward each other aboundeth;
+13. 1 Timothy 1:5
+   Before: Now the end of the commandment is charity out of a pure heart, and of a good conscience, and of faith unfeigned:
+   After:  Now the end of the commandment is love out of a pure heart, and of a good conscience, and of faith unfeigned:
+14. 1 Timothy 2:15
+   Before: Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety.
+   After:  Notwithstanding she shall be saved in childbearing, if they continue in faith and love and holiness with sobriety.
+15. 1 Timothy 4:12
+   Before: Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity.
+   After:  Let no man despise thy youth; but be thou an example of the believers, in word, in conduct, in love, in spirit, in faith, in purity.
+16. 2 Timothy 2:22
+   Before: Flee also youthful lusts: but follow righteousness, faith, charity, peace, with them that call on the Lord out of a pure heart.
+   After:  Flee also youthful lusts: but follow righteousness, faith, love, peace, with them that call on the Lord out of a pure heart.
+17. 2 Timothy 3:10
+   Before: But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, charity, patience,
+   After:  But thou hast fully known my doctrine, manner of life, purpose, faith, longsuffering, love, patience,
+18. Titus 2:2
+   Before: That the aged men be sober, grave, temperate, sound in faith, in charity, in patience.
+   After:  That the aged men be sober, grave, temperate, sound in faith, in love, in patience.
+19. 1 Peter 4:8
+   Before: And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins.
+   After:  And above all things have fervent love among yourselves: for love shall cover the multitude of sins.
+20. 1 Peter 5:14
+   Before: Greet ye one another with a kiss of charity. Peace be with you all that are in Christ Jesus. Amen.
+   After:  Greet ye one another with a kiss of love. Peace be with you all that are in Christ Jesus. Amen.
+21. 2 Peter 1:7
+   Before: And to godliness brotherly kindness; and to brotherly kindness charity.
+   After:  And to godliness brotherly kindness; and to brotherly kindness love.
+22. 3 John 1:6
+   Before: Which have borne witness of thy charity before the church: whom if thou bring forward on their journey after a godly sort, thou shalt do well:
+   After:  Which have borne witness of thy love before the church: whom if thou bring forward on their journey after a godly sort, thou shalt do well:
+23. Jude 1:12
+   Before: These are spots in your feasts of charity, when they feast with you, feeding themselves without fear: clouds they are without water, carried about of winds; trees whose fruit withereth, without fruit, twice dead, plucked up by the roots;
+   After:  These are spots in your feasts of love, when they feast with you, feeding themselves without fear: clouds they are without water, carried about of winds; trees whose fruit withereth, without fruit, twice dead, plucked up by the roots;
+24. Revelation 2:19
+   Before: I know thy works, and charity, and service, and faith, and thy patience, and thy works; and the last to be more than the first.
+   After:  I know thy works, and love, and service, and faith, and thy patience, and thy works; and the last to be more than the first.
+
+Devils verse samples
+1. Leviticus 17:7
+   Before: And they shall no more offer their sacrifices unto devils, after whom they have gone a whoring. This shall be a statute for ever unto them throughout their generations.
+   After:  And they shall no more offer their sacrifices unto demons, after whom they have gone a whoring. This shall be a statute for ever unto them throughout their generations.
+2. Deuteronomy 32:17
+   Before: They sacrificed unto devils, not to God; to gods whom they knew not, to new gods that came newly up, whom your fathers feared not.
+   After:  They sacrificed unto demons, not to God; to gods whom they knew not, to new gods that came newly up, whom your fathers feared not.
+3. 2 Chronicles 11:15
+   Before: And he ordained him priests for the high places, and for the devils, and for the calves which he had made.
+   After:  And he ordained him priests for the high places, and for the demons, and for the calves which he had made.
+4. Psalms 106:37
+   Before: Yea, they sacrificed their sons and their daughters unto devils,
+   After:  Yea, they sacrificed their sons and their daughters unto demons,
+5. Matthew 4:24
+   Before: And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them.
+   After:  And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with demons, and those which were lunatick, and those that had the palsy; and he healed them.
+6. Matthew 7:22
+   Before: Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works?
+   After:  Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out demons? and in thy name done many wonderful works?
+7. Matthew 8:16
+   Before: When the even was come, they brought unto him many that were possessed with devils: and he cast out the spirits with his word, and healed all that were sick:
+   After:  When the even was come, they brought unto him many that were possessed with demons: and he cast out the spirits with his word, and healed all that were sick:
+8. Matthew 8:28
+   Before: And when he was come to the other side into the country of the Gergesenes, there met him two possessed with devils, coming out of the tombs, exceeding fierce, so that no man might pass by that way.
+   After:  And when he was come to the other side into the country of the Gergesenes, there met him two possessed with demons, coming out of the tombs, exceeding fierce, so that no man might pass by that way.
+9. Matthew 8:31
+   Before: So the devils besought him, saying, If thou cast us out, suffer us to go away into the herd of swine.
+   After:  So the demons besought him, saying, If thou cast us out, suffer us to go away into the herd of swine.
+10. Matthew 8:33
+   Before: And they that kept them fled, and went their ways into the city, and told every thing, and what was befallen to the possessed of the devils.
+   After:  And they that kept them fled, and went their ways into the city, and told every thing, and what was befallen to the possessed of the demons.
+11. Matthew 9:34
+   Before: But the Pharisees said, He casteth out devils through the prince of the devils.
+   After:  But the Pharisees said, He casteth out demons through the prince of the demons.
+12. Matthew 10:8
+   Before: Heal the sick, cleanse the lepers, raise the dead, cast out devils: freely ye have received, freely give.
+   After:  Heal the sick, cleanse the lepers, raise the dead, cast out demons: freely ye have received, freely give.
+13. Matthew 12:24
+   Before: But when the Pharisees heard it, they said, This fellow doth not cast out devils, but by Beelzebub the prince of the devils.
+   After:  But when the Pharisees heard it, they said, This fellow doth not cast out demons, but by Beelzebub the prince of the demons.
+14. Matthew 12:27
+   Before: And if I by Beelzebub cast out devils, by whom do your children cast them out? therefore they shall be your judges.
+   After:  And if I by Beelzebub cast out demons, by whom do your children cast them out? therefore they shall be your judges.
+15. Matthew 12:28
+   Before: But if I cast out devils by the Spirit of God, then the kingdom of God is come unto you.
+   After:  But if I cast out demons by the Spirit of God, then the kingdom of God is come unto you.
+16. Mark 1:32
+   Before: And at even, when the sun did set, they brought unto him all that were diseased, and them that were possessed with devils.
+   After:  And at even, when the sun did set, they brought unto him all that were diseased, and them that were possessed with demons.
+17. Mark 1:34
+   Before: And he healed many that were sick of divers diseases, and cast out many devils; and suffered not the devils to speak, because they knew him.
+   After:  And he healed many that were sick of divers diseases, and cast out many demons; and suffered not the demons to speak, because they knew him.
+18. Mark 1:39
+   Before: And he preached in their synagogues throughout all Galilee, and cast out devils.
+   After:  And he preached in their synagogues throughout all Galilee, and cast out demons.
+19. Mark 3:15
+   Before: And to have power to heal sicknesses, and to cast out devils:
+   After:  And to have power to heal sicknesses, and to cast out demons:
+20. Mark 3:22
+   Before: And the scribes which came down from Jerusalem said, He hath Beelzebub, and by the prince of the devils casteth he out devils.
+   After:  And the scribes which came down from Jerusalem said, He hath Beelzebub, and by the prince of the demons casteth he out demons.
+21. Mark 5:12
+   Before: And all the devils besought him, saying, Send us into the swine, that we may enter into them.
+   After:  And all the demons besought him, saying, Send us into the swine, that we may enter into them.
+22. Mark 6:13
+   Before: And they cast out many devils, and anointed with oil many that were sick, and healed them.
+   After:  And they cast out many demons, and anointed with oil many that were sick, and healed them.
+23. Mark 9:38
+   Before: And John answered him, saying, Master, we saw one casting out devils in thy name, and he followeth not us: and we forbad him, because he followeth not us.
+   After:  And John answered him, saying, Master, we saw one casting out demons in thy name, and he followeth not us: and we forbad him, because he followeth not us.
+24. Mark 16:9
+   Before: Now when Jesus was risen early the first day of the week, he appeared first to Mary Magdalene, out of whom he had cast seven devils.
+   After:  Now when Jesus was risen early the first day of the week, he appeared first to Mary Magdalene, out of whom he had cast seven demons.
+25. Mark 16:17
+   Before: And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;
+   After:  And these signs shall follow them that believe; In my name shall they cast out demons; they shall speak with new tongues;
+26. Luke 4:41
+   Before: And devils also came out of many, crying out, and saying, Thou art Christ the Son of God. And he rebuking them suffered them not to speak: for they knew that he was Christ.
+   After:  And demons also came out of many, crying out, and saying, Thou art Christ the Son of God. And he rebuking them suffered them not to speak: for they knew that he was Christ.
+27. Luke 8:2
+   Before: And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven devils,
+   After:  And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven demons,
+28. Luke 8:27
+   Before: And when he went forth to land, there met him out of the city a certain man, which had devils long time, and ware no clothes, neither abode in any house, but in the tombs.
+   After:  And when he went forth to land, there met him out of the city a certain man, which had demons long time, and ware no clothes, neither abode in any house, but in the tombs.
+29. Luke 8:30
+   Before: And Jesus asked him, saying, What is thy name? And he said, Legion: because many devils were entered into him.
+   After:  And Jesus asked him, saying, What is thy name? And he said, Legion: because many demons were entered into him.
+30. Luke 8:33
+   Before: Then went the devils out of the man, and entered into the swine: and the herd ran violently down a steep place into the lake, and were choked.
+   After:  Then went the demons out of the man, and entered into the swine: and the herd ran violently down a steep place into the lake, and were choked.
+31. Luke 8:35
+   Before: Then they went out to see what was done; and came to Jesus, and found the man, out of whom the devils were departed, sitting at the feet of Jesus, clothed, and in his right mind: and they were afraid.
+   After:  Then they went out to see what was done; and came to Jesus, and found the man, out of whom the demons were departed, sitting at the feet of Jesus, clothed, and in his right mind: and they were afraid.
+32. Luke 8:36
+   Before: They also which saw it told them by what means he that was possessed of the devils was healed.
+   After:  They also which saw it told them by what means he that was possessed of the demons was healed.
+33. Luke 8:38
+   Before: Now the man out of whom the devils were departed besought him that he might be with him: but Jesus sent him away, saying,
+   After:  Now the man out of whom the demons were departed besought him that he might be with him: but Jesus sent him away, saying,
+34. Luke 9:1
+   Before: Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases.
+   After:  Then he called his twelve disciples together, and gave them power and authority over all demons, and to cure diseases.
+35. Luke 9:49
+   Before: And John answered and said, Master, we saw one casting out devils in thy name; and we forbad him, because he followeth not with us.
+   After:  And John answered and said, Master, we saw one casting out demons in thy name; and we forbad him, because he followeth not with us.
+36. Luke 10:17
+   Before: And the seventy returned again with joy, saying, Lord, even the devils are subject unto us through thy name.
+   After:  And the seventy returned again with joy, saying, Lord, even the demons are subject unto us through thy name.
+37. Luke 11:15
+   Before: But some of them said, He casteth out devils through Beelzebub the chief of the devils.
+   After:  But some of them said, He casteth out demons through Beelzebub the chief of the demons.
+38. Luke 11:18
+   Before: If Satan also be divided against himself, how shall his kingdom stand? because ye say that I cast out devils through Beelzebub.
+   After:  If Satan also be divided against himself, how shall his kingdom stand? because ye say that I cast out demons through Beelzebub.
+39. Luke 11:19
+   Before: And if I by Beelzebub cast out devils, by whom do your sons cast them out? therefore shall they be your judges.
+   After:  And if I by Beelzebub cast out demons, by whom do your sons cast them out? therefore shall they be your judges.
+40. Luke 11:20
+   Before: But if I with the finger of God cast out devils, no doubt the kingdom of God is come upon you.
+   After:  But if I with the finger of God cast out demons, no doubt the kingdom of God is come upon you.
+41. Luke 13:32
+   Before: And he said unto them, Go ye, and tell that fox, Behold, I cast out devils, and I do cures to day and to morrow, and the third day I shall be perfected.
+   After:  And he said unto them, Go ye, and tell that fox, Behold, I cast out demons, and I do cures to day and to morrow, and the third day I shall be perfected.
+42. 1 Corinthians 10:20
+   Before: But I say, that the things which the Gentiles sacrifice, they sacrifice to devils, and not to God: and I would not that ye should have fellowship with devils.
+   After:  But I say, that the things which the Gentiles sacrifice, they sacrifice to demons, and not to God: and I would not that ye should have fellowship with demons.
+43. 1 Corinthians 10:21
+   Before: Ye cannot drink the cup of the Lord, and the cup of devils: ye cannot be partakers of the Lord's table, and of the table of devils.
+   After:  Ye cannot drink the cup of the Lord, and the cup of demons: ye cannot be partakers of the Lord's table, and of the table of demons.
+44. 1 Timothy 4:1
+   Before: Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of devils;
+   After:  Now the Spirit speaketh expressly, that in the latter times some shall depart from the faith, giving heed to seducing spirits, and doctrines of demons;
+45. James 2:19
+   Before: Thou believest that there is one God; thou doest well: the devils also believe, and tremble.
+   After:  Thou believest that there is one God; thou doest well: the demons also believe, and tremble.
+46. Revelation 9:20
+   Before: And the rest of the men which were not killed by these plagues yet repented not of the works of their hands, that they should not worship devils, and idols of gold, and silver, and brass, and stone, and of wood: which neither can see, nor hear, nor walk:
+   After:  And the rest of the men which were not killed by these plagues yet repented not of the works of their hands, that they should not worship demons, and idols of gold, and silver, and brass, and stone, and of wood: which neither can see, nor hear, nor walk:
+47. Revelation 16:14
+   Before: For they are the spirits of devils, working miracles, which go forth unto the kings of the earth and of the whole world, to gather them to the battle of that great day of God Almighty.
+   After:  For they are the spirits of demons, working miracles, which go forth unto the kings of the earth and of the whole world, to gather them to the battle of that great day of God Almighty.
+48. Revelation 18:2
+   Before: And he cried mightily with a strong voice, saying, Babylon the great is fallen, is fallen, and is become the habitation of devils, and the hold of every foul spirit, and a cage of every unclean and hateful bird.
+   After:  And he cried mightily with a strong voice, saying, Babylon the great is fallen, is fallen, and is become the habitation of demons, and the hold of every foul spirit, and a cage of every unclean and hateful bird.
+
+Corn verse samples
+1. Genesis 27:28
+   Before: Therefore God give thee of the dew of heaven, and the fatness of the earth, and plenty of corn and wine:
+   After:  Therefore God give thee of the dew of heaven, and the fatness of the earth, and plenty of grain and wine:
+2. Genesis 27:37
+   Before: And Isaac answered and said unto Esau, Behold, I have made him thy lord, and all his brethren have I given to him for servants; and with corn and wine have I sustained him: and what shall I do now unto thee, my son?
+   After:  And Isaac answered and said unto Esau, Behold, I have made him thy lord, and all his brethren have I given to him for servants; and with grain and wine have I sustained him: and what shall I do now unto thee, my son?
+3. Genesis 41:5
+   Before: And he slept and dreamed the second time: and, behold, seven ears of corn came up upon one stalk, rank and good.
+   After:  And he slept and dreamed the second time: and, behold, seven ears of grain came up upon one stalk, rank and good.
+4. Genesis 41:35
+   Before: And let them gather all the food of those good years that come, and lay up corn under the hand of Pharaoh, and let them keep food in the cities.
+   After:  And let them gather all the food of those good years that come, and lay up grain under the hand of Pharaoh, and let them keep food in the cities.
+5. Genesis 41:49
+   Before: And Joseph gathered corn as the sand of the sea, very much, until he left numbering; for it was without number.
+   After:  And Joseph gathered grain as the sand of the sea, very much, until he left numbering; for it was without number.
+6. Genesis 41:57
+   Before: And all countries came into Egypt to Joseph for to buy corn; because that the famine was so sore in all lands.
+   After:  And all countries came into Egypt to Joseph for to buy grain; because that the famine was so sore in all lands.
+7. Genesis 42:1
+   Before: Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do ye look one upon another?
+   After:  Now when Jacob saw that there was grain in Egypt, Jacob said unto his sons, Why do ye look one upon another?
+8. Genesis 42:2
+   Before: And he said, Behold, I have heard that there is corn in Egypt: get you down thither, and buy for us from thence; that we may live, and not die.
+   After:  And he said, Behold, I have heard that there is grain in Egypt: get you down thither, and buy for us from thence; that we may live, and not die.
+9. Genesis 42:3
+   Before: And Joseph's ten brethren went down to buy corn in Egypt.
+   After:  And Joseph's ten brethren went down to buy grain in Egypt.
+10. Genesis 42:5
+   Before: And the sons of Israel came to buy corn among those that came: for the famine was in the land of Canaan.
+   After:  And the sons of Israel came to buy grain among those that came: for the famine was in the land of Canaan.
+11. Genesis 42:19
+   Before: If ye be true men, let one of your brethren be bound in the house of your prison: go ye, carry corn for the famine of your houses:
+   After:  If ye be true men, let one of your brethren be bound in the house of your prison: go ye, carry grain for the famine of your houses:
+12. Genesis 42:25
+   Before: Then Joseph commanded to fill their sacks with corn, and to restore every man's money into his sack, and to give them provision for the way: and thus did he unto them.
+   After:  Then Joseph commanded to fill their sacks with grain, and to restore every man's money into his sack, and to give them provision for the way: and thus did he unto them.
+13. Genesis 42:26
+   Before: And they laded their asses with the corn, and departed thence.
+   After:  And they laded their asses with the grain, and departed thence.
+14. Genesis 43:2
+   Before: And it came to pass, when they had eaten up the corn which they had brought out of Egypt, their father said unto them, Go again, buy us a little food.
+   After:  And it came to pass, when they had eaten up the grain which they had brought out of Egypt, their father said unto them, Go again, buy us a little food.
+15. Genesis 44:2
+   Before: And put my cup, the silver cup, in the sack's mouth of the youngest, and his corn money. And he did according to the word that Joseph had spoken.
+   After:  And put my cup, the silver cup, in the sack's mouth of the youngest, and his grain money. And he did according to the word that Joseph had spoken.
+16. Genesis 45:23
+   Before: And to his father he sent after this manner; ten asses laden with the good things of Egypt, and ten she asses laden with corn and bread and meat for his father by the way.
+   After:  And to his father he sent after this manner; ten asses laden with the good things of Egypt, and ten she asses laden with grain and bread and meat for his father by the way.
+17. Genesis 47:14
+   Before: And Joseph gathered up all the money that was found in the land of Egypt, and in the land of Canaan, for the corn which they bought: and Joseph brought the money into Pharaoh's house.
+   After:  And Joseph gathered up all the money that was found in the land of Egypt, and in the land of Canaan, for the grain which they bought: and Joseph brought the money into Pharaoh's house.
+18. Exodus 22:6
+   Before: If fire break out, and catch in thorns, so that the stacks of corn, or the standing corn, or the field, be consumed therewith; he that kindled the fire shall surely make restitution.
+   After:  If fire break out, and catch in thorns, so that the stacks of grain, or the standing grain, or the field, be consumed therewith; he that kindled the fire shall surely make restitution.
+19. Leviticus 2:14
+   Before: And if thou offer a meat offering of thy firstfruits unto the LORD, thou shalt offer for the meat offering of thy firstfruits green ears of corn dried by the fire, even corn beaten out of full ears.
+   After:  And if thou offer a meat offering of thy firstfruits unto the LORD, thou shalt offer for the meat offering of thy firstfruits green ears of grain dried by the fire, even grain beaten out of full ears.
+20. Leviticus 2:16
+   Before: And the priest shall burn the memorial of it, part of the beaten corn thereof, and part of the oil thereof, with all the frankincense thereof: it is an offering made by fire unto the LORD.
+   After:  And the priest shall burn the memorial of it, part of the beaten grain thereof, and part of the oil thereof, with all the frankincense thereof: it is an offering made by fire unto the LORD.
+21. Leviticus 23:14
+   Before: And ye shall eat neither bread, nor parched corn, nor green ears, until the selfsame day that ye have brought an offering unto your God: it shall be a statute for ever throughout your generations in all your dwellings.
+   After:  And ye shall eat neither bread, nor parched grain, nor green ears, until the selfsame day that ye have brought an offering unto your God: it shall be a statute for ever throughout your generations in all your dwellings.
+22. Numbers 18:27
+   Before: And this your heave offering shall be reckoned unto you, as though it were the corn of the threshingfloor, and as the fulness of the winepress.
+   After:  And this your heave offering shall be reckoned unto you, as though it were the grain of the threshingfloor, and as the fulness of the winepress.
+23. Deuteronomy 7:13
+   Before: And he will love thee, and bless thee, and multiply thee: he will also bless the fruit of thy womb, and the fruit of thy land, thy corn, and thy wine, and thine oil, the increase of thy kine, and the flocks of thy sheep, in the land which he sware unto thy fathers to give thee.
+   After:  And he will love thee, and bless thee, and multiply thee: he will also bless the fruit of thy womb, and the fruit of thy land, thy grain, and thy wine, and thine oil, the increase of thy kine, and the flocks of thy sheep, in the land which he sware unto thy fathers to give thee.
+24. Deuteronomy 11:14
+   Before: That I will give you the rain of your land in his due season, the first rain and the latter rain, that thou mayest gather in thy corn, and thy wine, and thine oil.
+   After:  That I will give you the rain of your land in his due season, the first rain and the latter rain, that thou mayest gather in thy grain, and thy wine, and thine oil.
+25. Deuteronomy 12:17
+   Before: Thou mayest not eat within thy gates the tithe of thy corn, or of thy wine, or of thy oil, or the firstlings of thy herds or of thy flock, nor any of thy vows which thou vowest, nor thy freewill offerings, or heave offering of thine hand:
+   After:  Thou mayest not eat within thy gates the tithe of thy grain, or of thy wine, or of thy oil, or the firstlings of thy herds or of thy flock, nor any of thy vows which thou vowest, nor thy freewill offerings, or heave offering of thine hand:
+26. Deuteronomy 14:23
+   Before: And thou shalt eat before the LORD thy God, in the place which he shall choose to place his name there, the tithe of thy corn, of thy wine, and of thine oil, and the firstlings of thy herds and of thy flocks; that thou mayest learn to fear the LORD thy God always.
+   After:  And thou shalt eat before the LORD thy God, in the place which he shall choose to place his name there, the tithe of thy grain, of thy wine, and of thine oil, and the firstlings of thy herds and of thy flocks; that thou mayest learn to fear the LORD thy God always.
+27. Deuteronomy 16:9
+   Before: Seven weeks shalt thou number unto thee: begin to number the seven weeks from such time as thou beginnest to put the sickle to the corn.
+   After:  Seven weeks shalt thou number unto thee: begin to number the seven weeks from such time as thou beginnest to put the sickle to the grain.
+28. Deuteronomy 16:13
+   Before: Thou shalt observe the feast of tabernacles seven days, after that thou hast gathered in thy corn and thy wine:
+   After:  Thou shalt observe the feast of tabernacles seven days, after that thou hast gathered in thy grain and thy wine:
+29. Deuteronomy 18:4
+   Before: The firstfruit also of thy corn, of thy wine, and of thine oil, and the first of the fleece of thy sheep, shalt thou give him.
+   After:  The firstfruit also of thy grain, of thy wine, and of thine oil, and the first of the fleece of thy sheep, shalt thou give him.
+30. Deuteronomy 23:25
+   Before: When thou comest into the standing corn of thy neighbour, then thou mayest pluck the ears with thine hand; but thou shalt not move a sickle unto thy neighbour's standing corn.
+   After:  When thou comest into the standing grain of thy neighbour, then thou mayest pluck the ears with thine hand; but thou shalt not move a sickle unto thy neighbour's standing grain.
+31. Deuteronomy 25:4
+   Before: Thou shalt not muzzle the ox when he treadeth out the corn.
+   After:  Thou shalt not muzzle the ox when he treadeth out the grain.
+32. Deuteronomy 28:51
+   Before: And he shall eat the fruit of thy cattle, and the fruit of thy land, until thou be destroyed: which also shall not leave thee either corn, wine, or oil, or the increase of thy kine, or flocks of thy sheep, until he have destroyed thee.
+   After:  And he shall eat the fruit of thy cattle, and the fruit of thy land, until thou be destroyed: which also shall not leave thee either grain, wine, or oil, or the increase of thy kine, or flocks of thy sheep, until he have destroyed thee.
+33. Deuteronomy 33:28
+   Before: Israel then shall dwell in safety alone: the fountain of Jacob shall be upon a land of corn and wine; also his heavens shall drop down dew.
+   After:  Israel then shall dwell in safety alone: the fountain of Jacob shall be upon a land of grain and wine; also his heavens shall drop down dew.
+34. Joshua 5:11
+   Before: And they did eat of the old corn of the land on the morrow after the passover, unleavened cakes, and parched corn in the selfsame day.
+   After:  And they did eat of the old grain of the land on the morrow after the passover, unleavened cakes, and parched grain in the selfsame day.
+35. Joshua 5:12
+   Before: And the manna ceased on the morrow after they had eaten of the old corn of the land; neither had the children of Israel manna any more; but they did eat of the fruit of the land of Canaan that year.
+   After:  And the manna ceased on the morrow after they had eaten of the old grain of the land; neither had the children of Israel manna any more; but they did eat of the fruit of the land of Canaan that year.
+36. Judges 15:5
+   Before: And when he had set the brands on fire, he let them go into the standing corn of the Philistines, and burnt up both the shocks, and also the standing corn, with the vineyards and olives.
+   After:  And when he had set the brands on fire, he let them go into the standing grain of the Philistines, and burnt up both the shocks, and also the standing grain, with the vineyards and olives.
+37. Ruth 2:2
+   Before: And Ruth the Moabitess said unto Naomi, Let me now go to the field, and glean ears of corn after him in whose sight I shall find grace. And she said unto her, Go, my daughter.
+   After:  And Ruth the Moabitess said unto Naomi, Let me now go to the field, and glean ears of grain after him in whose sight I shall find grace. And she said unto her, Go, my daughter.
+38. Ruth 2:14
+   Before: And Boaz said unto her, At mealtime come thou hither, and eat of the bread, and dip thy morsel in the vinegar. And she sat beside the reapers: and he reached her parched corn, and she did eat, and was sufficed, and left.
+   After:  And Boaz said unto her, At mealtime come thou hither, and eat of the bread, and dip thy morsel in the vinegar. And she sat beside the reapers: and he reached her parched grain, and she did eat, and was sufficed, and left.
+39. Ruth 3:7
+   Before: And when Boaz had eaten and drunk, and his heart was merry, he went to lie down at the end of the heap of corn: and she came softly, and uncovered his feet, and laid her down.
+   After:  And when Boaz had eaten and drunk, and his heart was merry, he went to lie down at the end of the heap of grain: and she came softly, and uncovered his feet, and laid her down.
+40. 1 Samuel 17:17
+   Before: And Jesse said unto David his son, Take now for thy brethren an ephah of this parched corn, and these ten loaves, and run to the camp to thy brethren;
+   After:  And Jesse said unto David his son, Take now for thy brethren an ephah of this parched grain, and these ten loaves, and run to the camp to thy brethren;
+41. 1 Samuel 25:18
+   Before: Then Abigail made haste, and took two hundred loaves, and two bottles of wine, and five sheep ready dressed, and five measures of parched corn, and an hundred clusters of raisins, and two hundred cakes of figs, and laid them on asses.
+   After:  Then Abigail made haste, and took two hundred loaves, and two bottles of wine, and five sheep ready dressed, and five measures of parched grain, and an hundred clusters of raisins, and two hundred cakes of figs, and laid them on asses.
+42. 2 Samuel 17:19
+   Before: And the woman took and spread a covering over the well's mouth, and spread ground corn thereon; and the thing was not known.
+   After:  And the woman took and spread a covering over the well's mouth, and spread ground grain thereon; and the thing was not known.
+43. 2 Samuel 17:28
+   Before: Brought beds, and basons, and earthen vessels, and wheat, and barley, and flour, and parched corn, and beans, and lentiles, and parched pulse,
+   After:  Brought beds, and basons, and earthen vessels, and wheat, and barley, and flour, and parched grain, and beans, and lentiles, and parched pulse,
+44. 2 Kings 4:42
+   Before: And there came a man from Baalshalisha, and brought the man of God bread of the firstfruits, twenty loaves of barley, and full ears of corn in the husk thereof. And he said, Give unto the people, that they may eat.
+   After:  And there came a man from Baalshalisha, and brought the man of God bread of the firstfruits, twenty loaves of barley, and full ears of grain in the husk thereof. And he said, Give unto the people, that they may eat.
+45. 2 Kings 18:32
+   Before: Until I come and take you away to a land like your own land, a land of corn and wine, a land of bread and vineyards, a land of oil olive and of honey, that ye may live, and not die: and hearken not unto Hezekiah, when he persuadeth you, saying, The LORD will deliver us.
+   After:  Until I come and take you away to a land like your own land, a land of grain and wine, a land of bread and vineyards, a land of oil olive and of honey, that ye may live, and not die: and hearken not unto Hezekiah, when he persuadeth you, saying, The LORD will deliver us.
+46. 2 Kings 19:26
+   Before: Therefore their inhabitants were of small power, they were dismayed and confounded; they were as the grass of the field, and as the green herb, as the grass on the housetops, and as corn blasted before it be grown up.
+   After:  Therefore their inhabitants were of small power, they were dismayed and confounded; they were as the grass of the field, and as the green herb, as the grass on the housetops, and as grain blasted before it be grown up.
+47. 2 Chronicles 31:5
+   Before: And as soon as the commandment came abroad, the children of Israel brought in abundance the firstfruits of corn, wine, and oil, and honey, and of all the increase of the field; and the tithe of all things brought they in abundantly.
+   After:  And as soon as the commandment came abroad, the children of Israel brought in abundance the firstfruits of grain, wine, and oil, and honey, and of all the increase of the field; and the tithe of all things brought they in abundantly.
+48. 2 Chronicles 32:28
+   Before: Storehouses also for the increase of corn, and wine, and oil; and stalls for all manner of beasts, and cotes for flocks.
+   After:  Storehouses also for the increase of grain, and wine, and oil; and stalls for all manner of beasts, and cotes for flocks.
+49. Nehemiah 5:2
+   Before: For there were that said, We, our sons, and our daughters, are many: therefore we take up corn for them, that we may eat, and live.
+   After:  For there were that said, We, our sons, and our daughters, are many: therefore we take up grain for them, that we may eat, and live.
+50. Nehemiah 5:3
+   Before: Some also there were that said, We have mortgaged our lands, vineyards, and houses, that we might buy corn, because of the dearth.
+   After:  Some also there were that said, We have mortgaged our lands, vineyards, and houses, that we might buy grain, because of the dearth.
+51. Nehemiah 5:10
+   Before: I likewise, and my brethren, and my servants, might exact of them money and corn: I pray you, let us leave off this usury.
+   After:  I likewise, and my brethren, and my servants, might exact of them money and grain: I pray you, let us leave off this usury.
+52. Nehemiah 5:11
+   Before: Restore, I pray you, to them, even this day, their lands, their vineyards, their oliveyards, and their houses, also the hundredth part of the money, and of the corn, the wine, and the oil, that ye exact of them.
+   After:  Restore, I pray you, to them, even this day, their lands, their vineyards, their oliveyards, and their houses, also the hundredth part of the money, and of the grain, the wine, and the oil, that ye exact of them.
+53. Nehemiah 10:39
+   Before: For the children of Israel and the children of Levi shall bring the offering of the corn, of the new wine, and the oil, unto the chambers, where are the vessels of the sanctuary, and the priests that minister, and the porters, and the singers: and we will not forsake the house of our God.
+   After:  For the children of Israel and the children of Levi shall bring the offering of the grain, of the new wine, and the oil, unto the chambers, where are the vessels of the sanctuary, and the priests that minister, and the porters, and the singers: and we will not forsake the house of our God.
+54. Nehemiah 13:5
+   Before: And he had prepared for him a great chamber, where aforetime they laid the meat offerings, the frankincense, and the vessels, and the tithes of the corn, the new wine, and the oil, which was commanded to be given to the Levites, and the singers, and the porters; and the offerings of the priests.
+   After:  And he had prepared for him a great chamber, where aforetime they laid the meat offerings, the frankincense, and the vessels, and the tithes of the grain, the new wine, and the oil, which was commanded to be given to the Levites, and the singers, and the porters; and the offerings of the priests.
+55. Nehemiah 13:12
+   Before: Then brought all Judah the tithe of the corn and the new wine and the oil unto the treasuries.
+   After:  Then brought all Judah the tithe of the grain and the new wine and the oil unto the treasuries.
+56. Job 5:26
+   Before: Thou shalt come to thy grave in a full age, like as a shock of corn cometh in in his season.
+   After:  Thou shalt come to thy grave in a full age, like as a shock of grain cometh in in his season.
+57. Job 24:6
+   Before: They reap every one his corn in the field: and they gather the vintage of the wicked.
+   After:  They reap every one his grain in the field: and they gather the vintage of the wicked.
+58. Job 24:24
+   Before: They are exalted for a little while, but are gone and brought low; they are taken out of the way as all other, and cut off as the tops of the ears of corn.
+   After:  They are exalted for a little while, but are gone and brought low; they are taken out of the way as all other, and cut off as the tops of the ears of grain.
+59. Job 39:4
+   Before: Their young ones are in good liking, they grow up with corn; they go forth, and return not unto them.
+   After:  Their young ones are in good liking, they grow up with grain; they go forth, and return not unto them.
+60. Psalms 4:7
+   Before: Thou hast put gladness in my heart, more than in the time that their corn and their wine increased.
+   After:  Thou hast put gladness in my heart, more than in the time that their grain and their wine increased.
+61. Psalms 65:9
+   Before: Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, which is full of water: thou preparest them corn, when thou hast so provided for it.
+   After:  Thou visitest the earth, and waterest it: thou greatly enrichest it with the river of God, which is full of water: thou preparest them grain, when thou hast so provided for it.
+62. Psalms 65:13
+   Before: The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing.
+   After:  The pastures are clothed with flocks; the valleys also are covered over with grain; they shout for joy, they also sing.
+63. Psalms 72:16
+   Before: There shall be an handful of corn in the earth upon the top of the mountains; the fruit thereof shall shake like Lebanon: and they of the city shall flourish like grass of the earth.
+   After:  There shall be an handful of grain in the earth upon the top of the mountains; the fruit thereof shall shake like Lebanon: and they of the city shall flourish like grass of the earth.
+64. Psalms 78:24
+   Before: And had rained down manna upon them to eat, and had given them of the corn of heaven.
+   After:  And had rained down manna upon them to eat, and had given them of the grain of heaven.
+65. Proverbs 11:26
+   Before: He that withholdeth corn, the people shall curse him: but blessing shall be upon the head of him that selleth it.
+   After:  He that withholdeth grain, the people shall curse him: but blessing shall be upon the head of him that selleth it.
+66. Isaiah 17:5
+   Before: And it shall be as when the harvestman gathereth the corn, and reapeth the ears with his arm; and it shall be as he that gathereth ears in the valley of Rephaim.
+   After:  And it shall be as when the harvestman gathereth the grain, and reapeth the ears with his arm; and it shall be as he that gathereth ears in the valley of Rephaim.
+67. Isaiah 21:10
+   Before: O my threshing, and the corn of my floor: that which I have heard of the LORD of hosts, the God of Israel, have I declared unto you.
+   After:  O my threshing, and the grain of my floor: that which I have heard of the LORD of hosts, the God of Israel, have I declared unto you.
+68. Isaiah 28:28
+   Before: Bread corn is bruised; because he will not ever be threshing it, nor break it with the wheel of his cart, nor bruise it with his horsemen.
+   After:  Bread grain is bruised; because he will not ever be threshing it, nor break it with the wheel of his cart, nor bruise it with his horsemen.
+69. Isaiah 36:17
+   Before: Until I come and take you away to a land like your own land, a land of corn and wine, a land of bread and vineyards.
+   After:  Until I come and take you away to a land like your own land, a land of grain and wine, a land of bread and vineyards.
+70. Isaiah 37:27
+   Before: Therefore their inhabitants were of small power, they were dismayed and confounded: they were as the grass of the field, and as the green herb, as the grass on the housetops, and as corn blasted before it be grown up.
+   After:  Therefore their inhabitants were of small power, they were dismayed and confounded: they were as the grass of the field, and as the green herb, as the grass on the housetops, and as grain blasted before it be grown up.
+71. Isaiah 62:8
+   Before: The LORD hath sworn by his right hand, and by the arm of his strength, Surely I will no more give thy corn to be meat for thine enemies; and the sons of the stranger shall not drink thy wine, for the which thou hast laboured:
+   After:  The LORD hath sworn by his right hand, and by the arm of his strength, Surely I will no more give thy grain to be meat for thine enemies; and the sons of the stranger shall not drink thy wine, for the which thou hast laboured:
+72. Lamentations 2:12
+   Before: They say to their mothers, Where is corn and wine? when they swooned as the wounded in the streets of the city, when their soul was poured out into their mothers' bosom.
+   After:  They say to their mothers, Where is grain and wine? when they swooned as the wounded in the streets of the city, when their soul was poured out into their mothers' bosom.
+73. Ezekiel 36:29
+   Before: I will also save you from all your uncleannesses: and I will call for the corn, and will increase it, and lay no famine upon you.
+   After:  I will also save you from all your uncleannesses: and I will call for the grain, and will increase it, and lay no famine upon you.
+74. Hosea 2:8
+   Before: For she did not know that I gave her corn, and wine, and oil, and multiplied her silver and gold, which they prepared for Baal.
+   After:  For she did not know that I gave her grain, and wine, and oil, and multiplied her silver and gold, which they prepared for Baal.
+75. Hosea 2:9
+   Before: Therefore will I return, and take away my corn in the time thereof, and my wine in the season thereof, and will recover my wool and my flax given to cover her nakedness.
+   After:  Therefore will I return, and take away my grain in the time thereof, and my wine in the season thereof, and will recover my wool and my flax given to cover her nakedness.
+76. Hosea 2:22
+   Before: And the earth shall hear the corn, and the wine, and the oil; and they shall hear Jezreel.
+   After:  And the earth shall hear the grain, and the wine, and the oil; and they shall hear Jezreel.
+77. Hosea 7:14
+   Before: And they have not cried unto me with their heart, when they howled upon their beds: they assemble themselves for corn and wine, and they rebel against me.
+   After:  And they have not cried unto me with their heart, when they howled upon their beds: they assemble themselves for grain and wine, and they rebel against me.
+78. Hosea 10:11
+   Before: And Ephraim is as an heifer that is taught, and loveth to tread out the corn; but I passed over upon her fair neck: I will make Ephraim to ride; Judah shall plow, and Jacob shall break his clods.
+   After:  And Ephraim is as an heifer that is taught, and loveth to tread out the grain; but I passed over upon her fair neck: I will make Ephraim to ride; Judah shall plow, and Jacob shall break his clods.
+79. Hosea 14:7
+   Before: They that dwell under his shadow shall return; they shall revive as the corn, and grow as the vine: the scent thereof shall be as the wine of Lebanon.
+   After:  They that dwell under his shadow shall return; they shall revive as the grain, and grow as the vine: the scent thereof shall be as the wine of Lebanon.
+80. Joel 1:10
+   Before: The field is wasted, the land mourneth; for the corn is wasted: the new wine is dried up, the oil languisheth.
+   After:  The field is wasted, the land mourneth; for the grain is wasted: the new wine is dried up, the oil languisheth.
+81. Joel 1:17
+   Before: The seed is rotten under their clods, the garners are laid desolate, the barns are broken down; for the corn is withered.
+   After:  The seed is rotten under their clods, the garners are laid desolate, the barns are broken down; for the grain is withered.
+82. Joel 2:19
+   Before: Yea, the LORD will answer and say unto his people, Behold, I will send you corn, and wine, and oil, and ye shall be satisfied therewith: and I will no more make you a reproach among the heathen:
+   After:  Yea, the LORD will answer and say unto his people, Behold, I will send you grain, and wine, and oil, and ye shall be satisfied therewith: and I will no more make you a reproach among the heathen:
+83. Amos 8:5
+   Before: Saying, When will the new moon be gone, that we may sell corn? and the sabbath, that we may set forth wheat, making the ephah small, and the shekel great, and falsifying the balances by deceit?
+   After:  Saying, When will the new moon be gone, that we may sell grain? and the sabbath, that we may set forth wheat, making the ephah small, and the shekel great, and falsifying the balances by deceit?
+84. Amos 9:9
+   Before: For, lo, I will command, and I will sift the house of Israel among all nations, like as corn is sifted in a sieve, yet shall not the least grain fall upon the earth.
+   After:  For, lo, I will command, and I will sift the house of Israel among all nations, like as grain is sifted in a sieve, yet shall not the least grain fall upon the earth.
+85. Haggai 1:11
+   Before: And I called for a drought upon the land, and upon the mountains, and upon the corn, and upon the new wine, and upon the oil, and upon that which the ground bringeth forth, and upon men, and upon cattle, and upon all the labour of the hands.
+   After:  And I called for a drought upon the land, and upon the mountains, and upon the grain, and upon the new wine, and upon the oil, and upon that which the ground bringeth forth, and upon men, and upon cattle, and upon all the labour of the hands.
+86. Zechariah 9:17
+   Before: For how great is his goodness, and how great is his beauty! corn shall make the young men cheerful, and new wine the maids.
+   After:  For how great is his goodness, and how great is his beauty! grain shall make the young men cheerful, and new wine the maids.
+87. Matthew 12:1
+   Before: At that time Jesus went on the sabbath day through the corn; and his disciples were an hungred, and began to pluck the ears of corn, and to eat.
+   After:  At that time Jesus went on the sabbath day through the grain; and his disciples were an hungred, and began to pluck the ears of grain, and to eat.
+88. Mark 2:23
+   Before: And it came to pass, that he went through the corn fields on the sabbath day; and his disciples began, as they went, to pluck the ears of corn.
+   After:  And it came to pass, that he went through the grain fields on the sabbath day; and his disciples began, as they went, to pluck the ears of grain.
+89. Mark 4:28
+   Before: For the earth bringeth forth fruit of herself; first the blade, then the ear, after that the full corn in the ear.
+   After:  For the earth bringeth forth fruit of herself; first the blade, then the ear, after that the full grain in the ear.
+90. Luke 6:1
+   Before: And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, rubbing them in their hands.
+   After:  And it came to pass on the second sabbath after the first, that he went through the grain fields; and his disciples plucked the ears of grain, and did eat, rubbing them in their hands.
+91. John 12:24
+   Before: Verily, verily, I say unto you, Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit.
+   After:  Verily, verily, I say unto you, Except a grain of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit.
+92. Acts 7:12
+   Before: But when Jacob heard that there was corn in Egypt, he sent out our fathers first.
+   After:  But when Jacob heard that there was grain in Egypt, he sent out our fathers first.
+93. 1 Corinthians 9:9
+   Before: For it is written in the law of Moses, Thou shalt not muzzle the mouth of the ox that treadeth out the corn. Doth God take care for oxen?
+   After:  For it is written in the law of Moses, Thou shalt not muzzle the mouth of the ox that treadeth out the grain. Doth God take care for oxen?
+94. 1 Timothy 5:18
+   Before: For the scripture saith, Thou shalt not muzzle the ox that treadeth out the corn. And, The labourer is worthy of his reward.
+   After:  For the scripture saith, Thou shalt not muzzle the ox that treadeth out the grain. And, The labourer is worthy of his reward.
+
+Unicorn verse samples
+1. Numbers 23:22
+   Before: God brought them out of Egypt; he hath as it were the strength of an unicorn.
+   After:  God brought them out of Egypt; he hath as it were the strength of a wild ox.
+2. Numbers 24:8
+   Before: God brought him forth out of Egypt; he hath as it were the strength of an unicorn: he shall eat up the nations his enemies, and shall break their bones, and pierce them through with his arrows.
+   After:  God brought him forth out of Egypt; he hath as it were the strength of a wild ox: he shall eat up the nations his enemies, and shall break their bones, and pierce them through with his arrows.
+3. Job 39:9
+   Before: Will the unicorn be willing to serve thee, or abide by thy crib?
+   After:  Will the wild ox be willing to serve thee, or abide by thy crib?
+4. Job 39:10
+   Before: Canst thou bind the unicorn with his band in the furrow? or will he harrow the valleys after thee?
+   After:  Canst thou bind the wild ox with his band in the furrow? or will he harrow the valleys after thee?
+5. Psalms 29:6
+   Before: He maketh them also to skip like a calf; Lebanon and Sirion like a young unicorn.
+   After:  He maketh them also to skip like a calf; Lebanon and Sirion like a young wild ox.
+6. Psalms 92:10
+   Before: But my horn shalt thou exalt like the horn of an unicorn: I shall be anointed with fresh oil.
+   After:  But my horn shalt thou exalt like the horn of a wild ox: I shall be anointed with fresh oil.
 
 === SUMMARY ===
 RESULT: PASS

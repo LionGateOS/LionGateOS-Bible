@@ -118,6 +118,11 @@ def save_json(path, data):
 def exact_word_replace(text, old, new):
     return re.sub(rf"(?<![A-Za-z]){re.escape(old)}(?![A-Za-z])", new, text)
 
+def exact_word_replace_variants(text, replacements):
+    for old, new in replacements:
+        text = exact_word_replace(text, old, new)
+    return text
+
 def count_word(text, word):
     return len(re.findall(rf"(?<![A-Za-z]){re.escape(word)}(?![A-Za-z])", text))
 
@@ -134,6 +139,16 @@ def count_all(data):
         "Easter": count_word(text, "Easter"),
         "conversation": count_word(text, "conversation"),
         "Conversation": count_word(text, "Conversation"),
+        "prevent": count_word(text, "prevent"),
+        "Prevent": count_word(text, "Prevent"),
+        "charity": count_word(text, "charity"),
+        "Charity": count_word(text, "Charity"),
+        "devils": count_word(text, "devils"),
+        "Devils": count_word(text, "Devils"),
+        "corn": count_word(text, "corn"),
+        "Corn": count_word(text, "Corn"),
+        "unicorn": count_word(text, "unicorn"),
+        "Unicorn": count_word(text, "Unicorn"),
     }
 
 def structure_counts(data):
@@ -204,6 +219,11 @@ def collect_targets(data):
         "scapegoat": [],
         "easter": [],
         "conversation": [],
+        "prevent": [],
+        "charity": [],
+        "devils": [],
+        "corn": [],
+        "unicorn": [],
     }
 
     for bi, book in enumerate(data):
@@ -228,6 +248,21 @@ def collect_targets(data):
 
                 if count_word(verse, "conversation") or count_word(verse, "Conversation"):
                     targets["conversation"].append((bi, ci, vi, ref, verse))
+
+                if count_word(verse, "prevent") or count_word(verse, "Prevent"):
+                    targets["prevent"].append((bi, ci, vi, ref, verse))
+
+                if count_word(verse, "charity") or count_word(verse, "Charity"):
+                    targets["charity"].append((bi, ci, vi, ref, verse))
+
+                if count_word(verse, "devils") or count_word(verse, "Devils"):
+                    targets["devils"].append((bi, ci, vi, ref, verse))
+
+                if count_word(verse, "corn") or count_word(verse, "Corn"):
+                    targets["corn"].append((bi, ci, vi, ref, verse))
+
+                if count_word(verse, "unicorn") or count_word(verse, "Unicorn"):
+                    targets["unicorn"].append((bi, ci, vi, ref, verse))
 
     return targets
 
@@ -268,6 +303,22 @@ def transform_verse(text, abbrev, chapter_num, verse_num):
 
     text = exact_word_replace(text, "Conversation", "Conduct")
     text = exact_word_replace(text, "conversation", "conduct")
+    text = exact_word_replace_variants(
+        text,
+        [
+            ("Prevent", "Precede"),
+            ("prevent", "precede"),
+            ("Charity", "Love"),
+            ("charity", "love"),
+            ("Devils", "Demons"),
+            ("devils", "demons"),
+            ("Corn", "Grain"),
+            ("corn", "grain"),
+            ("Unicorn", "Wild ox"),
+            ("unicorn", "wild ox"),
+        ],
+    )
+    text = text.replace("an wild ox", "a wild ox")
 
     for old, new in VERSE_REPLACEMENTS_BY_REF.get(key, []):
         text = text.replace(old, new)
@@ -341,13 +392,33 @@ def main():
         and remaining["Easter"] == 0
         and remaining["conversation"] == 0
         and remaining["Conversation"] == 0
+        and remaining["prevent"] == 0
+        and remaining["Prevent"] == 0
+        and remaining["charity"] == 0
+        and remaining["Charity"] == 0
+        and remaining["devils"] == 0
+        and remaining["Devils"] == 0
+        and remaining["corn"] == 0
+        and remaining["Corn"] == 0
+        and remaining["unicorn"] == 0
+        and remaining["Unicorn"] == 0
         and len(targets["ghost"]) == 19
         and len(targets["adoption"]) == 5
         and len(targets["scapegoat"]) == 3
         and len(targets["easter"]) == 1
         and len(targets["conversation"]) == 20
+        and len(targets["prevent"]) == 7
+        and len(targets["charity"]) == 24
+        and len(targets["devils"]) == 48
+        and len(targets["corn"]) == 94
+        and len(targets["unicorn"]) == 6
         and original_counts["scapegoat"] == 4
         and (original_counts["conversation"] + original_counts["Conversation"]) == 20
+        and (original_counts["prevent"] + original_counts["Prevent"]) == 7
+        and (original_counts["charity"] + original_counts["Charity"]) == 28
+        and (original_counts["devils"] + original_counts["Devils"]) == 55
+        and (original_counts["corn"] + original_counts["Corn"]) == 102
+        and (original_counts["unicorn"] + original_counts["Unicorn"]) == 6
         and luke_after == luke_expected
         and "Passover" in acts_12_4_after
         and "Easter" not in acts_12_4_after
@@ -384,6 +455,11 @@ def main():
     report.append(f"  Scapegoat verses: {len(targets['scapegoat'])} with {original_counts['scapegoat']} original occurrences")
     report.append(f"  Easter verses: {len(targets['easter'])}")
     report.append(f"  Conversation verses: {len(targets['conversation'])} with {original_counts['conversation'] + original_counts['Conversation']} original occurrences")
+    report.append(f"  Prevent verses: {len(targets['prevent'])} with {original_counts['prevent'] + original_counts['Prevent']} original occurrences")
+    report.append(f"  Charity verses: {len(targets['charity'])} with {original_counts['charity'] + original_counts['Charity']} original occurrences")
+    report.append(f"  Devils verses: {len(targets['devils'])} with {original_counts['devils'] + original_counts['Devils']} original occurrences")
+    report.append(f"  Corn verses: {len(targets['corn'])} with {original_counts['corn'] + original_counts['Corn']} original occurrences")
+    report.append(f"  Unicorn verses: {len(targets['unicorn'])} with {original_counts['unicorn'] + original_counts['Unicorn']} original occurrences")
     report.append(f"  Luke 23:46 exact: {luke_after == luke_expected}")
     report.append(f"  Acts 12:4 has Passover and not Easter: {'Passover' in acts_12_4_after and 'Easter' not in acts_12_4_after}")
     report.append(f"  Leviticus 16:8 has Azazel: {'Azazel' in lev_16_8_after}")
@@ -394,6 +470,11 @@ def main():
     add_samples(report, "Scapegoat verse samples", targets["scapegoat"], modified)
     add_samples(report, "Easter verse sample", targets["easter"], modified)
     add_samples(report, "Conversation verse samples", targets["conversation"], modified)
+    add_samples(report, "Prevent verse samples", targets["prevent"], modified)
+    add_samples(report, "Charity verse samples", targets["charity"], modified)
+    add_samples(report, "Devils verse samples", targets["devils"], modified)
+    add_samples(report, "Corn verse samples", targets["corn"], modified)
+    add_samples(report, "Unicorn verse samples", targets["unicorn"], modified)
 
     report.append("")
     report.append("=== SUMMARY ===")
@@ -419,6 +500,16 @@ def main():
     print(f"Easter verses found: {len(targets['easter'])}")
     print(f"Conversation verses found: {len(targets['conversation'])}")
     print(f"Conversation original occurrences: {original_counts['conversation'] + original_counts['Conversation']}")
+    print(f"Prevent verses found: {len(targets['prevent'])}")
+    print(f"Prevent original occurrences: {original_counts['prevent'] + original_counts['Prevent']}")
+    print(f"Charity verses found: {len(targets['charity'])}")
+    print(f"Charity original occurrences: {original_counts['charity'] + original_counts['Charity']}")
+    print(f"Devils verses found: {len(targets['devils'])}")
+    print(f"Devils original occurrences: {original_counts['devils'] + original_counts['Devils']}")
+    print(f"Corn verses found: {len(targets['corn'])}")
+    print(f"Corn original occurrences: {original_counts['corn'] + original_counts['Corn']}")
+    print(f"Unicorn verses found: {len(targets['unicorn'])}")
+    print(f"Unicorn original occurrences: {original_counts['unicorn'] + original_counts['Unicorn']}")
     print(f"Remaining target counts: {remaining}")
     print(f"Luke 23:46 exact: {luke_after == luke_expected}")
     print(f"Acts 12:4 has Passover and not Easter: {'Passover' in acts_12_4_after and 'Easter' not in acts_12_4_after}")

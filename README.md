@@ -19,9 +19,9 @@ source code or search through the repository to determine what is included.
 | Directly aligned Strong's verses | 26,926 |
 | Safe fallback verses | 4,174 |
 | Missing verses | 0 |
-| Custom KJV text operations | 167 |
-| Unique verses affected by custom revisions | 142 |
-| Documented custom revision rules | 22 |
+| Custom KJV text operations | 368 |
+| Unique verses affected by custom revisions | 320 |
+| Documented custom revision rules | 28 |
 
 ## The three editions
 
@@ -40,8 +40,8 @@ The LionGateOS revised KJV with:
 
 - The same Strong's study support
 - Words spoken by Jesus displayed in royal purple
-- 167 documented text operations
-- 142 unique affected verses
+- 368 documented text operations
+- 320 unique affected verses
 - A record of every revision rule and its purpose
 
 ### 3. LionGateOS Custom KJV for e-Sword
@@ -75,16 +75,16 @@ See [Strong's Data Explained](docs/STRONGS_DATA.md).
 
 ## What changed in the LionGateOS Custom KJV?
 
-The custom edition contains 167 individual text operations in 142 unique
+The custom edition contains 368 individual text operations in 320 unique
 verses.
 
 | Testament | Text operations | Unique verses |
 |---|---:|---:|
-| Old Testament | 30 | 18 |
-| New Testament | 137 | 124 |
-| **Total** | **167** | **142** |
+| Old Testament | 140 | 120 |
+| New Testament | 228 | 200 |
+| **Total** | **368** | **320** |
 
-The number 167 includes the main wording replacements and necessary companion
+The number 368 includes the main wording replacements and necessary companion
 changes such as pronouns, articles, and capitalization.
 
 Major wording revisions include:
@@ -106,6 +106,11 @@ Major wording revisions include:
 | goodness | goodness and generosity | 1 |
 | Meekness | Meekness and humility | 1 |
 | temperance | self-control | 1 |
+| prevent | precede | 7 |
+| charity | love | 28 |
+| devils | demons | 55 |
+| corn | grain | 102 |
+| unicorn | wild ox | 6 |
 
 Additional operations adjust nearby grammar or capitalization so the revised
 phrases remain readable and grammatically correct.

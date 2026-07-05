@@ -5,14 +5,14 @@
 The LionGateOS Custom KJV preserves the complete 66-book, 31,100-verse
 structure of the Standard KJV.
 
-The custom edition applies 167 documented text operations across 142 unique
+The custom edition applies 368 documented text operations across 320 unique
 verses.
 
 | Testament | Text operations | Unique verses |
 |---|---:|---:|
-| Old Testament | 30 | 18 |
-| New Testament | 137 | 124 |
-| **Total** | **167** | **142** |
+| Old Testament | 140 | 120 |
+| New Testament | 228 | 200 |
+| **Total** | **368** | **320** |
 
 A text operation means one recorded replacement or adjustment. Several
 operations can occur in the same verse.
@@ -46,7 +46,13 @@ a noun change and a nearby pronoun change.
 | R020 | goodness | goodness and generosity | 0 | 1 | 1 |
 | R021 | Meekness | Meekness and humility | 0 | 1 | 1 |
 | R022 | temperance | self-control | 0 | 1 | 1 |
-| **Total** |  |  | **30** | **137** | **167** |
+| R023 | prevent | precede | 6 | 1 | 7 |
+| R024 | charity | love | 0 | 28 | 28 |
+| R025 | devils | demons | 4 | 51 | 55 |
+| R026 | corn | grain | 91 | 11 | 102 |
+| R027 | unicorn | wild ox | 6 | 0 | 6 |
+| R028 | an | a | 3 | 0 | 3 |
+| **Total** |  |  | **140** | **228** | **368** |
 
 ## Explanation of the rules
 
@@ -113,18 +119,29 @@ pass:
 - Galatians 5:23: “Meekness” becomes “Meekness and humility”
 - Galatians 5:23: “temperance” becomes “self-control”
 
+### Additional global modernization rules
+
+Five further controlled global rules are now documented:
+
+- `prevent` becomes `precede` in 7 applications
+- `charity` becomes `love` in 28 applications
+- `devils` becomes `demons` in 55 applications
+- `corn` becomes `grain` in 102 applications
+- `unicorn` becomes `wild ox` in 6 applications
+
 ## Important counting note
 
-The 167 total is not 167 different theological rewrites.
+The 368 total is not 368 different theological rewrites.
 
 It consists of:
 
 - primary wording replacements
 - necessary pronoun changes
-- one article adjustment
+- controlled article adjustments
 - one capitalization adjustment
+- controlled phrase expansions where the modern wording needs more than one token
 
-There are 142 unique affected verses because some verses contain more than one
+There are 320 unique affected verses because some verses contain more than one
 operation.
 
 ## Authoritative records

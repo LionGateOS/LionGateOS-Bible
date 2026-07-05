@@ -4,7 +4,7 @@
   "standardAsset": "assets/bible/en_kjv.json",
   "customAsset": "assets/bible/kjv_modified.json",
   "generator": "scripts/bible/normalize_kjv_custom.py",
-  "generatedDate": "2026-06-21",
+  "generatedDate": "2026-07-05",
   "rules": [
     {
       "ruleId": "R001",
@@ -248,13 +248,80 @@
       "tokenCountAfter": 1,
       "applicationCount": 1,
       "references": ["Galatians 5:23"]
+    },
+    {
+      "ruleId": "R023",
+      "description": "prevent → precede (1:1 word swap)",
+      "standardToken": "prevent",
+      "customToken": "precede",
+      "caseSensitive": true,
+      "tokenCountBefore": 1,
+      "tokenCountAfter": 1,
+      "applicationCount": 7,
+      "references": ["Job 3:12","Psalms 59:10","Psalms 79:8","Psalms 88:13","Psalms 119:148","Amos 9:10","1 Thessalonians 4:15"]
+    },
+    {
+      "ruleId": "R024",
+      "description": "charity → love (1:1 word swap)",
+      "standardToken": "charity",
+      "customToken": "love",
+      "caseSensitive": true,
+      "tokenCountBefore": 1,
+      "tokenCountAfter": 1,
+      "applicationCount": 28,
+      "references": ["1 Corinthians 8:1","1 Corinthians 13:1","1 Corinthians 13:2","1 Corinthians 13:3","1 Corinthians 13:4","1 Corinthians 13:8","1 Corinthians 13:13","1 Corinthians 14:1","1 Corinthians 16:14","Colossians 3:14","1 Thessalonians 3:6","2 Thessalonians 1:3","1 Timothy 1:5","1 Timothy 2:15","1 Timothy 4:12","2 Timothy 2:22","2 Timothy 3:10","Titus 2:2","1 Peter 4:8","1 Peter 5:14","2 Peter 1:7","3 John 1:6","Jude 1:12","Revelation 2:19"]
+    },
+    {
+      "ruleId": "R025",
+      "description": "devils → demons (1:1 word swap)",
+      "standardToken": "devils",
+      "customToken": "demons",
+      "caseSensitive": true,
+      "tokenCountBefore": 1,
+      "tokenCountAfter": 1,
+      "applicationCount": 55,
+      "references": ["Leviticus 17:7","Deuteronomy 32:17","2 Chronicles 11:15","Psalms 106:37","Matthew 4:24","Matthew 7:22","Matthew 8:16","Matthew 8:28","Matthew 8:31","Matthew 8:33","Matthew 9:34","Matthew 10:8","Matthew 12:24","Matthew 12:27","Matthew 12:28","Mark 1:32","Mark 1:34","Mark 1:39","Mark 3:15","Mark 3:22","Mark 5:12","Mark 6:13","Mark 9:38","Mark 16:9","Mark 16:17","Luke 4:41","Luke 8:2","Luke 8:27","Luke 8:30","Luke 8:33","Luke 8:35","Luke 8:36","Luke 8:38","Luke 9:1","Luke 9:49","Luke 10:17","Luke 11:15","Luke 11:18","Luke 11:19","Luke 11:20","Luke 13:32","1 Corinthians 10:20","1 Corinthians 10:21","1 Timothy 4:1","James 2:19","Revelation 9:20","Revelation 16:14","Revelation 18:2"]
+    },
+    {
+      "ruleId": "R026",
+      "description": "corn → grain (1:1 word swap)",
+      "standardToken": "corn",
+      "customToken": "grain",
+      "caseSensitive": true,
+      "tokenCountBefore": 1,
+      "tokenCountAfter": 1,
+      "applicationCount": 102,
+      "references": ["Genesis 27:28","Genesis 27:37","Genesis 41:5","Genesis 41:35","Genesis 41:49","Genesis 41:57","Genesis 42:1","Genesis 42:2","Genesis 42:3","Genesis 42:5","Genesis 42:19","Genesis 42:25","Genesis 42:26","Genesis 43:2","Genesis 44:2","Genesis 45:23","Genesis 47:14","Exodus 22:6","Leviticus 2:14","Leviticus 2:16","Leviticus 23:14","Numbers 18:27","Deuteronomy 7:13","Deuteronomy 11:14","Deuteronomy 12:17","Deuteronomy 14:23","Deuteronomy 16:9","Deuteronomy 16:13","Deuteronomy 18:4","Deuteronomy 23:25","Deuteronomy 25:4","Deuteronomy 28:51","Deuteronomy 33:28","Joshua 5:11","Joshua 5:12","Judges 15:5","Ruth 2:2","Ruth 2:14","Ruth 3:7","1 Samuel 17:17","1 Samuel 25:18","2 Samuel 17:19","2 Samuel 17:28","2 Kings 4:42","2 Kings 18:32","2 Kings 19:26","2 Chronicles 31:5","2 Chronicles 32:28","Nehemiah 5:2","Nehemiah 5:3","Nehemiah 5:10","Nehemiah 5:11","Nehemiah 10:39","Nehemiah 13:5","Nehemiah 13:12","Job 5:26","Job 24:6","Job 24:24","Job 39:4","Psalms 4:7","Psalms 65:9","Psalms 65:13","Psalms 72:16","Psalms 78:24","Proverbs 11:26","Isaiah 17:5","Isaiah 21:10","Isaiah 28:28","Isaiah 36:17","Isaiah 37:27","Isaiah 62:8","Lamentations 2:12","Ezekiel 36:29","Hosea 2:8","Hosea 2:9","Hosea 2:22","Hosea 7:14","Hosea 10:11","Hosea 14:7","Joel 1:10","Joel 1:17","Joel 2:19","Amos 8:5","Amos 9:9","Haggai 1:11","Zechariah 9:17","Matthew 12:1","Mark 2:23","Mark 4:28","Luke 6:1","John 12:24","Acts 7:12","1 Corinthians 9:9","1 Timothy 5:18"]
+    },
+    {
+      "ruleId": "R027",
+      "description": "unicorn → wild ox (phrase expansion, 1 token to 2 tokens)",
+      "standardToken": "unicorn",
+      "customPhrase": "wild ox",
+      "caseSensitive": true,
+      "tokenCountBefore": 1,
+      "tokenCountAfter": 2,
+      "applicationCount": 6,
+      "references": ["Numbers 23:22","Numbers 24:8","Job 39:9","Job 39:10","Psalms 29:6","Psalms 92:10"]
+    },
+    {
+      "ruleId": "R028",
+      "description": "an → a (article adjustment before 'wild ox' after the unicorn replacement)",
+      "standardToken": "an",
+      "customToken": "a",
+      "caseSensitive": true,
+      "contextCondition": "Applied only where the original KJV article 'an' directly preceded 'unicorn' and the controlled replacement changed the phrase to 'wild ox'.",
+      "tokenCountBefore": 1,
+      "tokenCountAfter": 1,
+      "applicationCount": 3,
+      "references": ["Numbers 23:22","Numbers 24:8","Psalms 92:10"]
     }
   ],
   "summary": {
-    "totalRules": 22,
-    "totalTransformations": 167,
+    "totalRules": 28,
+    "totalTransformations": 368,
     "totalStandardTokens": 790539,
-    "totalCustomTokens": 790546,
+    "totalCustomTokens": 790552,
     "tokenCountMatch": false,
     "unresolvedDecisions": []
   }
