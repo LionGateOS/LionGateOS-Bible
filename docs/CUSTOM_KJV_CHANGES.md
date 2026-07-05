@@ -5,14 +5,14 @@
 The LionGateOS Custom KJV preserves the complete 66-book, 31,100-verse
 structure of the Standard KJV.
 
-The custom edition applies 159 documented text operations across 137 unique
+The custom edition applies 167 documented text operations across 142 unique
 verses.
 
 | Testament | Text operations | Unique verses |
 |---|---:|---:|
-| Old Testament | 28 | 16 |
-| New Testament | 131 | 121 |
-| **Total** | **159** | **137** |
+| Old Testament | 30 | 18 |
+| New Testament | 137 | 124 |
+| **Total** | **167** | **142** |
 
 A text operation means one recorded replacement or adjustment. Several
 operations can occur in the same verse.
@@ -38,7 +38,15 @@ a noun change and a nearby pronoun change.
 | R014 | a | an | 1 | 0 | 1 |
 | R012 | Easter | Passover | 0 | 1 | 1 |
 | R013 | conversation | conduct | 2 | 18 | 20 |
-| **Total** |  |  | **28** | **131** | **159** |
+| R015 | was | became | 1 | 0 | 1 |
+| R016 | in his spirit | by his spirit | 1 | 0 | 1 |
+| R017 | hate not | love less than | 0 | 1 | 1 |
+| R018 | gentleness | kindness | 0 | 1 | 1 |
+| R019 | longsuffering | patience and mercy | 0 | 1 | 1 |
+| R020 | goodness | goodness and generosity | 0 | 1 | 1 |
+| R021 | Meekness | Meekness and humility | 0 | 1 | 1 |
+| R022 | temperance | self-control | 0 | 1 | 1 |
+| **Total** |  |  | **30** | **137** | **167** |
 
 ## Explanation of the rules
 
@@ -91,9 +99,23 @@ change is limited to this specific context and is not a global rule.
 This uses the present-day meaning of behavior or manner of life rather than
 the modern meaning of spoken discussion.
 
+### Verse-specific clarifying revisions
+
+Eight additional controlled verse-specific revisions are documented in this
+pass:
+
+- Genesis 1:2: “was” becomes “became”
+- Zechariah 7:12: “in his spirit” becomes “by his spirit”
+- Luke 14:26: “hate not” becomes “love less than”
+- Galatians 5:22: “longsuffering” becomes “patience and mercy”
+- Galatians 5:22: “gentleness” becomes “kindness”
+- Galatians 5:22: “goodness” becomes “goodness and generosity”
+- Galatians 5:23: “Meekness” becomes “Meekness and humility”
+- Galatians 5:23: “temperance” becomes “self-control”
+
 ## Important counting note
 
-The 159 total is not 159 different theological rewrites.
+The 167 total is not 167 different theological rewrites.
 
 It consists of:
 
@@ -102,7 +124,7 @@ It consists of:
 - one article adjustment
 - one capitalization adjustment
 
-There are 137 unique affected verses because some verses contain more than one
+There are 142 unique affected verses because some verses contain more than one
 operation.
 
 ## Authoritative records

@@ -1,25 +1,34 @@
-=== GrowDaily KJV Custom Revision Verification v2 ===
-Input file: /home/liongateos/growdaily/assets/bible/en_kjv.json
-Output file: /home/liongateos/growdaily/assets/bible/kjv_modified.json
+=== GrowDaily KJV Custom Revision Verification v3 ===
+Input file: /home/liongateos/LionGateOS-Bible/source/growdaily/assets/bible/en_kjv.json
+Output file: /home/liongateos/LionGateOS-Bible/source/growdaily/assets/bible/kjv_modified.json
 Input book count: 66
+Input chapter count: 1189
+Input verse count: 31100
 Output book count: 66
+Output chapter count: 1189
+Output verse count: 31100
 Output still has exactly 66 books: True
+Output still has exactly 1189 chapters: True
+Output still has exactly 31100 verses: True
+Verses still containing braces after cleanup: 0
 
 Original counts:
   Holy Ghost: 90
+  Ghost: 90
   ghost: 19
-  Satan: 59
+  Satan: 56
   adoption: 5
   Adoption: 0
-  scapegoat: 5
-  Easter: 2
-  conversation: 21
+  scapegoat: 4
+  Easter: 1
+  conversation: 20
   Conversation: 0
 
 Remaining counts after modification:
   Holy Ghost: 0
+  Ghost: 0
   ghost: 0
-  Satan: 0
+  Satan: 56
   adoption: 0
   Adoption: 0
   scapegoat: 0
@@ -30,45 +39,48 @@ Remaining counts after modification:
 Target groups:
   Ghost verses: 19
   Adoption verses: 5
-  Scapegoat verses: 3 with 5 original occurrences
+  Scapegoat verses: 3 with 4 original occurrences
   Easter verses: 1
-  Conversation verses: 20 with 21 original occurrences
+  Conversation verses: 20 with 20 original occurrences
   Luke 23:46 exact: True
+  Acts 12:4 has Passover and not Easter: True
+  Leviticus 16:8 has Azazel: True
+  Genesis 1 sample verses contain no braces: True
 
 Ghost verse samples
 1. Genesis 25:8
-   Before: Then Abraham gave up the ghost, and died in a good old age, an old man, and full {of years}; and was gathered to his people.
-   After:  Then Abraham gave up his spirit, and died in a good old age, an old man, and full {of years}; and was gathered to his people.
+   Before: Then Abraham gave up the ghost, and died in a good old age, an old man, and full of years; and was gathered to his people.
+   After:  Then Abraham gave up his spirit, and died in a good old age, an old man, and full of years; and was gathered to his people.
 2. Genesis 25:17
-   Before: And these {are} the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up the ghost and died; and was gathered unto his people.
-   After:  And these {are} the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up his spirit and died; and was gathered unto his people.
+   Before: And these are the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up the ghost and died; and was gathered unto his people.
+   After:  And these are the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up his spirit and died; and was gathered unto his people.
 3. Genesis 35:29
-   Before: And Isaac gave up the ghost, and died, and was gathered unto his people, {being} old and full of days: and his sons Esau and Jacob buried him.
-   After:  And Isaac gave up his spirit, and died, and was gathered unto his people, {being} old and full of days: and his sons Esau and Jacob buried him.
+   Before: And Isaac gave up the ghost, and died, and was gathered unto his people, being old and full of days: and his sons Esau and Jacob buried him.
+   After:  And Isaac gave up his spirit, and died, and was gathered unto his people, being old and full of days: and his sons Esau and Jacob buried him.
 4. Genesis 49:33
    Before: And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up the ghost, and was gathered unto his people.
    After:  And when Jacob had made an end of commanding his sons, he gathered up his feet into the bed, and yielded up his spirit, and was gathered unto his people.
 5. Job 3:11
-   Before: Why died I not from the womb? {why} did I {not} give up the ghost when I came out of the belly?
-   After:  Why died I not from the womb? {why} did I {not} give up my spirit when I came out of the belly?
+   Before: Why died I not from the womb? why did I not give up the ghost when I came out of the belly?
+   After:  Why died I not from the womb? why did I not give up my spirit when I came out of the belly?
 6. Job 10:18
    Before: Wherefore then hast thou brought me forth out of the womb? Oh that I had given up the ghost, and no eye had seen me!
    After:  Wherefore then hast thou brought me forth out of the womb? Oh that I had given up my spirit, and no eye had seen me!
 7. Job 11:20
-   Before: But the eyes of the wicked shall fail, and they shall not escape, and their hope {shall be as} the giving up of the ghost. {they shall...: Heb. flight shall perish from them} {the giving...: or, a puff of breath}
-   After:  But the eyes of the wicked shall fail, and they shall not escape, and their hope {shall be as} the giving up of the spirit. {they shall...: Heb. flight shall perish from them} {the giving...: or, a puff of breath}
+   Before: But the eyes of the wicked shall fail, and they shall not escape, and their hope shall be as the giving up of the ghost.
+   After:  But the eyes of the wicked shall fail, and they shall not escape, and their hope shall be as the giving up of the spirit.
 8. Job 13:19
-   Before: Who {is} he {that} will plead with me? for now, if I hold my tongue, I shall give up the ghost.
-   After:  Who {is} he {that} will plead with me? for now, if I hold my tongue, I shall give up my spirit.
+   Before: Who is he that will plead with me? for now, if I hold my tongue, I shall give up the ghost.
+   After:  Who is he that will plead with me? for now, if I hold my tongue, I shall give up my spirit.
 9. Job 14:10
-   Before: But man dieth, and wasteth away: yea, man giveth up the ghost, and where {is} he? {wasteth...: Heb. is weakened, or, cut off}
-   After:  But man dieth, and wasteth away: yea, man giveth up his spirit, and where {is} he? {wasteth...: Heb. is weakened, or, cut off}
+   Before: But man dieth, and wasteth away: yea, man giveth up the ghost, and where is he?
+   After:  But man dieth, and wasteth away: yea, man giveth up his spirit, and where is he?
 10. Jeremiah 15:9
-   Before: She that hath borne seven languisheth: she hath given up the ghost; her sun is gone down while {it was} yet day: she hath been ashamed and confounded: and the residue of them will I deliver to the sword before their enemies, saith the LORD.
-   After:  She that hath borne seven languisheth: she hath given up her spirit; her sun is gone down while {it was} yet day: she hath been ashamed and confounded: and the residue of them will I deliver to the sword before their enemies, saith the LORD.
+   Before: She that hath borne seven languisheth: she hath given up the ghost; her sun is gone down while it was yet day: she hath been ashamed and confounded: and the residue of them will I deliver to the sword before their enemies, saith the LORD.
+   After:  She that hath borne seven languisheth: she hath given up her spirit; her sun is gone down while it was yet day: she hath been ashamed and confounded: and the residue of them will I deliver to the sword before their enemies, saith the LORD.
 11. Lamentations 1:19
-   Before: I called for my lovers, {but} they deceived me: my priests and mine elders gave up the ghost in the city, while they sought their meat to relieve their souls.
-   After:  I called for my lovers, {but} they deceived me: my priests and mine elders gave up their spirit in the city, while they sought their meat to relieve their souls.
+   Before: I called for my lovers, but they deceived me: my priests and mine elders gave up the ghost in the city, while they sought their meat to relieve their souls.
+   After:  I called for my lovers, but they deceived me: my priests and mine elders gave up their spirit in the city, while they sought their meat to relieve their souls.
 12. Matthew 27:50
    Before: Jesus, when he had cried again with a loud voice, yielded up the ghost.
    After:  Jesus, when he had cried again with a loud voice, yielded up His Spirit.
@@ -88,8 +100,8 @@ Ghost verse samples
    Before: And Ananias hearing these words fell down, and gave up the ghost: and great fear came on all them that heard these things.
    After:  And Ananias hearing these words fell down, and gave up his spirit: and great fear came on all them that heard these things.
 18. Acts 5:10
-   Before: Then fell she down straightway at his feet, and yielded up the ghost: and the young men came in, and found her dead, and, carrying {her} forth, buried {her} by her husband.
-   After:  Then fell she down straightway at his feet, and yielded up her spirit: and the young men came in, and found her dead, and, carrying {her} forth, buried {her} by her husband.
+   Before: Then fell she down straightway at his feet, and yielded up the ghost: and the young men came in, and found her dead, and, carrying her forth, buried her by her husband.
+   After:  Then fell she down straightway at his feet, and yielded up her spirit: and the young men came in, and found her dead, and, carrying her forth, buried her by her husband.
 19. Acts 12:23
    Before: And immediately the angel of the Lord smote him, because he gave not God the glory: and he was eaten of worms, and gave up the ghost.
    After:  And immediately the angel of the Lord smote him, because he gave not God the glory: and he was eaten of worms, and gave up his spirit.
@@ -99,11 +111,11 @@ Adoption verse samples
    Before: For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father.
    After:  For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of sonship, whereby we cry, Abba, Father.
 2. Romans 8:23
-   Before: And not only {they}, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, {to wit}, the redemption of our body.
-   After:  And not only {they}, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the sonship, {to wit}, the redemption of our body.
+   Before: And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the adoption, to wit, the redemption of our body.
+   After:  And not only they, but ourselves also, which have the firstfruits of the Spirit, even we ourselves groan within ourselves, waiting for the sonship, to wit, the redemption of our body.
 3. Romans 9:4
-   Before: Who are Israelites; to whom {pertaineth} the adoption, and the glory, and the covenants, and the giving of the law, and the service {of God}, and the promises; {covenants: or, testaments}
-   After:  Who are Israelites; to whom {pertaineth} the sonship, and the glory, and the covenants, and the giving of the law, and the service {of God}, and the promises; {covenants: or, testaments}
+   Before: Who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;
+   After:  Who are Israelites; to whom pertaineth the sonship, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;
 4. Galatians 4:5
    Before: To redeem them that were under the law, that we might receive the adoption of sons.
    After:  To redeem them that were under the law, that we might receive the sonship of sons.
@@ -113,27 +125,27 @@ Adoption verse samples
 
 Scapegoat verse samples
 1. Leviticus 16:8
-   Before: And Aaron shall cast lots upon the two goats; one lot for the LORD, and the other lot for the scapegoat. {scapegoat: Heb. Azazel}
-   After:  And Aaron shall cast lots upon the two goats; one lot for the LORD, and the other lot for Azazel. {Heb. Azazel}
+   Before: And Aaron shall cast lots upon the two goats; one lot for the LORD, and the other lot for the scapegoat.
+   After:  And Aaron shall cast lots upon the two goats; one lot for the LORD, and the other lot for the Azazel.
 2. Leviticus 16:10
-   Before: But the goat, on which the lot fell to be the scapegoat, shall be presented alive before the LORD, to make an atonement with him, {and} to let him go for a scapegoat into the wilderness.
-   After:  But the goat, on which the lot fell to be Azazel, shall be presented alive before the LORD, to make an atonement with him, {and} to let him go for Azazel into the wilderness.
+   Before: But the goat, on which the lot fell to be the scapegoat, shall be presented alive before the LORD, to make an atonement with him, and to let him go for a scapegoat into the wilderness.
+   After:  But the goat, on which the lot fell to be the Azazel, shall be presented alive before the LORD, to make an atonement with him, and to let him go for an Azazel into the wilderness.
 3. Leviticus 16:26
    Before: And he that let go the goat for the scapegoat shall wash his clothes, and bathe his flesh in water, and afterward come into the camp.
-   After:  And he that let go the goat for Azazel shall wash his clothes, and bathe his flesh in water, and afterward come into the camp.
+   After:  And he that let go the goat for the Azazel shall wash his clothes, and bathe his flesh in water, and afterward come into the camp.
 
 Easter verse sample
 1. Acts 12:4
-   Before: And when he had apprehended him, he put {him} in prison, and delivered {him} to four quaternions of soldiers to keep him; intending after Easter to bring him forth to the people. {Easter: Gr. Passover} {quaternions: a file of four soldiers}
-   After:  And when he had apprehended him, he put {him} in prison, and delivered {him} to four quaternions of soldiers to keep him; intending after Passover to bring him forth to the people. {Gr. Passover} {quaternions: a file of four soldiers}
+   Before: And when he had apprehended him, he put him in prison, and delivered him to four quaternions of soldiers to keep him; intending after Easter to bring him forth to the people.
+   After:  And when he had apprehended him, he put him in prison, and delivered him to four quaternions of soldiers to keep him; intending after Passover to bring him forth to the people.
 
 Conversation verse samples
 1. Psalms 37:14
-   Before: The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, {and} to slay such as be of upright conversation. {such...: Heb. the upright of way}
-   After:  The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, {and} to slay such as be of upright conduct. {such...: Heb. the upright of way}
+   Before: The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, and to slay such as be of upright conversation.
+   After:  The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, and to slay such as be of upright conduct.
 2. Psalms 50:23
-   Before: Whoso offereth praise glorifieth me: and to him that ordereth {his} conversation {aright} will I shew the salvation of God. {that...: Heb. that disposeth his way}
-   After:  Whoso offereth praise glorifieth me: and to him that ordereth {his} conduct {aright} will I shew the salvation of God. {that...: Heb. that disposeth his way}
+   Before: Whoso offereth praise glorifieth me: and to him that ordereth his conversation aright will I shew the salvation of God.
+   After:  Whoso offereth praise glorifieth me: and to him that ordereth his conduct aright will I shew the salvation of God.
 3. 2 Corinthians 1:12
    Before: For our rejoicing is this, the testimony of our conscience, that in simplicity and godly sincerity, not with fleshly wisdom, but by the grace of God, we have had our conversation in the world, and more abundantly to you-ward.
    After:  For our rejoicing is this, the testimony of our conscience, that in simplicity and godly sincerity, not with fleshly wisdom, but by the grace of God, we have had our conduct in the world, and more abundantly to you-ward.
@@ -141,8 +153,8 @@ Conversation verse samples
    Before: For ye have heard of my conversation in time past in the Jews' religion, how that beyond measure I persecuted the church of God, and wasted it:
    After:  For ye have heard of my conduct in time past in the Jews' religion, how that beyond measure I persecuted the church of God, and wasted it:
 5. Ephesians 2:3
-   Before: Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others. {desires: Gr. wills}
-   After:  Among whom also we all had our conduct in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others. {desires: Gr. wills}
+   Before: Among whom also we all had our conversation in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.
+   After:  Among whom also we all had our conduct in times past in the lusts of our flesh, fulfilling the desires of the flesh and of the mind; and were by nature the children of wrath, even as others.
 6. Ephesians 4:22
    Before: That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;
    After:  That ye put off concerning the former conduct the old man, which is corrupt according to the deceitful lusts;
@@ -150,35 +162,35 @@ Conversation verse samples
    Before: Only let your conversation be as it becometh the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that ye stand fast in one spirit, with one mind striving together for the faith of the gospel;
    After:  Only let your conduct be as it becometh the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that ye stand fast in one spirit, with one mind striving together for the faith of the gospel;
 8. Philippians 3:20
-   Before: For our conversation is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ: {conversation...: or, we live or conduct ourselves as citizens of heaven, or, for obtaining heaven}
-   After:  For our conduct is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ: {conduct...: or, we live or conduct ourselves as citizens of heaven, or, for obtaining heaven}
+   Before: For our conversation is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ:
+   After:  For our conduct is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ:
 9. 1 Timothy 4:12
    Before: Let no man despise thy youth; but be thou an example of the believers, in word, in conversation, in charity, in spirit, in faith, in purity.
    After:  Let no man despise thy youth; but be thou an example of the believers, in word, in conduct, in charity, in spirit, in faith, in purity.
 10. Hebrews 13:5
-   Before: {Let your} conversation {be} without covetousness; {and be} content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.
-   After:  {Let your} conduct {be} without covetousness; {and be} content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.
+   Before: Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.
+   After:  Let your conduct be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.
 11. Hebrews 13:7
-   Before: Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of {their} conversation. {have the rule: or, are the guides}
-   After:  Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of {their} conduct. {have the rule: or, are the guides}
+   Before: Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of their conversation.
+   After:  Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of their conduct.
 12. James 3:13
-   Before: Who {is} a wise man and endued with knowledge among you? let him shew out of a good conversation his works with meekness of wisdom.
-   After:  Who {is} a wise man and endued with knowledge among you? let him shew out of a good conduct his works with meekness of wisdom.
+   Before: Who is a wise man and endued with knowledge among you? let him shew out of a good conversation his works with meekness of wisdom.
+   After:  Who is a wise man and endued with knowledge among you? let him shew out of a good conduct his works with meekness of wisdom.
 13. 1 Peter 1:15
    Before: But as he which hath called you is holy, so be ye holy in all manner of conversation;
    After:  But as he which hath called you is holy, so be ye holy in all manner of conduct;
 14. 1 Peter 1:18
-   Before: Forasmuch as ye know that ye were not redeemed with corruptible things, {as} silver and gold, from your vain conversation {received} by tradition from your fathers;
-   After:  Forasmuch as ye know that ye were not redeemed with corruptible things, {as} silver and gold, from your vain conduct {received} by tradition from your fathers;
+   Before: Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers;
+   After:  Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conduct received by tradition from your fathers;
 15. 1 Peter 2:12
-   Before: Having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers, they may by {your} good works, which they shall behold, glorify God in the day of visitation. {whereas: or, wherein}
-   After:  Having your conduct honest among the Gentiles: that, whereas they speak against you as evildoers, they may by {your} good works, which they shall behold, glorify God in the day of visitation. {whereas: or, wherein}
+   Before: Having your conversation honest among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works, which they shall behold, glorify God in the day of visitation.
+   After:  Having your conduct honest among the Gentiles: that, whereas they speak against you as evildoers, they may by your good works, which they shall behold, glorify God in the day of visitation.
 16. 1 Peter 3:1
-   Before: Likewise, ye wives, {be} in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives;
-   After:  Likewise, ye wives, {be} in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conduct of the wives;
+   Before: Likewise, ye wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives;
+   After:  Likewise, ye wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conduct of the wives;
 17. 1 Peter 3:2
-   Before: While they behold your chaste conversation {coupled} with fear.
-   After:  While they behold your chaste conduct {coupled} with fear.
+   Before: While they behold your chaste conversation coupled with fear.
+   After:  While they behold your chaste conduct coupled with fear.
 18. 1 Peter 3:16
    Before: Having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conversation in Christ.
    After:  Having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conduct in Christ.
@@ -186,8 +198,8 @@ Conversation verse samples
    Before: And delivered just Lot, vexed with the filthy conversation of the wicked:
    After:  And delivered just Lot, vexed with the filthy conduct of the wicked:
 20. 2 Peter 3:11
-   Before: {Seeing} then {that} all these things shall be dissolved, what manner {of persons} ought ye to be in {all} holy conversation and godliness,
-   After:  {Seeing} then {that} all these things shall be dissolved, what manner {of persons} ought ye to be in {all} holy conduct and godliness,
+   Before: Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conversation and godliness,
+   After:  Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conduct and godliness,
 
 === SUMMARY ===
 RESULT: PASS

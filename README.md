@@ -19,9 +19,9 @@ source code or search through the repository to determine what is included.
 | Directly aligned Strong's verses | 26,926 |
 | Safe fallback verses | 4,174 |
 | Missing verses | 0 |
-| Custom KJV text operations | 159 |
-| Unique verses affected by custom revisions | 137 |
-| Documented custom revision rules | 14 |
+| Custom KJV text operations | 167 |
+| Unique verses affected by custom revisions | 142 |
+| Documented custom revision rules | 22 |
 
 ## The three editions
 
@@ -40,16 +40,17 @@ The LionGateOS revised KJV with:
 
 - The same Strong's study support
 - Words spoken by Jesus displayed in royal purple
-- 159 documented text operations
-- 137 unique affected verses
+- 167 documented text operations
+- 142 unique affected verses
 - A record of every revision rule and its purpose
 
 ### 3. LionGateOS Custom KJV for e-Sword
 
-A planned e-Sword-compatible edition generated from the LionGateOS Custom KJV.
+A locally generated e-Sword-compatible edition built from the LionGateOS
+Custom KJV.
 
-The e-Sword package has not yet been built or validated. It will be kept
-separate from the authoritative Bible source files.
+The desktop `.bblx` package is kept separate from the authoritative Bible
+source files.
 
 ## What Strong's material is included?
 
@@ -74,16 +75,16 @@ See [Strong's Data Explained](docs/STRONGS_DATA.md).
 
 ## What changed in the LionGateOS Custom KJV?
 
-The custom edition contains 159 individual text operations in 137 unique
+The custom edition contains 167 individual text operations in 142 unique
 verses.
 
 | Testament | Text operations | Unique verses |
 |---|---:|---:|
-| Old Testament | 28 | 16 |
-| New Testament | 131 | 121 |
-| **Total** | **159** | **137** |
+| Old Testament | 30 | 18 |
+| New Testament | 137 | 124 |
+| **Total** | **167** | **142** |
 
-The number 159 includes the main wording replacements and necessary companion
+The number 167 includes the main wording replacements and necessary companion
 changes such as pronouns, articles, and capitalization.
 
 Major wording revisions include:
@@ -97,6 +98,14 @@ Major wording revisions include:
 | scapegoat | Azazel | 4 |
 | Easter | Passover | 1 |
 | conversation | conduct | 20 |
+| was | became | 1 |
+| in his spirit | by his spirit | 1 |
+| hate not | love less than | 1 |
+| gentleness | kindness | 1 |
+| longsuffering | patience and mercy | 1 |
+| goodness | goodness and generosity | 1 |
+| Meekness | Meekness and humility | 1 |
+| temperance | self-control | 1 |
 
 Additional operations adjust nearby grammar or capitalization so the revised
 phrases remain readable and grammatically correct.
@@ -128,7 +137,7 @@ The repository keeps different kinds of material separate:
 - `source/growdaily/` contains the imported, verified source checkpoint
 - `editions/enhanced-kjv/` is reserved for generated Enhanced KJV releases
 - `editions/liongateos-custom-kjv/` is reserved for generated Custom KJV releases
-- `editions/esword/` is reserved for future e-Sword packages
+- `editions/esword/` is reserved for generated e-Sword packages
 - `docs/` contains plain-language and technical documentation
 
 Generated release files must never replace the authoritative source files.
@@ -163,5 +172,4 @@ Available now:
 Not yet released:
 
 - Downloadable packaged Bible editions
-- e-Sword-compatible module
 - Public version tag and release archive

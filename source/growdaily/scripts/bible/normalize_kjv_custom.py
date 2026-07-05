@@ -3,9 +3,10 @@ import json
 import re
 from pathlib import Path
 
-INPUT = Path("/home/liongateos/growdaily/assets/bible/en_kjv.json")
-OUTPUT = Path("/home/liongateos/growdaily/assets/bible/kjv_modified.json")
-REPORT = Path("/tmp/growdaily-kjv-custom-v2-verification.txt")
+ROOT = Path(__file__).resolve().parents[2]
+INPUT = ROOT / "assets/bible/en_kjv.json"
+OUTPUT = ROOT / "assets/bible/kjv_modified.json"
+REPORT = ROOT / "docs/bible/KJV_CUSTOM_REVISION_VERIFICATION.txt"
 
 BOOK_NAMES = [
     "Genesis","Exodus","Leviticus","Numbers","Deuteronomy","Joshua","Judges","Ruth","1 Samuel","2 Samuel",
@@ -53,6 +54,30 @@ GHOST_REPLACEMENTS_BY_REF = {
     ("act", 5, 5): [("gave up the ghost", "gave up his spirit")],
     ("act", 5, 10): [("yielded up the ghost", "yielded up her spirit")],
     ("act", 12, 23): [("gave up the ghost", "gave up his spirit")],
+}
+
+VERSE_REPLACEMENTS_BY_REF = {
+    ("gn", 1, 2): [
+        ("And the earth was without form,", "And the earth became without form,"),
+    ],
+    ("zc", 7, 12): [
+        ("hath sent in his spirit by the former prophets", "hath sent by his spirit by the former prophets"),
+    ],
+    ("lk", 14, 26): [
+        ("hate not", "love less than"),
+    ],
+    ("gl", 5, 22): [
+        (
+            "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,",
+            "But the fruit of the Spirit is love, joy, peace, patience and mercy, kindness, goodness and generosity, faith,",
+        ),
+    ],
+    ("gl", 5, 23): [
+        (
+            "Meekness, temperance: against such there is no law.",
+            "Meekness and humility, self-control: against such there is no law.",
+        ),
+    ],
 }
 
 BRACE_BLOCK_RE = re.compile(r"\{([^{}]*)\}")
@@ -243,6 +268,9 @@ def transform_verse(text, abbrev, chapter_num, verse_num):
 
     text = exact_word_replace(text, "Conversation", "Conduct")
     text = exact_word_replace(text, "conversation", "conduct")
+
+    for old, new in VERSE_REPLACEMENTS_BY_REF.get(key, []):
+        text = text.replace(old, new)
 
     return strip_inline_brace_blocks(text)
 

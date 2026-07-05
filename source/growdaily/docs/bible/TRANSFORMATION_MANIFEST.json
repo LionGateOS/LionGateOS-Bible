@@ -160,14 +160,102 @@
       "tokenCountAfter": 1,
       "applicationCount": 20,
       "references": ["Psalms 37:14","Psalms 50:23","2 Corinthians 1:12","Galatians 1:13","Ephesians 2:3","Ephesians 4:22","Philippians 1:27","Philippians 3:20","1 Timothy 4:12","Hebrews 13:5","Hebrews 13:7","James 3:13","1 Peter 1:15","1 Peter 1:18","1 Peter 2:12","1 Peter 3:1","1 Peter 3:2","1 Peter 3:16","2 Peter 2:7","2 Peter 3:11"]
+    },
+    {
+      "ruleId": "R015",
+      "description": "was → became (verse-specific clarification in Genesis 1:2)",
+      "standardToken": "was",
+      "customToken": "became",
+      "caseSensitive": true,
+      "tokenCountBefore": 1,
+      "tokenCountAfter": 1,
+      "applicationCount": 1,
+      "references": ["Genesis 1:2"]
+    },
+    {
+      "ruleId": "R016",
+      "description": "in his spirit → by his spirit (phrase-level clarification in Zechariah 7:12)",
+      "standardPhrase": "in his spirit",
+      "customPhrase": "by his spirit",
+      "caseSensitive": true,
+      "tokenCountBefore": 3,
+      "tokenCountAfter": 3,
+      "applicationCount": 1,
+      "references": ["Zechariah 7:12"]
+    },
+    {
+      "ruleId": "R017",
+      "description": "hate not → love less than (phrase-level clarification in Luke 14:26)",
+      "standardPhrase": "hate not",
+      "customPhrase": "love less than",
+      "caseSensitive": true,
+      "tokenCountBefore": 2,
+      "tokenCountAfter": 3,
+      "applicationCount": 1,
+      "references": ["Luke 14:26"]
+    },
+    {
+      "ruleId": "R018",
+      "description": "gentleness → kindness (1:1 word swap in Galatians 5:22)",
+      "standardToken": "gentleness",
+      "customToken": "kindness",
+      "caseSensitive": true,
+      "tokenCountBefore": 1,
+      "tokenCountAfter": 1,
+      "applicationCount": 1,
+      "references": ["Galatians 5:22"]
+    },
+    {
+      "ruleId": "R019",
+      "description": "longsuffering → patience and mercy (phrase expansion in Galatians 5:22)",
+      "standardToken": "longsuffering",
+      "customPhrase": "patience and mercy",
+      "caseSensitive": true,
+      "tokenCountBefore": 1,
+      "tokenCountAfter": 3,
+      "applicationCount": 1,
+      "references": ["Galatians 5:22"]
+    },
+    {
+      "ruleId": "R020",
+      "description": "goodness → goodness and generosity (phrase expansion in Galatians 5:22)",
+      "standardToken": "goodness",
+      "customPhrase": "goodness and generosity",
+      "caseSensitive": true,
+      "tokenCountBefore": 1,
+      "tokenCountAfter": 3,
+      "applicationCount": 1,
+      "references": ["Galatians 5:22"]
+    },
+    {
+      "ruleId": "R021",
+      "description": "Meekness → Meekness and humility (phrase expansion in Galatians 5:23)",
+      "standardToken": "Meekness",
+      "customPhrase": "Meekness and humility",
+      "caseSensitive": true,
+      "tokenCountBefore": 1,
+      "tokenCountAfter": 3,
+      "applicationCount": 1,
+      "references": ["Galatians 5:23"]
+    },
+    {
+      "ruleId": "R022",
+      "description": "temperance → self-control (1:1 word swap in Galatians 5:23)",
+      "standardToken": "temperance",
+      "customToken": "self-control",
+      "caseSensitive": true,
+      "tokenCountBefore": 1,
+      "tokenCountAfter": 1,
+      "applicationCount": 1,
+      "references": ["Galatians 5:23"]
     }
   ],
   "summary": {
-    "totalRules": 14,
-    "totalTransformations": 159,
+    "totalRules": 22,
+    "totalTransformations": 167,
     "totalStandardTokens": 790539,
-    "totalCustomTokens": 790539,
-    "tokenCountMatch": true,
+    "totalCustomTokens": 790546,
+    "tokenCountMatch": false,
     "unresolvedDecisions": []
   }
 }

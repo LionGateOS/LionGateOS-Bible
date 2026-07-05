@@ -28,7 +28,9 @@ The standalone Bible repository structure has been created locally.
 
 ## Current limitation
 
-The e-Sword edition has not yet been generated or validated.
+- No verified local iPad/iOS direct exporter is documented in this repository.
+- The desktop e-Sword `.bblx` workflow is local and verified, but iPad/iOS
+  remains blocked pending the official conversion utility path.
 
 ## Next work
 
