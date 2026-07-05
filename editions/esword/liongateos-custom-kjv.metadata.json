@@ -1,0 +1,1092 @@
+{
+  "title": "LionGateOS Custom King James Version",
+  "abbreviation": "LGOS-KJV",
+  "canonical_structure": {
+    "book_count": 66,
+    "verse_count": 31100,
+    "coordinates_unchanged": true,
+    "note": "Seven divisions are presentation and search metadata only. Canonical 66-book verse coordinates remain unchanged."
+  },
+  "deliverables": {
+    "desktop_esword_bblx": "editions/esword/liongateos-custom-kjv.bblx",
+    "ios_esword_status": "blocked_pending_official_conversion_path"
+  },
+  "presentation_metadata": {
+    "division_count": 7,
+    "divisions": [
+      {
+        "id": "torah",
+        "label": "Torah",
+        "aliases": [
+          "Law",
+          "Books of Moses",
+          "Pentateuch"
+        ],
+        "book_numbers": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "books": [
+          "Genesis",
+          "Exodus",
+          "Leviticus",
+          "Numbers",
+          "Deuteronomy"
+        ]
+      },
+      {
+        "id": "history",
+        "label": "History",
+        "aliases": [
+          "Historical Books"
+        ],
+        "book_numbers": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "books": [
+          "Joshua",
+          "Judges",
+          "Ruth",
+          "1 Samuel",
+          "2 Samuel",
+          "1 Kings",
+          "2 Kings",
+          "1 Chronicles",
+          "2 Chronicles",
+          "Ezra",
+          "Nehemiah",
+          "Esther"
+        ]
+      },
+      {
+        "id": "wisdom",
+        "label": "Wisdom",
+        "aliases": [
+          "Poetry",
+          "Wisdom and Poetry"
+        ],
+        "book_numbers": [
+          18,
+          19,
+          20,
+          21,
+          22
+        ],
+        "books": [
+          "Job",
+          "Psalms",
+          "Proverbs",
+          "Ecclesiastes",
+          "Song of Solomon"
+        ]
+      },
+      {
+        "id": "major_prophets",
+        "label": "Major Prophets",
+        "aliases": [
+          "Greater Prophets"
+        ],
+        "book_numbers": [
+          23,
+          24,
+          25,
+          26,
+          27
+        ],
+        "books": [
+          "Isaiah",
+          "Jeremiah",
+          "Lamentations",
+          "Ezekiel",
+          "Daniel"
+        ]
+      },
+      {
+        "id": "minor_prophets",
+        "label": "Minor Prophets",
+        "aliases": [
+          "The Twelve"
+        ],
+        "book_numbers": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39
+        ],
+        "books": [
+          "Hosea",
+          "Joel",
+          "Amos",
+          "Obadiah",
+          "Jonah",
+          "Micah",
+          "Nahum",
+          "Habakkuk",
+          "Zephaniah",
+          "Haggai",
+          "Zechariah",
+          "Malachi"
+        ]
+      },
+      {
+        "id": "gospels_acts",
+        "label": "Gospels and Acts",
+        "aliases": [
+          "Gospels",
+          "Gospels + Acts"
+        ],
+        "book_numbers": [
+          40,
+          41,
+          42,
+          43,
+          44
+        ],
+        "books": [
+          "Matthew",
+          "Mark",
+          "Luke",
+          "John",
+          "Acts"
+        ]
+      },
+      {
+        "id": "letters_revelation",
+        "label": "Letters and Revelation",
+        "aliases": [
+          "Epistles and Revelation",
+          "Letters",
+          "Epistles"
+        ],
+        "book_numbers": [
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66
+        ],
+        "books": [
+          "Romans",
+          "1 Corinthians",
+          "2 Corinthians",
+          "Galatians",
+          "Ephesians",
+          "Philippians",
+          "Colossians",
+          "1 Thessalonians",
+          "2 Thessalonians",
+          "1 Timothy",
+          "2 Timothy",
+          "Titus",
+          "Philemon",
+          "Hebrews",
+          "James",
+          "1 Peter",
+          "2 Peter",
+          "1 John",
+          "2 John",
+          "3 John",
+          "Jude",
+          "Revelation"
+        ]
+      }
+    ],
+    "books": [
+      {
+        "book_number": 1,
+        "name": "Genesis",
+        "abbrev": "gn",
+        "division": {
+          "id": "torah",
+          "label": "Torah",
+          "aliases": [
+            "Law",
+            "Books of Moses",
+            "Pentateuch"
+          ]
+        }
+      },
+      {
+        "book_number": 2,
+        "name": "Exodus",
+        "abbrev": "ex",
+        "division": {
+          "id": "torah",
+          "label": "Torah",
+          "aliases": [
+            "Law",
+            "Books of Moses",
+            "Pentateuch"
+          ]
+        }
+      },
+      {
+        "book_number": 3,
+        "name": "Leviticus",
+        "abbrev": "lv",
+        "division": {
+          "id": "torah",
+          "label": "Torah",
+          "aliases": [
+            "Law",
+            "Books of Moses",
+            "Pentateuch"
+          ]
+        }
+      },
+      {
+        "book_number": 4,
+        "name": "Numbers",
+        "abbrev": "nm",
+        "division": {
+          "id": "torah",
+          "label": "Torah",
+          "aliases": [
+            "Law",
+            "Books of Moses",
+            "Pentateuch"
+          ]
+        }
+      },
+      {
+        "book_number": 5,
+        "name": "Deuteronomy",
+        "abbrev": "dt",
+        "division": {
+          "id": "torah",
+          "label": "Torah",
+          "aliases": [
+            "Law",
+            "Books of Moses",
+            "Pentateuch"
+          ]
+        }
+      },
+      {
+        "book_number": 6,
+        "name": "Joshua",
+        "abbrev": "js",
+        "division": {
+          "id": "history",
+          "label": "History",
+          "aliases": [
+            "Historical Books"
+          ]
+        }
+      },
+      {
+        "book_number": 7,
+        "name": "Judges",
+        "abbrev": "jud",
+        "division": {
+          "id": "history",
+          "label": "History",
+          "aliases": [
+            "Historical Books"
+          ]
+        }
+      },
+      {
+        "book_number": 8,
+        "name": "Ruth",
+        "abbrev": "rt",
+        "division": {
+          "id": "history",
+          "label": "History",
+          "aliases": [
+            "Historical Books"
+          ]
+        }
+      },
+      {
+        "book_number": 9,
+        "name": "1 Samuel",
+        "abbrev": "1sm",
+        "division": {
+          "id": "history",
+          "label": "History",
+          "aliases": [
+            "Historical Books"
+          ]
+        }
+      },
+      {
+        "book_number": 10,
+        "name": "2 Samuel",
+        "abbrev": "2sm",
+        "division": {
+          "id": "history",
+          "label": "History",
+          "aliases": [
+            "Historical Books"
+          ]
+        }
+      },
+      {
+        "book_number": 11,
+        "name": "1 Kings",
+        "abbrev": "1kgs",
+        "division": {
+          "id": "history",
+          "label": "History",
+          "aliases": [
+            "Historical Books"
+          ]
+        }
+      },
+      {
+        "book_number": 12,
+        "name": "2 Kings",
+        "abbrev": "2kgs",
+        "division": {
+          "id": "history",
+          "label": "History",
+          "aliases": [
+            "Historical Books"
+          ]
+        }
+      },
+      {
+        "book_number": 13,
+        "name": "1 Chronicles",
+        "abbrev": "1ch",
+        "division": {
+          "id": "history",
+          "label": "History",
+          "aliases": [
+            "Historical Books"
+          ]
+        }
+      },
+      {
+        "book_number": 14,
+        "name": "2 Chronicles",
+        "abbrev": "2ch",
+        "division": {
+          "id": "history",
+          "label": "History",
+          "aliases": [
+            "Historical Books"
+          ]
+        }
+      },
+      {
+        "book_number": 15,
+        "name": "Ezra",
+        "abbrev": "ezr",
+        "division": {
+          "id": "history",
+          "label": "History",
+          "aliases": [
+            "Historical Books"
+          ]
+        }
+      },
+      {
+        "book_number": 16,
+        "name": "Nehemiah",
+        "abbrev": "ne",
+        "division": {
+          "id": "history",
+          "label": "History",
+          "aliases": [
+            "Historical Books"
+          ]
+        }
+      },
+      {
+        "book_number": 17,
+        "name": "Esther",
+        "abbrev": "et",
+        "division": {
+          "id": "history",
+          "label": "History",
+          "aliases": [
+            "Historical Books"
+          ]
+        }
+      },
+      {
+        "book_number": 18,
+        "name": "Job",
+        "abbrev": "job",
+        "division": {
+          "id": "wisdom",
+          "label": "Wisdom",
+          "aliases": [
+            "Poetry",
+            "Wisdom and Poetry"
+          ]
+        }
+      },
+      {
+        "book_number": 19,
+        "name": "Psalms",
+        "abbrev": "ps",
+        "division": {
+          "id": "wisdom",
+          "label": "Wisdom",
+          "aliases": [
+            "Poetry",
+            "Wisdom and Poetry"
+          ]
+        }
+      },
+      {
+        "book_number": 20,
+        "name": "Proverbs",
+        "abbrev": "prv",
+        "division": {
+          "id": "wisdom",
+          "label": "Wisdom",
+          "aliases": [
+            "Poetry",
+            "Wisdom and Poetry"
+          ]
+        }
+      },
+      {
+        "book_number": 21,
+        "name": "Ecclesiastes",
+        "abbrev": "ec",
+        "division": {
+          "id": "wisdom",
+          "label": "Wisdom",
+          "aliases": [
+            "Poetry",
+            "Wisdom and Poetry"
+          ]
+        }
+      },
+      {
+        "book_number": 22,
+        "name": "Song of Solomon",
+        "abbrev": "so",
+        "division": {
+          "id": "wisdom",
+          "label": "Wisdom",
+          "aliases": [
+            "Poetry",
+            "Wisdom and Poetry"
+          ]
+        }
+      },
+      {
+        "book_number": 23,
+        "name": "Isaiah",
+        "abbrev": "is",
+        "division": {
+          "id": "major_prophets",
+          "label": "Major Prophets",
+          "aliases": [
+            "Greater Prophets"
+          ]
+        }
+      },
+      {
+        "book_number": 24,
+        "name": "Jeremiah",
+        "abbrev": "jr",
+        "division": {
+          "id": "major_prophets",
+          "label": "Major Prophets",
+          "aliases": [
+            "Greater Prophets"
+          ]
+        }
+      },
+      {
+        "book_number": 25,
+        "name": "Lamentations",
+        "abbrev": "lm",
+        "division": {
+          "id": "major_prophets",
+          "label": "Major Prophets",
+          "aliases": [
+            "Greater Prophets"
+          ]
+        }
+      },
+      {
+        "book_number": 26,
+        "name": "Ezekiel",
+        "abbrev": "ez",
+        "division": {
+          "id": "major_prophets",
+          "label": "Major Prophets",
+          "aliases": [
+            "Greater Prophets"
+          ]
+        }
+      },
+      {
+        "book_number": 27,
+        "name": "Daniel",
+        "abbrev": "dn",
+        "division": {
+          "id": "major_prophets",
+          "label": "Major Prophets",
+          "aliases": [
+            "Greater Prophets"
+          ]
+        }
+      },
+      {
+        "book_number": 28,
+        "name": "Hosea",
+        "abbrev": "ho",
+        "division": {
+          "id": "minor_prophets",
+          "label": "Minor Prophets",
+          "aliases": [
+            "The Twelve"
+          ]
+        }
+      },
+      {
+        "book_number": 29,
+        "name": "Joel",
+        "abbrev": "jl",
+        "division": {
+          "id": "minor_prophets",
+          "label": "Minor Prophets",
+          "aliases": [
+            "The Twelve"
+          ]
+        }
+      },
+      {
+        "book_number": 30,
+        "name": "Amos",
+        "abbrev": "am",
+        "division": {
+          "id": "minor_prophets",
+          "label": "Minor Prophets",
+          "aliases": [
+            "The Twelve"
+          ]
+        }
+      },
+      {
+        "book_number": 31,
+        "name": "Obadiah",
+        "abbrev": "ob",
+        "division": {
+          "id": "minor_prophets",
+          "label": "Minor Prophets",
+          "aliases": [
+            "The Twelve"
+          ]
+        }
+      },
+      {
+        "book_number": 32,
+        "name": "Jonah",
+        "abbrev": "jn",
+        "division": {
+          "id": "minor_prophets",
+          "label": "Minor Prophets",
+          "aliases": [
+            "The Twelve"
+          ]
+        }
+      },
+      {
+        "book_number": 33,
+        "name": "Micah",
+        "abbrev": "mi",
+        "division": {
+          "id": "minor_prophets",
+          "label": "Minor Prophets",
+          "aliases": [
+            "The Twelve"
+          ]
+        }
+      },
+      {
+        "book_number": 34,
+        "name": "Nahum",
+        "abbrev": "na",
+        "division": {
+          "id": "minor_prophets",
+          "label": "Minor Prophets",
+          "aliases": [
+            "The Twelve"
+          ]
+        }
+      },
+      {
+        "book_number": 35,
+        "name": "Habakkuk",
+        "abbrev": "hk",
+        "division": {
+          "id": "minor_prophets",
+          "label": "Minor Prophets",
+          "aliases": [
+            "The Twelve"
+          ]
+        }
+      },
+      {
+        "book_number": 36,
+        "name": "Zephaniah",
+        "abbrev": "zp",
+        "division": {
+          "id": "minor_prophets",
+          "label": "Minor Prophets",
+          "aliases": [
+            "The Twelve"
+          ]
+        }
+      },
+      {
+        "book_number": 37,
+        "name": "Haggai",
+        "abbrev": "hg",
+        "division": {
+          "id": "minor_prophets",
+          "label": "Minor Prophets",
+          "aliases": [
+            "The Twelve"
+          ]
+        }
+      },
+      {
+        "book_number": 38,
+        "name": "Zechariah",
+        "abbrev": "zc",
+        "division": {
+          "id": "minor_prophets",
+          "label": "Minor Prophets",
+          "aliases": [
+            "The Twelve"
+          ]
+        }
+      },
+      {
+        "book_number": 39,
+        "name": "Malachi",
+        "abbrev": "ml",
+        "division": {
+          "id": "minor_prophets",
+          "label": "Minor Prophets",
+          "aliases": [
+            "The Twelve"
+          ]
+        }
+      },
+      {
+        "book_number": 40,
+        "name": "Matthew",
+        "abbrev": "mt",
+        "division": {
+          "id": "gospels_acts",
+          "label": "Gospels and Acts",
+          "aliases": [
+            "Gospels",
+            "Gospels + Acts"
+          ]
+        }
+      },
+      {
+        "book_number": 41,
+        "name": "Mark",
+        "abbrev": "mk",
+        "division": {
+          "id": "gospels_acts",
+          "label": "Gospels and Acts",
+          "aliases": [
+            "Gospels",
+            "Gospels + Acts"
+          ]
+        }
+      },
+      {
+        "book_number": 42,
+        "name": "Luke",
+        "abbrev": "lk",
+        "division": {
+          "id": "gospels_acts",
+          "label": "Gospels and Acts",
+          "aliases": [
+            "Gospels",
+            "Gospels + Acts"
+          ]
+        }
+      },
+      {
+        "book_number": 43,
+        "name": "John",
+        "abbrev": "jo",
+        "division": {
+          "id": "gospels_acts",
+          "label": "Gospels and Acts",
+          "aliases": [
+            "Gospels",
+            "Gospels + Acts"
+          ]
+        }
+      },
+      {
+        "book_number": 44,
+        "name": "Acts",
+        "abbrev": "act",
+        "division": {
+          "id": "gospels_acts",
+          "label": "Gospels and Acts",
+          "aliases": [
+            "Gospels",
+            "Gospels + Acts"
+          ]
+        }
+      },
+      {
+        "book_number": 45,
+        "name": "Romans",
+        "abbrev": "rm",
+        "division": {
+          "id": "letters_revelation",
+          "label": "Letters and Revelation",
+          "aliases": [
+            "Epistles and Revelation",
+            "Letters",
+            "Epistles"
+          ]
+        }
+      },
+      {
+        "book_number": 46,
+        "name": "1 Corinthians",
+        "abbrev": "1co",
+        "division": {
+          "id": "letters_revelation",
+          "label": "Letters and Revelation",
+          "aliases": [
+            "Epistles and Revelation",
+            "Letters",
+            "Epistles"
+          ]
+        }
+      },
+      {
+        "book_number": 47,
+        "name": "2 Corinthians",
+        "abbrev": "2co",
+        "division": {
+          "id": "letters_revelation",
+          "label": "Letters and Revelation",
+          "aliases": [
+            "Epistles and Revelation",
+            "Letters",
+            "Epistles"
+          ]
+        }
+      },
+      {
+        "book_number": 48,
+        "name": "Galatians",
+        "abbrev": "gl",
+        "division": {
+          "id": "letters_revelation",
+          "label": "Letters and Revelation",
+          "aliases": [
+            "Epistles and Revelation",
+            "Letters",
+            "Epistles"
+          ]
+        }
+      },
+      {
+        "book_number": 49,
+        "name": "Ephesians",
+        "abbrev": "eph",
+        "division": {
+          "id": "letters_revelation",
+          "label": "Letters and Revelation",
+          "aliases": [
+            "Epistles and Revelation",
+            "Letters",
+            "Epistles"
+          ]
+        }
+      },
+      {
+        "book_number": 50,
+        "name": "Philippians",
+        "abbrev": "ph",
+        "division": {
+          "id": "letters_revelation",
+          "label": "Letters and Revelation",
+          "aliases": [
+            "Epistles and Revelation",
+            "Letters",
+            "Epistles"
+          ]
+        }
+      },
+      {
+        "book_number": 51,
+        "name": "Colossians",
+        "abbrev": "cl",
+        "division": {
+          "id": "letters_revelation",
+          "label": "Letters and Revelation",
+          "aliases": [
+            "Epistles and Revelation",
+            "Letters",
+            "Epistles"
+          ]
+        }
+      },
+      {
+        "book_number": 52,
+        "name": "1 Thessalonians",
+        "abbrev": "1ts",
+        "division": {
+          "id": "letters_revelation",
+          "label": "Letters and Revelation",
+          "aliases": [
+            "Epistles and Revelation",
+            "Letters",
+            "Epistles"
+          ]
+        }
+      },
+      {
+        "book_number": 53,
+        "name": "2 Thessalonians",
+        "abbrev": "2ts",
+        "division": {
+          "id": "letters_revelation",
+          "label": "Letters and Revelation",
+          "aliases": [
+            "Epistles and Revelation",
+            "Letters",
+            "Epistles"
+          ]
+        }
+      },
+      {
+        "book_number": 54,
+        "name": "1 Timothy",
+        "abbrev": "1tm",
+        "division": {
+          "id": "letters_revelation",
+          "label": "Letters and Revelation",
+          "aliases": [
+            "Epistles and Revelation",
+            "Letters",
+            "Epistles"
+          ]
+        }
+      },
+      {
+        "book_number": 55,
+        "name": "2 Timothy",
+        "abbrev": "2tm",
+        "division": {
+          "id": "letters_revelation",
+          "label": "Letters and Revelation",
+          "aliases": [
+            "Epistles and Revelation",
+            "Letters",
+            "Epistles"
+          ]
+        }
+      },
+      {
+        "book_number": 56,
+        "name": "Titus",
+        "abbrev": "tt",
+        "division": {
+          "id": "letters_revelation",
+          "label": "Letters and Revelation",
+          "aliases": [
+            "Epistles and Revelation",
+            "Letters",
+            "Epistles"
+          ]
+        }
+      },
+      {
+        "book_number": 57,
+        "name": "Philemon",
+        "abbrev": "phm",
+        "division": {
+          "id": "letters_revelation",
+          "label": "Letters and Revelation",
+          "aliases": [
+            "Epistles and Revelation",
+            "Letters",
+            "Epistles"
+          ]
+        }
+      },
+      {
+        "book_number": 58,
+        "name": "Hebrews",
+        "abbrev": "hb",
+        "division": {
+          "id": "letters_revelation",
+          "label": "Letters and Revelation",
+          "aliases": [
+            "Epistles and Revelation",
+            "Letters",
+            "Epistles"
+          ]
+        }
+      },
+      {
+        "book_number": 59,
+        "name": "James",
+        "abbrev": "jm",
+        "division": {
+          "id": "letters_revelation",
+          "label": "Letters and Revelation",
+          "aliases": [
+            "Epistles and Revelation",
+            "Letters",
+            "Epistles"
+          ]
+        }
+      },
+      {
+        "book_number": 60,
+        "name": "1 Peter",
+        "abbrev": "1pe",
+        "division": {
+          "id": "letters_revelation",
+          "label": "Letters and Revelation",
+          "aliases": [
+            "Epistles and Revelation",
+            "Letters",
+            "Epistles"
+          ]
+        }
+      },
+      {
+        "book_number": 61,
+        "name": "2 Peter",
+        "abbrev": "2pe",
+        "division": {
+          "id": "letters_revelation",
+          "label": "Letters and Revelation",
+          "aliases": [
+            "Epistles and Revelation",
+            "Letters",
+            "Epistles"
+          ]
+        }
+      },
+      {
+        "book_number": 62,
+        "name": "1 John",
+        "abbrev": "1jo",
+        "division": {
+          "id": "letters_revelation",
+          "label": "Letters and Revelation",
+          "aliases": [
+            "Epistles and Revelation",
+            "Letters",
+            "Epistles"
+          ]
+        }
+      },
+      {
+        "book_number": 63,
+        "name": "2 John",
+        "abbrev": "2jo",
+        "division": {
+          "id": "letters_revelation",
+          "label": "Letters and Revelation",
+          "aliases": [
+            "Epistles and Revelation",
+            "Letters",
+            "Epistles"
+          ]
+        }
+      },
+      {
+        "book_number": 64,
+        "name": "3 John",
+        "abbrev": "3jo",
+        "division": {
+          "id": "letters_revelation",
+          "label": "Letters and Revelation",
+          "aliases": [
+            "Epistles and Revelation",
+            "Letters",
+            "Epistles"
+          ]
+        }
+      },
+      {
+        "book_number": 65,
+        "name": "Jude",
+        "abbrev": "jd",
+        "division": {
+          "id": "letters_revelation",
+          "label": "Letters and Revelation",
+          "aliases": [
+            "Epistles and Revelation",
+            "Letters",
+            "Epistles"
+          ]
+        }
+      },
+      {
+        "book_number": 66,
+        "name": "Revelation",
+        "abbrev": "re",
+        "division": {
+          "id": "letters_revelation",
+          "label": "Letters and Revelation",
+          "aliases": [
+            "Epistles and Revelation",
+            "Letters",
+            "Epistles"
+          ]
+        }
+      }
+    ]
+  }
+}
