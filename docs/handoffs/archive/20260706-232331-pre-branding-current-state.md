@@ -39,15 +39,3 @@ The standalone Bible repository structure has been created locally.
 3. Create edition-specific release folders.
 4. Research and implement the e-Sword export format.
 5. Create the first tagged repository release.
-
-## Checkpoint: Shared GrowDaily / LionGateOS Bible logo branding
-
-- Added shared repository branding asset:
-  - `assets/branding/liongateos-bible-logo.png`
-- Source asset:
-  - GrowDaily `assets/branding/growdaily-splash-tree-book.png`
-- Added checksum:
-  - `assets/branding/liongateos-bible-logo.png.sha256`
-- Added branding documentation:
-  - `docs/BRANDING.md`
-- README now displays the logo at the top of the repository page.

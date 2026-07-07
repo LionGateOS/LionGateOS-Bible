@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/branding/liongateos-bible-logo.png" alt="LionGateOS Bible Editions logo" width="320">
+</p>
+
 # LionGateOS Bible Editions
 
 This repository contains Bible text, Strong's study data, words-of-Jesus
