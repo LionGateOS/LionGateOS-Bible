@@ -56,6 +56,18 @@ Custom KJV.
 The desktop `.bblx` package is kept separate from the authoritative Bible
 source files.
 
+## LionGateOS Custom KJV Usage
+
+The LionGateOS Custom KJV is a documented custom Bible edition developed by LionGateOS.
+
+The edition may be used as provided for approved purposes. It is not released as an open modification project.
+
+Modification, creation of derivative editions, or redistribution of altered versions requires permission from LionGateOS.
+
+Philadelphia Church of God may use the LionGateOS Custom KJV edition, and LionGateOS remains available to assist with requested corrections, improvements, or future development.
+
+See [Custom KJV Usage Policy](LICENSE_CUSTOM_KJV.md).
+
 ## What Strong's material is included?
 
 This repository includes digital Strong's-number study data, not a scanned or
