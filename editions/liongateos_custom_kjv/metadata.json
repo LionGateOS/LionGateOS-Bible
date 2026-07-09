@@ -1,0 +1,13 @@
+{
+  "id": "liongateos_custom_kjv",
+  "name": "LionGateOS Custom KJV",
+  "language": "en",
+  "type": "custom_translation",
+  "required": true,
+  "features": {
+    "redLetter": true,
+    "strongs": true,
+    "notes": true,
+    "highlights": true
+  }
+}

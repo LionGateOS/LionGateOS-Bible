@@ -1,0 +1,13 @@
+{
+  "id": "louis_segond_1910",
+  "name": "Louis Segond 1910",
+  "language": "fr",
+  "type": "optional_translation",
+  "required": false,
+  "features": {
+    "redLetter": true,
+    "strongs": false,
+    "notes": true,
+    "highlights": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "kjv",
+  "name": "King James Version",
+  "language": "en",
+  "type": "core_translation",
+  "required": true,
+  "features": {
+    "redLetter": true,
+    "strongs": true,
+    "notes": true,
+    "highlights": true
+  }
+}
