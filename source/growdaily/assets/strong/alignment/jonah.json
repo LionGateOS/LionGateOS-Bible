@@ -21,11 +21,57 @@
         "H1121"
       ],
       [
-        " of Amittai,",
-        "H573"
+        " of Amittai",
+        "H0573"
       ],
       [
-        " saying,",
+        ", saying",
+        "H0559"
+      ],
+      [
+        ",",
+        null
+      ]
+    ],
+    "Jonah|1|2": [
+      [
+        "Arise",
+        "H6965"
+      ],
+      [
+        ", go",
+        "H3212"
+      ],
+      [
+        " to Nineveh",
+        "H5210"
+      ],
+      [
+        ", that great",
+        "H1419"
+      ],
+      [
+        " city",
+        "H5892"
+      ],
+      [
+        ", and cry",
+        "H7121"
+      ],
+      [
+        " against it; for their wickedness",
+        "H7451"
+      ],
+      [
+        " is come up",
+        "H5927"
+      ],
+      [
+        " before",
+        "H6440"
+      ],
+      [
+        " me.",
         null
       ]
     ],
@@ -51,35 +97,35 @@
         "H6440"
       ],
       [
-        " of the LORD,",
+        " of the LORD",
         "H3068"
       ],
       [
-        " and went down",
+        ", and went down",
         "H3381"
       ],
       [
-        " to Joppa;",
+        " to Joppa",
         "H3305"
       ],
       [
-        " and he found",
+        "; and he found",
         "H4672"
       ],
       [
         " a ship",
-        "H591"
+        "H0591"
       ],
       [
         " going",
-        "H935"
+        "H0935"
       ],
       [
-        " to Tarshish:",
+        " to Tarshish",
         "H8659"
       ],
       [
-        " so he paid",
+        ": so he paid",
         "H5414"
       ],
       [
@@ -92,7 +138,7 @@
       ],
       [
         " into it, to go",
-        "H935"
+        "H0935"
       ],
       [
         " with them unto Tarshish",
@@ -103,7 +149,11 @@
         "H6440"
       ],
       [
-        " of the LORD.",
+        " of the LORD",
+        "H3068"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -125,11 +175,11 @@
         "H7307"
       ],
       [
-        " into the sea,",
+        " into the sea",
         "H3220"
       ],
       [
-        " and there was a mighty",
+        ", and there was a mighty",
         "H1419"
       ],
       [
@@ -137,19 +187,23 @@
         "H5591"
       ],
       [
-        " in the sea,",
+        " in the sea",
         "H3220"
       ],
       [
-        " so that the ship",
-        "H591"
+        ", so that the ship",
+        "H0591"
       ],
       [
         " was like",
         "H2803"
       ],
       [
-        " to be broken.",
+        " to be broken",
+        "H7665"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -159,23 +213,23 @@
         "H4419"
       ],
       [
-        " were afraid,",
+        " were afraid",
         "H3372"
       ],
       [
-        " and cried",
+        ", and cried",
         "H2199"
       ],
       [
         " every man",
-        "H376"
+        "H0376"
       ],
       [
-        " unto his god,",
-        "H430"
+        " unto his god",
+        "H0430"
       ],
       [
-        " and cast forth",
+        ", and cast forth",
         "H2904"
       ],
       [
@@ -184,14 +238,14 @@
       ],
       [
         " that were in the ship",
-        "H591"
+        "H0591"
       ],
       [
-        " into the sea,",
+        " into the sea",
         "H3220"
       ],
       [
-        " to lighten",
+        ", to lighten",
         "H7043"
       ],
       [
@@ -207,45 +261,95 @@
         "H3411"
       ],
       [
-        " of the ship;",
+        " of the ship",
         "H5600"
       ],
       [
-        " and he lay,",
+        "; and he lay",
         "H7901"
       ],
       [
-        " and was fast asleep.",
+        ", and was fast asleep",
+        "H7290"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Jonah|1|6": [
+      [
+        "So the shipmaster",
+        "H7227"
+      ],
+      [
+        " came",
+        "H7126"
+      ],
+      [
+        " to him, and said",
+        "H0559"
+      ],
+      [
+        " unto him, What meanest thou, O sleeper",
+        "H7290"
+      ],
+      [
+        "? arise",
+        "H6965"
+      ],
+      [
+        ", call",
+        "H7121"
+      ],
+      [
+        " upon thy God",
+        "H0430"
+      ],
+      [
+        ", if so be that God",
+        "H0430"
+      ],
+      [
+        " will think",
+        "H6245"
+      ],
+      [
+        " upon us, that we perish",
+        "H0006"
+      ],
+      [
+        " not.",
         null
       ]
     ],
     "Jonah|1|7": [
       [
         "And they said",
-        "H559"
+        "H0559"
       ],
       [
         " every one",
-        "H376"
+        "H0376"
       ],
       [
-        " to his fellow,",
+        " to his fellow",
         "H7453"
       ],
       [
-        " Come,",
+        ", Come",
         "H3212"
       ],
       [
-        " and let us cast",
+        ", and let us cast",
         "H5307"
       ],
       [
-        " lots,",
+        " lots",
         "H1486"
       ],
       [
-        " that we may know",
+        ", that we may know",
         "H3045"
       ],
       [
@@ -261,11 +365,11 @@
         "H5307"
       ],
       [
-        " lots,",
+        " lots",
         "H1486"
       ],
       [
-        " and the lot",
+        ", and the lot",
         "H1486"
       ],
       [
@@ -273,14 +377,148 @@
         "H5307"
       ],
       [
-        " upon Jonah.",
+        " upon Jonah",
+        "H3124"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Jonah|1|8": [
+      [
+        "Then said",
+        "H0559"
+      ],
+      [
+        " they unto him, Tell",
+        "H5046"
+      ],
+      [
+        " us, we pray thee, for whose cause this evil",
+        "H7451"
+      ],
+      [
+        " is upon us; What is thine occupation",
+        "H4399"
+      ],
+      [
+        "? and whence",
+        "H0370"
+      ],
+      [
+        " comest",
+        "H0935"
+      ],
+      [
+        " thou? what is thy country",
+        "H0776"
+      ],
+      [
+        "? and of what people",
+        "H5971"
+      ],
+      [
+        " art thou?",
+        null
+      ]
+    ],
+    "Jonah|1|9": [
+      [
+        "And he said",
+        "H0559"
+      ],
+      [
+        " unto them, I am an Hebrew",
+        "H5680"
+      ],
+      [
+        "; and I fear",
+        "H3373"
+      ],
+      [
+        " the LORD",
+        "H3068"
+      ],
+      [
+        ", the God",
+        "H0430"
+      ],
+      [
+        " of heaven",
+        "H8064"
+      ],
+      [
+        ", which hath made",
+        "H6213"
+      ],
+      [
+        " the sea",
+        "H3220"
+      ],
+      [
+        " and the dry",
+        "H3004"
+      ],
+      [
+        " land.",
+        null
+      ]
+    ],
+    "Jonah|1|10": [
+      [
+        "Then were the men",
+        "H0582"
+      ],
+      [
+        " exceedingly",
+        "H1419"
+      ],
+      [
+        " afraid",
+        "H3372"
+      ],
+      [
+        ", and said",
+        "H0559"
+      ],
+      [
+        " unto him, Why hast thou done",
+        "H6213"
+      ],
+      [
+        " this? For the men",
+        "H0582"
+      ],
+      [
+        " knew",
+        "H3045"
+      ],
+      [
+        " that he fled",
+        "H1272"
+      ],
+      [
+        " from the presence",
+        "H6440"
+      ],
+      [
+        " of the LORD",
+        "H3068"
+      ],
+      [
+        ", because he had told",
+        "H5046"
+      ],
+      [
+        " them.",
         null
       ]
     ],
     "Jonah|1|11": [
       [
         "Then said",
-        "H559"
+        "H0559"
       ],
       [
         " they unto him, What shall we do",
@@ -299,11 +537,161 @@
         "H3220"
       ],
       [
-        " wrought,",
+        " wrought",
         "H1980"
       ],
       [
-        " and was tempestuous.",
+        ", and was tempestuous",
+        "H5590"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Jonah|1|12": [
+      [
+        "And he said",
+        "H0559"
+      ],
+      [
+        " unto them, Take me up",
+        "H5375"
+      ],
+      [
+        ", and cast me forth",
+        "H2904"
+      ],
+      [
+        " into the sea",
+        "H3220"
+      ],
+      [
+        "; so shall the sea",
+        "H3220"
+      ],
+      [
+        " be calm",
+        "H8367"
+      ],
+      [
+        " unto you: for I know",
+        "H3045"
+      ],
+      [
+        " that for my sake",
+        "H7945"
+      ],
+      [
+        " this great",
+        "H1419"
+      ],
+      [
+        " tempest",
+        "H5591"
+      ],
+      [
+        " is upon you.",
+        null
+      ]
+    ],
+    "Jonah|1|13": [
+      [
+        "Nevertheless the men",
+        "H0582"
+      ],
+      [
+        " rowed hard",
+        "H2864"
+      ],
+      [
+        " to bring",
+        "H7725"
+      ],
+      [
+        " it to the land",
+        "H3004"
+      ],
+      [
+        "; but they could",
+        "H3201"
+      ],
+      [
+        " not: for the sea",
+        "H3220"
+      ],
+      [
+        " wrought",
+        "H1980"
+      ],
+      [
+        ", and was tempestuous",
+        "H5590"
+      ],
+      [
+        " against them.",
+        null
+      ]
+    ],
+    "Jonah|1|14": [
+      [
+        "Wherefore they cried",
+        "H7121"
+      ],
+      [
+        " unto the LORD",
+        "H3068"
+      ],
+      [
+        ", and said",
+        "H0559"
+      ],
+      [
+        ", We beseech thee",
+        "H0577"
+      ],
+      [
+        ", O LORD",
+        "H3068"
+      ],
+      [
+        ", we beseech thee, let us not perish",
+        "H0006"
+      ],
+      [
+        " for this man's",
+        "H0376"
+      ],
+      [
+        " life",
+        "H5315"
+      ],
+      [
+        ", and lay",
+        "H5414"
+      ],
+      [
+        " not upon us innocent",
+        "H5355"
+      ],
+      [
+        " blood",
+        "H1818"
+      ],
+      [
+        ": for thou, O LORD",
+        "H3068"
+      ],
+      [
+        ", hast done",
+        "H6213"
+      ],
+      [
+        " as it pleased",
+        "H2654"
+      ],
+      [
+        " thee.",
         null
       ]
     ],
@@ -313,19 +701,19 @@
         "H5375"
       ],
       [
-        " Jonah,",
+        " Jonah",
         "H3124"
       ],
       [
-        " and cast him forth",
+        ", and cast him forth",
         "H2904"
       ],
       [
-        " into the sea:",
+        " into the sea",
         "H3220"
       ],
       [
-        " and the sea",
+        ": and the sea",
         "H3220"
       ],
       [
@@ -333,14 +721,18 @@
         "H5975"
       ],
       [
-        " from her raging.",
+        " from her raging",
+        "H2197"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Jonah|1|16": [
       [
         "Then the men",
-        "H582"
+        "H0582"
       ],
       [
         " feared",
@@ -351,15 +743,11 @@
         "H3068"
       ],
       [
-        " exceedingly,",
+        " exceedingly",
         "H1419"
       ],
       [
-        "",
-        "H3374"
-      ],
-      [
-        " and offered",
+        ", and offered",
         "H2076"
       ],
       [
@@ -367,15 +755,19 @@
         "H2077"
       ],
       [
-        " unto the LORD,",
+        " unto the LORD",
         "H3068"
       ],
       [
-        " and made",
+        ", and made",
         "H5087"
       ],
       [
-        " vows.",
+        " vows",
+        "H5088"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -401,11 +793,11 @@
         "H1104"
       ],
       [
-        " Jonah.",
+        " Jonah",
         "H3124"
       ],
       [
-        " And Jonah",
+        ". And Jonah",
         "H3124"
       ],
       [
@@ -429,7 +821,11 @@
         "H7969"
       ],
       [
-        " nights.",
+        " nights",
+        "H3915"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -448,24 +844,28 @@
       ],
       [
         " his God",
-        "H430"
+        "H0430"
       ],
       [
         " out of the fish's",
         "H1710"
       ],
       [
-        " belly,",
+        " belly",
+        "H4578"
+      ],
+      [
+        ",",
         null
       ]
     ],
     "Jonah|2|2": [
       [
-        "And said,",
-        "H559"
+        "And said",
+        "H0559"
       ],
       [
-        " I cried",
+        ", I cried",
         "H7121"
       ],
       [
@@ -473,16 +873,16 @@
         "H6869"
       ],
       [
-        " unto the LORD,",
+        " unto the LORD",
         "H3068"
       ],
       [
-        " and he heard",
+        ", and he heard",
         "H6030"
       ],
       [
         " me; out of the belly",
-        "H990"
+        "H0990"
       ],
       [
         " of hell",
@@ -497,25 +897,71 @@
         "H8085"
       ],
       [
-        " my voice.",
+        " my voice",
+        "H6963"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Jonah|2|3": [
+      [
+        "For thou hadst cast",
+        "H7993"
+      ],
+      [
+        " me into the deep",
+        "H4688"
+      ],
+      [
+        ", in the midst",
+        "H3824"
+      ],
+      [
+        " of the seas",
+        "H3220"
+      ],
+      [
+        "; and the floods",
+        "H5104"
+      ],
+      [
+        " compassed",
+        "H5437"
+      ],
+      [
+        " me about: all thy billows",
+        "H4867"
+      ],
+      [
+        " and thy waves",
+        "H1530"
+      ],
+      [
+        " passed over",
+        "H5674"
+      ],
+      [
+        " me.",
         null
       ]
     ],
     "Jonah|2|4": [
       [
-        "Then I said,",
-        "H559"
+        "Then I said",
+        "H0559"
       ],
       [
-        " I am cast out",
+        ", I am cast out",
         "H1644"
       ],
       [
-        " of thy sight;",
+        " of thy sight",
         "H5869"
       ],
       [
-        " yet I will look",
+        "; yet I will look",
         "H5027"
       ],
       [
@@ -527,7 +973,11 @@
         "H6944"
       ],
       [
-        " temple.",
+        " temple",
+        "H1964"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -537,23 +987,23 @@
         "H4325"
       ],
       [
-        " compassed me about,",
-        "H661"
+        " compassed me about",
+        "H0661"
       ],
       [
-        " even to the soul:",
+        ", even to the soul",
         "H5315"
       ],
       [
-        " the depth",
+        ": the depth",
         "H8415"
       ],
       [
-        " closed me round about,",
+        " closed me round about",
         "H5437"
       ],
       [
-        " the weeds",
+        ", the weeds",
         "H5488"
       ],
       [
@@ -561,7 +1011,11 @@
         "H2280"
       ],
       [
-        " my head.",
+        " my head",
+        "H7218"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -575,23 +1029,23 @@
         "H7095"
       ],
       [
-        " of the mountains;",
+        " of the mountains",
         "H2022"
       ],
       [
-        " the earth",
-        "H776"
+        "; the earth",
+        "H0776"
       ],
       [
         " with her bars",
         "H1280"
       ],
       [
-        " was about me for ever:",
+        " was about me for ever",
         "H5769"
       ],
       [
-        " yet hast thou brought up",
+        ": yet hast thou brought up",
         "H5927"
       ],
       [
@@ -599,15 +1053,19 @@
         "H2416"
       ],
       [
-        " from corruption,",
+        " from corruption",
         "H7845"
       ],
       [
-        " O LORD",
+        ", O LORD",
         "H3068"
       ],
       [
-        " my God.",
+        " my God",
+        "H0430"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -625,23 +1083,27 @@
         "H2142"
       ],
       [
-        " the LORD:",
+        " the LORD",
         "H3068"
       ],
       [
-        " and my prayer",
+        ": and my prayer",
         "H8605"
       ],
       [
         " came in",
-        "H935"
+        "H0935"
       ],
       [
         " unto thee, into thine holy",
         "H6944"
       ],
       [
-        " temple.",
+        " temple",
+        "H1964"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -663,7 +1125,11 @@
         "H5800"
       ],
       [
-        " their own mercy.",
+        " their own mercy",
+        "H2617"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -677,23 +1143,57 @@
         "H6963"
       ],
       [
-        " of thanksgiving;",
+        " of thanksgiving",
         "H8426"
       ],
       [
-        " I will pay",
+        "; I will pay",
         "H7999"
       ],
       [
-        " that that I have vowed.",
+        " that that I have vowed",
         "H5087"
       ],
       [
-        " Salvation",
+        ". Salvation",
         "H3444"
       ],
       [
-        " is of the LORD.",
+        " is of the LORD",
+        "H3068"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Jonah|2|10": [
+      [
+        "And the LORD",
+        "H3068"
+      ],
+      [
+        " spake",
+        "H0559"
+      ],
+      [
+        " unto the fish",
+        "H1709"
+      ],
+      [
+        ", and it vomited out",
+        "H6958"
+      ],
+      [
+        " Jonah",
+        "H3124"
+      ],
+      [
+        " upon the dry",
+        "H3004"
+      ],
+      [
+        " land.",
         null
       ]
     ],
@@ -715,7 +1215,49 @@
         "H8145"
       ],
       [
-        " time, saying,",
+        " time, saying",
+        "H0559"
+      ],
+      [
+        ",",
+        null
+      ]
+    ],
+    "Jonah|3|2": [
+      [
+        "Arise",
+        "H6965"
+      ],
+      [
+        ", go",
+        "H3212"
+      ],
+      [
+        " unto Nineveh",
+        "H5210"
+      ],
+      [
+        ", that great",
+        "H1419"
+      ],
+      [
+        " city",
+        "H5892"
+      ],
+      [
+        ", and preach",
+        "H7121"
+      ],
+      [
+        " unto it the preaching",
+        "H7150"
+      ],
+      [
+        " that I bid",
+        "H1696"
+      ],
+      [
+        " thee.",
         null
       ]
     ],
@@ -725,32 +1267,32 @@
         "H3124"
       ],
       [
-        " arose,",
+        " arose",
         "H6965"
       ],
       [
-        " and went",
+        ", and went",
         "H3212"
       ],
       [
-        " unto Nineveh,",
+        " unto Nineveh",
         "H5210"
       ],
       [
-        " according to the word",
+        ", according to the word",
         "H1697"
       ],
       [
-        " of the LORD.",
+        " of the LORD",
         "H3068"
       ],
       [
-        " Now Nineveh",
+        ". Now Nineveh",
         "H5210"
       ],
       [
         " was an exceeding",
-        "H430"
+        "H0430"
       ],
       [
         " great",
@@ -765,11 +1307,15 @@
         "H7969"
       ],
       [
-        " days'",
+        " days",
         "H3117"
       ],
       [
-        " journey.",
+        "' journey",
+        "H4109"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -784,7 +1330,7 @@
       ],
       [
         " to enter",
-        "H935"
+        "H0935"
       ],
       [
         " into the city",
@@ -792,38 +1338,88 @@
       ],
       [
         " a",
-        "H259"
+        "H0259"
       ],
       [
         " day's",
         "H3117"
       ],
       [
-        " journey,",
+        " journey",
         "H4109"
       ],
       [
-        " and he cried,",
+        ", and he cried",
         "H7121"
       ],
       [
-        " and said,",
-        "H559"
+        ", and said",
+        "H0559"
       ],
       [
-        " Yet forty",
-        "H705"
+        ", Yet forty",
+        "H0705"
       ],
       [
-        " days,",
+        " days",
         "H3117"
       ],
       [
-        " and Nineveh",
+        ", and Nineveh",
         "H5210"
       ],
       [
-        " shall be overthrown.",
+        " shall be overthrown",
+        "H2015"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Jonah|3|5": [
+      [
+        "So the people",
+        "H0582"
+      ],
+      [
+        " of Nineveh",
+        "H5210"
+      ],
+      [
+        " believed",
+        "H0539"
+      ],
+      [
+        " God",
+        "H0430"
+      ],
+      [
+        ", and proclaimed",
+        "H7121"
+      ],
+      [
+        " a fast",
+        "H6685"
+      ],
+      [
+        ", and put",
+        "H3847"
+      ],
+      [
+        " on sackcloth",
+        "H8242"
+      ],
+      [
+        ", from the greatest",
+        "H1419"
+      ],
+      [
+        " of them even to the least",
+        "H6996"
+      ],
+      [
+        " of them.",
         null
       ]
     ],
@@ -841,39 +1437,43 @@
         "H4428"
       ],
       [
-        " of Nineveh,",
+        " of Nineveh",
         "H5210"
       ],
       [
-        " and he arose",
+        ", and he arose",
         "H6965"
       ],
       [
-        " from his throne,",
+        " from his throne",
         "H3678"
       ],
       [
-        " and he laid",
+        ", and he laid",
         "H5674"
       ],
       [
         " his robe",
-        "H155"
+        "H0155"
       ],
       [
         " from him, and covered",
         "H3680"
       ],
       [
-        " him with sackcloth,",
+        " him with sackcloth",
         "H8242"
       ],
       [
-        " and sat",
+        ", and sat",
         "H3427"
       ],
       [
-        " in ashes.",
+        " in ashes",
+        "H0665"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -884,7 +1484,7 @@
       ],
       [
         " and published",
-        "H559"
+        "H0559"
       ],
       [
         " through Nineveh",
@@ -899,69 +1499,73 @@
         "H4428"
       ],
       [
-        " and his nobles,",
+        " and his nobles",
         "H1419"
       ],
       [
-        " saying,",
-        "H559"
+        ", saying",
+        "H0559"
       ],
       [
-        " Let neither man",
-        "H120"
+        ", Let neither man",
+        "H0120"
       ],
       [
-        " nor beast,",
-        "H929"
+        " nor beast",
+        "H0929"
       ],
       [
-        " herd",
+        ", herd",
         "H1241"
       ],
       [
-        " nor flock,",
+        " nor flock",
         "H6629"
       ],
       [
-        " taste",
+        ", taste",
         "H2938"
       ],
       [
-        " any thing:",
+        " any thing",
         "H3972"
       ],
       [
-        " let them not feed,",
+        ": let them not feed",
         "H7462"
       ],
       [
-        " nor drink",
+        ", nor drink",
         "H8354"
       ],
       [
-        " water:",
+        " water",
+        "H4325"
+      ],
+      [
+        ":",
         null
       ]
     ],
     "Jonah|3|8": [
       [
         "But let man",
-        "H120"
+        "H0120"
       ],
       [
         " and beast",
-        "H929"
+        "H0929"
       ],
       [
         " be covered",
         "H3680"
       ],
       [
-        " with sackcloth,",
+        " with sackcloth",
         "H8242"
       ],
       [
-        " and cry",
+        ", and cry",
         "H7121"
       ],
       [
@@ -969,31 +1573,127 @@
         "H2394"
       ],
       [
-        " unto God:",
-        "H430"
+        " unto God",
+        "H0430"
       ],
       [
-        " yea, let them turn",
+        ": yea, let them turn",
         "H7725"
       ],
       [
         " every one",
-        "H376"
+        "H0376"
       ],
       [
         " from his evil",
         "H7451"
       ],
       [
-        " way,",
+        " way",
         "H1870"
       ],
       [
-        " and from the violence",
+        ", and from the violence",
         "H2555"
       ],
       [
-        " that is in their hands.",
+        " that is in their hands",
+        "H3709"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Jonah|3|9": [
+      [
+        "Who can tell",
+        "H3045"
+      ],
+      [
+        " if God",
+        "H0430"
+      ],
+      [
+        " will turn",
+        "H7725"
+      ],
+      [
+        " and repent",
+        "H5162"
+      ],
+      [
+        ", and turn away",
+        "H7725"
+      ],
+      [
+        " from his fierce",
+        "H2740"
+      ],
+      [
+        " anger",
+        "H0639"
+      ],
+      [
+        ", that we perish",
+        "H0006"
+      ],
+      [
+        " not?",
+        null
+      ]
+    ],
+    "Jonah|3|10": [
+      [
+        "And God",
+        "H0430"
+      ],
+      [
+        " saw",
+        "H7200"
+      ],
+      [
+        " their works",
+        "H4639"
+      ],
+      [
+        ", that they turned",
+        "H7725"
+      ],
+      [
+        " from their evil",
+        "H7451"
+      ],
+      [
+        " way",
+        "H1870"
+      ],
+      [
+        "; and God",
+        "H0430"
+      ],
+      [
+        " repented",
+        "H5162"
+      ],
+      [
+        " of the evil",
+        "H7451"
+      ],
+      [
+        ", that he had said",
+        "H1696"
+      ],
+      [
+        " that he would do",
+        "H6213"
+      ],
+      [
+        " unto them; and he did",
+        "H6213"
+      ],
+      [
+        " it not.",
         null
       ]
     ],
@@ -1007,15 +1707,15 @@
         "H3124"
       ],
       [
-        " exceedingly,",
+        " exceedingly",
         "H1419"
       ],
       [
-        "",
-        "H7451"
+        ", and he was very angry",
+        "H2734"
       ],
       [
-        " and he was very angry.",
+        ".",
         null
       ]
     ],
@@ -1025,31 +1725,31 @@
         "H6419"
       ],
       [
-        " unto the LORD,",
+        " unto the LORD",
         "H3068"
       ],
       [
-        " and said,",
-        "H559"
+        ", and said",
+        "H0559"
       ],
       [
-        " I pray",
-        "H577"
+        ", I pray",
+        "H0577"
       ],
       [
-        " thee, O LORD,",
+        " thee, O LORD",
         "H3068"
       ],
       [
-        " was not this my saying,",
+        ", was not this my saying",
         "H1697"
       ],
       [
-        " when I was yet in my country?",
-        "H127"
+        ", when I was yet in my country",
+        "H0127"
       ],
       [
-        " Therefore I fled",
+        "? Therefore I fled",
         "H1272"
       ],
       [
@@ -1057,11 +1757,11 @@
         "H6923"
       ],
       [
-        " unto Tarshish:",
+        " unto Tarshish",
         "H8659"
       ],
       [
-        " for I knew",
+        ": for I knew",
         "H3045"
       ],
       [
@@ -1069,49 +1769,53 @@
         "H2587"
       ],
       [
-        " God,",
-        "H410"
+        " God",
+        "H0410"
       ],
       [
-        " and merciful,",
+        ", and merciful",
         "H7349"
       ],
       [
-        " slow",
-        "H750"
+        ", slow",
+        "H0750"
       ],
       [
-        " to anger,",
-        "H639"
+        " to anger",
+        "H0639"
       ],
       [
-        " and of great",
+        ", and of great",
         "H7227"
       ],
       [
-        " kindness,",
+        " kindness",
         "H2617"
       ],
       [
-        " and repentest",
+        ", and repentest",
         "H5162"
       ],
       [
-        " thee of the evil.",
+        " thee of the evil",
+        "H7451"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Jonah|4|3": [
       [
-        "Therefore now, O LORD,",
+        "Therefore now, O LORD",
         "H3068"
       ],
       [
-        " take,",
+        ", take",
         "H3947"
       ],
       [
-        " I beseech thee, my life",
+        ", I beseech thee, my life",
         "H5315"
       ],
       [
@@ -1123,25 +1827,33 @@
         "H4194"
       ],
       [
-        " than to live.",
+        " than to live",
+        "H2416"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Jonah|4|4": [
       [
         "Then said",
-        "H559"
+        "H0559"
       ],
       [
-        " the LORD,",
+        " the LORD",
         "H3068"
       ],
       [
-        " Doest thou well",
+        ", Doest thou well",
         "H3190"
       ],
       [
-        " to be angry?",
+        " to be angry",
+        "H2734"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -1155,11 +1867,11 @@
         "H3318"
       ],
       [
-        " of the city,",
+        " of the city",
         "H5892"
       ],
       [
-        " and sat",
+        ", and sat",
         "H3427"
       ],
       [
@@ -1167,31 +1879,35 @@
         "H6924"
       ],
       [
-        " of the city,",
+        " of the city",
         "H5892"
       ],
       [
-        " and there made",
+        ", and there made",
         "H6213"
       ],
       [
-        " him a booth,",
+        " him a booth",
         "H5521"
       ],
       [
-        " and sat",
+        ", and sat",
         "H3427"
       ],
       [
-        " under it in the shadow,",
+        " under it in the shadow",
         "H6738"
       ],
       [
-        " till he might see",
+        ", till he might see",
         "H7200"
       ],
       [
-        " what would become of the city.",
+        " what would become of the city",
+        "H5892"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1202,42 +1918,42 @@
       ],
       [
         " God",
-        "H430"
+        "H0430"
       ],
       [
         " prepared",
         "H4487"
       ],
       [
-        " a gourd,",
+        " a gourd",
         "H7021"
       ],
       [
-        " and made it to come up",
+        ", and made it to come up",
         "H5927"
       ],
       [
-        " over Jonah,",
+        " over Jonah",
         "H3124"
       ],
       [
-        " that it might be a shadow",
+        ", that it might be a shadow",
         "H6738"
       ],
       [
-        " over his head,",
+        " over his head",
         "H7218"
       ],
       [
-        " to deliver",
+        ", to deliver",
         "H5337"
       ],
       [
-        " him from his grief.",
+        " him from his grief",
         "H7451"
       ],
       [
-        " So Jonah",
+        ". So Jonah",
         "H3124"
       ],
       [
@@ -1245,22 +1961,22 @@
         "H1419"
       ],
       [
-        "",
-        "H8057"
-      ],
-      [
         " glad",
         "H8055"
       ],
       [
-        " of the gourd.",
+        " of the gourd",
+        "H7021"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Jonah|4|7": [
       [
         "But God",
-        "H430"
+        "H0430"
       ],
       [
         " prepared",
@@ -1279,11 +1995,11 @@
         "H5927"
       ],
       [
-        " the next day,",
+        " the next day",
         "H4283"
       ],
       [
-        " and it smote",
+        ", and it smote",
         "H5221"
       ],
       [
@@ -1291,7 +2007,11 @@
         "H7021"
       ],
       [
-        " that it withered.",
+        " that it withered",
+        "H3001"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1301,12 +2021,12 @@
         "H8121"
       ],
       [
-        " did arise,",
+        " did arise",
         "H2224"
       ],
       [
-        " that God",
-        "H430"
+        ", that God",
+        "H0430"
       ],
       [
         " prepared",
@@ -1321,11 +2041,11 @@
         "H6921"
       ],
       [
-        " wind;",
+        " wind",
         "H7307"
       ],
       [
-        " and the sun",
+        "; and the sun",
         "H8121"
       ],
       [
@@ -1337,15 +2057,15 @@
         "H7218"
       ],
       [
-        " of Jonah,",
+        " of Jonah",
         "H3124"
       ],
       [
-        " that he fainted,",
+        ", that he fainted",
         "H5968"
       ],
       [
-        " and wished",
+        ", and wished",
         "H7592"
       ],
       [
@@ -1353,15 +2073,15 @@
         "H5315"
       ],
       [
-        " to die,",
+        " to die",
         "H4191"
       ],
       [
-        " and said,",
-        "H559"
+        ", and said",
+        "H0559"
       ],
       [
-        " It is better",
+        ", It is better",
         "H2896"
       ],
       [
@@ -1369,25 +2089,29 @@
         "H4194"
       ],
       [
-        " than to live.",
+        " than to live",
+        "H2416"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Jonah|4|9": [
       [
         "And God",
-        "H430"
+        "H0430"
       ],
       [
         " said",
-        "H559"
+        "H0559"
       ],
       [
-        " to Jonah,",
+        " to Jonah",
         "H3124"
       ],
       [
-        " Doest thou well",
+        ", Doest thou well",
         "H3190"
       ],
       [
@@ -1395,66 +2119,70 @@
         "H2734"
       ],
       [
-        " for the gourd?",
+        " for the gourd",
         "H7021"
       ],
       [
-        " And he said,",
-        "H559"
+        "? And he said",
+        "H0559"
       ],
       [
-        " I do well",
+        ", I do well",
         "H3190"
       ],
       [
-        " to be angry,",
+        " to be angry",
         "H2734"
       ],
       [
-        " even unto death.",
+        ", even unto death",
+        "H4194"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Jonah|4|10": [
       [
         "Then said",
-        "H559"
+        "H0559"
       ],
       [
-        " the LORD,",
+        " the LORD",
         "H3068"
       ],
       [
-        " Thou hast had pity",
+        ", Thou hast had pity",
         "H2347"
       ],
       [
-        " on the gourd,",
+        " on the gourd",
         "H7021"
       ],
       [
-        " for the which thou hast not laboured,",
+        ", for the which thou hast not laboured",
         "H5998"
       ],
       [
-        " neither madest it grow;",
+        ", neither madest it grow",
         "H1431"
       ],
       [
-        " which came up in a night,",
+        "; which came up in a night",
         "H1121"
       ],
       [
-        "",
-        "H3915"
+        ", and perished",
+        "H0006"
       ],
       [
-        " and perished",
-        "H6"
-      ],
-      [
-        " in a night:",
+        " in a night",
         "H1121"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "Jonah|4|11": [
@@ -1463,19 +2191,19 @@
         "H2347"
       ],
       [
-        " Nineveh,",
+        " Nineveh",
         "H5210"
       ],
       [
-        " that great",
+        ", that great",
         "H1419"
       ],
       [
-        " city,",
+        " city",
         "H5892"
       ],
       [
-        " wherein are",
+        ", wherein are",
         "H3426"
       ],
       [
@@ -1487,16 +2215,12 @@
         "H8147"
       ],
       [
-        "",
-        "H6240"
-      ],
-      [
         " thousand",
         "H7239"
       ],
       [
         " persons",
-        "H120"
+        "H0120"
       ],
       [
         " that cannot discern",
@@ -1507,15 +2231,19 @@
         "H3225"
       ],
       [
-        " and their left hand;",
+        " and their left hand",
         "H8040"
       ],
       [
-        " and also much",
+        "; and also much",
         "H7227"
       ],
       [
-        " cattle?",
+        " cattle",
+        "H0929"
+      ],
+      [
+        "?",
         null
       ]
     ]

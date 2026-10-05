@@ -5,35 +5,35 @@
   "verses": {
     "Titus|1|1": [
       [
-        "Paul,",
+        "Paul",
         "G3972"
       ],
       [
-        " a servant",
+        ", a servant",
         "G1401"
       ],
       [
-        " of God,",
+        " of God",
         "G2316"
       ],
       [
-        " and",
+        ", and",
         "G1161"
       ],
       [
         " an apostle",
-        "G652"
+        "G0652"
       ],
       [
         " of Jesus",
         "G2424"
       ],
       [
-        " Christ,",
+        " Christ",
         "G5547"
       ],
       [
-        " according to",
+        ", according to",
         "G2596"
       ],
       [
@@ -41,15 +41,19 @@
         "G4102"
       ],
       [
-        " of God's",
-        "G2316"
-      ],
-      [
-        " elect,",
+        " of",
         "G1588"
       ],
       [
-        " and",
+        " God's",
+        "G2316"
+      ],
+      [
+        " elect",
+        "G1588"
+      ],
+      [
+        ", and",
         "G2532"
       ],
       [
@@ -58,7 +62,7 @@
       ],
       [
         " of the truth",
-        "G225"
+        "G0225"
       ],
       [
         " which",
@@ -69,7 +73,11 @@
         "G2596"
       ],
       [
-        " godliness;",
+        " godliness",
+        "G2150"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -84,26 +92,26 @@
       ],
       [
         " of eternal",
-        "G166"
+        "G0166"
       ],
       [
-        " life,",
+        " life",
         "G2222"
       ],
       [
-        " which",
+        ", which",
         "G3739"
       ],
       [
-        " God,",
+        " God",
         "G2316"
       ],
       [
-        " that cannot lie,",
-        "G893"
+        ", that cannot lie",
+        "G0893"
       ],
       [
-        " promised",
+        ", promised",
         "G1861"
       ],
       [
@@ -112,10 +120,14 @@
       ],
       [
         " the world",
-        "G166"
+        "G5550"
       ],
       [
-        " began;",
+        " began",
+        "G0166"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -142,7 +154,7 @@
       ],
       [
         " his",
-        "G846"
+        "G0846"
       ],
       [
         " word",
@@ -153,19 +165,19 @@
         "G1722"
       ],
       [
-        " preaching,",
+        " preaching",
         "G2782"
       ],
       [
-        " which",
+        ", which",
         "G3739"
       ],
       [
-        " is committed",
+        " is committed unto",
         "G4100"
       ],
       [
-        " unto me",
+        " me",
         "G1473"
       ],
       [
@@ -185,17 +197,21 @@
         "G2257"
       ],
       [
-        " Saviour;",
+        " Saviour",
+        "G4990"
+      ],
+      [
+        ";",
         null
       ]
     ],
     "Titus|1|4": [
       [
-        "To Titus,",
+        "To Titus",
         "G5103"
       ],
       [
-        " mine own",
+        ", mine own",
         "G1103"
       ],
       [
@@ -211,24 +227,24 @@
         "G2839"
       ],
       [
-        " faith:",
+        " faith",
         "G4102"
       ],
       [
-        " Grace,",
+        ": Grace",
         "G5485"
       ],
       [
-        " mercy,",
+        ", mercy",
         "G1656"
       ],
       [
-        " and peace,",
+        ", and peace",
         "G1515"
       ],
       [
-        " from",
-        "G575"
+        ", from",
+        "G0575"
       ],
       [
         " God",
@@ -259,7 +275,11 @@
         "G2257"
       ],
       [
-        " Saviour.",
+        " Saviour",
+        "G4990"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -285,11 +305,11 @@
         "G1722"
       ],
       [
-        " Crete,",
+        " Crete",
         "G2914"
       ],
       [
-        " that",
+        ", that",
         "G2443"
       ],
       [
@@ -297,11 +317,15 @@
         "G1930"
       ],
       [
-        " the things that are wanting,",
+        " the things",
+        "G3588"
+      ],
+      [
+        " that are wanting",
         "G3007"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -317,11 +341,11 @@
         "G2596"
       ],
       [
-        " city,",
+        " city",
         "G4172"
       ],
       [
-        " as",
+        ", as",
         "G5613"
       ],
       [
@@ -333,37 +357,45 @@
         "G1299"
       ],
       [
-        " thee:",
+        " thee",
+        "G4671"
+      ],
+      [
+        ":",
         null
       ]
     ],
     "Titus|1|6": [
       [
-        "If any",
-        "G1536"
+        "If",
+        "G1487"
+      ],
+      [
+        " any",
+        "G5100"
       ],
       [
         " be",
         "G2076"
       ],
       [
-        " blameless,",
-        "G410"
+        " blameless",
+        "G0410"
       ],
       [
-        " the husband",
-        "G435"
+        ", the husband",
+        "G0435"
       ],
       [
         " of one",
-        "G3391"
+        "G1520"
       ],
       [
-        " wife,",
+        " wife",
         "G1135"
       ],
       [
-        " having",
+        ", having",
         "G2192"
       ],
       [
@@ -380,22 +412,22 @@
       ],
       [
         " accused",
-        "G1722"
-      ],
-      [
-        "",
         "G2724"
       ],
       [
         " of riot",
-        "G810"
+        "G0810"
       ],
       [
         " or",
         "G2228"
       ],
       [
-        " unruly.",
+        " unruly",
+        "G0506"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -417,11 +449,11 @@
         "G1511"
       ],
       [
-        " blameless,",
-        "G410"
+        " blameless",
+        "G0410"
       ],
       [
-        " as",
+        ", as",
         "G5613"
       ],
       [
@@ -429,84 +461,92 @@
         "G3623"
       ],
       [
-        " of God;",
+        " of God",
         "G2316"
       ],
       [
-        " not",
+        "; not",
         "G3361"
       ],
       [
-        " selfwilled,",
-        "G829"
+        " selfwilled",
+        "G0829"
       ],
       [
-        " not",
+        ", not",
         "G3361"
       ],
       [
-        " soon angry,",
+        " soon angry",
         "G3711"
       ],
       [
-        " not",
+        ", not",
         "G3361"
       ],
       [
-        " given to wine,",
+        " given to wine",
         "G3943"
       ],
       [
-        " no",
+        ", no",
         "G3361"
       ],
       [
-        " striker,",
+        " striker",
         "G4131"
       ],
       [
-        " not",
+        ", not",
         "G3361"
       ],
       [
-        " given to filthy lucre;",
+        " given to filthy lucre",
+        "G0146"
+      ],
+      [
+        ";",
         null
       ]
     ],
     "Titus|1|8": [
       [
         "But",
-        "G235"
+        "G0235"
       ],
       [
-        " a lover of hospitality,",
+        " a lover of hospitality",
         "G5382"
       ],
       [
-        " a lover of good men,",
+        ", a lover of good men",
         "G5358"
       ],
       [
-        " sober,",
+        ", sober",
         "G4998"
       ],
       [
-        " just,",
+        ", just",
         "G1342"
       ],
       [
-        " holy,",
+        ", holy",
         "G3741"
       ],
       [
-        " temperate;",
+        ", temperate",
+        "G1468"
+      ],
+      [
+        ";",
         null
       ]
     ],
     "Titus|1|9": [
       [
         "Holding fast",
-        "G472"
+        "G0472"
       ],
       [
         " the faithful",
@@ -521,11 +561,11 @@
         "G2596"
       ],
       [
-        " he hath been taught,",
+        " he hath been taught",
         "G1322"
       ],
       [
-        " that",
+        ", that",
         "G2443"
       ],
       [
@@ -565,7 +605,11 @@
         "G1651"
       ],
       [
-        " the gainsayers.",
+        " the gainsayers",
+        "G0483"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -584,7 +628,7 @@
       ],
       [
         " unruly",
-        "G506"
+        "G0506"
       ],
       [
         " and",
@@ -599,19 +643,27 @@
         "G2532"
       ],
       [
-        " deceivers,",
+        " deceivers",
         "G5423"
       ],
       [
-        " specially",
+        ", specially",
         "G3122"
       ],
       [
-        " they of",
+        " they",
+        "G3588"
+      ],
+      [
+        " of",
         "G1537"
       ],
       [
-        " the circumcision:",
+        " the circumcision",
+        "G4061"
+      ],
+      [
+        ":",
         null
       ]
     ],
@@ -629,27 +681,27 @@
         "G1163"
       ],
       [
-        " be stopped,",
+        " be stopped",
         "G1993"
       ],
       [
-        " who",
+        ", who",
         "G3748"
       ],
       [
         " subvert",
-        "G396"
+        "G0396"
       ],
       [
         " whole",
         "G3650"
       ],
       [
-        " houses,",
+        " houses",
         "G3624"
       ],
       [
-        " teaching",
+        ", teaching",
         "G1321"
       ],
       [
@@ -661,23 +713,27 @@
         "G1163"
       ],
       [
-        " not,",
+        " not",
         "G3361"
       ],
       [
-        " for",
+        ", for",
         "G5484"
       ],
       [
         " filthy",
-        "G150"
+        "G0150"
       ],
       [
         " lucre's",
         "G2771"
       ],
       [
-        " sake.",
+        " sake",
+        "G5484"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -691,51 +747,55 @@
         "G1537"
       ],
       [
-        " themselves,",
-        "G846"
+        " themselves",
+        "G0846"
       ],
       [
-        " even a prophet",
+        ", even a prophet",
         "G4396"
       ],
       [
         " of their",
-        "G846"
+        "G0846"
       ],
       [
-        " own,",
+        " own",
         "G2398"
       ],
       [
-        " said,",
+        ", said",
         "G2036"
       ],
       [
-        " The Cretians",
+        ", The Cretians",
         "G2912"
       ],
       [
         " are alway",
-        "G104"
+        "G0104"
       ],
       [
-        " liars,",
+        " liars",
         "G5583"
       ],
       [
-        " evil",
+        ", evil",
         "G2556"
       ],
       [
-        " beasts,",
+        " beasts",
         "G2342"
       ],
       [
-        " slow",
-        "G692"
+        ", slow",
+        "G0692"
       ],
       [
-        " bellies.",
+        " bellies",
+        "G1064"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -753,20 +813,12 @@
         "G2076"
       ],
       [
-        " true.",
-        "G227"
+        " true",
+        "G0227"
       ],
       [
-        " Wherefore",
+        ". Wherefore",
         "G1223"
-      ],
-      [
-        "",
-        "G3739"
-      ],
-      [
-        "",
-        "G156"
       ],
       [
         " rebuke",
@@ -774,14 +826,14 @@
       ],
       [
         " them",
-        "G846"
+        "G0846"
       ],
       [
-        " sharply,",
-        "G664"
+        " sharply",
+        "G0664"
       ],
       [
-        " that",
+        ", that",
         "G2443"
       ],
       [
@@ -793,7 +845,11 @@
         "G1722"
       ],
       [
-        " the faith;",
+        " the faith",
+        "G4102"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -803,19 +859,19 @@
         "G3361"
       ],
       [
-        " giving heed",
+        " giving heed to",
         "G4337"
       ],
       [
-        " to Jewish",
+        " Jewish",
         "G2451"
       ],
       [
-        " fables,",
+        " fables",
         "G3454"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -823,15 +879,19 @@
         "G1785"
       ],
       [
-        " of men,",
-        "G444"
+        " of men",
+        "G0444"
       ],
       [
-        " that turn from",
-        "G654"
+        ", that turn from",
+        "G0654"
       ],
       [
-        " the truth.",
+        " the truth",
+        "G0225"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -845,15 +905,11 @@
         "G3956"
       ],
       [
-        " are pure:",
-        "G3303"
-      ],
-      [
-        "",
+        " are pure",
         "G2513"
       ],
       [
-        " but",
+        ": but",
         "G1161"
       ],
       [
@@ -866,19 +922,19 @@
       ],
       [
         " unbelieving",
-        "G571"
+        "G0571"
       ],
       [
         " is nothing",
         "G3762"
       ],
       [
-        " pure;",
+        " pure",
         "G2513"
       ],
       [
-        " but",
-        "G235"
+        "; but",
+        "G0235"
       ],
       [
         " even",
@@ -886,7 +942,7 @@
       ],
       [
         " their",
-        "G846"
+        "G0846"
       ],
       [
         " mind",
@@ -901,7 +957,11 @@
         "G4893"
       ],
       [
-        " is defiled.",
+        " is defiled",
+        "G3392"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -915,11 +975,11 @@
         "G1492"
       ],
       [
-        " God;",
+        " God",
         "G2316"
       ],
       [
-        " but",
+        "; but",
         "G1161"
       ],
       [
@@ -928,26 +988,26 @@
       ],
       [
         " they deny",
-        "G720"
+        "G0720"
       ],
       [
         " him, being",
         "G5607"
       ],
       [
-        " abominable,",
-        "G947"
+        " abominable",
+        "G0947"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " disobedient,",
-        "G545"
+        " disobedient",
+        "G0545"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -960,14 +1020,18 @@
       ],
       [
         " good",
-        "G18"
+        "G0018"
       ],
       [
         " work",
         "G2041"
       ],
       [
-        " reprobate.",
+        " reprobate",
+        "G0096"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -997,13 +1061,21 @@
         "G5198"
       ],
       [
-        " doctrine:",
+        " doctrine",
+        "G1319"
+      ],
+      [
+        ":",
         null
       ]
     ],
     "Titus|2|2": [
       [
-        "That the aged men",
+        "That",
+        "G1511"
+      ],
+      [
+        " the aged men",
         "G4246"
       ],
       [
@@ -1011,31 +1083,35 @@
         "G1511"
       ],
       [
-        " sober,",
+        " sober",
         "G3524"
       ],
       [
-        " grave,",
+        ", grave",
         "G4586"
       ],
       [
-        " temperate,",
+        ", temperate",
         "G4998"
       ],
       [
-        " sound",
+        ", sound",
         "G5198"
       ],
       [
-        " in faith,",
+        " in faith",
         "G4102"
       ],
       [
-        " in charity,",
-        "G26"
+        ", in charity",
+        "G0026"
       ],
       [
-        " in patience.",
+        ", in patience",
+        "G5281"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1045,11 +1121,15 @@
         "G4247"
       ],
       [
-        " likewise,",
+        " likewise",
         "G5615"
       ],
       [
-        " that they be in",
+        ", that",
+        "G3361"
+      ],
+      [
+        " they be in",
         "G1722"
       ],
       [
@@ -1057,19 +1137,19 @@
         "G2688"
       ],
       [
-        " as becometh holiness,",
+        " as becometh holiness",
         "G2412"
       ],
       [
-        " not",
+        ", not",
         "G3361"
       ],
       [
-        " false accusers,",
+        " false accusers",
         "G1228"
       ],
       [
-        " not",
+        ", not",
         "G3361"
       ],
       [
@@ -1081,11 +1161,15 @@
         "G4183"
       ],
       [
-        " wine,",
+        " wine",
         "G3631"
       ],
       [
-        " teachers of good things;",
+        ", teachers of good things",
+        "G2567"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -1103,41 +1187,41 @@
         "G3501"
       ],
       [
-        " to be",
-        "G1511"
-      ],
-      [
-        " sober,",
+        " to be sober",
         "G4994"
       ],
       [
-        " to love their husbands,",
+        ", to love their husbands",
         "G5362"
       ],
       [
-        " to love their children,",
+        ", to love their children",
+        "G5388"
+      ],
+      [
+        ",",
         null
       ]
     ],
     "Titus|2|5": [
       [
-        "To be discreet,",
+        "To be discreet",
         "G4998"
       ],
       [
-        " chaste,",
-        "G53"
+        ", chaste",
+        "G0053"
       ],
       [
-        " keepers at home,",
+        ", keepers at home",
         "G3626"
       ],
       [
-        " good,",
-        "G18"
+        ", good",
+        "G0018"
       ],
       [
-        " obedient",
+        ", obedient",
         "G5293"
       ],
       [
@@ -1145,12 +1229,12 @@
         "G2398"
       ],
       [
-        " husbands,",
-        "G435"
+        " husbands",
+        "G0435"
       ],
       [
-        " that",
-        "G3363"
+        ", that",
+        "G2443"
       ],
       [
         " the word",
@@ -1162,14 +1246,18 @@
       ],
       [
         " be",
-        "G987"
+        "G0987"
       ],
       [
         " not",
-        "G3363"
+        "G3361"
       ],
       [
-        " blasphemed.",
+        " blasphemed",
+        "G0987"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1187,7 +1275,11 @@
         "G3870"
       ],
       [
-        " to be sober minded.",
+        " to be sober minded",
+        "G4993"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1217,11 +1309,11 @@
         "G2570"
       ],
       [
-        " works:",
+        " works",
         "G2041"
       ],
       [
-        " in",
+        ": in",
         "G1722"
       ],
       [
@@ -1229,15 +1321,19 @@
         "G1319"
       ],
       [
-        " shewing uncorruptness,",
-        "G90"
+        " shewing uncorruptness",
+        "G0090"
       ],
       [
-        " gravity,",
+        ", gravity",
         "G4587"
       ],
       [
-        " sincerity,",
+        ", sincerity",
+        "G0861"
+      ],
+      [
+        ",",
         null
       ]
     ],
@@ -1247,19 +1343,23 @@
         "G5199"
       ],
       [
-        " speech,",
+        " speech",
         "G3056"
       ],
       [
-        " that cannot be condemned;",
-        "G176"
+        ", that cannot be condemned",
+        "G0176"
       ],
       [
-        " that",
+        "; that",
         "G2443"
       ],
       [
-        " he that is of",
+        " he that is",
+        "G3588"
+      ],
+      [
+        " of",
         "G1537"
       ],
       [
@@ -1267,11 +1367,11 @@
         "G1727"
       ],
       [
-        " may be ashamed,",
+        " may be ashamed",
         "G1788"
       ],
       [
-        " having",
+        ", having",
         "G2192"
       ],
       [
@@ -1279,12 +1379,8 @@
         "G3367"
       ],
       [
-        " evil",
+        " evil thing",
         "G5337"
-      ],
-      [
-        " thing",
-        "G3367"
       ],
       [
         " to say",
@@ -1295,7 +1391,11 @@
         "G4012"
       ],
       [
-        " you.",
+        " you",
+        "G5216"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1305,7 +1405,11 @@
         "G1401"
       ],
       [
-        " to be obedient",
+        " to be",
+        "G1511"
+      ],
+      [
+        " obedient",
         "G5293"
       ],
       [
@@ -1313,15 +1417,15 @@
         "G2398"
       ],
       [
-        " masters,",
+        " masters",
         "G1203"
       ],
       [
-        " and to",
-        "G1511"
+        ", and to please",
+        "G2101"
       ],
       [
-        " please them well",
+        " them well",
         "G2101"
       ],
       [
@@ -1337,7 +1441,11 @@
         "G3361"
       ],
       [
-        " answering again;",
+        " answering again",
+        "G0483"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -1347,12 +1455,12 @@
         "G3361"
       ],
       [
-        " purloining,",
+        " purloining",
         "G3557"
       ],
       [
-        " but",
-        "G235"
+        ", but",
+        "G0235"
       ],
       [
         " shewing",
@@ -1364,14 +1472,14 @@
       ],
       [
         " good",
-        "G18"
+        "G0018"
       ],
       [
-        " fidelity;",
+        " fidelity",
         "G4102"
       ],
       [
-        " that",
+        "; that",
         "G2443"
       ],
       [
@@ -1399,7 +1507,11 @@
         "G1722"
       ],
       [
-        " all things.",
+        " all things",
+        "G3956"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1417,7 +1529,11 @@
         "G2316"
       ],
       [
-        " that bringeth salvation",
+        " that bringeth",
+        "G3588"
+      ],
+      [
+        " salvation",
         "G4992"
       ],
       [
@@ -1429,7 +1545,11 @@
         "G3956"
       ],
       [
-        " men,",
+        " men",
+        "G0444"
+      ],
+      [
+        ",",
         null
       ]
     ],
@@ -1443,16 +1563,16 @@
         "G2248"
       ],
       [
-        " that,",
+        " that",
         "G2443"
       ],
       [
-        " denying",
-        "G720"
+        ", denying",
+        "G0720"
       ],
       [
         " ungodliness",
-        "G763"
+        "G0763"
       ],
       [
         " and",
@@ -1463,43 +1583,47 @@
         "G2886"
       ],
       [
-        " lusts,",
+        " lusts",
         "G1939"
       ],
       [
-        " we should live",
+        ", we should live",
         "G2198"
       ],
       [
-        " soberly,",
+        " soberly",
         "G4996"
       ],
       [
-        "",
-        "G2532"
-      ],
-      [
-        " righteously,",
+        ", righteously",
         "G1346"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " godly,",
+        " godly",
         "G2153"
       ],
       [
-        " in",
+        ", in",
         "G1722"
       ],
       [
-        " this present",
+        " this",
+        "G3588"
+      ],
+      [
+        " present",
         "G3568"
       ],
       [
-        " world;",
+        " world",
+        "G0165"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -1509,15 +1633,19 @@
         "G4327"
       ],
       [
-        " that blessed",
+        " that",
+        "G3588"
+      ],
+      [
+        " blessed",
         "G3107"
       ],
       [
-        " hope,",
+        " hope",
         "G1680"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -1553,7 +1681,11 @@
         "G2424"
       ],
       [
-        " Christ;",
+        " Christ",
+        "G5547"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -1575,11 +1707,11 @@
         "G5228"
       ],
       [
-        " us,",
+        " us",
         "G2257"
       ],
       [
-        " that",
+        ", that",
         "G2443"
       ],
       [
@@ -1592,18 +1724,18 @@
       ],
       [
         " from",
-        "G575"
+        "G0575"
       ],
       [
         " all",
         "G3956"
       ],
       [
-        " iniquity,",
-        "G458"
+        " iniquity",
+        "G0458"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -1619,11 +1751,11 @@
         "G4041"
       ],
       [
-        " people,",
+        " people",
         "G2992"
       ],
       [
-        " zealous",
+        ", zealous",
         "G2207"
       ],
       [
@@ -1631,7 +1763,11 @@
         "G2570"
       ],
       [
-        " works.",
+        " works",
+        "G2041"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1641,19 +1777,19 @@
         "G5023"
       ],
       [
-        " speak,",
+        " speak",
         "G2980"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " exhort,",
+        " exhort",
         "G3870"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -1669,11 +1805,11 @@
         "G3956"
       ],
       [
-        " authority.",
+        " authority",
         "G2003"
       ],
       [
-        " Let",
+        ". Let",
         "G4065"
       ],
       [
@@ -1685,7 +1821,11 @@
         "G4065"
       ],
       [
-        " thee.",
+        " thee",
+        "G4675"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1696,34 +1836,34 @@
       ],
       [
         " them",
-        "G846"
+        "G0846"
       ],
       [
         " in mind",
         "G5279"
       ],
       [
-        " to be subject",
+        " to be subject to",
         "G5293"
       ],
       [
-        " to principalities",
-        "G746"
+        " principalities",
+        "G0746"
       ],
       [
         " and",
         "G2532"
       ],
       [
-        " powers,",
+        " powers",
         "G1849"
       ],
       [
-        " to obey magistrates,",
+        ", to obey magistrates",
         "G3980"
       ],
       [
-        " to be",
+        ", to be",
         "G1511"
       ],
       [
@@ -1740,36 +1880,40 @@
       ],
       [
         " good",
-        "G18"
+        "G0018"
       ],
       [
-        " work,",
+        " work",
+        "G2041"
+      ],
+      [
+        ",",
         null
       ]
     ],
     "Titus|3|2": [
       [
         "To speak evil of",
-        "G987"
+        "G0987"
       ],
       [
-        " no man,",
+        " no man",
         "G3367"
       ],
       [
-        " to be",
+        ", to be",
         "G1511"
       ],
       [
-        " no brawlers,",
-        "G269"
+        " no brawlers",
+        "G0269"
       ],
       [
-        " but gentle,",
+        ", but gentle",
         "G1933"
       ],
       [
-        " shewing",
+        ", shewing",
         "G1731"
       ],
       [
@@ -1789,7 +1933,11 @@
         "G3956"
       ],
       [
-        " men.",
+        " men",
+        "G0444"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1808,26 +1956,26 @@
       ],
       [
         " were",
-        "G2258"
+        "G1510"
       ],
       [
         " sometimes",
         "G4218"
       ],
       [
-        " foolish,",
-        "G453"
+        " foolish",
+        "G0453"
       ],
       [
-        " disobedient,",
-        "G545"
+        ", disobedient",
+        "G0545"
       ],
       [
-        " deceived,",
+        ", deceived",
         "G4105"
       ],
       [
-        " serving",
+        ", serving",
         "G1398"
       ],
       [
@@ -1843,11 +1991,11 @@
         "G2532"
       ],
       [
-        " pleasures,",
+        " pleasures",
         "G2237"
       ],
       [
-        " living",
+        ", living",
         "G1236"
       ],
       [
@@ -1863,19 +2011,23 @@
         "G2532"
       ],
       [
-        " envy,",
+        " envy",
         "G5355"
       ],
       [
-        " hateful,",
+        ", hateful",
         "G4767"
       ],
       [
-        " and hating",
+        ", and hating",
         "G3404"
       ],
       [
-        " one another.",
+        " one another",
+        "G0240"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1885,11 +2037,11 @@
         "G1161"
       ],
       [
-        " after",
+        " after that",
         "G3753"
       ],
       [
-        " that the kindness",
+        " the kindness",
         "G5544"
       ],
       [
@@ -1917,7 +2069,11 @@
         "G5363"
       ],
       [
-        " appeared,",
+        " appeared",
+        "G2014"
+      ],
+      [
+        ",",
         null
       ]
     ],
@@ -1951,12 +2107,12 @@
         "G2249"
       ],
       [
-        " have done,",
+        " have done",
         "G4160"
       ],
       [
-        " but",
-        "G235"
+        ", but",
+        "G0235"
       ],
       [
         " according to",
@@ -1964,7 +2120,7 @@
       ],
       [
         " his",
-        "G846"
+        "G0846"
       ],
       [
         " mercy",
@@ -1975,11 +2131,11 @@
         "G4982"
       ],
       [
-        " us,",
+        " us",
         "G2248"
       ],
       [
-        " by",
+        ", by",
         "G1223"
       ],
       [
@@ -1987,23 +2143,27 @@
         "G3067"
       ],
       [
-        " of regeneration,",
+        " of regeneration",
         "G3824"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
         " renewing",
-        "G342"
+        "G0342"
       ],
       [
         " of the Holy",
-        "G40"
+        "G0040"
       ],
       [
-        " Ghost;",
+        " Ghost",
+        "G4151"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -2045,7 +2205,11 @@
         "G2257"
       ],
       [
-        " Saviour;",
+        " Saviour",
+        "G4990"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -2055,19 +2219,19 @@
         "G2443"
       ],
       [
-        " being justified by",
+        " being justified",
         "G1344"
       ],
       [
-        " his",
+        " by his",
         "G1565"
       ],
       [
-        " grace,",
+        " grace",
         "G5485"
       ],
       [
-        " we should be made",
+        ", we should be made",
         "G1096"
       ],
       [
@@ -2084,10 +2248,14 @@
       ],
       [
         " of eternal",
-        "G166"
+        "G0166"
       ],
       [
-        " life.",
+        " life",
+        "G2222"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2097,19 +2265,15 @@
         "G4103"
       ],
       [
-        " saying,",
+        " saying",
         "G3056"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
         " these things",
-        "G4012"
-      ],
-      [
-        "",
         "G5130"
       ],
       [
@@ -2117,15 +2281,19 @@
         "G1014"
       ],
       [
-        " that thou",
-        "G4571"
-      ],
-      [
-        " affirm constantly,",
+        " that",
         "G1226"
       ],
       [
-        " that",
+        " thou",
+        "G4571"
+      ],
+      [
+        " affirm constantly",
+        "G1226"
+      ],
+      [
+        ", that",
         "G2443"
       ],
       [
@@ -2149,11 +2317,11 @@
         "G2570"
       ],
       [
-        " works.",
+        " works",
         "G2041"
       ],
       [
-        " These things",
+        ". These things",
         "G5023"
       ],
       [
@@ -2173,7 +2341,11 @@
         "G5624"
       ],
       [
-        " unto men.",
+        " unto men",
+        "G0444"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2191,39 +2363,39 @@
         "G3474"
       ],
       [
-        " questions,",
+        " questions",
         "G2214"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " genealogies,",
+        " genealogies",
         "G1076"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " contentions,",
+        " contentions",
         "G2054"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " strivings about",
+        " strivings",
         "G3163"
       ],
       [
-        " the law;",
+        " about the law",
         "G3544"
       ],
       [
-        " for",
+        "; for",
         "G1063"
       ],
       [
@@ -2232,25 +2404,29 @@
       ],
       [
         " unprofitable",
-        "G512"
+        "G0512"
       ],
       [
         " and",
         "G2532"
       ],
       [
-        " vain.",
+        " vain",
+        "G3152"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Titus|3|10": [
       [
         "A man",
-        "G444"
+        "G0444"
       ],
       [
         " that is an heretick",
-        "G141"
+        "G0141"
       ],
       [
         " after",
@@ -2258,7 +2434,7 @@
       ],
       [
         " the first",
-        "G3391"
+        "G1520"
       ],
       [
         " and",
@@ -2273,7 +2449,11 @@
         "G3559"
       ],
       [
-        " reject;",
+        " reject",
+        "G3868"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -2291,23 +2471,27 @@
         "G5108"
       ],
       [
-        " is subverted,",
+        " is subverted",
         "G1612"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " sinneth,",
-        "G264"
+        " sinneth",
+        "G0264"
       ],
       [
-        " being",
+        ", being",
         "G5607"
       ],
       [
-        " condemned of himself.",
+        " condemned of himself",
+        "G0843"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2322,26 +2506,26 @@
       ],
       [
         " Artemas",
-        "G734"
+        "G0734"
       ],
       [
         " unto",
         "G4314"
       ],
       [
-        " thee,",
+        " thee",
         "G4571"
       ],
       [
-        " or",
+        ", or",
         "G2228"
       ],
       [
-        " Tychicus,",
+        " Tychicus",
         "G5190"
       ],
       [
-        " be diligent",
+        ", be diligent",
         "G4704"
       ],
       [
@@ -2361,11 +2545,11 @@
         "G1519"
       ],
       [
-        " Nicopolis:",
+        " Nicopolis",
         "G3533"
       ],
       [
-        " for",
+        ": for",
         "G1063"
       ],
       [
@@ -2377,7 +2561,11 @@
         "G1563"
       ],
       [
-        " to winter.",
+        " to winter",
+        "G3914"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2400,18 +2588,18 @@
       ],
       [
         " Apollos",
-        "G625"
+        "G0625"
       ],
       [
         " on their journey",
         "G4311"
       ],
       [
-        " diligently,",
+        " diligently",
         "G4709"
       ],
       [
-        " that",
+        ", that",
         "G2443"
       ],
       [
@@ -2423,7 +2611,11 @@
         "G3007"
       ],
       [
-        " unto them.",
+        " unto them",
+        "G0846"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2466,15 +2658,15 @@
       ],
       [
         " necessary",
-        "G316"
+        "G0316"
       ],
       [
-        " uses,",
+        " uses",
         "G5532"
       ],
       [
-        " that",
-        "G3363"
+        ", that",
+        "G2443"
       ],
       [
         " they be",
@@ -2482,20 +2674,24 @@
       ],
       [
         " not",
-        "G3363"
+        "G3361"
       ],
       [
-        " unfruitful.",
+        " unfruitful",
+        "G0175"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Titus|3|15": [
       [
-        "All",
+        "All that are",
         "G3956"
       ],
       [
-        " that are with",
+        " with",
         "G3326"
       ],
       [
@@ -2504,15 +2700,15 @@
       ],
       [
         " salute",
-        "G782"
+        "G0782"
       ],
       [
-        " thee.",
+        " thee",
         "G4571"
       ],
       [
-        " Greet",
-        "G782"
+        ". Greet",
+        "G0782"
       ],
       [
         " them that love",
@@ -2527,11 +2723,11 @@
         "G1722"
       ],
       [
-        " the faith.",
+        " the faith",
         "G4102"
       ],
       [
-        " Grace",
+        ". Grace",
         "G5485"
       ],
       [
@@ -2543,11 +2739,15 @@
         "G5216"
       ],
       [
-        " all.",
+        " all",
         "G3956"
       ],
       [
-        " Amen.",
+        ". Amen",
+        "G0281"
+      ],
+      [
+        ".",
         null
       ]
     ]

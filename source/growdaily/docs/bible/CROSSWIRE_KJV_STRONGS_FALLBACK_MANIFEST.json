@@ -1,0 +1,37 @@
+{
+  "schemaVersion": "1.0",
+  "purpose": "Pinned CrossWire KJV Strong's fallback source for the three canonical verses without embedded Strong's annotations in the pinned eBible eng-kjv USFM package",
+  "source": {
+    "provider": "CrossWire Bible Society",
+    "repository": "https://gitlab.com/crosswire-bible-society/kjv",
+    "commit": "d490be7e34762deb2c76cb2c1306d4808e27890d",
+    "commitDate": "2023-07-26T10:19:37+00:00",
+    "commitSubject": "Update README.md to record release dates",
+    "osisFile": "kjv.osis.xml",
+    "osisSha256": "4bcbfe45722fca396adbeac9c81025bbb173cb1e30296da90864f0400cb0e3f5",
+    "configFile": "kjv.conf",
+    "configSha256": "d9a0d1a471f0f121fa7e31e40349cbf69823e3daeeb8cafd0c1cac65c4e4fa00",
+    "distributionLicenseMetadata": "GPL",
+    "licenseReviewStatus": "kjv.conf also records a general public-use statement for the KJV2003 Project text. Both statements are preserved; no final legal interpretation of their interaction is asserted."
+  },
+  "scope": [
+    {
+      "reference": "Mark 9:43",
+      "strongMarkers": 32
+    },
+    {
+      "reference": "Luke 6:41",
+      "strongMarkers": 22
+    },
+    {
+      "reference": "Luke 17:36",
+      "strongMarkers": 12,
+      "note": "The canonical editorial note following the source verse remains untagged."
+    }
+  ],
+  "totals": {
+    "fallbackVerses": 3,
+    "strongMarkers": 66
+  },
+  "alignmentRule": "Only positively matched source spans may transfer Strong's IDs. Canonical GD/KJV wording remains authoritative."
+}

@@ -9,11 +9,15 @@
         "H7892"
       ],
       [
-        " of songs,",
+        " of songs",
         "H7892"
       ],
       [
-        " which is Solomon's.",
+        ", which is Solomon's",
+        "H8010"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -27,11 +31,11 @@
         "H5390"
       ],
       [
-        " of his mouth:",
+        " of his mouth",
         "H6310"
       ],
       [
-        " for thy love",
+        ": for thy love",
         "H1730"
       ],
       [
@@ -39,41 +43,145 @@
         "H2896"
       ],
       [
-        " than wine.",
+        " than wine",
+        "H3196"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Song of Solomon|1|3": [
+      [
+        "Because of the savour",
+        "H7381"
+      ],
+      [
+        " of thy good",
+        "H2896"
+      ],
+      [
+        " ointments",
+        "H8081"
+      ],
+      [
+        " thy name",
+        "H8034"
+      ],
+      [
+        " is as ointment",
+        "H8081"
+      ],
+      [
+        " poured forth",
+        "H7324"
+      ],
+      [
+        ", therefore do the virgins",
+        "H5959"
+      ],
+      [
+        " love",
+        "H0157"
+      ],
+      [
+        " thee.",
+        null
+      ]
+    ],
+    "Song of Solomon|1|4": [
+      [
+        "Draw",
+        "H4900"
+      ],
+      [
+        " me, we will run",
+        "H7323"
+      ],
+      [
+        " after",
+        "H0310"
+      ],
+      [
+        " thee: the king",
+        "H4428"
+      ],
+      [
+        " hath brought",
+        "H0935"
+      ],
+      [
+        " me into his chambers",
+        "H2315"
+      ],
+      [
+        ": we will be glad",
+        "H1523"
+      ],
+      [
+        " and rejoice",
+        "H8055"
+      ],
+      [
+        " in thee, we will remember",
+        "H2142"
+      ],
+      [
+        " thy love",
+        "H1730"
+      ],
+      [
+        " more than wine",
+        "H3196"
+      ],
+      [
+        ": the upright",
+        "H4339"
+      ],
+      [
+        " love",
+        "H0157"
+      ],
+      [
+        " thee.",
         null
       ]
     ],
     "Song of Solomon|1|5": [
       [
-        "I am black,",
+        "I am black",
         "H7838"
       ],
       [
-        " but comely,",
+        ", but comely",
         "H5000"
       ],
       [
-        " O ye daughters",
+        ", O ye daughters",
         "H1323"
       ],
       [
-        " of Jerusalem,",
+        " of Jerusalem",
         "H3389"
       ],
       [
-        " as the tents",
-        "H168"
+        ", as the tents",
+        "H0168"
       ],
       [
-        " of Kedar,",
+        " of Kedar",
         "H6938"
       ],
       [
-        " as the curtains",
+        ", as the curtains",
         "H3407"
       ],
       [
-        " of Solomon.",
+        " of Solomon",
+        "H8010"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -83,11 +191,11 @@
         "H7200"
       ],
       [
-        " not upon me, because I am black,",
+        " not upon me, because I am black",
         "H7840"
       ],
       [
-        " because the sun",
+        ", because the sun",
         "H8121"
       ],
       [
@@ -96,7 +204,7 @@
       ],
       [
         " upon me: my mother's",
-        "H517"
+        "H0517"
       ],
       [
         " children",
@@ -115,15 +223,19 @@
         "H5201"
       ],
       [
-        " of the vineyards;",
+        " of the vineyards",
         "H3754"
       ],
       [
-        " but mine own vineyard",
+        "; but mine own vineyard",
         "H3754"
       ],
       [
-        " have I not kept.",
+        " have I not kept",
+        "H5201"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -137,27 +249,27 @@
         "H5315"
       ],
       [
-        " loveth,",
-        "H157"
+        " loveth",
+        "H0157"
       ],
       [
-        " where thou feedest,",
+        ", where thou feedest",
         "H7462"
       ],
       [
-        " where",
-        "H349"
+        ", where",
+        "H0349"
       ],
       [
         " thou makest thy flock to rest",
         "H7257"
       ],
       [
-        " at noon:",
+        " at noon",
         "H6672"
       ],
       [
-        " for",
+        ": for",
         "H4100"
       ],
       [
@@ -169,7 +281,11 @@
         "H5739"
       ],
       [
-        " of thy companions?",
+        " of thy companions",
+        "H2270"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -183,11 +299,11 @@
         "H3303"
       ],
       [
-        " among women,",
-        "H802"
+        " among women",
+        "H0802"
       ],
       [
-        " go thy way forth",
+        ", go thy way forth",
         "H3318"
       ],
       [
@@ -195,11 +311,11 @@
         "H6119"
       ],
       [
-        " of the flock,",
+        " of the flock",
         "H6629"
       ],
       [
-        " and feed",
+        ", and feed",
         "H7462"
       ],
       [
@@ -207,11 +323,15 @@
         "H1429"
       ],
       [
-        " beside the shepherds'",
+        " beside the shepherds",
         "H7462"
       ],
       [
-        " tents.",
+        "' tents",
+        "H4908"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -221,11 +341,11 @@
         "H1819"
       ],
       [
-        " thee, O my love,",
+        " thee, O my love",
         "H7474"
       ],
       [
-        " to a company of horses",
+        ", to a company of horses",
         "H5484"
       ],
       [
@@ -233,7 +353,37 @@
         "H6547"
       ],
       [
-        " chariots.",
+        " chariots",
+        "H7393"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Song of Solomon|1|10": [
+      [
+        "Thy cheeks",
+        "H3895"
+      ],
+      [
+        " are comely",
+        "H4998"
+      ],
+      [
+        " with rows",
+        "H8447"
+      ],
+      [
+        " of jewels, thy neck",
+        "H6677"
+      ],
+      [
+        " with chains",
+        "H2737"
+      ],
+      [
+        " of gold.",
         null
       ]
     ],
@@ -255,7 +405,37 @@
         "H5351"
       ],
       [
-        " of silver.",
+        " of silver",
+        "H3701"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Song of Solomon|1|12": [
+      [
+        "While the king",
+        "H4428"
+      ],
+      [
+        " sitteth at his table",
+        "H4524"
+      ],
+      [
+        ", my spikenard",
+        "H5373"
+      ],
+      [
+        " sendeth forth",
+        "H5414"
+      ],
+      [
+        " the smell",
+        "H7381"
+      ],
+      [
+        " thereof.",
         null
       ]
     ],
@@ -277,7 +457,11 @@
         "H3885"
       ],
       [
-        " all night betwixt my breasts.",
+        " all night betwixt my breasts",
+        "H7699"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -288,7 +472,7 @@
       ],
       [
         " is unto me as a cluster",
-        "H811"
+        "H0811"
       ],
       [
         " of camphire",
@@ -299,51 +483,63 @@
         "H3754"
       ],
       [
-        " of Engedi.",
+        " of Engedi",
+        "H5872"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Song of Solomon|1|15": [
       [
-        "Behold, thou art fair,",
+        "Behold, thou art fair",
         "H3303"
       ],
       [
-        " my love;",
+        ", my love",
         "H7474"
       ],
       [
-        " behold, thou art fair;",
+        "; behold, thou art fair",
         "H3303"
       ],
       [
-        " thou hast doves'",
+        "; thou hast doves",
         "H3123"
       ],
       [
-        " eyes.",
+        "' eyes",
+        "H5869"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Song of Solomon|1|16": [
       [
-        "Behold, thou art fair,",
+        "Behold, thou art fair",
         "H3303"
       ],
       [
-        " my beloved,",
+        ", my beloved",
         "H1730"
       ],
       [
-        " yea, pleasant:",
+        ", yea, pleasant",
         "H5273"
       ],
       [
-        " also our bed",
+        ": also our bed",
         "H6210"
       ],
       [
-        " is green.",
+        " is green",
+        "H7488"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -357,19 +553,19 @@
         "H1004"
       ],
       [
-        " are cedar,",
-        "H730"
+        " are cedar",
+        "H0730"
       ],
       [
-        " and our rafters",
+        ", and our rafters",
         "H7351"
       ],
       [
-        "",
-        "H7351"
+        " of fir",
+        "H1266"
       ],
       [
-        " of fir.",
+        ".",
         null
       ]
     ],
@@ -379,15 +575,19 @@
         "H2261"
       ],
       [
-        " of Sharon,",
+        " of Sharon",
         "H8289"
       ],
       [
-        " and the lily",
+        ", and the lily",
         "H7799"
       ],
       [
-        " of the valleys.",
+        " of the valleys",
+        "H6010"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -397,15 +597,19 @@
         "H7799"
       ],
       [
-        " among thorns,",
+        " among thorns",
         "H2336"
       ],
       [
-        " so is my love",
+        ", so is my love",
         "H7474"
       ],
       [
-        " among the daughters.",
+        " among the daughters",
+        "H1323"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -419,19 +623,19 @@
         "H6086"
       ],
       [
-        " of the wood,",
+        " of the wood",
         "H3293"
       ],
       [
-        " so is my beloved",
+        ", so is my beloved",
         "H1730"
       ],
       [
-        " among the sons.",
+        " among the sons",
         "H1121"
       ],
       [
-        " I sat",
+        ". I sat",
         "H3427"
       ],
       [
@@ -439,11 +643,11 @@
         "H6738"
       ],
       [
-        " with great delight,",
+        " with great delight",
         "H2530"
       ],
       [
-        " and his fruit",
+        ", and his fruit",
         "H6529"
       ],
       [
@@ -451,29 +655,37 @@
         "H4966"
       ],
       [
-        " to my taste.",
+        " to my taste",
+        "H2441"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Song of Solomon|2|4": [
       [
         "He brought",
-        "H935"
+        "H0935"
       ],
       [
         " me to the banqueting",
         "H3196"
       ],
       [
-        " house,",
+        " house",
         "H1004"
       ],
       [
-        " and his banner",
+        ", and his banner",
         "H1714"
       ],
       [
-        " over me was love.",
+        " over me was love",
+        "H0160"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -483,23 +695,49 @@
         "H5564"
       ],
       [
-        " me with flagons,",
-        "H809"
+        " me with flagons",
+        "H0809"
       ],
       [
-        " comfort",
+        ", comfort",
         "H7502"
       ],
       [
-        " me with apples:",
+        " me with apples",
         "H8598"
       ],
       [
-        " for I am sick",
+        ": for I am sick",
         "H2470"
       ],
       [
-        " of love.",
+        " of love",
+        "H0160"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Song of Solomon|2|6": [
+      [
+        "His left hand",
+        "H8040"
+      ],
+      [
+        " is under my head",
+        "H7218"
+      ],
+      [
+        ", and his right hand",
+        "H3225"
+      ],
+      [
+        " doth embrace",
+        "H2263"
+      ],
+      [
+        " me.",
         null
       ]
     ],
@@ -513,39 +751,43 @@
         "H1323"
       ],
       [
-        " of Jerusalem,",
+        " of Jerusalem",
         "H3389"
       ],
       [
-        " by the roes,",
+        ", by the roes",
         "H6643"
       ],
       [
-        " and",
-        "H176"
+        ", and",
+        "H0176"
       ],
       [
         " by the hinds",
-        "H355"
+        "H0355"
       ],
       [
-        " of the field,",
+        " of the field",
         "H7704"
       ],
       [
-        " that ye stir not up,",
+        ", that ye stir not up",
         "H5782"
       ],
       [
-        " nor awake",
+        ", nor awake",
         "H5782"
       ],
       [
-        " my love,",
-        "H160"
+        " my love",
+        "H0160"
       ],
       [
-        " till he please.",
+        ", till he please",
+        "H2654"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -555,27 +797,31 @@
         "H6963"
       ],
       [
-        " of my beloved!",
+        " of my beloved",
         "H1730"
       ],
       [
-        " behold, he cometh",
-        "H935"
+        "! behold, he cometh",
+        "H0935"
       ],
       [
         " leaping",
         "H1801"
       ],
       [
-        " upon the mountains,",
+        " upon the mountains",
         "H2022"
       ],
       [
-        " skipping",
+        ", skipping",
         "H7092"
       ],
       [
-        " upon the hills.",
+        " upon the hills",
+        "H1389"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -597,35 +843,39 @@
         "H6082"
       ],
       [
-        " hart:",
-        "H354"
+        " hart",
+        "H0354"
       ],
       [
-        " behold, he standeth",
+        ": behold, he standeth",
         "H5975"
       ],
       [
         " behind",
-        "H310"
+        "H0310"
       ],
       [
-        " our wall,",
+        " our wall",
         "H3796"
       ],
       [
-        " he looketh forth",
+        ", he looketh forth",
         "H7688"
       ],
       [
-        " at the windows,",
+        " at the windows",
         "H2474"
       ],
       [
-        " shewing",
+        ", shewing",
         "H6692"
       ],
       [
-        " himself through the lattice.",
+        " himself through the lattice",
+        "H2762"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -635,27 +885,31 @@
         "H1730"
       ],
       [
-        " spake,",
+        " spake",
         "H6030"
       ],
       [
-        " and said",
-        "H559"
+        ", and said",
+        "H0559"
       ],
       [
-        " unto me, Rise up,",
+        " unto me, Rise up",
         "H6965"
       ],
       [
-        " my love,",
+        ", my love",
         "H7474"
       ],
       [
-        " my fair one,",
+        ", my fair one",
         "H3303"
       ],
       [
-        " and come away.",
+        ", and come away",
+        "H3212"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -665,11 +919,11 @@
         "H5638"
       ],
       [
-        " is past,",
+        " is past",
         "H5674"
       ],
       [
-        " the rain",
+        ", the rain",
         "H1653"
       ],
       [
@@ -677,7 +931,11 @@
         "H2498"
       ],
       [
-        " and gone;",
+        " and gone",
+        "H1980"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -691,11 +949,11 @@
         "H7200"
       ],
       [
-        " on the earth;",
-        "H776"
+        " on the earth",
+        "H0776"
       ],
       [
-        " the time",
+        "; the time",
         "H6256"
       ],
       [
@@ -703,11 +961,11 @@
         "H2158"
       ],
       [
-        " of birds is come,",
+        " of birds is come",
         "H5060"
       ],
       [
-        " and the voice",
+        ", and the voice",
         "H6963"
       ],
       [
@@ -719,7 +977,11 @@
         "H8085"
       ],
       [
-        " in our land;",
+        " in our land",
+        "H0776"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -733,11 +995,11 @@
         "H2590"
       ],
       [
-        " her green figs,",
+        " her green figs",
         "H6291"
       ],
       [
-        " and the vines",
+        ", and the vines",
         "H1612"
       ],
       [
@@ -749,111 +1011,123 @@
         "H5414"
       ],
       [
-        " a good smell.",
+        " a good smell",
         "H7381"
       ],
       [
-        " Arise,",
+        ". Arise",
         "H6965"
       ],
       [
-        " my love,",
+        ", my love",
         "H7474"
       ],
       [
-        " my fair one,",
+        ", my fair one",
         "H3303"
       ],
       [
-        " and come away.",
+        ", and come away",
+        "H3212"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Song of Solomon|2|14": [
       [
-        "O my dove,",
+        "O my dove",
         "H3123"
       ],
       [
-        " that art in the clefts",
+        ", that art in the clefts",
         "H2288"
       ],
       [
-        " of the rock,",
+        " of the rock",
         "H5553"
       ],
       [
-        " in the secret",
+        ", in the secret",
         "H5643"
       ],
       [
-        " places of the stairs,",
+        " places of the stairs",
         "H4095"
       ],
       [
-        " let me see",
+        ", let me see",
         "H7200"
       ],
       [
-        " thy countenance,",
+        " thy countenance",
         "H4758"
       ],
       [
-        " let me hear",
+        ", let me hear",
         "H8085"
       ],
       [
-        " thy voice;",
+        " thy voice",
         "H6963"
       ],
       [
-        " for sweet",
+        "; for sweet",
         "H6156"
       ],
       [
-        " is thy voice,",
+        " is thy voice",
         "H6963"
       ],
       [
-        " and thy countenance",
+        ", and thy countenance",
         "H4758"
       ],
       [
-        " is comely.",
+        " is comely",
+        "H5000"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Song of Solomon|2|15": [
       [
         "Take",
-        "H270"
+        "H0270"
       ],
       [
-        " us the foxes,",
+        " us the foxes",
         "H7776"
       ],
       [
-        " the little",
+        ", the little",
         "H6996"
       ],
       [
-        " foxes,",
+        " foxes",
         "H7776"
       ],
       [
-        " that spoil",
+        ", that spoil",
         "H2254"
       ],
       [
-        " the vines:",
+        " the vines",
         "H3754"
       ],
       [
-        " for our vines",
+        ": for our vines",
         "H3754"
       ],
       [
-        " have tender grapes.",
+        " have tender grapes",
+        "H5563"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -867,7 +1141,11 @@
         "H7462"
       ],
       [
-        " among the lilies.",
+        " among the lilies",
+        "H7799"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -877,27 +1155,27 @@
         "H3117"
       ],
       [
-        " break,",
+        " break",
         "H6315"
       ],
       [
-        " and the shadows",
+        ", and the shadows",
         "H6752"
       ],
       [
-        " flee away,",
+        " flee away",
         "H5127"
       ],
       [
-        " turn,",
+        ", turn",
         "H5437"
       ],
       [
-        " my beloved,",
+        ", my beloved",
         "H1730"
       ],
       [
-        " and be thou like",
+        ", and be thou like",
         "H1819"
       ],
       [
@@ -910,14 +1188,98 @@
       ],
       [
         " hart",
-        "H354"
+        "H0354"
       ],
       [
         " upon the mountains",
         "H2022"
       ],
       [
-        " of Bether.",
+        " of Bether",
+        "H1336"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Song of Solomon|3|1": [
+      [
+        "By night",
+        "H3915"
+      ],
+      [
+        " on my bed",
+        "H4904"
+      ],
+      [
+        " I sought",
+        "H1245"
+      ],
+      [
+        " him whom my soul",
+        "H5315"
+      ],
+      [
+        " loveth",
+        "H0157"
+      ],
+      [
+        ": I sought",
+        "H1245"
+      ],
+      [
+        " him, but I found",
+        "H4672"
+      ],
+      [
+        " him not.",
+        null
+      ]
+    ],
+    "Song of Solomon|3|2": [
+      [
+        "I will rise",
+        "H6965"
+      ],
+      [
+        " now, and go about",
+        "H5437"
+      ],
+      [
+        " the city",
+        "H5892"
+      ],
+      [
+        " in the streets",
+        "H7784"
+      ],
+      [
+        ", and in the broad ways",
+        "H7339"
+      ],
+      [
+        " I will seek",
+        "H1245"
+      ],
+      [
+        " him whom my soul",
+        "H5315"
+      ],
+      [
+        " loveth",
+        "H0157"
+      ],
+      [
+        ": I sought",
+        "H1245"
+      ],
+      [
+        " him, but I found",
+        "H4672"
+      ],
+      [
+        " him not.",
         null
       ]
     ],
@@ -947,7 +1309,65 @@
         "H5315"
       ],
       [
-        " loveth?",
+        " loveth",
+        "H0157"
+      ],
+      [
+        "?",
+        null
+      ]
+    ],
+    "Song of Solomon|3|4": [
+      [
+        "It was but a little",
+        "H4592"
+      ],
+      [
+        " that I passed",
+        "H5674"
+      ],
+      [
+        " from them, but I found",
+        "H4672"
+      ],
+      [
+        " him whom my soul",
+        "H5315"
+      ],
+      [
+        " loveth",
+        "H0157"
+      ],
+      [
+        ": I held",
+        "H0270"
+      ],
+      [
+        " him, and would not let him go",
+        "H7503"
+      ],
+      [
+        ", until I had brought",
+        "H0935"
+      ],
+      [
+        " him into my mother's",
+        "H0517"
+      ],
+      [
+        " house",
+        "H1004"
+      ],
+      [
+        ", and into the chamber",
+        "H2315"
+      ],
+      [
+        " of her that conceived",
+        "H2029"
+      ],
+      [
+        " me.",
         null
       ]
     ],
@@ -961,39 +1381,43 @@
         "H1323"
       ],
       [
-        " of Jerusalem,",
+        " of Jerusalem",
         "H3389"
       ],
       [
-        " by the roes,",
+        ", by the roes",
         "H6643"
       ],
       [
-        " and",
-        "H176"
+        ", and",
+        "H0176"
       ],
       [
         " by the hinds",
-        "H355"
+        "H0355"
       ],
       [
-        " of the field,",
+        " of the field",
         "H7704"
       ],
       [
-        " that ye stir not up,",
+        ", that ye stir not up",
         "H5782"
       ],
       [
-        " nor awake",
+        ", nor awake",
         "H5782"
       ],
       [
-        " my love,",
-        "H160"
+        " my love",
+        "H0160"
       ],
       [
-        " till he please.",
+        ", till he please",
+        "H2654"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1011,11 +1435,11 @@
         "H8490"
       ],
       [
-        " of smoke,",
+        " of smoke",
         "H6227"
       ],
       [
-        " perfumed",
+        ", perfumed",
         "H6999"
       ],
       [
@@ -1023,29 +1447,33 @@
         "H4753"
       ],
       [
-        " and frankincense,",
+        " and frankincense",
         "H3828"
       ],
       [
-        " with all powders",
-        "H81"
+        ", with all powders",
+        "H0081"
       ],
       [
-        " of the merchant?",
+        " of the merchant",
+        "H7402"
+      ],
+      [
+        "?",
         null
       ]
     ],
     "Song of Solomon|3|7": [
       [
-        "Behold his bed,",
+        "Behold his bed",
         "H4296"
       ],
       [
-        " which is Solomon's;",
+        ", which is Solomon's",
         "H8010"
       ],
       [
-        " threescore",
+        "; threescore",
         "H8346"
       ],
       [
@@ -1061,30 +1489,34 @@
         "H1368"
       ],
       [
-        " of Israel.",
+        " of Israel",
+        "H3478"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Song of Solomon|3|8": [
       [
         "They all hold",
-        "H270"
+        "H0270"
       ],
       [
-        " swords,",
+        " swords",
         "H2719"
       ],
       [
-        " being expert",
+        ", being expert",
         "H3925"
       ],
       [
-        " in war:",
+        " in war",
         "H4421"
       ],
       [
-        " every man",
-        "H376"
+        ": every man",
+        "H0376"
       ],
       [
         " hath his sword",
@@ -1099,7 +1531,11 @@
         "H6343"
       ],
       [
-        " in the night.",
+        " in the night",
+        "H3915"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1118,14 +1554,18 @@
       ],
       [
         " himself a chariot",
-        "H668"
+        "H0668"
       ],
       [
         " of the wood",
         "H6086"
       ],
       [
-        " of Lebanon.",
+        " of Lebanon",
+        "H3844"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1139,27 +1579,27 @@
         "H5982"
       ],
       [
-        " thereof of silver,",
+        " thereof of silver",
         "H3701"
       ],
       [
-        " the bottom",
+        ", the bottom",
         "H7507"
       ],
       [
-        " thereof of gold,",
+        " thereof of gold",
         "H2091"
       ],
       [
-        " the covering",
+        ", the covering",
         "H4817"
       ],
       [
-        " of it of purple,",
-        "H713"
+        " of it of purple",
+        "H0713"
       ],
       [
-        " the midst",
+        ", the midst",
         "H8432"
       ],
       [
@@ -1167,33 +1607,37 @@
         "H7528"
       ],
       [
-        " with love,",
-        "H160"
+        " with love",
+        "H0160"
       ],
       [
-        " for the daughters",
+        ", for the daughters",
         "H1323"
       ],
       [
-        " of Jerusalem.",
+        " of Jerusalem",
+        "H3389"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Song of Solomon|3|11": [
       [
-        "Go forth,",
+        "Go forth",
         "H3318"
       ],
       [
-        " O ye daughters",
+        ", O ye daughters",
         "H1323"
       ],
       [
-        " of Zion,",
+        " of Zion",
         "H6726"
       ],
       [
-        " and behold",
+        ", and behold",
         "H7200"
       ],
       [
@@ -1210,7 +1654,7 @@
       ],
       [
         " wherewith his mother",
-        "H517"
+        "H0517"
       ],
       [
         " crowned",
@@ -1221,11 +1665,11 @@
         "H3117"
       ],
       [
-        " of his espousals,",
+        " of his espousals",
         "H2861"
       ],
       [
-        " and in the day",
+        ", and in the day",
         "H3117"
       ],
       [
@@ -1233,29 +1677,33 @@
         "H8057"
       ],
       [
-        " of his heart.",
+        " of his heart",
+        "H3820"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Song of Solomon|4|1": [
       [
-        "Behold, thou art fair,",
+        "Behold, thou art fair",
         "H3303"
       ],
       [
-        " my love;",
+        ", my love",
         "H7474"
       ],
       [
-        " behold, thou art fair;",
+        "; behold, thou art fair",
         "H3303"
       ],
       [
-        " thou hast doves'",
+        "; thou hast doves",
         "H3123"
       ],
       [
-        " eyes",
+        "' eyes",
         "H5869"
       ],
       [
@@ -1263,11 +1711,11 @@
         "H1157"
       ],
       [
-        " thy locks:",
+        " thy locks",
         "H6777"
       ],
       [
-        " thy hair",
+        ": thy hair",
         "H8181"
       ],
       [
@@ -1275,11 +1723,11 @@
         "H5739"
       ],
       [
-        " of goats,",
+        " of goats",
         "H5795"
       ],
       [
-        " that appear",
+        ", that appear",
         "H1570"
       ],
       [
@@ -1287,7 +1735,45 @@
         "H2022"
       ],
       [
-        " Gilead.",
+        " Gilead",
+        "H1568"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Song of Solomon|4|2": [
+      [
+        "Thy teeth",
+        "H8127"
+      ],
+      [
+        " are like a flock",
+        "H5739"
+      ],
+      [
+        " of sheep that are even shorn",
+        "H7094"
+      ],
+      [
+        ", which came up",
+        "H5927"
+      ],
+      [
+        " from the washing",
+        "H7367"
+      ],
+      [
+        "; whereof every one bear twins",
+        "H8382"
+      ],
+      [
+        ", and none is barren",
+        "H7909"
+      ],
+      [
+        " among them.",
         null
       ]
     ],
@@ -1301,19 +1787,19 @@
         "H2339"
       ],
       [
-        " of scarlet,",
+        " of scarlet",
         "H8144"
       ],
       [
-        " and thy speech",
+        ", and thy speech",
         "H4057"
       ],
       [
-        " is comely:",
+        " is comely",
         "H5000"
       ],
       [
-        " thy temples",
+        ": thy temples",
         "H7541"
       ],
       [
@@ -1329,7 +1815,11 @@
         "H1157"
       ],
       [
-        " thy locks.",
+        " thy locks",
+        "H6777"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1351,27 +1841,31 @@
         "H1129"
       ],
       [
-        " for an armoury,",
+        " for an armoury",
         "H8530"
       ],
       [
-        " whereon there hang",
+        ", whereon there hang",
         "H8518"
       ],
       [
         " a thousand",
-        "H505"
+        "H0505"
       ],
       [
-        " bucklers,",
+        " bucklers",
         "H4043"
       ],
       [
-        " all shields",
+        ", all shields",
         "H7982"
       ],
       [
-        " of mighty men.",
+        " of mighty men",
+        "H1368"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1397,15 +1891,19 @@
         "H6646"
       ],
       [
-        " that are twins,",
+        " that are twins",
         "H8380"
       ],
       [
-        " which feed",
+        ", which feed",
         "H7462"
       ],
       [
-        " among the lilies.",
+        " among the lilies",
+        "H7799"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1415,19 +1913,19 @@
         "H3117"
       ],
       [
-        " break,",
+        " break",
         "H6315"
       ],
       [
-        " and the shadows",
+        ", and the shadows",
         "H6752"
       ],
       [
-        " flee away,",
+        " flee away",
         "H5127"
       ],
       [
-        " I will get",
+        ", I will get",
         "H3212"
       ],
       [
@@ -1435,37 +1933,59 @@
         "H2022"
       ],
       [
-        " of myrrh,",
+        " of myrrh",
         "H4753"
       ],
       [
-        " and to the hill",
+        ", and to the hill",
         "H1389"
       ],
       [
-        " of frankincense.",
+        " of frankincense",
+        "H3828"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Song of Solomon|4|7": [
+      [
+        "Thou art all fair",
+        "H3303"
+      ],
+      [
+        ", my love",
+        "H7474"
+      ],
+      [
+        "; there is no spot",
+        "H3971"
+      ],
+      [
+        " in thee.",
         null
       ]
     ],
     "Song of Solomon|4|8": [
       [
         "Come",
-        "H935"
+        "H0935"
       ],
       [
-        " with me from Lebanon,",
+        " with me from Lebanon",
         "H3844"
       ],
       [
-        " my spouse,",
+        ", my spouse",
         "H3618"
       ],
       [
-        " with me from Lebanon:",
+        ", with me from Lebanon",
         "H3844"
       ],
       [
-        " look",
+        ": look",
         "H7789"
       ],
       [
@@ -1473,11 +1993,11 @@
         "H7218"
       ],
       [
-        " of Amana,",
-        "H549"
+        " of Amana",
+        "H0549"
       ],
       [
-        " from the top",
+        ", from the top",
         "H7218"
       ],
       [
@@ -1485,61 +2005,69 @@
         "H8149"
       ],
       [
-        " and Hermon,",
+        " and Hermon",
         "H2768"
       ],
       [
-        " from the lions'",
-        "H738"
+        ", from the lions",
+        "H0738"
       ],
       [
-        " dens,",
+        "' dens",
         "H4585"
       ],
       [
-        " from the mountains",
+        ", from the mountains",
         "H2042"
       ],
       [
-        " of the leopards.",
+        " of the leopards",
+        "H5246"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Song of Solomon|4|9": [
       [
-        "Thou hast ravished my heart,",
+        "Thou hast ravished my heart",
         "H3823"
       ],
       [
-        " my sister,",
-        "H269"
+        ", my sister",
+        "H0269"
       ],
       [
-        " my spouse;",
+        ", my spouse",
         "H3618"
       ],
       [
-        " thou hast ravished my heart",
+        "; thou hast ravished my heart",
         "H3823"
       ],
       [
         " with one",
-        "H259"
+        "H0259"
       ],
       [
-        " of thine eyes,",
+        " of thine eyes",
         "H5869"
       ],
       [
-        " with one",
-        "H259"
+        ", with one",
+        "H0259"
       ],
       [
         " chain",
         "H6060"
       ],
       [
-        " of thy neck.",
+        " of thy neck",
+        "H6677"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1549,19 +2077,19 @@
         "H3302"
       ],
       [
-        " is thy love,",
+        " is thy love",
         "H1730"
       ],
       [
-        " my sister,",
-        "H269"
+        ", my sister",
+        "H0269"
       ],
       [
-        " my spouse!",
+        ", my spouse",
         "H3618"
       ],
       [
-        " how much better",
+        "! how much better",
         "H2895"
       ],
       [
@@ -1569,11 +2097,11 @@
         "H1730"
       ],
       [
-        " than wine!",
+        " than wine",
         "H3196"
       ],
       [
-        " and the smell",
+        "! and the smell",
         "H7381"
       ],
       [
@@ -1581,29 +2109,33 @@
         "H8081"
       ],
       [
-        " than all spices!",
+        " than all spices",
+        "H1314"
+      ],
+      [
+        "!",
         null
       ]
     ],
     "Song of Solomon|4|11": [
       [
-        "Thy lips,",
+        "Thy lips",
         "H8193"
       ],
       [
-        " O my spouse,",
+        ", O my spouse",
         "H3618"
       ],
       [
-        " drop",
+        ", drop",
         "H5197"
       ],
       [
-        " as the honeycomb:",
+        " as the honeycomb",
         "H5317"
       ],
       [
-        " honey",
+        ": honey",
         "H1706"
       ],
       [
@@ -1611,11 +2143,11 @@
         "H2461"
       ],
       [
-        " are under thy tongue;",
+        " are under thy tongue",
         "H3956"
       ],
       [
-        " and the smell",
+        "; and the smell",
         "H7381"
       ],
       [
@@ -1627,7 +2159,11 @@
         "H7381"
       ],
       [
-        " of Lebanon.",
+        " of Lebanon",
+        "H3844"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1641,27 +2177,31 @@
         "H5274"
       ],
       [
-        " is my sister,",
-        "H269"
+        " is my sister",
+        "H0269"
       ],
       [
-        " my spouse;",
+        ", my spouse",
         "H3618"
       ],
       [
-        " a spring",
+        "; a spring",
         "H1530"
       ],
       [
-        " shut up,",
+        " shut up",
         "H5274"
       ],
       [
-        " a fountain",
+        ", a fountain",
         "H4599"
       ],
       [
-        " sealed.",
+        " sealed",
+        "H2856"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1675,23 +2215,27 @@
         "H6508"
       ],
       [
-        " of pomegranates,",
+        " of pomegranates",
         "H7416"
       ],
       [
-        " with pleasant",
+        ", with pleasant",
         "H4022"
       ],
       [
-        " fruits;",
+        " fruits",
         "H6529"
       ],
       [
-        " camphire,",
+        "; camphire",
         "H3724"
       ],
       [
-        " with spikenard,",
+        ", with spikenard",
+        "H5373"
+      ],
+      [
+        ",",
         null
       ]
     ],
@@ -1701,39 +2245,43 @@
         "H5373"
       ],
       [
-        " and saffron;",
+        " and saffron",
         "H3750"
       ],
       [
-        " calamus",
+        "; calamus",
         "H7070"
       ],
       [
-        " and cinnamon,",
+        " and cinnamon",
         "H7076"
       ],
       [
-        " with all trees",
+        ", with all trees",
         "H6086"
       ],
       [
-        " of frankincense;",
+        " of frankincense",
         "H3828"
       ],
       [
-        " myrrh",
+        "; myrrh",
         "H4753"
       ],
       [
-        " and aloes,",
-        "H174"
+        " and aloes",
+        "H0174"
       ],
       [
-        " with all the chief",
+        ", with all the chief",
         "H7218"
       ],
       [
-        " spices:",
+        " spices",
+        "H1314"
+      ],
+      [
+        ":",
         null
       ]
     ],
@@ -1743,131 +2291,139 @@
         "H4599"
       ],
       [
-        " of gardens,",
+        " of gardens",
         "H1588"
       ],
       [
-        " a well",
-        "H875"
+        ", a well",
+        "H0875"
       ],
       [
         " of living",
         "H2416"
       ],
       [
-        " waters,",
+        " waters",
         "H4325"
       ],
       [
-        " and streams",
+        ", and streams",
         "H5140"
       ],
       [
-        " from Lebanon.",
+        " from Lebanon",
+        "H3844"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Song of Solomon|4|16": [
       [
-        "Awake,",
+        "Awake",
         "H5782"
       ],
       [
-        " O north wind;",
+        ", O north wind",
         "H6828"
       ],
       [
-        " and come,",
-        "H935"
+        "; and come",
+        "H0935"
       ],
       [
-        " thou south;",
+        ", thou south",
         "H8486"
       ],
       [
-        " blow",
+        "; blow",
         "H6315"
       ],
       [
-        " upon my garden,",
+        " upon my garden",
         "H1588"
       ],
       [
-        " that the spices",
+        ", that the spices",
         "H1314"
       ],
       [
-        " thereof may flow out.",
+        " thereof may flow out",
         "H5140"
       ],
       [
-        " Let my beloved",
+        ". Let my beloved",
         "H1730"
       ],
       [
         " come",
-        "H935"
+        "H0935"
       ],
       [
-        " into his garden,",
+        " into his garden",
         "H1588"
       ],
       [
-        " and eat",
-        "H398"
+        ", and eat",
+        "H0398"
       ],
       [
         " his pleasant",
         "H4022"
       ],
       [
-        " fruits.",
+        " fruits",
+        "H6529"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Song of Solomon|5|1": [
       [
         "I am come",
-        "H935"
+        "H0935"
       ],
       [
-        " into my garden,",
+        " into my garden",
         "H1588"
       ],
       [
-        " my sister,",
-        "H269"
+        ", my sister",
+        "H0269"
       ],
       [
-        " my spouse:",
+        ", my spouse",
         "H3618"
       ],
       [
-        " I have gathered",
-        "H717"
+        ": I have gathered",
+        "H0717"
       ],
       [
         " my myrrh",
         "H4753"
       ],
       [
-        " with my spice;",
+        " with my spice",
         "H1313"
       ],
       [
-        " I have eaten",
-        "H398"
+        "; I have eaten",
+        "H0398"
       ],
       [
         " my honeycomb",
         "H3293"
       ],
       [
-        " with my honey;",
+        " with my honey",
         "H1706"
       ],
       [
-        " I have drunk",
+        "; I have drunk",
         "H8354"
       ],
       [
@@ -1875,45 +2431,49 @@
         "H3196"
       ],
       [
-        " with my milk:",
+        " with my milk",
         "H2461"
       ],
       [
-        " eat,",
-        "H398"
+        ": eat",
+        "H0398"
       ],
       [
-        " O friends;",
+        ", O friends",
         "H7453"
       ],
       [
-        " drink,",
+        "; drink",
         "H8354"
       ],
       [
-        " yea, drink abundantly,",
+        ", yea, drink abundantly",
         "H7937"
       ],
       [
-        " O beloved.",
+        ", O beloved",
+        "H1730"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Song of Solomon|5|2": [
       [
-        "I sleep,",
+        "I sleep",
         "H3463"
       ],
       [
-        " but my heart",
+        ", but my heart",
         "H3820"
       ],
       [
-        " waketh:",
+        " waketh",
         "H5782"
       ],
       [
-        " it is the voice",
+        ": it is the voice",
         "H6963"
       ],
       [
@@ -1921,31 +2481,31 @@
         "H1730"
       ],
       [
-        " that knocketh,",
+        " that knocketh",
         "H1849"
       ],
       [
-        " saying, Open",
+        ", saying, Open",
         "H6605"
       ],
       [
-        " to me, my sister,",
-        "H269"
+        " to me, my sister",
+        "H0269"
       ],
       [
-        " my love,",
+        ", my love",
         "H7474"
       ],
       [
-        " my dove,",
+        ", my dove",
         "H3123"
       ],
       [
-        " my undefiled:",
+        ", my undefiled",
         "H8535"
       ],
       [
-        " for my head",
+        ": for my head",
         "H7218"
       ],
       [
@@ -1953,11 +2513,11 @@
         "H4390"
       ],
       [
-        " with dew,",
+        " with dew",
         "H2919"
       ],
       [
-        " and my locks",
+        ", and my locks",
         "H6977"
       ],
       [
@@ -1965,7 +2525,83 @@
         "H7447"
       ],
       [
-        " of the night.",
+        " of the night",
+        "H3915"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Song of Solomon|5|3": [
+      [
+        "I have put off",
+        "H6584"
+      ],
+      [
+        " my coat",
+        "H3801"
+      ],
+      [
+        "; how",
+        "H0349"
+      ],
+      [
+        " shall I put it on",
+        "H3847"
+      ],
+      [
+        "? I have washed",
+        "H7364"
+      ],
+      [
+        " my feet",
+        "H7272"
+      ],
+      [
+        "; how",
+        "H0349"
+      ],
+      [
+        " shall I defile",
+        "H2936"
+      ],
+      [
+        " them?",
+        null
+      ]
+    ],
+    "Song of Solomon|5|4": [
+      [
+        "My beloved",
+        "H1730"
+      ],
+      [
+        " put in",
+        "H7971"
+      ],
+      [
+        " his hand",
+        "H3027"
+      ],
+      [
+        " by",
+        "H4480"
+      ],
+      [
+        " the hole",
+        "H2356"
+      ],
+      [
+        " of the door, and my bowels",
+        "H4578"
+      ],
+      [
+        " were moved",
+        "H1993"
+      ],
+      [
+        " for him.",
         null
       ]
     ],
@@ -1979,11 +2615,11 @@
         "H6605"
       ],
       [
-        " to my beloved;",
+        " to my beloved",
         "H1730"
       ],
       [
-        " and my hands",
+        "; and my hands",
         "H3027"
       ],
       [
@@ -1991,27 +2627,31 @@
         "H5197"
       ],
       [
-        " with myrrh,",
+        " with myrrh",
         "H4753"
       ],
       [
-        " and my fingers",
-        "H676"
+        ", and my fingers",
+        "H0676"
       ],
       [
         " with sweet smelling",
         "H5674"
       ],
       [
-        " myrrh,",
+        " myrrh",
         "H4753"
       ],
       [
-        " upon the handles",
+        ", upon the handles",
         "H3709"
       ],
       [
-        " of the lock.",
+        " of the lock",
+        "H4514"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2021,11 +2661,11 @@
         "H6605"
       ],
       [
-        " to my beloved;",
+        " to my beloved",
         "H1730"
       ],
       [
-        " but my beloved",
+        "; but my beloved",
         "H1730"
       ],
       [
@@ -2033,11 +2673,11 @@
         "H2559"
       ],
       [
-        " himself, and was gone:",
+        " himself, and was gone",
         "H5674"
       ],
       [
-        " my soul",
+        ": my soul",
         "H5315"
       ],
       [
@@ -2045,11 +2685,11 @@
         "H3318"
       ],
       [
-        " when he spake:",
+        " when he spake",
         "H1696"
       ],
       [
-        " I sought",
+        ": I sought",
         "H1245"
       ],
       [
@@ -2061,7 +2701,57 @@
         "H7121"
       ],
       [
-        " him, but he gave me no answer.",
+        " him, but he gave me no answer",
+        "H6030"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Song of Solomon|5|7": [
+      [
+        "The watchmen",
+        "H8104"
+      ],
+      [
+        " that went about",
+        "H5437"
+      ],
+      [
+        " the city",
+        "H5892"
+      ],
+      [
+        " found",
+        "H4672"
+      ],
+      [
+        " me, they smote",
+        "H5221"
+      ],
+      [
+        " me, they wounded",
+        "H6481"
+      ],
+      [
+        " me; the keepers",
+        "H8104"
+      ],
+      [
+        " of the walls",
+        "H2346"
+      ],
+      [
+        " took away",
+        "H5375"
+      ],
+      [
+        " my veil",
+        "H7289"
+      ],
+      [
+        " from me.",
         null
       ]
     ],
@@ -2075,19 +2765,19 @@
         "H1323"
       ],
       [
-        " of Jerusalem,",
+        " of Jerusalem",
         "H3389"
       ],
       [
-        " if ye find",
+        ", if ye find",
         "H4672"
       ],
       [
-        " my beloved,",
+        " my beloved",
         "H1730"
       ],
       [
-        " that ye tell",
+        ", that ye tell",
         "H5046"
       ],
       [
@@ -2095,7 +2785,49 @@
         "H2470"
       ],
       [
-        " of love.",
+        " of love",
+        "H0160"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Song of Solomon|5|9": [
+      [
+        "What is thy beloved",
+        "H1730"
+      ],
+      [
+        " more than another beloved",
+        "H1730"
+      ],
+      [
+        ", O thou fairest",
+        "H3303"
+      ],
+      [
+        " among women",
+        "H0802"
+      ],
+      [
+        "? what is thy beloved",
+        "H1730"
+      ],
+      [
+        " more than another beloved",
+        "H1730"
+      ],
+      [
+        ", that thou",
+        "H3602"
+      ],
+      [
+        " dost so charge",
+        "H7650"
+      ],
+      [
+        " us?",
         null
       ]
     ],
@@ -2109,15 +2841,19 @@
         "H6703"
       ],
       [
-        " and ruddy,",
-        "H122"
+        " and ruddy",
+        "H0122"
       ],
       [
-        " the chiefest",
+        ", the chiefest",
         "H1713"
       ],
       [
-        " among ten thousand.",
+        " among ten thousand",
+        "H7233"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2131,23 +2867,27 @@
         "H3800"
       ],
       [
-        " fine gold,",
+        " fine gold",
         "H6337"
       ],
       [
-        " his locks",
+        ", his locks",
         "H6977"
       ],
       [
-        " are bushy,",
+        " are bushy",
         "H8534"
       ],
       [
-        " and black",
+        ", and black",
         "H7838"
       ],
       [
-        " as a raven.",
+        " as a raven",
+        "H6158"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2162,23 +2902,27 @@
       ],
       [
         " by the rivers",
-        "H650"
+        "H0650"
       ],
       [
-        " of waters,",
+        " of waters",
         "H4325"
       ],
       [
-        " washed",
+        ", washed",
         "H7364"
       ],
       [
-        " with milk,",
+        " with milk",
         "H2461"
       ],
       [
-        " and fitly set.",
+        ", and fitly set",
         "H3427"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "Song of Solomon|5|13": [
@@ -2191,27 +2935,27 @@
         "H6170"
       ],
       [
-        " of spices,",
+        " of spices",
         "H1314"
       ],
       [
-        " as sweet",
+        ", as sweet",
         "H4840"
       ],
       [
-        " flowers:",
+        " flowers",
         "H4026"
       ],
       [
-        " his lips",
+        ": his lips",
         "H8193"
       ],
       [
-        " like lilies,",
+        " like lilies",
         "H7799"
       ],
       [
-        " dropping",
+        ", dropping",
         "H5197"
       ],
       [
@@ -2219,7 +2963,11 @@
         "H5674"
       ],
       [
-        " myrrh.",
+        " myrrh",
+        "H4753"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2241,11 +2989,11 @@
         "H4390"
       ],
       [
-        " with the beryl:",
+        " with the beryl",
         "H8658"
       ],
       [
-        " his belly",
+        ": his belly",
         "H4578"
       ],
       [
@@ -2261,7 +3009,11 @@
         "H5968"
       ],
       [
-        " with sapphires.",
+        " with sapphires",
+        "H5601"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2275,35 +3027,39 @@
         "H5982"
       ],
       [
-        " of marble,",
+        " of marble",
         "H8336"
       ],
       [
-        " set",
+        ", set",
         "H3245"
       ],
       [
         " upon sockets",
-        "H134"
+        "H0134"
       ],
       [
-        " of fine gold:",
+        " of fine gold",
         "H6337"
       ],
       [
-        " his countenance",
+        ": his countenance",
         "H4758"
       ],
       [
-        " is as Lebanon,",
+        " is as Lebanon",
         "H3844"
       ],
       [
-        " excellent",
-        "H977"
+        ", excellent",
+        "H0977"
       ],
       [
-        " as the cedars.",
+        " as the cedars",
+        "H0730"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2313,27 +3069,65 @@
         "H2441"
       ],
       [
-        " is most sweet:",
+        " is most sweet",
         "H4477"
       ],
       [
-        " yea, he is altogether lovely.",
+        ": yea, he is altogether lovely",
         "H4261"
       ],
       [
-        " This is my beloved,",
+        ". This is my beloved",
         "H1730"
       ],
       [
-        " and this is my friend,",
+        ", and this is my friend",
         "H7453"
       ],
       [
-        " O daughters",
+        ", O daughters",
         "H1323"
       ],
       [
-        " of Jerusalem.",
+        " of Jerusalem",
+        "H3389"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Song of Solomon|6|1": [
+      [
+        "Whither is thy beloved",
+        "H1730"
+      ],
+      [
+        " gone",
+        "H1980"
+      ],
+      [
+        ", O thou fairest",
+        "H3303"
+      ],
+      [
+        " among women",
+        "H0802"
+      ],
+      [
+        "? whither is thy beloved",
+        "H1730"
+      ],
+      [
+        " turned aside",
+        "H6437"
+      ],
+      [
+        "? that we may seek",
+        "H1245"
+      ],
+      [
+        " him with thee.",
         null
       ]
     ],
@@ -2347,41 +3141,45 @@
         "H3381"
       ],
       [
-        " into his garden,",
+        " into his garden",
         "H1588"
       ],
       [
-        " to the beds",
+        ", to the beds",
         "H6170"
       ],
       [
-        " of spices,",
+        " of spices",
         "H1314"
       ],
       [
-        " to feed",
+        ", to feed",
         "H7462"
       ],
       [
-        " in the gardens,",
+        " in the gardens",
         "H1588"
       ],
       [
-        " and to gather",
+        ", and to gather",
         "H3950"
       ],
       [
-        " lilies.",
+        " lilies",
+        "H7799"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Song of Solomon|6|3": [
       [
-        "I am my beloved's,",
+        "I am my beloved's",
         "H1730"
       ],
       [
-        " and my beloved",
+        ", and my beloved",
         "H1730"
       ],
       [
@@ -2389,37 +3187,45 @@
         "H7462"
       ],
       [
-        " among the lilies.",
+        " among the lilies",
+        "H7799"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Song of Solomon|6|4": [
       [
-        "Thou art beautiful,",
+        "Thou art beautiful",
         "H3303"
       ],
       [
-        " O my love,",
+        ", O my love",
         "H7474"
       ],
       [
-        " as Tirzah,",
+        ", as Tirzah",
         "H8656"
       ],
       [
-        " comely",
+        ", comely",
         "H5000"
       ],
       [
-        " as Jerusalem,",
+        " as Jerusalem",
         "H3389"
       ],
       [
-        " terrible",
-        "H366"
+        ", terrible",
+        "H0366"
       ],
       [
-        " as an army with banners.",
+        " as an army with banners",
+        "H1713"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2457,7 +3263,45 @@
         "H1570"
       ],
       [
-        " from Gilead.",
+        " from Gilead",
+        "H1568"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Song of Solomon|6|6": [
+      [
+        "Thy teeth",
+        "H8127"
+      ],
+      [
+        " are as a flock",
+        "H5739"
+      ],
+      [
+        " of sheep",
+        "H7353"
+      ],
+      [
+        " which go up",
+        "H5927"
+      ],
+      [
+        " from the washing",
+        "H7367"
+      ],
+      [
+        ", whereof every one beareth twins",
+        "H8382"
+      ],
+      [
+        ", and there is not one barren",
+        "H7909"
+      ],
+      [
+        " among them.",
         null
       ]
     ],
@@ -2479,7 +3323,11 @@
         "H1157"
       ],
       [
-        " thy locks.",
+        " thy locks",
+        "H6777"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2489,23 +3337,85 @@
         "H8346"
       ],
       [
-        " queens,",
+        " queens",
         "H4436"
       ],
       [
-        " and fourscore",
+        ", and fourscore",
         "H8084"
       ],
       [
-        " concubines,",
+        " concubines",
         "H6370"
       ],
       [
-        " and virgins",
+        ", and virgins",
         "H5959"
       ],
       [
-        " without number.",
+        " without number",
+        "H4557"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Song of Solomon|6|9": [
+      [
+        "My dove",
+        "H3123"
+      ],
+      [
+        ", my undefiled",
+        "H8535"
+      ],
+      [
+        " is but one",
+        "H0259"
+      ],
+      [
+        "; she is the only one",
+        "H0259"
+      ],
+      [
+        " of her mother",
+        "H0517"
+      ],
+      [
+        ", she is the choice",
+        "H1249"
+      ],
+      [
+        " one of her that bare",
+        "H3205"
+      ],
+      [
+        " her. The daughters",
+        "H1323"
+      ],
+      [
+        " saw",
+        "H7200"
+      ],
+      [
+        " her, and blessed",
+        "H0833"
+      ],
+      [
+        " her; yea, the queens",
+        "H4436"
+      ],
+      [
+        " and the concubines",
+        "H6370"
+      ],
+      [
+        ", and they praised",
+        "H1984"
+      ],
+      [
+        " her.",
         null
       ]
     ],
@@ -2515,31 +3425,35 @@
         "H8259"
       ],
       [
-        " as the morning,",
+        " as the morning",
         "H7837"
       ],
       [
-        " fair",
+        ", fair",
         "H3303"
       ],
       [
-        " as the moon,",
+        " as the moon",
         "H3842"
       ],
       [
-        " clear",
+        ", clear",
         "H1249"
       ],
       [
-        " as the sun,",
+        " as the sun",
         "H2535"
       ],
       [
-        " and terrible",
-        "H366"
+        ", and terrible",
+        "H0366"
       ],
       [
-        " as an army with banners?",
+        " as an army with banners",
+        "H1713"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -2554,7 +3468,7 @@
       ],
       [
         " of nuts",
-        "H93"
+        "H0093"
       ],
       [
         " to see",
@@ -2562,14 +3476,14 @@
       ],
       [
         " the fruits",
-        "H3"
+        "H0003"
       ],
       [
-        " of the valley,",
+        " of the valley",
         "H5158"
       ],
       [
-        " and to see",
+        ", and to see",
         "H7200"
       ],
       [
@@ -2577,25 +3491,29 @@
         "H1612"
       ],
       [
-        " flourished,",
+        " flourished",
         "H6524"
       ],
       [
-        " and the pomegranates",
+        ", and the pomegranates",
         "H7416"
       ],
       [
-        " budded.",
+        " budded",
+        "H5132"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Song of Solomon|6|12": [
       [
-        "Or ever I was aware,",
+        "Or ever I was aware",
         "H3045"
       ],
       [
-        " my soul",
+        ", my soul",
         "H5315"
       ],
       [
@@ -2607,33 +3525,37 @@
         "H4818"
       ],
       [
-        " of Amminadib.",
+        " of Amminadib",
+        "H5993"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Song of Solomon|6|13": [
       [
-        "Return,",
+        "Return",
         "H7725"
       ],
       [
-        " return,",
+        ", return",
         "H7725"
       ],
       [
-        " O Shulamite;",
+        ", O Shulamite",
         "H7759"
       ],
       [
-        " return,",
+        "; return",
         "H7725"
       ],
       [
-        " return,",
+        ", return",
         "H7725"
       ],
       [
-        " that we may look",
+        ", that we may look",
         "H2372"
       ],
       [
@@ -2641,15 +3563,19 @@
         "H2372"
       ],
       [
-        " in the Shulamite?",
+        " in the Shulamite",
         "H7759"
       ],
       [
-        " As it were the company",
+        "? As it were the company",
         "H4246"
       ],
       [
-        " of two armies.",
+        " of two armies",
+        "H4264"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2663,19 +3589,19 @@
         "H6471"
       ],
       [
-        " with shoes,",
+        " with shoes",
         "H5275"
       ],
       [
-        " O prince's",
+        ", O prince's",
         "H5081"
       ],
       [
-        " daughter!",
+        " daughter",
         "H1323"
       ],
       [
-        " the joints",
+        "! the joints",
         "H2542"
       ],
       [
@@ -2683,11 +3609,11 @@
         "H3409"
       ],
       [
-        " are like jewels,",
+        " are like jewels",
         "H2481"
       ],
       [
-        " the work",
+        ", the work",
         "H4639"
       ],
       [
@@ -2695,7 +3621,11 @@
         "H3027"
       ],
       [
-        " of a cunning workman.",
+        " of a cunning workman",
+        "H0542"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2709,20 +3639,20 @@
         "H5469"
       ],
       [
-        " goblet,",
-        "H101"
+        " goblet",
+        "H0101"
       ],
       [
-        " which wanteth",
+        ", which wanteth",
         "H2637"
       ],
       [
-        " not liquor:",
+        " not liquor",
         "H4197"
       ],
       [
-        " thy belly",
-        "H990"
+        ": thy belly",
+        "H0990"
       ],
       [
         " is like an heap",
@@ -2737,7 +3667,11 @@
         "H5473"
       ],
       [
-        " with lilies.",
+        " with lilies",
+        "H7799"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2763,7 +3697,11 @@
         "H6646"
       ],
       [
-        " that are twins.",
+        " that are twins",
+        "H8380"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2777,11 +3715,11 @@
         "H4026"
       ],
       [
-        " of ivory;",
+        " of ivory",
         "H8127"
       ],
       [
-        " thine eyes",
+        "; thine eyes",
         "H5869"
       ],
       [
@@ -2789,20 +3727,20 @@
         "H1295"
       ],
       [
-        " in Heshbon,",
+        " in Heshbon",
         "H2809"
       ],
       [
-        " by the gate",
+        ", by the gate",
         "H8179"
       ],
       [
-        " of Bathrabbim:",
+        " of Bathrabbim",
         "H1337"
       ],
       [
-        " thy nose",
-        "H639"
+        ": thy nose",
+        "H0639"
       ],
       [
         " is as the tower",
@@ -2821,7 +3759,11 @@
         "H6440"
       ],
       [
-        " Damascus.",
+        " Damascus",
+        "H1834"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2831,11 +3773,11 @@
         "H7218"
       ],
       [
-        " upon thee is like Carmel,",
+        " upon thee is like Carmel",
         "H3760"
       ],
       [
-        " and the hair",
+        ", and the hair",
         "H1803"
       ],
       [
@@ -2843,19 +3785,23 @@
         "H7218"
       ],
       [
-        " like purple;",
-        "H713"
+        " like purple",
+        "H0713"
       ],
       [
-        " the king",
+        "; the king",
         "H4428"
       ],
       [
         " is held",
-        "H631"
+        "H0631"
       ],
       [
-        " in the galleries.",
+        " in the galleries",
+        "H7298"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2869,30 +3815,60 @@
         "H5276"
       ],
       [
-        " art thou, O love,",
-        "H160"
+        " art thou, O love",
+        "H0160"
       ],
       [
-        " for delights!",
+        ", for delights",
+        "H8588"
+      ],
+      [
+        "!",
+        null
+      ]
+    ],
+    "Song of Solomon|7|7": [
+      [
+        "This thy stature",
+        "H6967"
+      ],
+      [
+        " is like",
+        "H1819"
+      ],
+      [
+        " to a palm tree",
+        "H8558"
+      ],
+      [
+        ", and thy breasts",
+        "H7699"
+      ],
+      [
+        " to clusters",
+        "H0811"
+      ],
+      [
+        " of grapes.",
         null
       ]
     ],
     "Song of Solomon|7|8": [
       [
-        "I said,",
-        "H559"
+        "I said",
+        "H0559"
       ],
       [
-        " I will go up",
+        ", I will go up",
         "H5927"
       ],
       [
-        " to the palm tree,",
+        " to the palm tree",
         "H8558"
       ],
       [
-        " I will take hold",
-        "H270"
+        ", I will take hold",
+        "H0270"
       ],
       [
         " of the boughs",
@@ -2904,22 +3880,26 @@
       ],
       [
         " shall be as clusters",
-        "H811"
+        "H0811"
       ],
       [
-        " of the vine,",
+        " of the vine",
         "H1612"
       ],
       [
-        " and the smell",
+        ", and the smell",
         "H7381"
       ],
       [
         " of thy nose",
-        "H639"
+        "H0639"
       ],
       [
-        " like apples;",
+        " like apples",
+        "H8598"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -2937,19 +3917,19 @@
         "H3196"
       ],
       [
-        " for my beloved,",
+        " for my beloved",
         "H1730"
       ],
       [
-        " that goeth",
+        ", that goeth",
         "H1980"
       ],
       [
-        " down sweetly,",
+        " down sweetly",
         "H4339"
       ],
       [
-        " causing the lips",
+        ", causing the lips",
         "H8193"
       ],
       [
@@ -2957,33 +3937,55 @@
         "H3463"
       ],
       [
-        " to speak.",
+        " to speak",
+        "H1680"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Song of Solomon|7|10": [
+      [
+        "I am my beloved's",
+        "H1730"
+      ],
+      [
+        ", and his desire",
+        "H8669"
+      ],
+      [
+        " is toward me.",
         null
       ]
     ],
     "Song of Solomon|7|11": [
       [
-        "Come,",
+        "Come",
         "H3212"
       ],
       [
-        " my beloved,",
+        ", my beloved",
         "H1730"
       ],
       [
-        " let us go forth",
+        ", let us go forth",
         "H3318"
       ],
       [
-        " into the field;",
+        " into the field",
         "H7704"
       ],
       [
-        " let us lodge",
+        "; let us lodge",
         "H3885"
       ],
       [
-        " in the villages.",
+        " in the villages",
+        "H3723"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2993,11 +3995,11 @@
         "H7925"
       ],
       [
-        " to the vineyards;",
+        " to the vineyards",
         "H3754"
       ],
       [
-        " let us see",
+        "; let us see",
         "H7200"
       ],
       [
@@ -3005,31 +4007,35 @@
         "H1612"
       ],
       [
-        " flourish,",
+        " flourish",
         "H6524"
       ],
       [
-        " whether the tender grape",
+        ", whether the tender grape",
         "H5563"
       ],
       [
-        " appear,",
+        " appear",
         "H6605"
       ],
       [
-        " and the pomegranates",
+        ", and the pomegranates",
         "H7416"
       ],
       [
-        " bud forth:",
+        " bud forth",
         "H5132"
       ],
       [
-        " there will I give",
+        ": there will I give",
         "H5414"
       ],
       [
-        " thee my loves.",
+        " thee my loves",
+        "H1730"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3043,11 +4049,11 @@
         "H5414"
       ],
       [
-        " a smell,",
+        " a smell",
         "H7381"
       ],
       [
-        " and at our gates",
+        ", and at our gates",
         "H6607"
       ],
       [
@@ -3059,15 +4065,19 @@
         "H2319"
       ],
       [
-        " and old,",
+        " and old",
         "H3465"
       ],
       [
-        " which I have laid up",
+        ", which I have laid up",
         "H6845"
       ],
       [
-        " for thee, O my beloved.",
+        " for thee, O my beloved",
+        "H1730"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3077,11 +4087,11 @@
         "H5414"
       ],
       [
-        " thou wert as my brother,",
-        "H251"
+        " thou wert as my brother",
+        "H0251"
       ],
       [
-        " that sucked",
+        ", that sucked",
         "H3243"
       ],
       [
@@ -3089,23 +4099,27 @@
         "H7699"
       ],
       [
-        " of my mother!",
-        "H517"
+        " of my mother",
+        "H0517"
       ],
       [
-        " when I should find",
+        "! when I should find",
         "H4672"
       ],
       [
-        " thee without,",
+        " thee without",
         "H2351"
       ],
       [
-        " I would kiss",
+        ", I would kiss",
         "H5401"
       ],
       [
-        " thee; yea, I should not be despised.",
+        " thee; yea, I should not be despised",
+        "H0936"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3116,18 +4130,18 @@
       ],
       [
         " thee, and bring",
-        "H935"
+        "H0935"
       ],
       [
         " thee into my mother's",
-        "H517"
+        "H0517"
       ],
       [
-        " house,",
+        " house",
         "H1004"
       ],
       [
-        " who would instruct",
+        ", who would instruct",
         "H3925"
       ],
       [
@@ -3147,7 +4161,33 @@
         "H6071"
       ],
       [
-        " of my pomegranate.",
+        " of my pomegranate",
+        "H7416"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Song of Solomon|8|3": [
+      [
+        "His left hand",
+        "H8040"
+      ],
+      [
+        " should be under my head",
+        "H7218"
+      ],
+      [
+        ", and his right hand",
+        "H3225"
+      ],
+      [
+        " should embrace",
+        "H2263"
+      ],
+      [
+        " me.",
         null
       ]
     ],
@@ -3161,23 +4201,73 @@
         "H1323"
       ],
       [
-        " of Jerusalem,",
+        " of Jerusalem",
         "H3389"
       ],
       [
-        " that ye stir not up,",
+        ", that ye stir not up",
         "H5782"
       ],
       [
-        " nor awake",
+        ", nor awake",
         "H5782"
       ],
       [
-        " my love,",
-        "H160"
+        " my love",
+        "H0160"
       ],
       [
-        " until he please.",
+        ", until he please",
+        "H2654"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Song of Solomon|8|5": [
+      [
+        "Who is this that cometh up",
+        "H5927"
+      ],
+      [
+        " from the wilderness",
+        "H4057"
+      ],
+      [
+        ", leaning",
+        "H7514"
+      ],
+      [
+        " upon her beloved",
+        "H1730"
+      ],
+      [
+        "? I raised",
+        "H5782"
+      ],
+      [
+        " thee up under the apple tree",
+        "H8598"
+      ],
+      [
+        ": there thy mother",
+        "H0517"
+      ],
+      [
+        " brought thee forth",
+        "H2254"
+      ],
+      [
+        ": there she brought thee forth",
+        "H2254"
+      ],
+      [
+        " that bare",
+        "H3205"
+      ],
+      [
+        " thee.",
         null
       ]
     ],
@@ -3191,31 +4281,31 @@
         "H2368"
       ],
       [
-        " upon thine heart,",
+        " upon thine heart",
         "H3820"
       ],
       [
-        " as a seal",
+        ", as a seal",
         "H2368"
       ],
       [
-        " upon thine arm:",
+        " upon thine arm",
         "H2220"
       ],
       [
-        " for love",
-        "H160"
+        ": for love",
+        "H0160"
       ],
       [
         " is strong",
         "H5794"
       ],
       [
-        " as death;",
+        " as death",
         "H4194"
       ],
       [
-        " jealousy",
+        "; jealousy",
         "H7068"
       ],
       [
@@ -3223,11 +4313,11 @@
         "H7186"
       ],
       [
-        " as the grave:",
+        " as the grave",
         "H7585"
       ],
       [
-        " the coals",
+        ": the coals",
         "H7565"
       ],
       [
@@ -3235,11 +4325,15 @@
         "H7565"
       ],
       [
-        " of fire,",
-        "H784"
+        " of fire",
+        "H0784"
       ],
       [
-        " which hath a most vehement flame.",
+        ", which hath a most vehement flame",
+        "H7957"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3261,11 +4355,11 @@
         "H3518"
       ],
       [
-        " love,",
-        "H160"
+        " love",
+        "H0160"
       ],
       [
-        " neither can the floods",
+        ", neither can the floods",
         "H5104"
       ],
       [
@@ -3274,7 +4368,7 @@
       ],
       [
         " it: if a man",
-        "H376"
+        "H0376"
       ],
       [
         " would give",
@@ -3289,15 +4383,19 @@
         "H1004"
       ],
       [
-        " for love,",
-        "H160"
+        " for love",
+        "H0160"
       ],
       [
-        " it would utterly",
-        "H936"
+        ", it would utterly",
+        "H0936"
       ],
       [
-        " be contemned.",
+        " be contemned",
+        "H0936"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3307,37 +4405,41 @@
         "H6996"
       ],
       [
-        " sister,",
-        "H269"
+        " sister",
+        "H0269"
       ],
       [
-        " and she hath no breasts:",
+        ", and she hath no breasts",
         "H7699"
       ],
       [
-        " what shall we do",
+        ": what shall we do",
         "H6213"
       ],
       [
         " for our sister",
-        "H269"
+        "H0269"
       ],
       [
         " in the day",
         "H3117"
       ],
       [
-        " when she shall be spoken for?",
+        " when she shall be spoken for",
+        "H1696"
+      ],
+      [
+        "?",
         null
       ]
     ],
     "Song of Solomon|8|9": [
       [
-        "If she be a wall,",
+        "If she be a wall",
         "H2346"
       ],
       [
-        " we will build",
+        ", we will build",
         "H1129"
       ],
       [
@@ -3345,15 +4447,15 @@
         "H2918"
       ],
       [
-        " of silver:",
+        " of silver",
         "H3701"
       ],
       [
-        " and if she be a door,",
+        ": and if she be a door",
         "H1817"
       ],
       [
-        " we will inclose",
+        ", we will inclose",
         "H6696"
       ],
       [
@@ -3361,25 +4463,29 @@
         "H3871"
       ],
       [
-        " of cedar.",
+        " of cedar",
+        "H0730"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Song of Solomon|8|10": [
       [
-        "I am a wall,",
+        "I am a wall",
         "H2346"
       ],
       [
-        " and my breasts",
+        ", and my breasts",
         "H7699"
       ],
       [
-        " like towers:",
+        " like towers",
         "H4026"
       ],
       [
-        " then was I in his eyes",
+        ": then was I in his eyes",
         "H5869"
       ],
       [
@@ -3387,7 +4493,11 @@
         "H4672"
       ],
       [
-        " favour.",
+        " favour",
+        "H7965"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3401,11 +4511,11 @@
         "H3754"
       ],
       [
-        " at Baalhamon;",
+        " at Baalhamon",
         "H1174"
       ],
       [
-        " he let out",
+        "; he let out",
         "H5414"
       ],
       [
@@ -3413,12 +4523,12 @@
         "H3754"
       ],
       [
-        " unto keepers;",
+        " unto keepers",
         "H5201"
       ],
       [
-        " every one",
-        "H376"
+        "; every one",
+        "H0376"
       ],
       [
         " for the fruit",
@@ -3426,36 +4536,40 @@
       ],
       [
         " thereof was to bring",
-        "H935"
+        "H0935"
       ],
       [
         " a thousand",
-        "H505"
+        "H0505"
       ],
       [
-        " pieces of silver.",
+        " pieces of silver",
+        "H3701"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Song of Solomon|8|12": [
       [
-        "My vineyard,",
+        "My vineyard",
         "H3754"
       ],
       [
-        " which is mine, is before",
+        ", which is mine, is before",
         "H6440"
       ],
       [
-        " me: thou, O Solomon,",
+        " me: thou, O Solomon",
         "H8010"
       ],
       [
-        " must have a thousand,",
-        "H505"
+        ", must have a thousand",
+        "H0505"
       ],
       [
-        " and those that keep",
+        ", and those that keep",
         "H5201"
       ],
       [
@@ -3463,21 +4577,55 @@
         "H6529"
       ],
       [
-        " thereof two hundred.",
+        " thereof two hundred",
+        "H3967"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Song of Solomon|8|13": [
+      [
+        "Thou that dwellest",
+        "H3427"
+      ],
+      [
+        " in the gardens",
+        "H1588"
+      ],
+      [
+        ", the companions",
+        "H2270"
+      ],
+      [
+        " hearken",
+        "H7181"
+      ],
+      [
+        " to thy voice",
+        "H6963"
+      ],
+      [
+        ": cause me to hear",
+        "H8085"
+      ],
+      [
+        " it.",
         null
       ]
     ],
     "Song of Solomon|8|14": [
       [
-        "Make haste,",
+        "Make haste",
         "H1272"
       ],
       [
-        " my beloved,",
+        ", my beloved",
         "H1730"
       ],
       [
-        " and be thou like",
+        ", and be thou like",
         "H1819"
       ],
       [
@@ -3490,14 +4638,18 @@
       ],
       [
         " hart",
-        "H354"
+        "H0354"
       ],
       [
         " upon the mountains",
         "H2022"
       ],
       [
-        " of spices.",
+        " of spices",
+        "H1314"
+      ],
+      [
+        ".",
         null
       ]
     ]

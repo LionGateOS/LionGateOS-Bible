@@ -5,65 +5,65 @@
   "verses": {
     "1 Peter|1|1": [
       [
-        "Peter,",
+        "Peter",
         "G4074"
       ],
       [
-        " an apostle",
-        "G652"
+        ", an apostle",
+        "G0652"
       ],
       [
         " of Jesus",
         "G2424"
       ],
       [
-        " Christ,",
+        " Christ",
         "G5547"
       ],
       [
-        " to the strangers",
+        ", to the strangers",
         "G3927"
       ],
       [
-        " scattered",
+        " scattered throughout",
         "G1290"
       ],
       [
-        " throughout Pontus,",
+        " Pontus",
         "G4195"
       ],
       [
-        " Galatia,",
+        ", Galatia",
         "G1053"
       ],
       [
-        " Cappadocia,",
+        ", Cappadocia",
         "G2587"
       ],
       [
-        " Asia,",
-        "G773"
+        ", Asia",
+        "G0773"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " Bithynia,",
-        "G978"
+        " Bithynia",
+        "G0978"
+      ],
+      [
+        ",",
+        null
       ]
     ],
     "1 Peter|1|2": [
       [
-        "Elect",
-        "G1588"
-      ],
-      [
-        " according",
+        "Elect according to",
         "G2596"
       ],
       [
-        " to the foreknowledge",
+        " the foreknowledge",
         "G4268"
       ],
       [
@@ -71,23 +71,23 @@
         "G2316"
       ],
       [
-        " the Father,",
+        " the Father",
         "G3962"
       ],
       [
-        " through",
+        ", through",
         "G1722"
       ],
       [
         " sanctification",
-        "G38"
+        "G0038"
       ],
       [
-        " of the Spirit,",
+        " of the Spirit",
         "G4151"
       ],
       [
-        " unto",
+        ", unto",
         "G1519"
       ],
       [
@@ -104,35 +104,149 @@
       ],
       [
         " of the blood",
-        "G129"
+        "G0129"
       ],
       [
         " of Jesus",
         "G2424"
       ],
       [
-        " Christ:",
+        " Christ",
         "G5547"
       ],
       [
-        " Grace",
+        ": Grace",
         "G5485"
       ],
       [
-        " unto you,",
+        " unto you",
         "G5213"
+      ],
+      [
+        ", and",
+        "G2532"
+      ],
+      [
+        " peace",
+        "G1515"
+      ],
+      [
+        ", be multiplied",
+        "G4129"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Peter|1|3": [
+      [
+        "Blessed",
+        "G2128"
+      ],
+      [
+        " be the God",
+        "G2316"
       ],
       [
         " and",
         "G2532"
       ],
       [
-        " peace,",
-        "G1515"
+        " Father",
+        "G3962"
       ],
       [
-        " be multiplied.",
-        "G4129"
+        " of",
+        "G2962"
+      ],
+      [
+        " our",
+        "G2257"
+      ],
+      [
+        " Lord",
+        "G2962"
+      ],
+      [
+        " Jesus",
+        "G2424"
+      ],
+      [
+        " Christ",
+        "G5547"
+      ],
+      [
+        ", which",
+        "G3588"
+      ],
+      [
+        " according to",
+        "G2596"
+      ],
+      [
+        " his",
+        "G0846"
+      ],
+      [
+        " abundant",
+        "G4183"
+      ],
+      [
+        " mercy",
+        "G1656"
+      ],
+      [
+        " hath begotten",
+        "G0313"
+      ],
+      [
+        " us",
+        "G2248"
+      ],
+      [
+        " again",
+        "G0313"
+      ],
+      [
+        " unto",
+        "G1519"
+      ],
+      [
+        " a lively",
+        "G2198"
+      ],
+      [
+        " hope",
+        "G1680"
+      ],
+      [
+        " by",
+        "G1223"
+      ],
+      [
+        " the resurrection",
+        "G0386"
+      ],
+      [
+        " of Jesus",
+        "G2424"
+      ],
+      [
+        " Christ",
+        "G5547"
+      ],
+      [
+        " from",
+        "G1537"
+      ],
+      [
+        " the dead",
+        "G3498"
+      ],
+      [
+        ",",
+        null
       ]
     ],
     "1 Peter|1|4": [
@@ -145,27 +259,27 @@
         "G2817"
       ],
       [
-        " incorruptible,",
-        "G862"
+        " incorruptible",
+        "G0862"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " undefiled,",
-        "G283"
+        " undefiled",
+        "G0283"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " that fadeth not away,",
-        "G263"
+        " that fadeth not away",
+        "G0263"
       ],
       [
-        " reserved",
+        ", reserved",
         "G5083"
       ],
       [
@@ -181,8 +295,12 @@
         "G1519"
       ],
       [
-        " you,",
+        " you",
         "G5209"
+      ],
+      [
+        ",",
+        null
       ]
     ],
     "1 Peter|1|5": [
@@ -228,7 +346,7 @@
       ],
       [
         " to be revealed",
-        "G601"
+        "G0601"
       ],
       [
         " in",
@@ -239,8 +357,12 @@
         "G2078"
       ],
       [
-        " time.",
+        " time",
         "G2540"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|1|6": [
@@ -249,35 +371,31 @@
         "G1722"
       ],
       [
-        "",
-        "G3739"
+        " ye greatly rejoice",
+        "G0021"
       ],
       [
-        " ye greatly rejoice,",
-        "G21"
+        ", though now",
+        "G0737"
       ],
       [
-        " though now",
-        "G737"
-      ],
-      [
-        " for a season,",
+        " for a season",
         "G3641"
       ],
       [
-        " if",
+        ", if",
         "G1487"
       ],
       [
-        " need",
+        " need be",
         "G1163"
       ],
       [
-        " be,",
+        ", ye are",
         "G2076"
       ],
       [
-        " ye are in heaviness",
+        " in heaviness",
         "G3076"
       ],
       [
@@ -289,8 +407,12 @@
         "G4164"
       ],
       [
-        " temptations:",
+        " temptations",
         "G3986"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "1 Peter|1|7": [
@@ -307,31 +429,31 @@
         "G5216"
       ],
       [
-        " faith,",
+        " faith",
         "G4102"
       ],
       [
-        " being much",
+        ", being much",
         "G4183"
       ],
       [
-        " more precious",
+        " more precious than",
         "G5093"
       ],
       [
-        " than of gold",
+        " of gold",
         "G5553"
       ],
       [
-        " that perisheth,",
-        "G622"
+        " that",
+        "G3588"
       ],
       [
-        " though",
-        "G1223"
+        " perisheth",
+        "G0622"
       ],
       [
-        "",
+        ", though",
         "G1161"
       ],
       [
@@ -339,11 +461,15 @@
         "G1381"
       ],
       [
-        " with fire,",
+        " with",
+        "G1223"
+      ],
+      [
+        " fire",
         "G4442"
       ],
       [
-        " might be found",
+        ", might be found",
         "G2147"
       ],
       [
@@ -376,15 +502,93 @@
       ],
       [
         " the appearing",
-        "G602"
+        "G0602"
       ],
       [
         " of Jesus",
         "G2424"
       ],
       [
-        " Christ:",
+        " Christ",
         "G5547"
+      ],
+      [
+        ":",
+        null
+      ]
+    ],
+    "1 Peter|1|8": [
+      [
+        "Whom",
+        "G3739"
+      ],
+      [
+        " having",
+        "G1492"
+      ],
+      [
+        " not",
+        "G3756"
+      ],
+      [
+        " seen",
+        "G1492"
+      ],
+      [
+        ", ye love",
+        "G0025"
+      ],
+      [
+        "; in",
+        "G1519"
+      ],
+      [
+        " whom",
+        "G3739"
+      ],
+      [
+        ", though now",
+        "G0737"
+      ],
+      [
+        " ye see",
+        "G3708"
+      ],
+      [
+        " him not",
+        "G3361"
+      ],
+      [
+        ", yet",
+        "G1161"
+      ],
+      [
+        " believing",
+        "G4100"
+      ],
+      [
+        ", ye rejoice",
+        "G0021"
+      ],
+      [
+        " with joy",
+        "G5479"
+      ],
+      [
+        " unspeakable",
+        "G0412"
+      ],
+      [
+        " and",
+        "G2532"
+      ],
+      [
+        " full of glory",
+        "G1392"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "1 Peter|1|9": [
@@ -401,16 +605,24 @@
         "G5216"
       ],
       [
-        " faith,",
+        " faith",
         "G4102"
       ],
       [
-        " even the salvation",
+        ", even the salvation",
         "G4991"
       ],
       [
-        " of your souls.",
+        " of",
         "G5590"
+      ],
+      [
+        " your souls",
+        "G5590"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|1|10": [
@@ -439,15 +651,11 @@
         "G2532"
       ],
       [
-        " searched diligently,",
+        " searched diligently",
         "G1830"
       ],
       [
-        " who",
-        "G3588"
-      ],
-      [
-        " prophesied",
+        ", who prophesied",
         "G4395"
       ],
       [
@@ -463,8 +671,12 @@
         "G1519"
       ],
       [
-        " you:",
+        " you",
         "G5209"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "1 Peter|1|11": [
@@ -473,23 +685,19 @@
         "G2045"
       ],
       [
-        " what,",
-        "G1519"
-      ],
-      [
-        "",
+        " what",
         "G5101"
       ],
       [
-        " or",
+        ", or",
         "G2228"
       ],
       [
-        " what manner",
+        " what manner of",
         "G4169"
       ],
       [
-        " of time",
+        " time",
         "G2540"
       ],
       [
@@ -510,18 +718,18 @@
       ],
       [
         " them",
-        "G846"
+        "G0846"
       ],
       [
-        " did signify,",
+        " did signify",
         "G1213"
       ],
       [
-        " when it testified beforehand",
+        ", when it testified",
         "G4303"
       ],
       [
-        " the sufferings",
+        " beforehand the sufferings",
         "G3804"
       ],
       [
@@ -529,11 +737,11 @@
         "G1519"
       ],
       [
-        " Christ,",
+        " Christ",
         "G5547"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -541,12 +749,138 @@
         "G1391"
       ],
       [
-        " that should follow.",
+        " that",
+        "G5023"
+      ],
+      [
+        " should follow",
         "G3326"
       ],
       [
-        "",
-        "G5023"
+        ".",
+        null
+      ]
+    ],
+    "1 Peter|1|12": [
+      [
+        "Unto whom",
+        "G3739"
+      ],
+      [
+        " it was revealed",
+        "G0601"
+      ],
+      [
+        ", that",
+        "G3754"
+      ],
+      [
+        " not",
+        "G3756"
+      ],
+      [
+        " unto themselves",
+        "G1438"
+      ],
+      [
+        ", but",
+        "G1161"
+      ],
+      [
+        " unto us",
+        "G2254"
+      ],
+      [
+        " they did minister",
+        "G1247"
+      ],
+      [
+        " the things",
+        "G0846"
+      ],
+      [
+        ", which",
+        "G3739"
+      ],
+      [
+        " are",
+        "G0312"
+      ],
+      [
+        " now",
+        "G3568"
+      ],
+      [
+        " reported",
+        "G0312"
+      ],
+      [
+        " unto you",
+        "G5213"
+      ],
+      [
+        " by",
+        "G1223"
+      ],
+      [
+        " them",
+        "G3588"
+      ],
+      [
+        " that have preached the gospel",
+        "G2097"
+      ],
+      [
+        " unto you",
+        "G5209"
+      ],
+      [
+        " with",
+        "G1722"
+      ],
+      [
+        " the Holy",
+        "G0040"
+      ],
+      [
+        " Ghost",
+        "G4151"
+      ],
+      [
+        " sent down",
+        "G0649"
+      ],
+      [
+        " from",
+        "G0575"
+      ],
+      [
+        " heaven",
+        "G3772"
+      ],
+      [
+        "; which things",
+        "G3739"
+      ],
+      [
+        " the angels",
+        "G0032"
+      ],
+      [
+        " desire",
+        "G1937"
+      ],
+      [
+        " to look",
+        "G3879"
+      ],
+      [
+        " into",
+        "G1519"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|1|13": [
@@ -556,7 +890,7 @@
       ],
       [
         " gird up",
-        "G328"
+        "G0328"
       ],
       [
         " the loins",
@@ -567,15 +901,15 @@
         "G5216"
       ],
       [
-        " mind,",
+        " mind",
         "G1271"
       ],
       [
-        " be sober,",
+        ", be sober",
         "G3525"
       ],
       [
-        " and hope",
+        ", and hope",
         "G1679"
       ],
       [
@@ -604,15 +938,19 @@
       ],
       [
         " the revelation",
-        "G602"
+        "G0602"
       ],
       [
         " of Jesus",
         "G2424"
       ],
       [
-        " Christ;",
+        " Christ",
         "G5547"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Peter|1|14": [
@@ -625,11 +963,11 @@
         "G5218"
       ],
       [
-        " children,",
+        " children",
         "G5043"
       ],
       [
-        " not",
+        ", not",
         "G3361"
       ],
       [
@@ -653,14 +991,18 @@
         "G5216"
       ],
       [
-        " ignorance:",
-        "G52"
+        " ignorance",
+        "G0052"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "1 Peter|1|15": [
       [
         "But",
-        "G235"
+        "G0235"
       ],
       [
         " as",
@@ -675,11 +1017,11 @@
         "G5209"
       ],
       [
-        " is holy,",
-        "G40"
+        " is holy",
+        "G0040"
       ],
       [
-        " so",
+        ", so",
         "G2532"
       ],
       [
@@ -688,11 +1030,11 @@
       ],
       [
         " ye",
-        "G846"
+        "G0846"
       ],
       [
         " holy",
-        "G40"
+        "G0040"
       ],
       [
         " in",
@@ -703,8 +1045,12 @@
         "G3956"
       ],
       [
-        " manner of conversation;",
-        "G391"
+        " manner of conversation",
+        "G0391"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Peter|1|16": [
@@ -713,19 +1059,19 @@
         "G1360"
       ],
       [
-        " it is written,",
+        " it is written",
         "G1125"
       ],
       [
-        " Be ye",
+        ", Be ye",
         "G1096"
       ],
       [
-        " holy;",
-        "G40"
+        " holy",
+        "G0040"
       ],
       [
-        " for",
+        "; for",
         "G3754"
       ],
       [
@@ -737,8 +1083,12 @@
         "G1510"
       ],
       [
-        " holy.",
-        "G40"
+        " holy",
+        "G0040"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|1|17": [
@@ -755,16 +1105,16 @@
         "G1941"
       ],
       [
-        " the Father,",
+        " the Father",
         "G3962"
       ],
       [
-        " who",
+        ", who",
         "G3588"
       ],
       [
         " without respect of persons",
-        "G678"
+        "G0678"
       ],
       [
         " judgeth",
@@ -779,12 +1129,12 @@
         "G1538"
       ],
       [
-        " work,",
+        " work",
         "G2041"
       ],
       [
-        " pass",
-        "G390"
+        ", pass",
+        "G0390"
       ],
       [
         " the time",
@@ -803,14 +1153,80 @@
         "G1722"
       ],
       [
-        " fear:",
+        " fear",
         "G5401"
+      ],
+      [
+        ":",
+        null
+      ]
+    ],
+    "1 Peter|1|18": [
+      [
+        "Forasmuch as ye know",
+        "G1492"
+      ],
+      [
+        " that",
+        "G3754"
+      ],
+      [
+        " ye were",
+        "G3084"
+      ],
+      [
+        " not",
+        "G3756"
+      ],
+      [
+        " redeemed",
+        "G3084"
+      ],
+      [
+        " with corruptible things",
+        "G5349"
+      ],
+      [
+        ", as silver",
+        "G0694"
+      ],
+      [
+        " and",
+        "G2228"
+      ],
+      [
+        " gold",
+        "G5553"
+      ],
+      [
+        ", from",
+        "G1537"
+      ],
+      [
+        " your",
+        "G5216"
+      ],
+      [
+        " vain",
+        "G3152"
+      ],
+      [
+        " conversation",
+        "G0391"
+      ],
+      [
+        " received by tradition from your fathers",
+        "G3970"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Peter|1|19": [
       [
         "But",
-        "G235"
+        "G0235"
       ],
       [
         " with the precious",
@@ -818,31 +1234,35 @@
       ],
       [
         " blood",
-        "G129"
+        "G0129"
       ],
       [
-        " of Christ,",
+        " of Christ",
         "G5547"
       ],
       [
-        " as",
+        ", as",
         "G5613"
       ],
       [
         " of a lamb",
-        "G286"
+        "G0286"
       ],
       [
         " without blemish",
-        "G299"
+        "G0299"
       ],
       [
         " and",
         "G2532"
       ],
       [
-        " without spot:",
-        "G784"
+        " without spot",
+        "G0784"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "1 Peter|1|20": [
@@ -863,11 +1283,11 @@
         "G2602"
       ],
       [
-        " of the world,",
+        " of the world",
         "G2889"
       ],
       [
-        " but",
+        ", but",
         "G1161"
       ],
       [
@@ -891,14 +1311,120 @@
         "G1223"
       ],
       [
-        " you,",
+        " you",
         "G5209"
+      ],
+      [
+        ",",
+        null
+      ]
+    ],
+    "1 Peter|1|21": [
+      [
+        "Who",
+        "G3588"
+      ],
+      [
+        " by",
+        "G1223"
+      ],
+      [
+        " him",
+        "G0846"
+      ],
+      [
+        " do believe",
+        "G4100"
+      ],
+      [
+        " in",
+        "G1519"
+      ],
+      [
+        " God",
+        "G2316"
+      ],
+      [
+        ", that",
+        "G3588"
+      ],
+      [
+        " raised",
+        "G1453"
+      ],
+      [
+        " him",
+        "G0846"
+      ],
+      [
+        " up",
+        "G1453"
+      ],
+      [
+        " from",
+        "G1537"
+      ],
+      [
+        " the dead",
+        "G3498"
+      ],
+      [
+        ", and",
+        "G2532"
+      ],
+      [
+        " gave",
+        "G1325"
+      ],
+      [
+        " him",
+        "G0846"
+      ],
+      [
+        " glory",
+        "G1391"
+      ],
+      [
+        "; that",
+        "G5620"
+      ],
+      [
+        " your",
+        "G5216"
+      ],
+      [
+        " faith",
+        "G4102"
+      ],
+      [
+        " and",
+        "G2532"
+      ],
+      [
+        " hope",
+        "G1680"
+      ],
+      [
+        " might be",
+        "G1511"
+      ],
+      [
+        " in",
+        "G1519"
+      ],
+      [
+        " God",
+        "G2316"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|1|22": [
       [
         "Seeing ye have purified",
-        "G48"
+        "G0048"
       ],
       [
         " your",
@@ -918,7 +1444,7 @@
       ],
       [
         " the truth",
-        "G225"
+        "G0225"
       ],
       [
         " through",
@@ -934,19 +1460,19 @@
       ],
       [
         " unfeigned",
-        "G505"
+        "G0505"
       ],
       [
-        " love of the brethren,",
+        " love of the brethren",
         "G5360"
       ],
       [
-        " see that ye love",
-        "G25"
+        ", see that ye love",
+        "G0025"
       ],
       [
         " one another",
-        "G240"
+        "G0240"
       ],
       [
         " with",
@@ -961,17 +1487,21 @@
         "G2588"
       ],
       [
-        " fervently:",
+        " fervently",
         "G1619"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "1 Peter|1|23": [
       [
-        "Being born again,",
-        "G313"
+        "Being born again",
+        "G0313"
       ],
       [
-        " not",
+        ", not",
         "G3756"
       ],
       [
@@ -983,19 +1513,19 @@
         "G5349"
       ],
       [
-        " seed,",
+        " seed",
         "G4701"
       ],
       [
-        " but",
-        "G235"
+        ", but",
+        "G0235"
       ],
       [
-        " of incorruptible,",
-        "G862"
+        " of incorruptible",
+        "G0862"
       ],
       [
-        " by",
+        ", by",
         "G1223"
       ],
       [
@@ -1003,11 +1533,11 @@
         "G3056"
       ],
       [
-        " of God,",
+        " of God",
         "G2316"
       ],
       [
-        " which liveth",
+        ", which liveth",
         "G2198"
       ],
       [
@@ -1023,8 +1553,12 @@
         "G1519"
       ],
       [
-        " ever.",
-        "G165"
+        " ever",
+        "G0165"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|1|24": [
@@ -1045,11 +1579,11 @@
         "G5613"
       ],
       [
-        " grass,",
+        " grass",
         "G5528"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -1062,7 +1596,7 @@
       ],
       [
         " of man",
-        "G444"
+        "G0444"
       ],
       [
         " as",
@@ -1070,35 +1604,39 @@
       ],
       [
         " the flower",
-        "G438"
+        "G0438"
       ],
       [
-        " of grass.",
+        " of grass",
         "G5528"
       ],
       [
-        " The grass",
+        ". The grass",
         "G5528"
       ],
       [
-        " withereth,",
+        " withereth",
         "G3583"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
         " the flower",
-        "G438"
+        "G0438"
       ],
       [
         " thereof",
-        "G846"
+        "G0846"
       ],
       [
-        " falleth away:",
+        " falleth away",
         "G1601"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "1 Peter|1|25": [
@@ -1123,11 +1661,11 @@
         "G1519"
       ],
       [
-        " ever.",
-        "G165"
+        " ever",
+        "G0165"
       ],
       [
-        " And",
+        ". And",
         "G1161"
       ],
       [
@@ -1155,8 +1693,12 @@
         "G1519"
       ],
       [
-        " you.",
+        " you",
         "G5209"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|2|1": [
@@ -1166,18 +1708,18 @@
       ],
       [
         " laying aside",
-        "G659"
+        "G0659"
       ],
       [
         " all",
         "G3956"
       ],
       [
-        " malice,",
+        " malice",
         "G2549"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -1185,27 +1727,27 @@
         "G3956"
       ],
       [
-        " guile,",
+        " guile",
         "G1388"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " hypocrisies,",
+        " hypocrisies",
         "G5272"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " envies,",
+        " envies",
         "G5355"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -1213,8 +1755,12 @@
         "G3956"
       ],
       [
-        " evil speakings,",
+        " evil speakings",
         "G2636"
+      ],
+      [
+        ",",
+        null
       ]
     ],
     "1 Peter|2|2": [
@@ -1224,43 +1770,43 @@
       ],
       [
         " newborn",
-        "G738"
+        "G0738"
       ],
       [
-        " babes,",
+        " babes",
         "G1025"
       ],
       [
-        " desire",
+        ", desire",
         "G1971"
       ],
       [
         " the sincere",
-        "G97"
+        "G0097"
       ],
       [
         " milk",
         "G1051"
       ],
       [
-        " of the word,",
+        " of the word",
         "G3050"
       ],
       [
-        " that",
+        ", that",
         "G2443"
       ],
       [
         " ye may grow",
-        "G837"
+        "G0837"
       ],
       [
-        " thereby:",
+        " thereby",
         "G1722"
       ],
       [
-        "",
-        "G846"
+        ":",
+        null
       ]
     ],
     "1 Peter|2|3": [
@@ -1281,8 +1827,12 @@
         "G2962"
       ],
       [
-        " is gracious.",
+        " is gracious",
         "G5543"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|2|4": [
@@ -1295,20 +1845,20 @@
         "G3739"
       ],
       [
-        " coming,",
+        " coming",
         "G4334"
       ],
       [
-        " as unto a living",
+        ", as unto a living",
         "G2198"
       ],
       [
-        " stone,",
+        " stone",
         "G3037"
       ],
       [
-        " disallowed",
-        "G593"
+        ", disallowed",
+        "G0593"
       ],
       [
         " indeed",
@@ -1319,11 +1869,11 @@
         "G5259"
       ],
       [
-        " men,",
-        "G444"
+        " men",
+        "G0444"
       ],
       [
-        " but",
+        ", but",
         "G1161"
       ],
       [
@@ -1335,25 +1885,29 @@
         "G3844"
       ],
       [
-        " God,",
+        " God",
         "G2316"
       ],
       [
-        " and precious,",
+        ", and precious",
         "G1784"
+      ],
+      [
+        ",",
+        null
       ]
     ],
     "1 Peter|2|5": [
       [
         "Ye",
-        "G846"
+        "G0846"
       ],
       [
-        " also,",
+        " also",
         "G2532"
       ],
       [
-        " as",
+        ", as",
         "G5613"
       ],
       [
@@ -1361,11 +1915,11 @@
         "G2198"
       ],
       [
-        " stones,",
+        " stones",
         "G3037"
       ],
       [
-        " are built up",
+        ", are built up",
         "G3618"
       ],
       [
@@ -1373,31 +1927,31 @@
         "G4152"
       ],
       [
-        " house,",
+        " house",
         "G3624"
       ],
       [
-        " an holy",
-        "G40"
+        ", an holy",
+        "G0040"
       ],
       [
-        " priesthood,",
+        " priesthood",
         "G2406"
       ],
       [
-        " to offer up",
-        "G399"
+        ", to offer up",
+        "G0399"
       ],
       [
         " spiritual",
         "G4152"
       ],
       [
-        " sacrifices,",
+        " sacrifices",
         "G2378"
       ],
       [
-        " acceptable",
+        ", acceptable",
         "G2144"
       ],
       [
@@ -1413,8 +1967,98 @@
         "G2424"
       ],
       [
-        " Christ.",
+        " Christ",
         "G5547"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Peter|2|6": [
+      [
+        "Wherefore",
+        "G1352"
+      ],
+      [
+        " also",
+        "G2532"
+      ],
+      [
+        " it is contained",
+        "G4023"
+      ],
+      [
+        " in",
+        "G1722"
+      ],
+      [
+        " the scripture",
+        "G1124"
+      ],
+      [
+        ", Behold",
+        "G2400"
+      ],
+      [
+        ", I lay",
+        "G5087"
+      ],
+      [
+        " in",
+        "G1722"
+      ],
+      [
+        " Sion",
+        "G4622"
+      ],
+      [
+        " a chief corner",
+        "G0204"
+      ],
+      [
+        " stone",
+        "G3037"
+      ],
+      [
+        ", elect",
+        "G1588"
+      ],
+      [
+        ", precious",
+        "G1784"
+      ],
+      [
+        ": and",
+        "G2532"
+      ],
+      [
+        " he that believeth",
+        "G4100"
+      ],
+      [
+        " on",
+        "G1909"
+      ],
+      [
+        " him",
+        "G0846"
+      ],
+      [
+        " shall",
+        "G2617"
+      ],
+      [
+        " not",
+        "G3756"
+      ],
+      [
+        " be confounded",
+        "G2617"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|2|7": [
@@ -1435,19 +2079,19 @@
         "G4100"
       ],
       [
-        " he is precious:",
+        " he is precious",
         "G5092"
       ],
       [
-        " but",
+        ": but",
         "G1161"
       ],
       [
-        " unto them which be disobedient,",
-        "G544"
+        " unto them which be disobedient",
+        "G0544"
       ],
       [
-        " the stone",
+        ", the stone",
         "G3037"
       ],
       [
@@ -1459,11 +2103,11 @@
         "G3618"
       ],
       [
-        " disallowed,",
-        "G593"
+        " disallowed",
+        "G0593"
       ],
       [
-        " the same",
+        ", the same",
         "G3778"
       ],
       [
@@ -1471,16 +2115,16 @@
         "G1096"
       ],
       [
-        "",
-        "G1519"
-      ],
-      [
         " the head",
         "G2776"
       ],
       [
-        " of the corner,",
+        " of the corner",
         "G1137"
+      ],
+      [
+        ",",
+        null
       ]
     ],
     "1 Peter|2|8": [
@@ -1493,11 +2137,11 @@
         "G3037"
       ],
       [
-        " of stumbling,",
+        " of stumbling",
         "G4348"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -1505,40 +2149,40 @@
         "G4073"
       ],
       [
-        " of offence,",
+        " of offence",
         "G4625"
       ],
       [
-        " even to them which",
+        ", even to them which",
         "G3739"
       ],
       [
-        " stumble",
+        " stumble at",
         "G4350"
       ],
       [
-        " at the word,",
+        " the word",
         "G3056"
       ],
       [
-        " being disobedient:",
-        "G544"
+        ", being disobedient",
+        "G0544"
       ],
       [
-        " whereunto",
+        ": whereunto",
         "G1519"
-      ],
-      [
-        "",
-        "G3739"
       ],
       [
         " also",
         "G2532"
       ],
       [
-        " they were appointed.",
+        " they were appointed",
         "G5087"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|2|9": [
@@ -1555,39 +2199,35 @@
         "G1588"
       ],
       [
-        " generation,",
+        " generation",
         "G1085"
       ],
       [
-        " a royal",
-        "G934"
+        ", a royal",
+        "G0934"
       ],
       [
-        " priesthood,",
+        " priesthood",
         "G2406"
       ],
       [
-        " an holy",
-        "G40"
+        ", an holy",
+        "G0040"
       ],
       [
-        " nation,",
+        " nation",
         "G1484"
       ],
       [
-        " a peculiar",
-        "G1519"
-      ],
-      [
-        "",
+        ", a peculiar",
         "G4047"
       ],
       [
-        " people;",
+        " people",
         "G2992"
       ],
       [
-        " that",
+        "; that",
         "G3704"
       ],
       [
@@ -1596,7 +2236,7 @@
       ],
       [
         " the praises",
-        "G703"
+        "G0703"
       ],
       [
         " of him who hath called",
@@ -1620,24 +2260,94 @@
       ],
       [
         " his",
-        "G846"
+        "G0846"
       ],
       [
         " marvellous",
         "G2298"
       ],
       [
-        " light:",
+        " light",
         "G5457"
+      ],
+      [
+        ":",
+        null
+      ]
+    ],
+    "1 Peter|2|10": [
+      [
+        "Which",
+        "G3588"
+      ],
+      [
+        " in time past",
+        "G4218"
+      ],
+      [
+        " were not",
+        "G3756"
+      ],
+      [
+        " a people",
+        "G2992"
+      ],
+      [
+        ", but",
+        "G1161"
+      ],
+      [
+        " are now",
+        "G3568"
+      ],
+      [
+        " the people",
+        "G2992"
+      ],
+      [
+        " of God",
+        "G2316"
+      ],
+      [
+        ": which",
+        "G3588"
+      ],
+      [
+        " had",
+        "G1653"
+      ],
+      [
+        " not",
+        "G3756"
+      ],
+      [
+        " obtained mercy",
+        "G1653"
+      ],
+      [
+        ", but",
+        "G1161"
+      ],
+      [
+        " now",
+        "G3568"
+      ],
+      [
+        " have obtained mercy",
+        "G1653"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|2|11": [
       [
-        "Dearly beloved,",
-        "G27"
+        "Dearly beloved",
+        "G0027"
       ],
       [
-        " I beseech",
+        ", I beseech",
         "G3870"
       ],
       [
@@ -1653,23 +2363,23 @@
         "G2532"
       ],
       [
-        " pilgrims,",
+        " pilgrims",
         "G3927"
       ],
       [
-        " abstain from",
-        "G567"
+        ", abstain",
+        "G0567"
       ],
       [
-        " fleshly",
+        " from fleshly",
         "G4559"
       ],
       [
-        " lusts,",
+        " lusts",
         "G1939"
       ],
       [
-        " which",
+        ", which",
         "G3748"
       ],
       [
@@ -1681,15 +2391,109 @@
         "G2596"
       ],
       [
-        " the soul;",
+        " the soul",
         "G5590"
+      ],
+      [
+        ";",
+        null
+      ]
+    ],
+    "1 Peter|2|12": [
+      [
+        "Having",
+        "G2192"
+      ],
+      [
+        " your",
+        "G5216"
+      ],
+      [
+        " conversation",
+        "G0391"
+      ],
+      [
+        " honest",
+        "G2570"
+      ],
+      [
+        " among",
+        "G1722"
+      ],
+      [
+        " the Gentiles",
+        "G1484"
+      ],
+      [
+        ": that",
+        "G2443"
+      ],
+      [
+        ", whereas",
+        "G1722"
+      ],
+      [
+        " they speak against",
+        "G2635"
+      ],
+      [
+        " you",
+        "G5216"
+      ],
+      [
+        " as",
+        "G5613"
+      ],
+      [
+        " evildoers",
+        "G2555"
+      ],
+      [
+        ", they may",
+        "G1392"
+      ],
+      [
+        " by",
+        "G1537"
+      ],
+      [
+        " your good",
+        "G2570"
+      ],
+      [
+        " works",
+        "G2041"
+      ],
+      [
+        ", which they shall behold",
+        "G2029"
+      ],
+      [
+        ", glorify",
+        "G1392"
+      ],
+      [
+        " God",
+        "G2316"
+      ],
+      [
+        " in",
+        "G1722"
+      ],
+      [
+        " the day",
+        "G2250"
+      ],
+      [
+        " of visitation",
+        "G1984"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|2|13": [
-      [
-        "",
-        "G3767"
-      ],
       [
         "Submit yourselves",
         "G5293"
@@ -1704,31 +2508,35 @@
       ],
       [
         " of man",
-        "G442"
+        "G0442"
       ],
       [
         " for",
         "G1223"
       ],
       [
-        " the Lord's sake:",
+        " the Lord's sake",
         "G2962"
       ],
       [
-        " whether it be",
+        ": whether it be",
         "G1535"
       ],
       [
-        " to the king,",
-        "G935"
+        " to the king",
+        "G0935"
       ],
       [
-        " as",
+        ", as",
         "G5613"
       ],
       [
-        " supreme;",
+        " supreme",
         "G5242"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Peter|2|14": [
@@ -1737,11 +2545,11 @@
         "G1535"
       ],
       [
-        " unto governors,",
+        " unto governors",
         "G2232"
       ],
       [
-        " as",
+        ", as",
         "G5613"
       ],
       [
@@ -1754,26 +2562,22 @@
       ],
       [
         " him",
-        "G846"
+        "G0846"
       ],
       [
         " for",
         "G1519"
       ],
       [
-        "",
-        "G3303"
-      ],
-      [
         " the punishment",
         "G1557"
       ],
       [
-        " of evildoers,",
+        " of evildoers",
         "G2555"
       ],
       [
-        " and",
+        ", and",
         "G1161"
       ],
       [
@@ -1781,8 +2585,12 @@
         "G1868"
       ],
       [
-        " of them that do well.",
-        "G17"
+        " of them that do well",
+        "G0017"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|2|15": [
@@ -1803,12 +2611,12 @@
         "G2307"
       ],
       [
-        " of God,",
+        " of God",
         "G2316"
       ],
       [
-        " that with well doing",
-        "G15"
+        ", that with well doing",
+        "G0015"
       ],
       [
         " ye may put to silence",
@@ -1816,15 +2624,19 @@
       ],
       [
         " the ignorance",
-        "G56"
+        "G0056"
       ],
       [
         " of foolish",
-        "G878"
+        "G0878"
       ],
       [
-        " men:",
-        "G444"
+        " men",
+        "G0444"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "1 Peter|2|16": [
@@ -1833,11 +2645,11 @@
         "G5613"
       ],
       [
-        " free,",
+        " free",
         "G1658"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -1861,12 +2673,12 @@
         "G1942"
       ],
       [
-        " of maliciousness,",
+        " of maliciousness",
         "G2549"
       ],
       [
-        " but",
-        "G235"
+        ", but",
+        "G0235"
       ],
       [
         " as",
@@ -1877,8 +2689,12 @@
         "G1401"
       ],
       [
-        " of God.",
+        " of God",
         "G2316"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|2|17": [
@@ -1892,40 +2708,48 @@
       ],
       [
         " men. Love",
-        "G25"
+        "G0025"
       ],
       [
-        " the brotherhood.",
-        "G81"
+        " the brotherhood",
+        "G0081"
       ],
       [
-        " Fear",
+        ". Fear",
         "G5399"
       ],
       [
-        " God.",
+        " God",
         "G2316"
       ],
       [
-        " Honour",
+        ". Honour",
         "G5091"
       ],
       [
-        " the king.",
-        "G935"
+        " the king",
+        "G0935"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|2|18": [
       [
-        "Servants,",
+        "Servants",
         "G3610"
       ],
       [
-        " be subject",
+        ", be subject",
         "G5293"
       ],
       [
-        " to your masters",
+        " to",
+        "G1203"
+      ],
+      [
+        " your masters",
         "G1203"
       ],
       [
@@ -1937,11 +2761,11 @@
         "G3956"
       ],
       [
-        " fear;",
+        " fear",
         "G5401"
       ],
       [
-        " not",
+        "; not",
         "G3756"
       ],
       [
@@ -1950,27 +2774,31 @@
       ],
       [
         " to the good",
-        "G18"
+        "G0018"
       ],
       [
         " and",
         "G2532"
       ],
       [
-        " gentle,",
+        " gentle",
         "G1933"
       ],
       [
-        " but",
-        "G235"
+        ", but",
+        "G0235"
       ],
       [
         " also",
         "G2532"
       ],
       [
-        " to the froward.",
+        " to the froward",
         "G4646"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|2|19": [
@@ -1983,11 +2811,11 @@
         "G5124"
       ],
       [
-        " is thankworthy,",
+        " is thankworthy",
         "G5485"
       ],
       [
-        " if",
+        ", if",
         "G1487"
       ],
       [
@@ -2011,16 +2839,20 @@
         "G5297"
       ],
       [
-        " grief,",
+        " grief",
         "G3077"
       ],
       [
-        " suffering",
+        ", suffering",
         "G3958"
       ],
       [
-        " wrongfully.",
-        "G95"
+        " wrongfully",
+        "G0095"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|2|20": [
@@ -2037,11 +2869,11 @@
         "G2811"
       ],
       [
-        " is it, if,",
+        " is it, if",
         "G1487"
       ],
       [
-        " when",
+        ", when",
         "G2532"
       ],
       [
@@ -2049,27 +2881,27 @@
         "G2852"
       ],
       [
-        " for your faults,",
-        "G264"
+        " for your faults",
+        "G0264"
       ],
       [
-        " ye shall take it patiently?",
+        ", ye shall take it patiently",
         "G5278"
       ],
       [
-        " but",
-        "G235"
+        "? but",
+        "G0235"
       ],
       [
-        " if,",
+        " if",
         "G1487"
       ],
       [
-        " when ye do well,",
-        "G15"
+        ", when ye do well",
+        "G0015"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -2077,11 +2909,11 @@
         "G3958"
       ],
       [
-        " for it, ye take it patiently,",
+        " for it, ye take it patiently",
         "G5278"
       ],
       [
-        " this",
+        ", this",
         "G5124"
       ],
       [
@@ -2093,8 +2925,12 @@
         "G3844"
       ],
       [
-        " God.",
+        " God",
         "G2316"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|2|21": [
@@ -2111,11 +2947,11 @@
         "G5124"
       ],
       [
-        " were ye called:",
+        " were ye called",
         "G2564"
       ],
       [
-        " because",
+        ": because",
         "G3754"
       ],
       [
@@ -2135,11 +2971,11 @@
         "G5228"
       ],
       [
-        " us,",
+        " us",
         "G2257"
       ],
       [
-        " leaving",
+        ", leaving",
         "G5277"
       ],
       [
@@ -2147,11 +2983,11 @@
         "G2254"
       ],
       [
-        " an example,",
+        " an example",
         "G5261"
       ],
       [
-        " that",
+        ", that",
         "G2443"
       ],
       [
@@ -2160,11 +2996,15 @@
       ],
       [
         " his",
-        "G846"
+        "G0846"
       ],
       [
-        " steps:",
+        " steps",
         "G2487"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "1 Peter|2|22": [
@@ -2181,15 +3021,19 @@
         "G3756"
       ],
       [
-        " sin,",
-        "G266"
+        " sin",
+        "G0266"
       ],
       [
-        " neither",
+        ", neither",
         "G3761"
       ],
       [
-        " was guile",
+        " was",
+        "G2147"
+      ],
+      [
+        " guile",
         "G1388"
       ],
       [
@@ -2202,11 +3046,291 @@
       ],
       [
         " his",
-        "G846"
+        "G0846"
       ],
       [
-        " mouth:",
+        " mouth",
         "G4750"
+      ],
+      [
+        ":",
+        null
+      ]
+    ],
+    "1 Peter|2|23": [
+      [
+        "Who",
+        "G3739"
+      ],
+      [
+        ", when he was reviled",
+        "G3058"
+      ],
+      [
+        ", reviled",
+        "G0486"
+      ],
+      [
+        " not",
+        "G3756"
+      ],
+      [
+        " again",
+        "G0486"
+      ],
+      [
+        "; when he suffered",
+        "G3958"
+      ],
+      [
+        ", he threatened",
+        "G0546"
+      ],
+      [
+        " not",
+        "G3756"
+      ],
+      [
+        "; but",
+        "G1161"
+      ],
+      [
+        " committed",
+        "G3860"
+      ],
+      [
+        " himself to him that judgeth",
+        "G2919"
+      ],
+      [
+        " righteously",
+        "G1346"
+      ],
+      [
+        ":",
+        null
+      ]
+    ],
+    "1 Peter|2|24": [
+      [
+        "Who",
+        "G3739"
+      ],
+      [
+        " his own self",
+        "G0846"
+      ],
+      [
+        " bare",
+        "G0399"
+      ],
+      [
+        " our",
+        "G2257"
+      ],
+      [
+        " sins",
+        "G0266"
+      ],
+      [
+        " in",
+        "G1722"
+      ],
+      [
+        " his own",
+        "G0846"
+      ],
+      [
+        " body",
+        "G4983"
+      ],
+      [
+        " on",
+        "G1909"
+      ],
+      [
+        " the tree",
+        "G3586"
+      ],
+      [
+        ", that",
+        "G2443"
+      ],
+      [
+        " we",
+        "G2198"
+      ],
+      [
+        ", being dead",
+        "G0581"
+      ],
+      [
+        " to sins",
+        "G0266"
+      ],
+      [
+        ", should live",
+        "G2198"
+      ],
+      [
+        " unto righteousness",
+        "G1343"
+      ],
+      [
+        ": by whose",
+        "G3739"
+      ],
+      [
+        " stripes",
+        "G3468"
+      ],
+      [
+        " ye were healed",
+        "G2390"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Peter|2|25": [
+      [
+        "For",
+        "G1063"
+      ],
+      [
+        " ye were",
+        "G2258"
+      ],
+      [
+        " as",
+        "G5613"
+      ],
+      [
+        " sheep",
+        "G4263"
+      ],
+      [
+        " going astray",
+        "G4105"
+      ],
+      [
+        "; but",
+        "G0235"
+      ],
+      [
+        " are",
+        "G1994"
+      ],
+      [
+        " now",
+        "G3568"
+      ],
+      [
+        " returned",
+        "G1994"
+      ],
+      [
+        " unto",
+        "G1909"
+      ],
+      [
+        " the Shepherd",
+        "G4166"
+      ],
+      [
+        " and",
+        "G2532"
+      ],
+      [
+        " Bishop",
+        "G1985"
+      ],
+      [
+        " of your",
+        "G5216"
+      ],
+      [
+        " souls",
+        "G5590"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Peter|3|1": [
+      [
+        "Likewise",
+        "G3668"
+      ],
+      [
+        ", ye wives",
+        "G1135"
+      ],
+      [
+        ", be in subjection",
+        "G5293"
+      ],
+      [
+        " to your own",
+        "G2398"
+      ],
+      [
+        " husbands",
+        "G0435"
+      ],
+      [
+        "; that",
+        "G2443"
+      ],
+      [
+        ", if",
+        "G1487"
+      ],
+      [
+        " any",
+        "G5100"
+      ],
+      [
+        " obey not",
+        "G0544"
+      ],
+      [
+        " the word",
+        "G3056"
+      ],
+      [
+        ", they also",
+        "G2532"
+      ],
+      [
+        " may",
+        "G2770"
+      ],
+      [
+        " without",
+        "G0427"
+      ],
+      [
+        " the word",
+        "G3056"
+      ],
+      [
+        " be won",
+        "G2770"
+      ],
+      [
+        " by",
+        "G1223"
+      ],
+      [
+        " the conversation of the wives",
+        "G1135"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Peter|3|2": [
@@ -2220,25 +3344,91 @@
       ],
       [
         " chaste",
-        "G53"
+        "G0053"
       ],
       [
         " conversation",
-        "G391"
+        "G0391"
       ],
       [
         " coupled with",
         "G1722"
       ],
       [
-        " fear.",
+        " fear",
         "G5401"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Peter|3|3": [
+      [
+        "Whose",
+        "G3739"
+      ],
+      [
+        " adorning",
+        "G2889"
+      ],
+      [
+        " let it",
+        "G2077"
+      ],
+      [
+        " not",
+        "G3756"
+      ],
+      [
+        " be",
+        "G2077"
+      ],
+      [
+        " that outward",
+        "G1855"
+      ],
+      [
+        " adorning of plaiting",
+        "G1708"
+      ],
+      [
+        " the hair",
+        "G2359"
+      ],
+      [
+        ", and",
+        "G2532"
+      ],
+      [
+        " of wearing",
+        "G4025"
+      ],
+      [
+        " of gold",
+        "G5553"
+      ],
+      [
+        ", or",
+        "G2228"
+      ],
+      [
+        " of putting on",
+        "G1745"
+      ],
+      [
+        " of apparel",
+        "G2440"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Peter|3|4": [
       [
         "But",
-        "G235"
+        "G0235"
       ],
       [
         " let it be the hidden",
@@ -2246,22 +3436,22 @@
       ],
       [
         " man",
-        "G444"
+        "G0444"
       ],
       [
-        " of the heart,",
+        " of the heart",
         "G2588"
       ],
       [
-        " in",
+        ", in",
         "G1722"
       ],
       [
-        " that which is not corruptible,",
-        "G862"
+        " that which is not corruptible",
+        "G0862"
       ],
       [
-        " even the ornament of a meek",
+        ", even the ornament of a meek",
         "G4239"
       ],
       [
@@ -2273,11 +3463,11 @@
         "G2272"
       ],
       [
-        " spirit,",
+        " spirit",
         "G4151"
       ],
       [
-        " which",
+        ", which",
         "G3739"
       ],
       [
@@ -2293,8 +3483,12 @@
         "G2316"
       ],
       [
-        " of great price.",
+        " of great price",
         "G4185"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|3|5": [
@@ -2312,22 +3506,18 @@
       ],
       [
         " the holy",
-        "G40"
+        "G0040"
       ],
       [
         " women",
         "G1135"
       ],
       [
-        " also,",
+        " also",
         "G2532"
       ],
       [
-        " who",
-        "G3588"
-      ],
-      [
-        " trusted",
+        ", who trusted",
         "G1679"
       ],
       [
@@ -2335,19 +3525,19 @@
         "G1909"
       ],
       [
-        " God,",
+        " God",
         "G2316"
       ],
       [
-        " adorned",
+        ", adorned",
         "G2885"
       ],
       [
-        " themselves,",
+        " themselves",
         "G1438"
       ],
       [
-        " being in subjection",
+        ", being in subjection",
         "G5293"
       ],
       [
@@ -2355,42 +3545,300 @@
         "G2398"
       ],
       [
-        " husbands:",
-        "G435"
+        " husbands",
+        "G0435"
+      ],
+      [
+        ":",
+        null
+      ]
+    ],
+    "1 Peter|3|6": [
+      [
+        "Even as",
+        "G5613"
+      ],
+      [
+        " Sara",
+        "G4564"
+      ],
+      [
+        " obeyed",
+        "G5219"
+      ],
+      [
+        " Abraham",
+        "G0011"
+      ],
+      [
+        ", calling",
+        "G2564"
+      ],
+      [
+        " him",
+        "G0846"
+      ],
+      [
+        " lord",
+        "G2962"
+      ],
+      [
+        ": whose",
+        "G3739"
+      ],
+      [
+        " daughters",
+        "G5043"
+      ],
+      [
+        " ye are",
+        "G1096"
+      ],
+      [
+        ", as long as ye do well",
+        "G0015"
+      ],
+      [
+        ", and",
+        "G2532"
+      ],
+      [
+        " are",
+        "G5399"
+      ],
+      [
+        " not",
+        "G3361"
+      ],
+      [
+        " afraid",
+        "G5399"
+      ],
+      [
+        " with any",
+        "G3367"
+      ],
+      [
+        " amazement",
+        "G4423"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Peter|3|7": [
+      [
+        "Likewise",
+        "G3668"
+      ],
+      [
+        ", ye husbands",
+        "G0435"
+      ],
+      [
+        ", dwell with",
+        "G4924"
+      ],
+      [
+        " them according to",
+        "G2596"
+      ],
+      [
+        " knowledge",
+        "G1108"
+      ],
+      [
+        ", giving",
+        "G0632"
+      ],
+      [
+        " honour",
+        "G5092"
+      ],
+      [
+        " unto the wife",
+        "G1134"
+      ],
+      [
+        ", as",
+        "G5613"
+      ],
+      [
+        " unto the weaker",
+        "G0772"
+      ],
+      [
+        " vessel",
+        "G4632"
+      ],
+      [
+        ", and",
+        "G2532"
+      ],
+      [
+        " as",
+        "G5613"
+      ],
+      [
+        " being heirs together",
+        "G4789"
+      ],
+      [
+        " of the grace",
+        "G5485"
+      ],
+      [
+        " of life",
+        "G2222"
+      ],
+      [
+        "; that",
+        "G1519"
+      ],
+      [
+        " your",
+        "G5216"
+      ],
+      [
+        " prayers",
+        "G4335"
+      ],
+      [
+        " be",
+        "G1581"
+      ],
+      [
+        " not",
+        "G3361"
+      ],
+      [
+        " hindered",
+        "G1581"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|3|8": [
       [
-        "Finally,",
-        "G1161"
-      ],
-      [
-        "",
+        "Finally",
         "G5056"
       ],
       [
-        " be ye all",
+        ", be ye all",
         "G3956"
       ],
       [
-        " of one mind,",
+        " of one mind",
         "G3675"
       ],
       [
-        " having compassion one of another,",
+        ", having compassion one of another",
         "G4835"
       ],
       [
-        " love as brethren,",
+        ", love as brethren",
         "G5361"
       ],
       [
-        " be pitiful,",
+        ", be pitiful",
         "G2155"
       ],
       [
-        " be courteous:",
+        ", be courteous",
         "G5391"
+      ],
+      [
+        ":",
+        null
+      ]
+    ],
+    "1 Peter|3|9": [
+      [
+        "Not",
+        "G3361"
+      ],
+      [
+        " rendering",
+        "G0591"
+      ],
+      [
+        " evil",
+        "G2556"
+      ],
+      [
+        " for",
+        "G0473"
+      ],
+      [
+        " evil",
+        "G2556"
+      ],
+      [
+        ", or",
+        "G2228"
+      ],
+      [
+        " railing",
+        "G3059"
+      ],
+      [
+        " for",
+        "G0473"
+      ],
+      [
+        " railing",
+        "G3059"
+      ],
+      [
+        ": but",
+        "G1161"
+      ],
+      [
+        " contrariwise",
+        "G5121"
+      ],
+      [
+        " blessing",
+        "G2127"
+      ],
+      [
+        "; knowing",
+        "G1492"
+      ],
+      [
+        " that",
+        "G3754"
+      ],
+      [
+        " ye are",
+        "G2564"
+      ],
+      [
+        " thereunto",
+        "G1519"
+      ],
+      [
+        " called",
+        "G2564"
+      ],
+      [
+        ", that",
+        "G2443"
+      ],
+      [
+        " ye should inherit",
+        "G2816"
+      ],
+      [
+        " a blessing",
+        "G2129"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|3|10": [
@@ -2404,14 +3852,14 @@
       ],
       [
         " love",
-        "G25"
+        "G0025"
       ],
       [
-        " life,",
+        " life",
         "G2222"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -2420,19 +3868,19 @@
       ],
       [
         " good",
-        "G18"
+        "G0018"
       ],
       [
-        " days,",
+        " days",
         "G2250"
       ],
       [
-        " let him refrain",
+        ", let him refrain",
         "G3973"
       ],
       [
         " his",
-        "G846"
+        "G0846"
       ],
       [
         " tongue",
@@ -2440,19 +3888,19 @@
       ],
       [
         " from",
-        "G575"
+        "G0575"
       ],
       [
-        " evil,",
+        " evil",
         "G2556"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
         " his",
-        "G846"
+        "G0846"
       ],
       [
         " lips",
@@ -2467,8 +3915,12 @@
         "G3361"
       ],
       [
-        " guile:",
+        " guile",
         "G1388"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "1 Peter|3|11": [
@@ -2477,15 +3929,11 @@
         "G1578"
       ],
       [
-        "",
-        "G575"
-      ],
-      [
-        " evil,",
+        " evil",
         "G2556"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -2493,19 +3941,19 @@
         "G4160"
       ],
       [
-        " good;",
-        "G18"
+        " good",
+        "G0018"
       ],
       [
-        " let him seek",
+        "; let him seek",
         "G2212"
       ],
       [
-        " peace,",
+        " peace",
         "G1515"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -2513,8 +3961,12 @@
         "G1377"
       ],
       [
-        " it.",
-        "G846"
+        " it",
+        "G0846"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|3|12": [
@@ -2535,16 +3987,16 @@
         "G1909"
       ],
       [
-        " the righteous,",
+        " the righteous",
         "G1342"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
         " his",
-        "G846"
+        "G0846"
       ],
       [
         " ears",
@@ -2556,14 +4008,14 @@
       ],
       [
         " their",
-        "G846"
+        "G0846"
       ],
       [
-        " prayers:",
+        " prayers",
         "G1162"
       ],
       [
-        " but",
+        ": but",
         "G1161"
       ],
       [
@@ -2583,8 +4035,12 @@
         "G4160"
       ],
       [
-        " evil.",
+        " evil",
         "G2556"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|3|13": [
@@ -2601,11 +4057,11 @@
         "G2559"
       ],
       [
-        " you,",
+        " you",
         "G5209"
       ],
       [
-        " if",
+        ", if",
         "G1437"
       ],
       [
@@ -2617,8 +4073,78 @@
         "G3402"
       ],
       [
-        " of that which is good?",
-        "G18"
+        " of that which is good",
+        "G0018"
+      ],
+      [
+        "?",
+        null
+      ]
+    ],
+    "1 Peter|3|14": [
+      [
+        "But",
+        "G0235"
+      ],
+      [
+        " and",
+        "G2532"
+      ],
+      [
+        " if",
+        "G1487"
+      ],
+      [
+        " ye suffer",
+        "G3958"
+      ],
+      [
+        " for",
+        "G1223"
+      ],
+      [
+        " righteousness' sake",
+        "G1343"
+      ],
+      [
+        ", happy",
+        "G3107"
+      ],
+      [
+        " are ye: and",
+        "G1161"
+      ],
+      [
+        " be",
+        "G5399"
+      ],
+      [
+        " not",
+        "G3361"
+      ],
+      [
+        " afraid",
+        "G5399"
+      ],
+      [
+        " of their",
+        "G0846"
+      ],
+      [
+        " terror",
+        "G5401"
+      ],
+      [
+        ", neither",
+        "G3366"
+      ],
+      [
+        " be troubled",
+        "G5015"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Peter|3|15": [
@@ -2628,7 +4154,7 @@
       ],
       [
         " sanctify",
-        "G37"
+        "G0037"
       ],
       [
         " the Lord",
@@ -2647,11 +4173,11 @@
         "G5216"
       ],
       [
-        " hearts:",
+        " hearts",
         "G2588"
       ],
       [
-        " and",
+        ": and",
         "G1161"
       ],
       [
@@ -2660,7 +4186,7 @@
       ],
       [
         " always",
-        "G104"
+        "G0104"
       ],
       [
         " to",
@@ -2668,7 +4194,7 @@
       ],
       [
         " give an answer",
-        "G627"
+        "G0627"
       ],
       [
         " to every man",
@@ -2676,7 +4202,7 @@
       ],
       [
         " that asketh",
-        "G154"
+        "G0154"
       ],
       [
         " you",
@@ -2695,7 +4221,11 @@
         "G1680"
       ],
       [
-        " that is in",
+        " that",
+        "G3588"
+      ],
+      [
+        " is in",
         "G1722"
       ],
       [
@@ -2715,8 +4245,12 @@
         "G2532"
       ],
       [
-        " fear:",
+        " fear",
         "G5401"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "1 Peter|3|16": [
@@ -2726,42 +4260,38 @@
       ],
       [
         " a good",
-        "G18"
+        "G0018"
       ],
       [
-        " conscience;",
+        " conscience",
         "G4893"
       ],
       [
-        " that,",
+        "; that",
         "G2443"
       ],
       [
-        " whereas",
+        ", whereas",
         "G1722"
-      ],
-      [
-        "",
-        "G3739"
       ],
       [
         " they speak evil",
         "G2635"
       ],
       [
-        " of you,",
+        " of you",
         "G5216"
       ],
       [
-        " as",
+        ", as",
         "G5613"
       ],
       [
-        " of evildoers,",
+        " of evildoers",
         "G2555"
       ],
       [
-        " they may be ashamed",
+        ", they may be ashamed",
         "G2617"
       ],
       [
@@ -2774,19 +4304,23 @@
       ],
       [
         " good",
-        "G18"
+        "G0018"
       ],
       [
         " conversation",
-        "G391"
+        "G0391"
       ],
       [
         " in",
         "G1722"
       ],
       [
-        " Christ.",
+        " Christ",
         "G5547"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|3|17": [
@@ -2795,11 +4329,11 @@
         "G1063"
       ],
       [
-        " it is better,",
+        " it is better",
         "G2909"
       ],
       [
-        " if",
+        ", if",
         "G1487"
       ],
       [
@@ -2811,24 +4345,28 @@
         "G2316"
       ],
       [
-        " be so,",
+        " be so",
         "G2309"
       ],
       [
-        " that ye suffer",
+        ", that ye suffer",
         "G3958"
       ],
       [
-        " for well doing,",
-        "G15"
+        " for well doing",
+        "G0015"
       ],
       [
-        " than",
+        ", than",
         "G2228"
       ],
       [
-        " for evil doing.",
+        " for evil doing",
         "G2554"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|3|18": [
@@ -2845,8 +4383,12 @@
         "G2532"
       ],
       [
-        " hath once",
-        "G530"
+        " hath",
+        "G3958"
+      ],
+      [
+        " once",
+        "G0530"
       ],
       [
         " suffered",
@@ -2857,11 +4399,11 @@
         "G4012"
       ],
       [
-        " sins,",
-        "G266"
+        " sins",
+        "G0266"
       ],
       [
-        " the just",
+        ", the just",
         "G1342"
       ],
       [
@@ -2869,11 +4411,11 @@
         "G5228"
       ],
       [
-        " the unjust,",
-        "G94"
+        " the unjust",
+        "G0094"
       ],
       [
-        " that",
+        ", that",
         "G2443"
       ],
       [
@@ -2885,23 +4427,19 @@
         "G2248"
       ],
       [
-        " to God,",
+        " to God",
         "G2316"
       ],
       [
-        " being put to death",
+        ", being put to death",
         "G2289"
       ],
       [
-        "",
-        "G3303"
-      ],
-      [
-        " in the flesh,",
+        " in the flesh",
         "G4561"
       ],
       [
-        " but",
+        ", but",
         "G1161"
       ],
       [
@@ -2909,8 +4447,12 @@
         "G2227"
       ],
       [
-        " by the Spirit:",
+        " by the Spirit",
         "G4151"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "1 Peter|3|19": [
@@ -2943,8 +4485,12 @@
         "G1722"
       ],
       [
-        " prison;",
+        " prison",
         "G5438"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Peter|3|20": [
@@ -2953,16 +4499,16 @@
         "G4218"
       ],
       [
-        " were disobedient,",
-        "G544"
+        " were disobedient",
+        "G0544"
       ],
       [
-        " when",
+        ", when",
         "G3753"
       ],
       [
         " once",
-        "G530"
+        "G0530"
       ],
       [
         " the longsuffering",
@@ -2985,35 +4531,35 @@
         "G2250"
       ],
       [
-        " of Noah,",
+        " of Noah",
         "G3575"
       ],
       [
-        " while the ark",
+        ", while the ark",
         "G2787"
       ],
       [
-        " was a preparing,",
+        " was a preparing",
         "G2680"
       ],
       [
-        " wherein",
+        ", wherein",
         "G1519"
       ],
       [
-        "",
-        "G3739"
-      ],
-      [
-        " few,",
+        " few",
         "G3641"
       ],
       [
-        " that is,",
-        "G5123"
+        ", that",
+        "G5124"
       ],
       [
-        " eight",
+        " is",
+        "G2076"
+      ],
+      [
+        ", eight",
         "G3638"
       ],
       [
@@ -3029,8 +4575,106 @@
         "G1223"
       ],
       [
-        " water.",
+        " water",
         "G5204"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Peter|3|21": [
+      [
+        "The like figure",
+        "G0499"
+      ],
+      [
+        " whereunto",
+        "G3739"
+      ],
+      [
+        " even baptism",
+        "G0908"
+      ],
+      [
+        " doth",
+        "G4982"
+      ],
+      [
+        " also",
+        "G2532"
+      ],
+      [
+        " now",
+        "G3568"
+      ],
+      [
+        " save",
+        "G4982"
+      ],
+      [
+        " us",
+        "G2248"
+      ],
+      [
+        " (not",
+        "G3756"
+      ],
+      [
+        " the putting away",
+        "G0595"
+      ],
+      [
+        " of the filth",
+        "G4509"
+      ],
+      [
+        " of the flesh",
+        "G4561"
+      ],
+      [
+        ", but",
+        "G0235"
+      ],
+      [
+        " the answer",
+        "G1906"
+      ],
+      [
+        " of a good",
+        "G0018"
+      ],
+      [
+        " conscience",
+        "G4893"
+      ],
+      [
+        " toward",
+        "G1519"
+      ],
+      [
+        " God",
+        "G2316"
+      ],
+      [
+        ",) by",
+        "G1223"
+      ],
+      [
+        " the resurrection",
+        "G0386"
+      ],
+      [
+        " of Jesus",
+        "G2424"
+      ],
+      [
+        " Christ",
+        "G5547"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "1 Peter|3|22": [
@@ -3047,11 +4691,11 @@
         "G1519"
       ],
       [
-        " heaven,",
+        " heaven",
         "G3772"
       ],
       [
-        " and is",
+        ", and is",
         "G2076"
       ],
       [
@@ -3063,12 +4707,12 @@
         "G1188"
       ],
       [
-        " of God;",
+        " of God",
         "G2316"
       ],
       [
-        " angels",
-        "G32"
+        "; angels",
+        "G0032"
       ],
       [
         " and",
@@ -3091,8 +4735,12 @@
         "G5293"
       ],
       [
-        " unto him.",
-        "G846"
+        " unto him",
+        "G0846"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|4|1": [
@@ -3117,11 +4765,11 @@
         "G2257"
       ],
       [
-        " in the flesh,",
+        " in the flesh",
         "G4561"
       ],
       [
-        " arm",
+        ", arm",
         "G3695"
       ],
       [
@@ -3134,14 +4782,14 @@
       ],
       [
         " with the same",
-        "G846"
+        "G0846"
       ],
       [
-        " mind:",
+        " mind",
         "G1771"
       ],
       [
-        " for",
+        ": for",
         "G3754"
       ],
       [
@@ -3161,8 +4809,74 @@
         "G3973"
       ],
       [
-        " from sin;",
-        "G266"
+        " from sin",
+        "G0266"
+      ],
+      [
+        ";",
+        null
+      ]
+    ],
+    "1 Peter|4|2": [
+      [
+        "That",
+        "G1519"
+      ],
+      [
+        " he",
+        "G0980"
+      ],
+      [
+        " no longer",
+        "G3371"
+      ],
+      [
+        " should live",
+        "G0980"
+      ],
+      [
+        " the rest",
+        "G1954"
+      ],
+      [
+        " of",
+        "G5550"
+      ],
+      [
+        " his time",
+        "G5550"
+      ],
+      [
+        " in",
+        "G1722"
+      ],
+      [
+        " the flesh",
+        "G4561"
+      ],
+      [
+        " to the lusts",
+        "G1939"
+      ],
+      [
+        " of men",
+        "G0444"
+      ],
+      [
+        ", but",
+        "G0235"
+      ],
+      [
+        " to the will",
+        "G2307"
+      ],
+      [
+        " of God",
+        "G2316"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|4|3": [
@@ -3179,12 +4893,16 @@
         "G3928"
       ],
       [
-        " of our life",
-        "G979"
+        " of",
+        "G0979"
+      ],
+      [
+        " our life",
+        "G0979"
       ],
       [
         " may suffice",
-        "G713"
+        "G0713"
       ],
       [
         " us",
@@ -3199,11 +4917,11 @@
         "G2307"
       ],
       [
-        " of the Gentiles,",
+        " of the Gentiles",
         "G1484"
       ],
       [
-        " when we walked",
+        ", when we walked",
         "G4198"
       ],
       [
@@ -3211,46 +4929,46 @@
         "G1722"
       ],
       [
-        " lasciviousness,",
-        "G766"
+        " lasciviousness",
+        "G0766"
       ],
       [
-        " lusts,",
+        ", lusts",
         "G1939"
       ],
       [
-        " excess of wine,",
+        ", excess of wine",
         "G3632"
       ],
       [
-        " revellings,",
+        ", revellings",
         "G2970"
       ],
       [
-        " banquetings,",
+        ", banquetings",
         "G4224"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
         " abominable",
-        "G111"
+        "G0111"
       ],
       [
-        " idolatries:",
+        " idolatries",
         "G1495"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "1 Peter|4|4": [
       [
         "Wherein",
         "G1722"
-      ],
-      [
-        "",
-        "G3739"
       ],
       [
         " they think it strange",
@@ -3269,24 +4987,28 @@
         "G3361"
       ],
       [
-        " with them to",
+        " with",
+        "G1519"
+      ],
+      [
+        " them to",
         "G1519"
       ],
       [
         " the same",
-        "G846"
+        "G0846"
       ],
       [
         " excess",
-        "G401"
+        "G0401"
       ],
       [
-        " of riot,",
-        "G810"
+        " of riot",
+        "G0810"
       ],
       [
-        " speaking evil of",
-        "G987"
+        ", speaking evil of",
+        "G0987"
       ],
       [
         " you:",
@@ -3300,7 +5022,7 @@
       ],
       [
         " shall give",
-        "G591"
+        "G0591"
       ],
       [
         " account",
@@ -3327,8 +5049,12 @@
         "G2532"
       ],
       [
-        " the dead.",
+        " the dead",
         "G3498"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|4|6": [
@@ -3353,11 +5079,11 @@
         "G2532"
       ],
       [
-        " to them that are dead,",
+        " to them that are dead",
         "G3498"
       ],
       [
-        " that",
+        ", that",
         "G2443"
       ],
       [
@@ -3365,23 +5091,19 @@
         "G2919"
       ],
       [
-        "",
-        "G3303"
-      ],
-      [
         " according to",
         "G2596"
       ],
       [
         " men",
-        "G444"
+        "G0444"
       ],
       [
-        " in the flesh,",
+        " in the flesh",
         "G4561"
       ],
       [
-        " but",
+        ", but",
         "G1161"
       ],
       [
@@ -3397,8 +5119,62 @@
         "G2316"
       ],
       [
-        " in the spirit.",
+        " in the spirit",
         "G4151"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Peter|4|7": [
+      [
+        "But",
+        "G1161"
+      ],
+      [
+        " the end",
+        "G5056"
+      ],
+      [
+        " of all things",
+        "G3956"
+      ],
+      [
+        " is at hand",
+        "G1448"
+      ],
+      [
+        ": be ye",
+        "G4993"
+      ],
+      [
+        " therefore",
+        "G3767"
+      ],
+      [
+        " sober",
+        "G4993"
+      ],
+      [
+        ", and",
+        "G2532"
+      ],
+      [
+        " watch",
+        "G3525"
+      ],
+      [
+        " unto",
+        "G1519"
+      ],
+      [
+        " prayer",
+        "G4335"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|4|8": [
@@ -3424,23 +5200,23 @@
       ],
       [
         " charity",
-        "G26"
+        "G0026"
       ],
       [
         " among",
         "G1519"
       ],
       [
-        " yourselves:",
+        " yourselves",
         "G1438"
       ],
       [
-        " for",
+        ": for",
         "G3754"
       ],
       [
         " charity",
-        "G26"
+        "G0026"
       ],
       [
         " shall cover",
@@ -3451,8 +5227,12 @@
         "G4128"
       ],
       [
-        " of sins.",
-        "G266"
+        " of sins",
+        "G0266"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|4|9": [
@@ -3461,20 +5241,28 @@
         "G5382"
       ],
       [
-        " one to another",
+        " one",
+        "G0240"
+      ],
+      [
+        " to",
         "G1519"
       ],
       [
-        "",
-        "G240"
+        " another",
+        "G0240"
       ],
       [
         " without",
-        "G427"
+        "G0427"
       ],
       [
-        " grudging.",
+        " grudging",
         "G1112"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|4|10": [
@@ -3491,27 +5279,31 @@
         "G2983"
       ],
       [
-        " the gift,",
+        " the gift",
         "G5486"
       ],
       [
-        " even so minister",
+        ", even so minister",
         "G1247"
       ],
       [
         " the same",
-        "G846"
+        "G0846"
       ],
       [
-        " one to another,",
-        "G1519"
-      ],
-      [
-        "",
+        " one",
         "G1438"
       ],
       [
-        " as",
+        " to",
+        "G1519"
+      ],
+      [
+        " another",
+        "G1438"
+      ],
+      [
+        ", as",
         "G5613"
       ],
       [
@@ -3531,21 +5323,29 @@
         "G5485"
       ],
       [
-        " of God.",
+        " of God",
         "G2316"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|4|11": [
       [
-        "If any man",
-        "G1536"
+        "If",
+        "G1487"
       ],
       [
-        " speak,",
+        " any man",
+        "G5100"
+      ],
+      [
+        " speak",
         "G2980"
       ],
       [
-        " let him speak as",
+        ", let him speak as",
         "G5613"
       ],
       [
@@ -3553,19 +5353,23 @@
         "G3051"
       ],
       [
-        " of God;",
+        " of God",
         "G2316"
       ],
       [
-        " if any man",
-        "G1536"
+        "; if",
+        "G1487"
       ],
       [
-        " minister,",
+        " any man",
+        "G5100"
+      ],
+      [
+        " minister",
         "G1247"
       ],
       [
-        " let him do it as",
+        ", let him do it as",
         "G5613"
       ],
       [
@@ -3585,11 +5389,11 @@
         "G2316"
       ],
       [
-        " giveth:",
+        " giveth",
         "G5524"
       ],
       [
-        " that",
+        ": that",
         "G2443"
       ],
       [
@@ -3617,11 +5421,11 @@
         "G2424"
       ],
       [
-        " Christ,",
+        " Christ",
         "G5547"
       ],
       [
-        " to whom",
+        ", to whom",
         "G3739"
       ],
       [
@@ -3646,28 +5450,94 @@
       ],
       [
         " ever",
-        "G165"
+        "G0165"
       ],
       [
-        " and ever.",
-        "G165"
+        " and ever",
+        "G0165"
       ],
       [
-        " Amen.",
-        "G281"
+        ". Amen",
+        "G0281"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Peter|4|12": [
+      [
+        "Beloved",
+        "G0027"
+      ],
+      [
+        ", think it",
+        "G3579"
+      ],
+      [
+        " not",
+        "G3361"
+      ],
+      [
+        " strange",
+        "G3579"
+      ],
+      [
+        " concerning",
+        "G1722"
+      ],
+      [
+        " the fiery trial",
+        "G4451"
+      ],
+      [
+        " which is",
+        "G1096"
+      ],
+      [
+        " to",
+        "G4314"
+      ],
+      [
+        " try",
+        "G3986"
+      ],
+      [
+        " you",
+        "G5213"
+      ],
+      [
+        ", as though",
+        "G5613"
+      ],
+      [
+        " some strange thing",
+        "G3581"
+      ],
+      [
+        " happened",
+        "G4819"
+      ],
+      [
+        " unto you",
+        "G5213"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "1 Peter|4|13": [
       [
         "But",
-        "G235"
+        "G0235"
       ],
       [
-        " rejoice,",
+        " rejoice",
         "G5463"
       ],
       [
-        " inasmuch as",
+        ", inasmuch as",
         "G2526"
       ],
       [
@@ -3679,31 +5549,31 @@
         "G5547"
       ],
       [
-        " sufferings;",
+        " sufferings",
         "G3804"
       ],
       [
-        " that,",
+        "; that",
         "G2443"
       ],
       [
-        " when",
+        ", when",
         "G1722"
       ],
       [
         " his",
-        "G846"
+        "G0846"
       ],
       [
         " glory",
         "G1391"
       ],
       [
-        " shall be revealed,",
-        "G602"
+        " shall be revealed",
+        "G0602"
       ],
       [
-        " ye may be glad",
+        ", ye may be glad",
         "G5463"
       ],
       [
@@ -3711,8 +5581,12 @@
         "G2532"
       ],
       [
-        " with exceeding joy.",
-        "G21"
+        " with exceeding joy",
+        "G0021"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|4|14": [
@@ -3733,11 +5607,11 @@
         "G3686"
       ],
       [
-        " of Christ,",
+        " of Christ",
         "G5547"
       ],
       [
-        " happy",
+        ", happy",
         "G3107"
       ],
       [
@@ -3762,34 +5636,34 @@
       ],
       [
         " resteth",
-        "G373"
+        "G0373"
       ],
       [
         " upon",
         "G1909"
       ],
       [
-        " you:",
+        " you",
         "G5209"
       ],
       [
-        " on",
+        ": on",
         "G2596"
       ],
       [
-        "",
-        "G3303"
+        " their",
+        "G0846"
       ],
       [
-        " their part",
-        "G846"
+        " part",
+        "G2596"
       ],
       [
-        " he is evil spoken of,",
-        "G987"
+        " he is evil spoken of",
+        "G0987"
       ],
       [
-        " but",
+        ", but",
         "G1161"
       ],
       [
@@ -3797,12 +5671,140 @@
         "G2596"
       ],
       [
-        " your part",
+        " your",
         "G5209"
       ],
       [
-        " he is glorified.",
+        " part",
+        "G2596"
+      ],
+      [
+        " he is glorified",
         "G1392"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Peter|4|15": [
+      [
+        "But",
+        "G1063"
+      ],
+      [
+        " let",
+        "G3958"
+      ],
+      [
+        " none",
+        "G3361"
+      ],
+      [
+        " of you",
+        "G5216"
+      ],
+      [
+        " suffer",
+        "G3958"
+      ],
+      [
+        " as",
+        "G5613"
+      ],
+      [
+        " a murderer",
+        "G5406"
+      ],
+      [
+        ", or",
+        "G2228"
+      ],
+      [
+        " as a thief",
+        "G2812"
+      ],
+      [
+        ", or",
+        "G2228"
+      ],
+      [
+        " as an evildoer",
+        "G2555"
+      ],
+      [
+        ", or",
+        "G2228"
+      ],
+      [
+        " as",
+        "G5613"
+      ],
+      [
+        " a busybody in other men's matters",
+        "G0244"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Peter|4|16": [
+      [
+        "Yet",
+        "G1161"
+      ],
+      [
+        " if",
+        "G1487"
+      ],
+      [
+        " any man suffer as",
+        "G5613"
+      ],
+      [
+        " a Christian",
+        "G5546"
+      ],
+      [
+        ", let him",
+        "G0153"
+      ],
+      [
+        " not",
+        "G3361"
+      ],
+      [
+        " be ashamed",
+        "G0153"
+      ],
+      [
+        "; but",
+        "G1161"
+      ],
+      [
+        " let him glorify",
+        "G1392"
+      ],
+      [
+        " God",
+        "G2316"
+      ],
+      [
+        " on",
+        "G1722"
+      ],
+      [
+        " this",
+        "G5129"
+      ],
+      [
+        " behalf",
+        "G3313"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|4|17": [
@@ -3820,22 +5822,22 @@
       ],
       [
         " must begin",
-        "G756"
+        "G0756"
       ],
       [
         " at",
-        "G575"
+        "G0575"
       ],
       [
         " the house",
         "G3624"
       ],
       [
-        " of God:",
+        " of God",
         "G2316"
       ],
       [
-        " and",
+        ": and",
         "G1161"
       ],
       [
@@ -3848,14 +5850,14 @@
       ],
       [
         " begin at",
-        "G575"
+        "G0575"
       ],
       [
-        " us,",
+        " us",
         "G2257"
       ],
       [
-        " what",
+        ", what",
         "G5101"
       ],
       [
@@ -3864,15 +5866,127 @@
       ],
       [
         " be of them that obey not",
-        "G544"
+        "G0544"
       ],
       [
         " the gospel",
         "G2098"
       ],
       [
-        " of God?",
+        " of God",
         "G2316"
+      ],
+      [
+        "?",
+        null
+      ]
+    ],
+    "1 Peter|4|18": [
+      [
+        "And",
+        "G2532"
+      ],
+      [
+        " if",
+        "G1487"
+      ],
+      [
+        " the righteous",
+        "G1342"
+      ],
+      [
+        " scarcely",
+        "G3433"
+      ],
+      [
+        " be saved",
+        "G4982"
+      ],
+      [
+        ", where",
+        "G4226"
+      ],
+      [
+        " shall",
+        "G5316"
+      ],
+      [
+        " the ungodly",
+        "G0765"
+      ],
+      [
+        " and",
+        "G2532"
+      ],
+      [
+        " the sinner",
+        "G0268"
+      ],
+      [
+        " appear",
+        "G5316"
+      ],
+      [
+        "?",
+        null
+      ]
+    ],
+    "1 Peter|4|19": [
+      [
+        "Wherefore",
+        "G5620"
+      ],
+      [
+        " let them that suffer",
+        "G3958"
+      ],
+      [
+        " according to",
+        "G2596"
+      ],
+      [
+        " the will",
+        "G2307"
+      ],
+      [
+        " of God",
+        "G2316"
+      ],
+      [
+        " commit the keeping",
+        "G3908"
+      ],
+      [
+        " of their",
+        "G1438"
+      ],
+      [
+        " souls",
+        "G5590"
+      ],
+      [
+        " to him in",
+        "G1722"
+      ],
+      [
+        " well doing",
+        "G0016"
+      ],
+      [
+        ", as",
+        "G5613"
+      ],
+      [
+        " unto a faithful",
+        "G4103"
+      ],
+      [
+        " Creator",
+        "G2939"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|5|1": [
@@ -3881,7 +5995,11 @@
         "G4245"
       ],
       [
-        " which are among",
+        " which",
+        "G3588"
+      ],
+      [
+        " are among",
         "G1722"
       ],
       [
@@ -3889,19 +6007,19 @@
         "G5213"
       ],
       [
-        " I exhort,",
+        " I exhort",
         "G3870"
       ],
       [
-        " who",
+        ", who",
         "G3588"
       ],
       [
-        " am also an elder,",
+        " am also an elder",
         "G4850"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -3913,11 +6031,11 @@
         "G3804"
       ],
       [
-        " of Christ,",
+        " of Christ",
         "G5547"
       ],
       [
-        " and also",
+        ", and also",
         "G2532"
       ],
       [
@@ -3933,8 +6051,12 @@
         "G3195"
       ],
       [
-        " be revealed:",
-        "G601"
+        " be revealed",
+        "G0601"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "1 Peter|5|2": [
@@ -3955,11 +6077,11 @@
         "G1722"
       ],
       [
-        " you,",
+        " you",
         "G5213"
       ],
       [
-        " taking the oversight",
+        ", taking the oversight",
         "G1983"
       ],
       [
@@ -3967,32 +6089,36 @@
         "G3361"
       ],
       [
-        " by constraint,",
-        "G317"
+        " by constraint",
+        "G0317"
       ],
       [
-        " but",
-        "G235"
+        ", but",
+        "G0235"
       ],
       [
-        " willingly;",
+        " willingly",
         "G1596"
       ],
       [
-        " not",
+        "; not",
         "G3366"
       ],
       [
-        " for filthy lucre,",
-        "G147"
+        " for filthy lucre",
+        "G0147"
       ],
       [
-        " but",
-        "G235"
+        ", but",
+        "G0235"
       ],
       [
-        " of a ready mind;",
+        " of a ready mind",
         "G4290"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Peter|5|3": [
@@ -4009,12 +6135,12 @@
         "G2634"
       ],
       [
-        " God's heritage,",
+        " God's heritage",
         "G2819"
       ],
       [
-        " but",
-        "G235"
+        ", but",
+        "G0235"
       ],
       [
         " being",
@@ -4025,25 +6151,29 @@
         "G5179"
       ],
       [
-        " to the flock.",
+        " to the flock",
         "G4168"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|5|4": [
       [
-        "And",
+        "And when",
         "G2532"
       ],
       [
-        " when the chief Shepherd",
-        "G750"
+        " the chief Shepherd",
+        "G0750"
       ],
       [
-        " shall appear,",
+        " shall appear",
         "G5319"
       ],
       [
-        " ye shall receive",
+        ", ye shall receive",
         "G2865"
       ],
       [
@@ -4055,53 +6185,57 @@
         "G1391"
       ],
       [
-        " that fadeth not away.",
-        "G262"
+        " that fadeth not away",
+        "G0262"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|5|5": [
       [
-        "Likewise,",
+        "Likewise",
         "G3668"
       ],
       [
-        " ye younger,",
+        ", ye younger",
         "G3501"
       ],
       [
-        " submit yourselves",
+        ", submit",
         "G5293"
       ],
       [
-        " unto the elder.",
+        " yourselves",
+        "G0240"
+      ],
+      [
+        " unto the elder",
         "G4245"
       ],
       [
-        " Yea,",
+        ". Yea",
         "G1161"
       ],
       [
-        " all",
+        ", all",
         "G3956"
       ],
       [
-        " of you be subject",
+        " of you be subject one to another",
         "G5293"
       ],
       [
-        " one to another,",
-        "G240"
-      ],
-      [
-        " and be clothed",
+        ", and be clothed with",
         "G1463"
       ],
       [
-        " with humility:",
+        " humility",
         "G5012"
       ],
       [
-        " for",
+        ": for",
         "G3754"
       ],
       [
@@ -4110,14 +6244,14 @@
       ],
       [
         " resisteth",
-        "G498"
+        "G0498"
       ],
       [
-        " the proud,",
+        " the proud",
         "G5244"
       ],
       [
-        " and",
+        ", and",
         "G1161"
       ],
       [
@@ -4129,8 +6263,12 @@
         "G5485"
       ],
       [
-        " to the humble.",
+        " to the humble",
         "G5011"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|5|6": [
@@ -4155,11 +6293,11 @@
         "G5495"
       ],
       [
-        " of God,",
+        " of God",
         "G2316"
       ],
       [
-        " that",
+        ", that",
         "G2443"
       ],
       [
@@ -4175,8 +6313,12 @@
         "G1722"
       ],
       [
-        " due time:",
+        " due time",
         "G2540"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "1 Peter|5|7": [
@@ -4201,16 +6343,16 @@
         "G1909"
       ],
       [
-        " him;",
-        "G846"
+        " him",
+        "G0846"
       ],
       [
-        " for",
+        "; for",
         "G3754"
       ],
       [
         " he",
-        "G846"
+        "G0846"
       ],
       [
         " careth",
@@ -4221,21 +6363,25 @@
         "G4012"
       ],
       [
-        " you.",
+        " you",
         "G5216"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|5|8": [
       [
-        "Be sober,",
+        "Be sober",
         "G3525"
       ],
       [
-        " be vigilant;",
+        ", be vigilant",
         "G1127"
       ],
       [
-        " because",
+        "; because",
         "G3754"
       ],
       [
@@ -4244,14 +6390,14 @@
       ],
       [
         " adversary",
-        "G476"
+        "G0476"
       ],
       [
-        " the devil,",
+        " the devil",
         "G1228"
       ],
       [
-        " as",
+        ", as",
         "G5613"
       ],
       [
@@ -4259,15 +6405,15 @@
         "G5612"
       ],
       [
-        " lion,",
+        " lion",
         "G3023"
       ],
       [
-        " walketh about,",
+        ", walketh about",
         "G4043"
       ],
       [
-        " seeking",
+        ", seeking",
         "G2212"
       ],
       [
@@ -4275,8 +6421,12 @@
         "G5101"
       ],
       [
-        " he may devour:",
+        " he may devour",
         "G2666"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "1 Peter|5|9": [
@@ -4286,23 +6436,23 @@
       ],
       [
         " resist",
-        "G436"
+        "G0436"
       ],
       [
         " stedfast",
         "G4731"
       ],
       [
-        " in the faith,",
+        " in the faith",
         "G4102"
       ],
       [
-        " knowing",
+        ", knowing that",
         "G1492"
       ],
       [
-        " that the same",
-        "G846"
+        " the same",
+        "G0846"
       ],
       [
         " afflictions",
@@ -4318,21 +6468,119 @@
       ],
       [
         " brethren",
-        "G81"
+        "G0081"
       ],
       [
         " that are in",
         "G1722"
       ],
       [
-        " the world.",
+        " the world",
         "G2889"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Peter|5|10": [
+      [
+        "But",
+        "G1161"
+      ],
+      [
+        " the God",
+        "G2316"
+      ],
+      [
+        " of all",
+        "G3956"
+      ],
+      [
+        " grace",
+        "G5485"
+      ],
+      [
+        ", who",
+        "G3588"
+      ],
+      [
+        " hath called",
+        "G2564"
+      ],
+      [
+        " us",
+        "G2248"
+      ],
+      [
+        " unto",
+        "G1519"
+      ],
+      [
+        " his",
+        "G0846"
+      ],
+      [
+        " eternal",
+        "G0166"
+      ],
+      [
+        " glory",
+        "G1391"
+      ],
+      [
+        " by",
+        "G1722"
+      ],
+      [
+        " Christ",
+        "G5547"
+      ],
+      [
+        " Jesus",
+        "G2424"
+      ],
+      [
+        ", after that ye have suffered",
+        "G3958"
+      ],
+      [
+        " a while",
+        "G3641"
+      ],
+      [
+        ", make",
+        "G2675"
+      ],
+      [
+        " you",
+        "G5209"
+      ],
+      [
+        " perfect",
+        "G2675"
+      ],
+      [
+        ", stablish",
+        "G4741"
+      ],
+      [
+        ", strengthen",
+        "G4599"
+      ],
+      [
+        ", settle",
+        "G2311"
+      ],
+      [
+        " you.",
+        null
       ]
     ],
     "1 Peter|5|11": [
       [
         "To him",
-        "G846"
+        "G0846"
       ],
       [
         " be glory",
@@ -4352,15 +6600,19 @@
       ],
       [
         " ever",
-        "G165"
+        "G0165"
       ],
       [
-        " and ever.",
-        "G165"
+        " and ever",
+        "G0165"
       ],
       [
-        " Amen.",
-        "G281"
+        ". Amen",
+        "G0281"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|5|12": [
@@ -4369,47 +6621,43 @@
         "G1223"
       ],
       [
-        " Silvanus,",
+        " Silvanus",
         "G4610"
       ],
       [
-        " a faithful",
+        ", a faithful",
         "G4103"
       ],
       [
         " brother",
-        "G80"
+        "G0080"
       ],
       [
-        " unto you,",
+        " unto you",
         "G5213"
       ],
       [
-        " as",
+        ", as",
         "G5613"
       ],
       [
-        " I suppose,",
+        " I suppose",
         "G3049"
       ],
       [
-        " I have written",
+        ", I have written",
         "G1125"
       ],
       [
-        " briefly,",
-        "G1223"
-      ],
-      [
-        "",
+        " briefly",
         "G3641"
       ],
       [
-        " exhorting,",
+        ", exhorting",
         "G3870"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -4418,7 +6666,7 @@
       ],
       [
         " that this",
-        "G5026"
+        "G3778"
       ],
       [
         " is",
@@ -4426,7 +6674,7 @@
       ],
       [
         " the true",
-        "G227"
+        "G0227"
       ],
       [
         " grace",
@@ -4441,37 +6689,41 @@
         "G1519"
       ],
       [
-        "",
-        "G3739"
+        " ye stand",
+        "G2476"
       ],
       [
-        " ye stand.",
-        "G2476"
+        ".",
+        null
       ]
     ],
     "1 Peter|5|13": [
       [
-        "The church that is at",
+        "The",
+        "G3588"
+      ],
+      [
+        " church that is at",
         "G1722"
       ],
       [
-        " Babylon,",
-        "G897"
+        " Babylon",
+        "G0897"
       ],
       [
-        " elected together with",
+        ", elected together with",
         "G4899"
       ],
       [
         " you, saluteth",
-        "G782"
+        "G0782"
       ],
       [
-        " you;",
+        " you",
         "G5209"
       ],
       [
-        " and",
+        "; and",
         "G2532"
       ],
       [
@@ -4483,18 +6735,22 @@
         "G3450"
       ],
       [
-        " son.",
+        " son",
         "G5207"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Peter|5|14": [
       [
         "Greet ye",
-        "G782"
+        "G0782"
       ],
       [
         " one another",
-        "G240"
+        "G0240"
       ],
       [
         " with",
@@ -4505,11 +6761,11 @@
         "G5370"
       ],
       [
-        " of charity.",
-        "G26"
+        " of charity",
+        "G0026"
       ],
       [
-        " Peace",
+        ". Peace",
         "G1515"
       ],
       [
@@ -4521,7 +6777,11 @@
         "G3956"
       ],
       [
-        " that are in",
+        " that",
+        "G3588"
+      ],
+      [
+        " are in",
         "G1722"
       ],
       [
@@ -4529,12 +6789,16 @@
         "G5547"
       ],
       [
-        " Jesus.",
+        " Jesus",
         "G2424"
       ],
       [
-        " Amen.",
-        "G281"
+        ". Amen",
+        "G0281"
+      ],
+      [
+        ".",
+        null
       ]
     ]
   }

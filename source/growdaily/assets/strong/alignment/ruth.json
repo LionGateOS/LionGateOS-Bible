@@ -13,28 +13,24 @@
         "H8199"
       ],
       [
-        " ruled,",
+        " ruled",
         "H8199"
       ],
       [
-        " that there was a famine",
+        ", that there was a famine",
         "H7458"
       ],
       [
-        " in the land.",
-        "H776"
+        " in the land",
+        "H0776"
       ],
       [
-        " And a certain man",
-        "H376"
+        ". And a certain man",
+        "H0376"
       ],
       [
         " of Bethlehemjudah",
         "H1035"
-      ],
-      [
-        "",
-        "H3063"
       ],
       [
         " went",
@@ -49,26 +45,100 @@
         "H7704"
       ],
       [
-        " of Moab,",
+        " of Moab",
         "H4124"
       ],
       [
-        " he, and his wife,",
-        "H802"
+        ", he, and his wife",
+        "H0802"
       ],
       [
-        " and his two",
+        ", and his two",
         "H8147"
       ],
       [
-        " sons.",
+        " sons",
+        "H1121"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ruth|1|2": [
+      [
+        "And the name",
+        "H8034"
+      ],
+      [
+        " of the man",
+        "H0376"
+      ],
+      [
+        " was Elimelech",
+        "H0458"
+      ],
+      [
+        ", and the name",
+        "H8034"
+      ],
+      [
+        " of his wife",
+        "H0802"
+      ],
+      [
+        " Naomi",
+        "H5281"
+      ],
+      [
+        ", and the name",
+        "H8034"
+      ],
+      [
+        " of his two",
+        "H8147"
+      ],
+      [
+        " sons",
+        "H1121"
+      ],
+      [
+        " Mahlon",
+        "H4248"
+      ],
+      [
+        " and Chilion",
+        "H3630"
+      ],
+      [
+        ", Ephrathites",
+        "H0673"
+      ],
+      [
+        " of Bethlehemjudah",
+        "H1035"
+      ],
+      [
+        ". And they came",
+        "H0935"
+      ],
+      [
+        " into the country",
+        "H7704"
+      ],
+      [
+        " of Moab",
+        "H4124"
+      ],
+      [
+        ", and continued there.",
         null
       ]
     ],
     "Ruth|1|3": [
       [
         "And Elimelech",
-        "H458"
+        "H0458"
       ],
       [
         " Naomi's",
@@ -76,22 +146,26 @@
       ],
       [
         " husband",
-        "H376"
+        "H0376"
       ],
       [
-        " died;",
+        " died",
         "H4191"
       ],
       [
-        " and she was left,",
+        "; and she was left",
         "H7604"
       ],
       [
-        " and her two",
+        ", and her two",
         "H8147"
       ],
       [
-        " sons.",
+        " sons",
+        "H1121"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -102,30 +176,30 @@
       ],
       [
         " them wives",
-        "H802"
+        "H0802"
       ],
       [
         " of the women",
-        "H802"
+        "H0802"
       ],
       [
-        " of Moab;",
+        " of Moab",
         "H4125"
       ],
       [
-        " the name",
+        "; the name",
         "H8034"
       ],
       [
         " of the one",
-        "H259"
+        "H0259"
       ],
       [
-        " was Orpah,",
+        " was Orpah",
         "H6204"
       ],
       [
-        " and the name",
+        ", and the name",
         "H8034"
       ],
       [
@@ -133,11 +207,11 @@
         "H8145"
       ],
       [
-        " Ruth:",
+        " Ruth",
         "H7327"
       ],
       [
-        " and they dwelled",
+        ": and they dwelled",
         "H3427"
       ],
       [
@@ -145,7 +219,11 @@
         "H6235"
       ],
       [
-        " years.",
+        " years",
+        "H8141"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -168,7 +246,7 @@
       ],
       [
         " of them; and the woman",
-        "H802"
+        "H0802"
       ],
       [
         " was left",
@@ -183,7 +261,11 @@
         "H3206"
       ],
       [
-        " and her husband.",
+        " and her husband",
+        "H0376"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -193,11 +275,11 @@
         "H6965"
       ],
       [
-        " with her daughters in law,",
+        " with her daughters in law",
         "H3618"
       ],
       [
-        " that she might return",
+        ", that she might return",
         "H7725"
       ],
       [
@@ -205,11 +287,11 @@
         "H7704"
       ],
       [
-        " of Moab:",
+        " of Moab",
         "H4124"
       ],
       [
-        " for she had heard",
+        ": for she had heard",
         "H8085"
       ],
       [
@@ -237,7 +319,11 @@
         "H5414"
       ],
       [
-        " them bread.",
+        " them bread",
+        "H3899"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -272,10 +358,76 @@
       ],
       [
         " unto the land",
-        "H776"
+        "H0776"
       ],
       [
-        " of Judah.",
+        " of Judah",
+        "H3063"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ruth|1|8": [
+      [
+        "And Naomi",
+        "H5281"
+      ],
+      [
+        " said",
+        "H0559"
+      ],
+      [
+        " unto her two",
+        "H8147"
+      ],
+      [
+        " daughters in law",
+        "H3618"
+      ],
+      [
+        ", Go",
+        "H3212"
+      ],
+      [
+        ", return",
+        "H7725"
+      ],
+      [
+        " each",
+        "H0802"
+      ],
+      [
+        " to her mother's",
+        "H0517"
+      ],
+      [
+        " house",
+        "H1004"
+      ],
+      [
+        ": the LORD",
+        "H3068"
+      ],
+      [
+        " deal",
+        "H6213"
+      ],
+      [
+        " kindly",
+        "H2617"
+      ],
+      [
+        " with you, as ye have dealt",
+        "H6213"
+      ],
+      [
+        " with the dead",
+        "H4191"
+      ],
+      [
+        ", and with me.",
         null
       ]
     ],
@@ -293,23 +445,23 @@
         "H4672"
       ],
       [
-        " rest,",
+        " rest",
         "H4496"
       ],
       [
-        " each",
-        "H802"
+        ", each",
+        "H0802"
       ],
       [
         " of you in the house",
         "H1004"
       ],
       [
-        " of her husband.",
-        "H376"
+        " of her husband",
+        "H0376"
       ],
       [
-        " Then she kissed",
+        ". Then she kissed",
         "H5401"
       ],
       [
@@ -317,25 +469,33 @@
         "H5375"
       ],
       [
-        " their voice,",
+        " their voice",
         "H6963"
       ],
       [
-        " and wept.",
+        ", and wept",
+        "H1058"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ruth|1|10": [
       [
         "And they said",
-        "H559"
+        "H0559"
       ],
       [
         " unto her, Surely we will return",
         "H7725"
       ],
       [
-        " with thee unto thy people.",
+        " with thee unto thy people",
+        "H5971"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -345,19 +505,19 @@
         "H5281"
       ],
       [
-        " said,",
-        "H559"
+        " said",
+        "H0559"
       ],
       [
-        " Turn again,",
+        ", Turn again",
         "H7725"
       ],
       [
-        " my daughters:",
+        ", my daughters",
         "H1323"
       ],
       [
-        " why will ye go",
+        ": why will ye go",
         "H3212"
       ],
       [
@@ -365,25 +525,29 @@
         "H1121"
       ],
       [
-        " in my womb,",
+        " in my womb",
         "H4578"
       ],
       [
-        " that they may be your husbands?",
+        ", that they may be your husbands",
+        "H0582"
+      ],
+      [
+        "?",
         null
       ]
     ],
     "Ruth|1|12": [
       [
-        "Turn again,",
+        "Turn again",
         "H7725"
       ],
       [
-        " my daughters,",
+        ", my daughters",
         "H1323"
       ],
       [
-        " go",
+        ", go",
         "H3212"
       ],
       [
@@ -391,45 +555,141 @@
         "H2204"
       ],
       [
-        " to have an husband.",
-        "H376"
+        " to have an husband",
+        "H0376"
       ],
       [
-        " If I should say,",
-        "H559"
+        ". If I should say",
+        "H0559"
       ],
       [
-        " I have",
+        ", I have",
         "H3426"
       ],
       [
-        " hope,",
+        " hope",
         "H8615"
       ],
       [
-        " if I should have an husband",
-        "H376"
+        ", if I should have an husband",
+        "H0376"
       ],
       [
-        " also to night,",
+        " also to night",
         "H3915"
       ],
       [
-        " and should also bear",
+        ", and should also bear",
         "H3205"
       ],
       [
-        " sons;",
+        " sons",
+        "H1121"
+      ],
+      [
+        ";",
+        null
+      ]
+    ],
+    "Ruth|1|13": [
+      [
+        "Would ye tarry",
+        "H7663"
+      ],
+      [
+        " for them",
+        "H3860"
+      ],
+      [
+        " till they were grown",
+        "H1431"
+      ],
+      [
+        "? would ye stay",
+        "H5702"
+      ],
+      [
+        " for them",
+        "H3860"
+      ],
+      [
+        " from having husbands",
+        "H0376"
+      ],
+      [
+        "? nay, my daughters",
+        "H1323"
+      ],
+      [
+        "; for it grieveth",
+        "H4843"
+      ],
+      [
+        " me much",
+        "H3966"
+      ],
+      [
+        " for your sakes that the hand",
+        "H3027"
+      ],
+      [
+        " of the LORD",
+        "H3068"
+      ],
+      [
+        " is gone out",
+        "H3318"
+      ],
+      [
+        " against me.",
+        null
+      ]
+    ],
+    "Ruth|1|14": [
+      [
+        "And they lifted up",
+        "H5375"
+      ],
+      [
+        " their voice",
+        "H6963"
+      ],
+      [
+        ", and wept again",
+        "H1058"
+      ],
+      [
+        ": and Orpah",
+        "H6204"
+      ],
+      [
+        " kissed",
+        "H5401"
+      ],
+      [
+        " her mother in law",
+        "H2545"
+      ],
+      [
+        "; but Ruth",
+        "H7327"
+      ],
+      [
+        " clave",
+        "H1692"
+      ],
+      [
+        " unto her.",
         null
       ]
     ],
     "Ruth|1|15": [
       [
-        "And she said,",
-        "H559"
+        "And she said",
+        "H0559"
       ],
       [
-        " Behold, thy sister in law",
+        ", Behold, thy sister in law",
         "H2994"
       ],
       [
@@ -437,23 +697,27 @@
         "H7725"
       ],
       [
-        " unto her people,",
+        " unto her people",
         "H5971"
       ],
       [
-        " and unto her gods:",
-        "H430"
+        ", and unto her gods",
+        "H0430"
       ],
       [
-        " return",
+        ": return",
         "H7725"
       ],
       [
         " thou after",
-        "H310"
+        "H0310"
       ],
       [
-        " thy sister in law.",
+        " thy sister in law",
+        "H2994"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -463,11 +727,11 @@
         "H7327"
       ],
       [
-        " said,",
-        "H559"
+        " said",
+        "H0559"
       ],
       [
-        " Intreat",
+        ", Intreat",
         "H6293"
       ],
       [
@@ -480,38 +744,106 @@
       ],
       [
         " from following after",
-        "H310"
+        "H0310"
       ],
       [
-        " thee: for whither thou goest,",
+        " thee: for whither thou goest",
         "H3212"
       ],
       [
-        " I will go;",
+        ", I will go",
         "H3212"
       ],
       [
-        " and where thou lodgest,",
+        "; and where thou lodgest",
         "H3885"
       ],
       [
-        " I will lodge:",
+        ", I will lodge",
         "H3885"
       ],
       [
-        " thy people",
+        ": thy people",
         "H5971"
       ],
       [
-        " shall be my people,",
+        " shall be my people",
         "H5971"
       ],
       [
-        " and thy God",
-        "H430"
+        ", and thy God",
+        "H0430"
       ],
       [
-        " my God:",
+        " my God",
+        "H0430"
+      ],
+      [
+        ":",
+        null
+      ]
+    ],
+    "Ruth|1|17": [
+      [
+        "Where thou diest",
+        "H4191"
+      ],
+      [
+        ", will I die",
+        "H4191"
+      ],
+      [
+        ", and there will I be buried",
+        "H6912"
+      ],
+      [
+        ": the LORD",
+        "H3068"
+      ],
+      [
+        " do",
+        "H6213"
+      ],
+      [
+        " so to me, and more",
+        "H3254"
+      ],
+      [
+        " also, if ought but death",
+        "H4194"
+      ],
+      [
+        " part",
+        "H6504"
+      ],
+      [
+        " thee and me.",
+        null
+      ]
+    ],
+    "Ruth|1|18": [
+      [
+        "When she saw",
+        "H7200"
+      ],
+      [
+        " that she was stedfastly minded",
+        "H0553"
+      ],
+      [
+        " to go",
+        "H3212"
+      ],
+      [
+        " with her, then she left",
+        "H2308"
+      ],
+      [
+        " speaking",
+        "H1696"
+      ],
+      [
+        " unto her.",
         null
       ]
     ],
@@ -526,22 +858,22 @@
       ],
       [
         " until they came",
-        "H935"
+        "H0935"
       ],
       [
-        " to Bethlehem.",
+        " to Bethlehem",
         "H1035"
       ],
       [
-        " And it came to pass, when they were come",
-        "H935"
+        ". And it came to pass, when they were come",
+        "H0935"
       ],
       [
-        " to Bethlehem,",
+        " to Bethlehem",
         "H1035"
       ],
       [
-        " that all the city",
+        ", that all the city",
         "H5892"
       ],
       [
@@ -549,11 +881,103 @@
         "H1949"
       ],
       [
-        " about them, and they said,",
-        "H559"
+        " about them, and they said",
+        "H0559"
       ],
       [
-        " Is this Naomi?",
+        ", Is this Naomi",
+        "H5281"
+      ],
+      [
+        "?",
+        null
+      ]
+    ],
+    "Ruth|1|20": [
+      [
+        "And she said",
+        "H0559"
+      ],
+      [
+        " unto them, Call",
+        "H7121"
+      ],
+      [
+        " me not Naomi",
+        "H5281"
+      ],
+      [
+        ", call",
+        "H7121"
+      ],
+      [
+        " me Mara",
+        "H4755"
+      ],
+      [
+        ": for the Almighty",
+        "H7706"
+      ],
+      [
+        " hath dealt very",
+        "H3966"
+      ],
+      [
+        " bitterly",
+        "H4843"
+      ],
+      [
+        " with me.",
+        null
+      ]
+    ],
+    "Ruth|1|21": [
+      [
+        "I went out",
+        "H1980"
+      ],
+      [
+        " full",
+        "H4392"
+      ],
+      [
+        ", and the LORD",
+        "H3068"
+      ],
+      [
+        " hath brought me home again",
+        "H7725"
+      ],
+      [
+        " empty",
+        "H7387"
+      ],
+      [
+        ": why then call",
+        "H7121"
+      ],
+      [
+        " ye me Naomi",
+        "H5281"
+      ],
+      [
+        ", seeing the LORD",
+        "H3068"
+      ],
+      [
+        " hath testified",
+        "H6030"
+      ],
+      [
+        " against me, and the Almighty",
+        "H7706"
+      ],
+      [
+        " hath afflicted",
+        "H7489"
+      ],
+      [
+        " me?",
         null
       ]
     ],
@@ -563,23 +987,23 @@
         "H5281"
       ],
       [
-        " returned,",
+        " returned",
         "H7725"
       ],
       [
-        " and Ruth",
+        ", and Ruth",
         "H7327"
       ],
       [
-        " the Moabitess,",
+        " the Moabitess",
         "H4125"
       ],
       [
-        " her daughter in law,",
+        ", her daughter in law",
         "H3618"
       ],
       [
-        " with her, which returned",
+        ", with her, which returned",
         "H7725"
       ],
       [
@@ -587,12 +1011,12 @@
         "H7704"
       ],
       [
-        " of Moab:",
+        " of Moab",
         "H4124"
       ],
       [
-        " and they came",
-        "H935"
+        ": and they came",
+        "H0935"
       ],
       [
         " to Bethlehem",
@@ -607,7 +1031,11 @@
         "H8184"
       ],
       [
-        " harvest.",
+        " harvest",
+        "H7105"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -621,39 +1049,39 @@
         "H4129"
       ],
       [
-        "",
-        "H3045"
+        " of her husband's",
+        "H0376"
       ],
       [
-        " of her husband's,",
-        "H376"
-      ],
-      [
-        " a mighty",
+        ", a mighty",
         "H1368"
       ],
       [
         " man",
-        "H376"
+        "H0376"
       ],
       [
-        " of wealth,",
+        " of wealth",
         "H2428"
       ],
       [
-        " of the family",
+        ", of the family",
         "H4940"
       ],
       [
-        " of Elimelech;",
-        "H458"
+        " of Elimelech",
+        "H0458"
       ],
       [
-        " and his name",
+        "; and his name",
         "H8034"
       ],
       [
-        " was Boaz.",
+        " was Boaz",
+        "H1162"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -668,22 +1096,22 @@
       ],
       [
         " said",
-        "H559"
+        "H0559"
       ],
       [
-        " unto Naomi,",
+        " unto Naomi",
         "H5281"
       ],
       [
-        " Let me now go",
+        ", Let me now go",
         "H3212"
       ],
       [
-        " to the field,",
+        " to the field",
         "H7704"
       ],
       [
-        " and glean",
+        ", and glean",
         "H3950"
       ],
       [
@@ -692,7 +1120,7 @@
       ],
       [
         " after",
-        "H310"
+        "H0310"
       ],
       [
         " him in whose sight",
@@ -703,33 +1131,37 @@
         "H4672"
       ],
       [
-        " grace.",
+        " grace",
         "H2580"
       ],
       [
-        " And she said",
-        "H559"
+        ". And she said",
+        "H0559"
       ],
       [
-        " unto her, Go,",
+        " unto her, Go",
         "H3212"
       ],
       [
-        " my daughter.",
+        ", my daughter",
+        "H1323"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ruth|2|3": [
       [
-        "And she went,",
+        "And she went",
         "H3212"
       ],
       [
-        " and came,",
-        "H935"
+        ", and came",
+        "H0935"
       ],
       [
-        " and gleaned",
+        ", and gleaned",
         "H3950"
       ],
       [
@@ -738,14 +1170,14 @@
       ],
       [
         " after",
-        "H310"
+        "H0310"
       ],
       [
-        " the reapers:",
+        " the reapers",
         "H7114"
       ],
       [
-        " and her hap",
+        ": and her hap",
         "H4745"
       ],
       [
@@ -761,15 +1193,91 @@
         "H7704"
       ],
       [
-        " belonging unto Boaz,",
+        " belonging unto Boaz",
         "H1162"
       ],
       [
-        " who was of the kindred",
+        ", who was of the kindred",
         "H4940"
       ],
       [
-        " of Elimelech.",
+        " of Elimelech",
+        "H0458"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ruth|2|4": [
+      [
+        "And, behold, Boaz",
+        "H1162"
+      ],
+      [
+        " came",
+        "H0935"
+      ],
+      [
+        " from Bethlehem",
+        "H1035"
+      ],
+      [
+        ", and said",
+        "H0559"
+      ],
+      [
+        " unto the reapers",
+        "H7114"
+      ],
+      [
+        ", The LORD",
+        "H3068"
+      ],
+      [
+        " be with you. And they answered",
+        "H0559"
+      ],
+      [
+        " him, The LORD",
+        "H3068"
+      ],
+      [
+        " bless",
+        "H1288"
+      ],
+      [
+        " thee.",
+        null
+      ]
+    ],
+    "Ruth|2|5": [
+      [
+        "Then said",
+        "H0559"
+      ],
+      [
+        " Boaz",
+        "H1162"
+      ],
+      [
+        " unto his servant",
+        "H5288"
+      ],
+      [
+        " that was set",
+        "H5324"
+      ],
+      [
+        " over the reapers",
+        "H7114"
+      ],
+      [
+        ", Whose damsel",
+        "H5291"
+      ],
+      [
+        " is this?",
         null
       ]
     ],
@@ -791,11 +1299,11 @@
         "H6030"
       ],
       [
-        " and said,",
-        "H559"
+        " and said",
+        "H0559"
       ],
       [
-        " It is the Moabitish",
+        ", It is the Moabitish",
         "H4125"
       ],
       [
@@ -815,46 +1323,50 @@
         "H7704"
       ],
       [
-        " of Moab:",
+        " of Moab",
+        "H4124"
+      ],
+      [
+        ":",
         null
       ]
     ],
     "Ruth|2|7": [
       [
-        "And she said,",
-        "H559"
+        "And she said",
+        "H0559"
       ],
       [
-        " I pray you, let me glean",
+        ", I pray you, let me glean",
         "H3950"
       ],
       [
         " and gather",
-        "H622"
+        "H0622"
       ],
       [
         " after",
-        "H310"
+        "H0310"
       ],
       [
         " the reapers",
         "H7114"
       ],
       [
-        " among the sheaves:",
+        " among the sheaves",
         "H6016"
       ],
       [
-        " so she came,",
-        "H935"
+        ": so she came",
+        "H0935"
       ],
       [
-        " and hath continued",
+        ", and hath continued",
         "H5975"
       ],
       [
         " even",
-        "H227"
+        "H0227"
       ],
       [
         " from the morning",
@@ -869,33 +1381,37 @@
         "H4592"
       ],
       [
-        " in the house.",
+        " in the house",
+        "H1004"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ruth|2|8": [
       [
         "Then said",
-        "H559"
+        "H0559"
       ],
       [
         " Boaz",
         "H1162"
       ],
       [
-        " unto Ruth,",
+        " unto Ruth",
         "H7327"
       ],
       [
-        " Hearest",
+        ", Hearest",
         "H8085"
       ],
       [
-        " thou not, my daughter?",
+        " thou not, my daughter",
         "H1323"
       ],
       [
-        " Go",
+        "? Go",
         "H3212"
       ],
       [
@@ -904,14 +1420,14 @@
       ],
       [
         " in another",
-        "H312"
+        "H0312"
       ],
       [
-        " field,",
+        " field",
         "H7704"
       ],
       [
-        " neither go",
+        ", neither go",
         "H5674"
       ],
       [
@@ -919,7 +1435,11 @@
         "H1692"
       ],
       [
-        " here fast by my maidens:",
+        " here fast by my maidens",
+        "H5291"
+      ],
+      [
+        ":",
         null
       ]
     ],
@@ -933,16 +1453,16 @@
         "H7704"
       ],
       [
-        " that they do reap,",
+        " that they do reap",
         "H7114"
       ],
       [
-        " and go",
+        ", and go",
         "H1980"
       ],
       [
         " thou after",
-        "H310"
+        "H0310"
       ],
       [
         " them: have I not charged",
@@ -957,19 +1477,19 @@
         "H5060"
       ],
       [
-        " thee? and when thou art athirst,",
+        " thee? and when thou art athirst",
         "H6770"
       ],
       [
-        " go",
+        ", go",
         "H1980"
       ],
       [
-        " unto the vessels,",
+        " unto the vessels",
         "H3627"
       ],
       [
-        " and drink",
+        ", and drink",
         "H8354"
       ],
       [
@@ -977,7 +1497,11 @@
         "H5288"
       ],
       [
-        " have drawn.",
+        " have drawn",
+        "H7579"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -987,20 +1511,20 @@
         "H5307"
       ],
       [
-        " on her face,",
+        " on her face",
         "H6440"
       ],
       [
-        " and bowed",
+        ", and bowed",
         "H7812"
       ],
       [
-        " herself to the ground,",
-        "H776"
+        " herself to the ground",
+        "H0776"
       ],
       [
-        " and said",
-        "H559"
+        ", and said",
+        "H0559"
       ],
       [
         " unto him, Why have I found",
@@ -1011,15 +1535,19 @@
         "H2580"
       ],
       [
-        " in thine eyes,",
+        " in thine eyes",
         "H5869"
       ],
       [
-        " that thou shouldest take knowledge",
+        ", that thou shouldest take knowledge",
         "H5234"
       ],
       [
-        " of me, seeing I am a stranger?",
+        " of me, seeing I am a stranger",
+        "H5237"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -1034,7 +1562,7 @@
       ],
       [
         " and said",
-        "H559"
+        "H0559"
       ],
       [
         " unto her, It hath fully",
@@ -1054,38 +1582,38 @@
       ],
       [
         " since",
-        "H310"
+        "H0310"
       ],
       [
         " the death",
         "H4194"
       ],
       [
-        " of thine husband:",
-        "H376"
+        " of thine husband",
+        "H0376"
       ],
       [
-        " and how thou hast left",
+        ": and how thou hast left",
         "H5800"
       ],
       [
         " thy father",
-        "H1"
+        "H0001"
       ],
       [
-        " and thy mother,",
-        "H517"
+        " and thy mother",
+        "H0517"
       ],
       [
-        " and the land",
-        "H776"
+        ", and the land",
+        "H0776"
       ],
       [
-        " of thy nativity,",
+        " of thy nativity",
         "H4138"
       ],
       [
-        " and art come",
+        ", and art come",
         "H3212"
       ],
       [
@@ -1097,8 +1625,12 @@
         "H3045"
       ],
       [
-        " not heretofore.",
+        " not heretofore",
         "H8543"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "Ruth|2|12": [
@@ -1111,11 +1643,11 @@
         "H7999"
       ],
       [
-        " thy work,",
+        " thy work",
         "H6467"
       ],
       [
-        " and a full",
+        ", and a full",
         "H8003"
       ],
       [
@@ -1128,32 +1660,36 @@
       ],
       [
         " God",
-        "H430"
+        "H0430"
       ],
       [
-        " of Israel,",
+        " of Israel",
         "H3478"
       ],
       [
-        " under whose wings",
+        ", under whose wings",
         "H3671"
       ],
       [
         " thou art come",
-        "H935"
+        "H0935"
       ],
       [
-        " to trust.",
+        " to trust",
+        "H2620"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ruth|2|13": [
       [
-        "Then she said,",
-        "H559"
+        "Then she said",
+        "H0559"
       ],
       [
-        " Let me find",
+        ", Let me find",
         "H4672"
       ],
       [
@@ -1161,15 +1697,15 @@
         "H2580"
       ],
       [
-        " in thy sight,",
+        " in thy sight",
         "H5869"
       ],
       [
-        " my lord;",
-        "H113"
+        ", my lord",
+        "H0113"
       ],
       [
-        " for that thou hast comforted",
+        "; for that thou hast comforted",
         "H5162"
       ],
       [
@@ -1181,15 +1717,19 @@
         "H3820"
       ],
       [
-        " unto thine handmaid,",
+        " unto thine handmaid",
         "H8198"
       ],
       [
-        " though I be not like unto one",
-        "H259"
+        ", though I be not like unto one",
+        "H0259"
       ],
       [
-        " of thine handmaidens.",
+        " of thine handmaidens",
+        "H8198"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1200,34 +1740,30 @@
       ],
       [
         " said",
-        "H559"
+        "H0559"
       ],
       [
         " unto her, At mealtime",
         "H6256"
       ],
       [
-        "",
-        "H400"
-      ],
-      [
         " come",
         "H5066"
       ],
       [
-        " thou hither,",
+        " thou hither",
         "H1988"
       ],
       [
-        " and eat",
-        "H398"
+        ", and eat",
+        "H0398"
       ],
       [
-        " of the bread,",
+        " of the bread",
         "H3899"
       ],
       [
-        " and dip",
+        ", and dip",
         "H2881"
       ],
       [
@@ -1235,11 +1771,11 @@
         "H6595"
       ],
       [
-        " in the vinegar.",
+        " in the vinegar",
         "H2558"
       ],
       [
-        " And she sat",
+        ". And she sat",
         "H3427"
       ],
       [
@@ -1247,11 +1783,11 @@
         "H6654"
       ],
       [
-        " the reapers:",
+        " the reapers",
         "H7114"
       ],
       [
-        " and he reached",
+        ": and he reached",
         "H6642"
       ],
       [
@@ -1259,15 +1795,91 @@
         "H7039"
       ],
       [
-        " corn, and she did eat,",
-        "H398"
+        " corn, and she did eat",
+        "H0398"
       ],
       [
-        " and was sufficed,",
+        ", and was sufficed",
         "H7646"
       ],
       [
-        " and left.",
+        ", and left",
+        "H3498"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ruth|2|15": [
+      [
+        "And when she was risen up",
+        "H6965"
+      ],
+      [
+        " to glean",
+        "H3950"
+      ],
+      [
+        ", Boaz",
+        "H1162"
+      ],
+      [
+        " commanded",
+        "H6680"
+      ],
+      [
+        " his young men",
+        "H5288"
+      ],
+      [
+        ", saying",
+        "H0559"
+      ],
+      [
+        ", Let her glean",
+        "H3950"
+      ],
+      [
+        " even among the sheaves",
+        "H6016"
+      ],
+      [
+        ", and reproach",
+        "H3637"
+      ],
+      [
+        " her not:",
+        null
+      ]
+    ],
+    "Ruth|2|16": [
+      [
+        "And let fall",
+        "H7997"
+      ],
+      [
+        " also some of the handfuls",
+        "H6653"
+      ],
+      [
+        " of purpose",
+        "H7997"
+      ],
+      [
+        " for her, and leave",
+        "H5800"
+      ],
+      [
+        " them, that she may glean",
+        "H3950"
+      ],
+      [
+        " them, and rebuke",
+        "H1605"
+      ],
+      [
+        " her not.",
         null
       ]
     ],
@@ -1281,41 +1893,45 @@
         "H7704"
       ],
       [
-        " until even,",
+        " until even",
         "H6153"
       ],
       [
-        " and beat out",
+        ", and beat out",
         "H2251"
       ],
       [
-        " that she had gleaned:",
+        " that she had gleaned",
         "H3950"
       ],
       [
-        " and it was about an ephah",
-        "H374"
+        ": and it was about an ephah",
+        "H0374"
       ],
       [
-        " of barley.",
+        " of barley",
+        "H8184"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ruth|2|18": [
       [
-        "And she took it up,",
+        "And she took it up",
         "H5375"
       ],
       [
-        " and went",
-        "H935"
+        ", and went",
+        "H0935"
       ],
       [
-        " into the city:",
+        " into the city",
         "H5892"
       ],
       [
-        " and her mother in law",
+        ": and her mother in law",
         "H2545"
       ],
       [
@@ -1323,15 +1939,15 @@
         "H7200"
       ],
       [
-        " what she had gleaned:",
+        " what she had gleaned",
         "H3950"
       ],
       [
-        " and she brought forth,",
+        ": and she brought forth",
         "H3318"
       ],
       [
-        " and gave",
+        ", and gave",
         "H5414"
       ],
       [
@@ -1339,7 +1955,11 @@
         "H3498"
       ],
       [
-        " after she was sufficed.",
+        " after she was sufficed",
+        "H7648"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1350,19 +1970,19 @@
       ],
       [
         " said",
-        "H559"
+        "H0559"
       ],
       [
         " unto her, Where hast thou gleaned",
         "H3950"
       ],
       [
-        " to day?",
+        " to day",
         "H3117"
       ],
       [
-        " and where",
-        "H375"
+        "? and where",
+        "H0375"
       ],
       [
         " wroughtest",
@@ -1385,16 +2005,16 @@
         "H2545"
       ],
       [
-        " with whom she had wrought,",
+        " with whom she had wrought",
         "H6213"
       ],
       [
-        " and said,",
-        "H559"
+        ", and said",
+        "H0559"
       ],
       [
-        " The man's",
-        "H376"
+        ", The man's",
+        "H0376"
       ],
       [
         " name",
@@ -1409,7 +2029,11 @@
         "H3117"
       ],
       [
-        " is Boaz.",
+        " is Boaz",
+        "H1162"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1420,22 +2044,22 @@
       ],
       [
         " said",
-        "H559"
+        "H0559"
       ],
       [
-        " unto her daughter in law,",
+        " unto her daughter in law",
         "H3618"
       ],
       [
-        " Blessed",
+        ", Blessed",
         "H1288"
       ],
       [
-        " be he of the LORD,",
+        " be he of the LORD",
         "H3068"
       ],
       [
-        " who hath not left off",
+        ", who hath not left off",
         "H5800"
       ],
       [
@@ -1447,27 +2071,31 @@
         "H2416"
       ],
       [
-        " and to the dead.",
+        " and to the dead",
         "H4191"
       ],
       [
-        " And Naomi",
+        ". And Naomi",
         "H5281"
       ],
       [
         " said",
-        "H559"
+        "H0559"
       ],
       [
         " unto her, The man",
-        "H376"
+        "H0376"
       ],
       [
         " is near of kin",
         "H7138"
       ],
       [
-        " unto us, one of our next kinsmen.",
+        " unto us, one of our next kinsmen",
+        "H1350"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1481,27 +2109,31 @@
         "H4125"
       ],
       [
-        " said,",
-        "H559"
+        " said",
+        "H0559"
       ],
       [
-        " He said",
-        "H559"
+        ", He said",
+        "H0559"
       ],
       [
         " unto me also, Thou shalt keep fast",
         "H1692"
       ],
       [
-        " by my young men,",
+        " by my young men",
         "H5288"
       ],
       [
-        " until they have ended",
+        ", until they have ended",
         "H3615"
       ],
       [
-        " all my harvest.",
+        " all my harvest",
+        "H7105"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1512,42 +2144,46 @@
       ],
       [
         " said",
-        "H559"
+        "H0559"
       ],
       [
         " unto Ruth",
         "H7327"
       ],
       [
-        " her daughter in law,",
+        " her daughter in law",
         "H3618"
       ],
       [
-        " It is good,",
+        ", It is good",
         "H2896"
       ],
       [
-        " my daughter,",
+        ", my daughter",
         "H1323"
       ],
       [
-        " that thou go out",
+        ", that thou go out",
         "H3318"
       ],
       [
-        " with his maidens,",
+        " with his maidens",
         "H5291"
       ],
       [
-        " that they meet",
+        ", that they meet",
         "H6293"
       ],
       [
         " thee not in any other",
-        "H312"
+        "H0312"
       ],
       [
-        " field.",
+        " field",
+        "H7704"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1585,15 +2221,53 @@
         "H2406"
       ],
       [
-        " harvest;",
+        " harvest",
         "H7105"
       ],
       [
-        " and dwelt",
+        "; and dwelt",
         "H3427"
       ],
       [
-        " with her mother in law.",
+        " with her mother in law",
+        "H2545"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ruth|3|1": [
+      [
+        "Then Naomi",
+        "H5281"
+      ],
+      [
+        " her mother in law",
+        "H2545"
+      ],
+      [
+        " said",
+        "H0559"
+      ],
+      [
+        " unto her, My daughter",
+        "H1323"
+      ],
+      [
+        ", shall I not seek",
+        "H1245"
+      ],
+      [
+        " rest",
+        "H4494"
+      ],
+      [
+        " for thee, that it may be well",
+        "H3190"
+      ],
+      [
+        " with thee?",
         null
       ]
     ],
@@ -1603,11 +2277,11 @@
         "H1162"
       ],
       [
-        " of our kindred,",
+        " of our kindred",
         "H4130"
       ],
       [
-        " with whose maidens",
+        ", with whose maidens",
         "H5291"
       ],
       [
@@ -1623,7 +2297,11 @@
         "H3915"
       ],
       [
-        " in the threshingfloor.",
+        " in the threshingfloor",
+        "H1637"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1649,37 +2327,41 @@
         "H3381"
       ],
       [
-        " to the floor:",
+        " to the floor",
         "H1637"
       ],
       [
-        " but make not thyself known",
+        ": but make not thyself known",
         "H3045"
       ],
       [
-        " unto the man,",
-        "H376"
+        " unto the man",
+        "H0376"
       ],
       [
-        " until he shall have done",
+        ", until he shall have done",
         "H3615"
       ],
       [
         " eating",
-        "H398"
+        "H0398"
       ],
       [
-        " and drinking.",
+        " and drinking",
+        "H8354"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ruth|3|4": [
       [
-        "And it shall be, when he lieth down,",
+        "And it shall be, when he lieth down",
         "H7901"
       ],
       [
-        " that thou shalt mark",
+        ", that thou shalt mark",
         "H3045"
       ],
       [
@@ -1687,45 +2369,79 @@
         "H4725"
       ],
       [
-        " where he shall lie,",
+        " where he shall lie",
         "H7901"
       ],
       [
-        " and thou shalt go in,",
-        "H935"
+        ", and thou shalt go in",
+        "H0935"
       ],
       [
-        " and uncover",
+        ", and uncover",
         "H1540"
       ],
       [
-        " his feet,",
+        " his feet",
         "H4772"
       ],
       [
-        " and lay thee down;",
+        ", and lay thee down",
         "H7901"
       ],
       [
-        " and he will tell",
+        "; and he will tell",
         "H5046"
       ],
       [
-        " thee what thou shalt do.",
+        " thee what thou shalt do",
+        "H6213"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ruth|3|5": [
       [
         "And she said",
-        "H559"
+        "H0559"
       ],
       [
         " unto her, All that thou sayest",
-        "H559"
+        "H0559"
       ],
       [
-        " unto me I will do.",
+        " unto me I will do",
+        "H6213"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ruth|3|6": [
+      [
+        "And she went down",
+        "H3381"
+      ],
+      [
+        " unto the floor",
+        "H1637"
+      ],
+      [
+        ", and did",
+        "H6213"
+      ],
+      [
+        " according to all that her mother in law",
+        "H2545"
+      ],
+      [
+        " bade",
+        "H6680"
+      ],
+      [
+        " her.",
         null
       ]
     ],
@@ -1736,23 +2452,23 @@
       ],
       [
         " had eaten",
-        "H398"
+        "H0398"
       ],
       [
-        " and drunk,",
+        " and drunk",
         "H8354"
       ],
       [
-        " and his heart",
+        ", and his heart",
         "H3820"
       ],
       [
-        " was merry,",
+        " was merry",
         "H3190"
       ],
       [
-        " he went",
-        "H935"
+        ", he went",
+        "H0935"
       ],
       [
         " to lie down",
@@ -1763,83 +2479,87 @@
         "H7097"
       ],
       [
-        " of the heap of corn:",
+        " of the heap of corn",
         "H6194"
       ],
       [
-        " and she came",
-        "H935"
+        ": and she came",
+        "H0935"
       ],
       [
-        " softly,",
+        " softly",
         "H3909"
       ],
       [
-        " and uncovered",
+        ", and uncovered",
         "H1540"
       ],
       [
-        " his feet,",
+        " his feet",
         "H4772"
       ],
       [
-        " and laid her down.",
+        ", and laid her down",
+        "H7901"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ruth|3|8": [
       [
-        "And it came to pass at midnight,",
+        "And it came to pass at midnight",
         "H2677"
       ],
       [
-        "",
-        "H3915"
+        ", that the man",
+        "H0376"
       ],
       [
-        " that the man",
-        "H376"
-      ],
-      [
-        " was afraid,",
+        " was afraid",
         "H2729"
       ],
       [
-        " and turned",
+        ", and turned",
         "H3943"
       ],
       [
         " himself: and, behold, a woman",
-        "H802"
+        "H0802"
       ],
       [
         " lay",
         "H7901"
       ],
       [
-        " at his feet.",
+        " at his feet",
+        "H4772"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ruth|3|9": [
       [
-        "And he said,",
-        "H559"
+        "And he said",
+        "H0559"
       ],
       [
-        " Who art thou? And she answered,",
-        "H559"
+        ", Who art thou? And she answered",
+        "H0559"
       ],
       [
-        " I am Ruth",
+        ", I am Ruth",
         "H7327"
       ],
       [
-        " thine handmaid:",
-        "H519"
+        " thine handmaid",
+        "H0519"
       ],
       [
-        " spread",
+        ": spread",
         "H6566"
       ],
       [
@@ -1847,33 +2567,37 @@
         "H3671"
       ],
       [
-        " over thine handmaid;",
-        "H519"
+        " over thine handmaid",
+        "H0519"
       ],
       [
-        " for thou art a near kinsman.",
+        "; for thou art a near kinsman",
+        "H1350"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ruth|3|10": [
       [
-        "And he said,",
-        "H559"
+        "And he said",
+        "H0559"
       ],
       [
-        " Blessed",
+        ", Blessed",
         "H1288"
       ],
       [
-        " be thou of the LORD,",
+        " be thou of the LORD",
         "H3068"
       ],
       [
-        " my daughter:",
+        ", my daughter",
         "H1323"
       ],
       [
-        " for thou hast shewed",
+        ": for thou hast shewed",
         "H3190"
       ],
       [
@@ -1882,44 +2606,44 @@
       ],
       [
         " in the latter end",
-        "H314"
+        "H0314"
       ],
       [
-        " than at the beginning,",
+        " than at the beginning",
         "H7223"
       ],
       [
-        " inasmuch as thou followedst",
+        ", inasmuch as thou followedst",
         "H3212"
-      ],
-      [
-        "",
-        "H310"
       ],
       [
         " not",
         "H1115"
       ],
       [
-        " young men,",
-        "H970"
+        " young men",
+        "H0970"
       ],
       [
-        " whether poor",
+        ", whether poor",
         "H1800"
       ],
       [
-        " or rich.",
+        " or rich",
+        "H6223"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ruth|3|11": [
       [
-        "And now, my daughter,",
+        "And now, my daughter",
         "H1323"
       ],
       [
-        " fear",
+        ", fear",
         "H3372"
       ],
       [
@@ -1927,11 +2651,11 @@
         "H6213"
       ],
       [
-        " to thee all that thou requirest:",
-        "H559"
+        " to thee all that thou requirest",
+        "H0559"
       ],
       [
-        " for all the city",
+        ": for all the city",
         "H8179"
       ],
       [
@@ -1947,7 +2671,37 @@
         "H2428"
       ],
       [
-        " woman.",
+        " woman",
+        "H0802"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ruth|3|12": [
+      [
+        "And now it is true",
+        "H0551"
+      ],
+      [
+        " that I am thy near kinsman",
+        "H1350"
+      ],
+      [
+        ": howbeit there is",
+        "H3426"
+      ],
+      [
+        " a kinsman",
+        "H1350"
+      ],
+      [
+        " nearer",
+        "H7138"
+      ],
+      [
+        " than I.",
         null
       ]
     ],
@@ -1957,27 +2711,27 @@
         "H3885"
       ],
       [
-        " this night,",
+        " this night",
         "H3915"
       ],
       [
-        " and it shall be in the morning,",
+        ", and it shall be in the morning",
         "H1242"
       ],
       [
-        " that if he will perform unto thee the part of a kinsman,",
+        ", that if he will perform unto thee the part of a kinsman",
         "H1350"
       ],
       [
-        " well;",
+        ", well",
         "H2896"
       ],
       [
-        " let him do the kinsman's part:",
+        "; let him do the kinsman's part",
         "H1350"
       ],
       [
-        " but if he will",
+        ": but if he will",
         "H2654"
       ],
       [
@@ -1993,15 +2747,19 @@
         "H3068"
       ],
       [
-        " liveth:",
+        " liveth",
         "H2416"
       ],
       [
-        " lie down",
+        ": lie down",
         "H7901"
       ],
       [
-        " until the morning.",
+        " until the morning",
+        "H1242"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2015,11 +2773,11 @@
         "H4772"
       ],
       [
-        " until the morning:",
+        " until the morning",
         "H1242"
       ],
       [
-        " and she rose up",
+        ": and she rose up",
         "H6965"
       ],
       [
@@ -2028,44 +2786,48 @@
       ],
       [
         " one",
-        "H376"
+        "H0376"
       ],
       [
         " could know",
         "H5234"
       ],
       [
-        " another.",
+        " another",
         "H7453"
       ],
       [
-        " And he said,",
-        "H559"
+        ". And he said",
+        "H0559"
       ],
       [
-        " Let it not be known",
+        ", Let it not be known",
         "H3045"
       ],
       [
         " that a woman",
-        "H802"
+        "H0802"
       ],
       [
         " came",
-        "H935"
+        "H0935"
       ],
       [
-        " into the floor.",
+        " into the floor",
+        "H1637"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ruth|3|15": [
       [
-        "Also he said,",
-        "H559"
+        "Also he said",
+        "H0559"
       ],
       [
-        " Bring",
+        ", Bring",
         "H3051"
       ],
       [
@@ -2074,11 +2836,11 @@
       ],
       [
         " that thou hast upon thee, and hold",
-        "H270"
+        "H0270"
       ],
       [
         " it. And when she held",
-        "H270"
+        "H0270"
       ],
       [
         " it, he measured",
@@ -2089,29 +2851,67 @@
         "H8337"
       ],
       [
-        " measures of barley,",
+        " measures of barley",
         "H8184"
       ],
       [
-        " and laid",
+        ", and laid",
         "H7896"
       ],
       [
         " it on her: and she went",
-        "H935"
+        "H0935"
       ],
       [
-        " into the city.",
+        " into the city",
+        "H5892"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ruth|3|16": [
+      [
+        "And when she came",
+        "H0935"
+      ],
+      [
+        " to her mother in law",
+        "H2545"
+      ],
+      [
+        ", she said",
+        "H0559"
+      ],
+      [
+        ", Who art thou, my daughter",
+        "H1323"
+      ],
+      [
+        "? And she told",
+        "H5046"
+      ],
+      [
+        " her all that the man",
+        "H0376"
+      ],
+      [
+        " had done",
+        "H6213"
+      ],
+      [
+        " to her.",
         null
       ]
     ],
     "Ruth|3|17": [
       [
-        "And she said,",
-        "H559"
+        "And she said",
+        "H0559"
       ],
       [
-        " These six",
+        ", These six",
         "H8337"
       ],
       [
@@ -2124,36 +2924,40 @@
       ],
       [
         " he me; for he said",
-        "H559"
+        "H0559"
       ],
       [
         " to me, Go",
-        "H935"
+        "H0935"
       ],
       [
         " not empty",
         "H7387"
       ],
       [
-        " unto thy mother in law.",
+        " unto thy mother in law",
+        "H2545"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ruth|3|18": [
       [
         "Then said",
-        "H559"
+        "H0559"
       ],
       [
-        " she, Sit still,",
+        " she, Sit still",
         "H3427"
       ],
       [
-        " my daughter,",
+        ", my daughter",
         "H1323"
       ],
       [
-        " until thou know",
+        ", until thou know",
         "H3045"
       ],
       [
@@ -2161,20 +2965,20 @@
         "H1697"
       ],
       [
-        " will fall:",
+        " will fall",
         "H5307"
       ],
       [
-        " for the man",
-        "H376"
+        ": for the man",
+        "H0376"
       ],
       [
-        " will not be in rest,",
+        " will not be in rest",
         "H8252"
       ],
       [
-        " until",
-        "H518"
+        ", until",
+        "H0518"
       ],
       [
         " he have finished",
@@ -2185,7 +2989,11 @@
         "H1697"
       ],
       [
-        " this day.",
+        " this day",
+        "H3117"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2203,11 +3011,11 @@
         "H5927"
       ],
       [
-        " to the gate,",
+        " to the gate",
         "H8179"
       ],
       [
-        " and sat him down",
+        ", and sat him down",
         "H3427"
       ],
       [
@@ -2227,35 +3035,39 @@
         "H5674"
       ],
       [
-        " by; unto whom he said,",
-        "H559"
+        " by; unto whom he said",
+        "H0559"
       ],
       [
-        " Ho,",
+        ", Ho",
         "H1945"
       ],
       [
-        " such",
+        ", such",
         "H6423"
       ],
       [
-        " a one!",
-        "H492"
+        " a one",
+        "H0492"
       ],
       [
-        " turn aside,",
+        "! turn aside",
         "H5493"
       ],
       [
-        " sit down",
+        ", sit down",
         "H3427"
       ],
       [
-        " here. And he turned aside,",
+        " here. And he turned aside",
         "H5493"
       ],
       [
-        " and sat down.",
+        ", and sat down",
+        "H3427"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2270,44 +3082,48 @@
       ],
       [
         " men",
-        "H582"
+        "H0582"
       ],
       [
         " of the elders",
         "H2205"
       ],
       [
-        " of the city,",
+        " of the city",
         "H5892"
       ],
       [
-        " and said,",
-        "H559"
+        ", and said",
+        "H0559"
       ],
       [
-        " Sit ye down",
+        ", Sit ye down",
         "H3427"
       ],
       [
-        " here. And they sat down.",
+        " here. And they sat down",
+        "H3427"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ruth|4|3": [
       [
         "And he said",
-        "H559"
+        "H0559"
       ],
       [
-        " unto the kinsman,",
+        " unto the kinsman",
         "H1350"
       ],
       [
-        " Naomi,",
+        ", Naomi",
         "H5281"
       ],
       [
-        " that is come again",
+        ", that is come again",
         "H7725"
       ],
       [
@@ -2315,11 +3131,11 @@
         "H7704"
       ],
       [
-        " of Moab,",
+        " of Moab",
         "H4124"
       ],
       [
-        " selleth",
+        ", selleth",
         "H4376"
       ],
       [
@@ -2327,29 +3143,107 @@
         "H2513"
       ],
       [
-        " of land,",
+        " of land",
         "H7704"
       ],
       [
-        " which was our brother",
-        "H251"
+        ", which was our brother",
+        "H0251"
       ],
       [
-        " Elimelech's:",
+        " Elimelech's",
+        "H0458"
+      ],
+      [
+        ":",
+        null
+      ]
+    ],
+    "Ruth|4|4": [
+      [
+        "And I thought",
+        "H0559"
+      ],
+      [
+        " to advertise",
+        "H1540"
+      ],
+      [
+        " thee, saying",
+        "H0559"
+      ],
+      [
+        ", Buy",
+        "H7069"
+      ],
+      [
+        " it before the inhabitants",
+        "H3427"
+      ],
+      [
+        ", and before the elders",
+        "H2205"
+      ],
+      [
+        " of my people",
+        "H5971"
+      ],
+      [
+        ". If thou wilt redeem",
+        "H1350"
+      ],
+      [
+        " it, redeem",
+        "H1350"
+      ],
+      [
+        " it: but if thou wilt not redeem",
+        "H1350"
+      ],
+      [
+        " it, then tell",
+        "H5046"
+      ],
+      [
+        " me, that I may know",
+        "H3045"
+      ],
+      [
+        ": for there is none to redeem",
+        "H1350"
+      ],
+      [
+        " it beside",
+        "H2108"
+      ],
+      [
+        " thee; and I am after",
+        "H0310"
+      ],
+      [
+        " thee. And he said",
+        "H0559"
+      ],
+      [
+        ", I will redeem",
+        "H1350"
+      ],
+      [
+        " it.",
         null
       ]
     ],
     "Ruth|4|5": [
       [
         "Then said",
-        "H559"
+        "H0559"
       ],
       [
-        " Boaz,",
+        " Boaz",
         "H1162"
       ],
       [
-        " What day",
+        ", What day",
         "H3117"
       ],
       [
@@ -2365,11 +3259,11 @@
         "H3027"
       ],
       [
-        " of Naomi,",
+        " of Naomi",
         "H5281"
       ],
       [
-        " thou must buy",
+        ", thou must buy",
         "H7069"
       ],
       [
@@ -2377,19 +3271,19 @@
         "H7327"
       ],
       [
-        " the Moabitess,",
+        " the Moabitess",
         "H4125"
       ],
       [
-        " the wife",
-        "H802"
+        ", the wife",
+        "H0802"
       ],
       [
-        " of the dead,",
+        " of the dead",
         "H4191"
       ],
       [
-        " to raise up",
+        ", to raise up",
         "H6965"
       ],
       [
@@ -2401,7 +3295,57 @@
         "H4191"
       ],
       [
-        " upon his inheritance.",
+        " upon his inheritance",
+        "H5159"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ruth|4|6": [
+      [
+        "And the kinsman",
+        "H1350"
+      ],
+      [
+        " said",
+        "H0559"
+      ],
+      [
+        ", I cannot",
+        "H3201"
+      ],
+      [
+        " redeem",
+        "H1350"
+      ],
+      [
+        " it for myself, lest I mar",
+        "H7843"
+      ],
+      [
+        " mine own inheritance",
+        "H5159"
+      ],
+      [
+        ": redeem",
+        "H1350"
+      ],
+      [
+        " thou my right",
+        "H1353"
+      ],
+      [
+        " to thyself; for I cannot",
+        "H3201"
+      ],
+      [
+        " redeem",
+        "H1350"
+      ],
+      [
+        " it.",
         null
       ]
     ],
@@ -2419,43 +3363,47 @@
         "H1353"
       ],
       [
-        " and concerning changing,",
+        " and concerning changing",
         "H8545"
       ],
       [
-        " for to confirm",
+        ", for to confirm",
         "H6965"
       ],
       [
-        " all things;",
+        " all things",
         "H1697"
       ],
       [
-        " a man",
-        "H376"
+        "; a man",
+        "H0376"
       ],
       [
         " plucked off",
         "H8025"
       ],
       [
-        " his shoe,",
+        " his shoe",
         "H5275"
       ],
       [
-        " and gave",
+        ", and gave",
         "H5414"
       ],
       [
-        " it to his neighbour:",
+        " it to his neighbour",
         "H7453"
       ],
       [
-        " and this was a testimony",
+        ": and this was a testimony",
         "H8584"
       ],
       [
-        " in Israel.",
+        " in Israel",
+        "H3478"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2466,14 +3414,14 @@
       ],
       [
         " said",
-        "H559"
+        "H0559"
       ],
       [
-        " unto Boaz,",
+        " unto Boaz",
         "H1162"
       ],
       [
-        " Buy",
+        ", Buy",
         "H7069"
       ],
       [
@@ -2481,7 +3429,11 @@
         "H8025"
       ],
       [
-        " his shoe.",
+        " his shoe",
+        "H5275"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2492,46 +3444,50 @@
       ],
       [
         " said",
-        "H559"
+        "H0559"
       ],
       [
-        " unto the elders,",
+        " unto the elders",
         "H2205"
       ],
       [
-        " and unto all the people,",
+        ", and unto all the people",
         "H5971"
       ],
       [
-        " Ye are witnesses",
+        ", Ye are witnesses",
         "H5707"
       ],
       [
-        " this day,",
+        " this day",
         "H3117"
       ],
       [
-        " that I have bought",
+        ", that I have bought",
         "H7069"
       ],
       [
-        " all that was Elimelech's,",
-        "H458"
+        " all that was Elimelech's",
+        "H0458"
       ],
       [
-        " and all that was Chilion's",
+        ", and all that was Chilion's",
         "H3630"
       ],
       [
-        " and Mahlon's,",
+        " and Mahlon's",
         "H4248"
       ],
       [
-        " of the hand",
+        ", of the hand",
         "H3027"
       ],
       [
-        " of Naomi.",
+        " of Naomi",
+        "H5281"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2541,27 +3497,27 @@
         "H7327"
       ],
       [
-        " the Moabitess,",
+        " the Moabitess",
         "H4125"
       ],
       [
-        " the wife",
-        "H802"
+        ", the wife",
+        "H0802"
       ],
       [
-        " of Mahlon,",
+        " of Mahlon",
         "H4248"
       ],
       [
-        " have I purchased",
+        ", have I purchased",
         "H7069"
       ],
       [
-        " to be my wife,",
-        "H802"
+        " to be my wife",
+        "H0802"
       ],
       [
-        " to raise up",
+        ", to raise up",
         "H6965"
       ],
       [
@@ -2573,11 +3529,11 @@
         "H4191"
       ],
       [
-        " upon his inheritance,",
+        " upon his inheritance",
         "H5159"
       ],
       [
-        " that the name",
+        ", that the name",
         "H8034"
       ],
       [
@@ -2593,23 +3549,27 @@
         "H5973"
       ],
       [
-        " his brethren,",
-        "H251"
+        " his brethren",
+        "H0251"
       ],
       [
-        " and from the gate",
+        ", and from the gate",
         "H8179"
       ],
       [
-        " of his place:",
+        " of his place",
         "H4725"
       ],
       [
-        " ye are witnesses",
+        ": ye are witnesses",
         "H5707"
       ],
       [
-        " this day.",
+        " this day",
+        "H3117"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2619,23 +3579,23 @@
         "H5971"
       ],
       [
-        " that were in the gate,",
+        " that were in the gate",
         "H8179"
       ],
       [
-        " and the elders,",
+        ", and the elders",
         "H2205"
       ],
       [
-        " said,",
-        "H559"
+        ", said",
+        "H0559"
       ],
       [
-        " We are witnesses.",
+        ", We are witnesses",
         "H5707"
       ],
       [
-        " The LORD",
+        ". The LORD",
         "H3068"
       ],
       [
@@ -2644,11 +3604,11 @@
       ],
       [
         " the woman",
-        "H802"
+        "H0802"
       ],
       [
         " that is come",
-        "H935"
+        "H0935"
       ],
       [
         " into thine house",
@@ -2659,11 +3619,11 @@
         "H7354"
       ],
       [
-        " and like Leah,",
+        " and like Leah",
         "H3812"
       ],
       [
-        " which two",
+        ", which two",
         "H8147"
       ],
       [
@@ -2675,11 +3635,11 @@
         "H1004"
       ],
       [
-        " of Israel:",
+        " of Israel",
         "H3478"
       ],
       [
-        " and do",
+        ": and do",
         "H6213"
       ],
       [
@@ -2687,19 +3647,19 @@
         "H2428"
       ],
       [
-        " in Ephratah,",
-        "H672"
+        " in Ephratah",
+        "H0672"
       ],
       [
-        " and be famous",
+        ", and be famous",
         "H7121"
       ],
       [
-        "",
-        "H8034"
+        " in Bethlehem",
+        "H1035"
       ],
       [
-        " in Bethlehem:",
+        ":",
         null
       ]
     ],
@@ -2713,11 +3673,11 @@
         "H1004"
       ],
       [
-        " of Pharez,",
+        " of Pharez",
         "H6557"
       ],
       [
-        " whom Tamar",
+        ", whom Tamar",
         "H8559"
       ],
       [
@@ -2725,11 +3685,11 @@
         "H3205"
       ],
       [
-        " unto Judah,",
+        " unto Judah",
         "H3063"
       ],
       [
-        " of the seed",
+        ", of the seed",
         "H2233"
       ],
       [
@@ -2741,7 +3701,11 @@
         "H5414"
       ],
       [
-        " thee of this young woman.",
+        " thee of this young woman",
+        "H5291"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2755,16 +3719,16 @@
         "H3947"
       ],
       [
-        " Ruth,",
+        " Ruth",
         "H7327"
       ],
       [
-        " and she was his wife:",
-        "H802"
+        ", and she was his wife",
+        "H0802"
       ],
       [
-        " and when he went in",
-        "H935"
+        ": and when he went in",
+        "H0935"
       ],
       [
         " unto her, the LORD",
@@ -2775,41 +3739,45 @@
         "H5414"
       ],
       [
-        " her conception,",
+        " her conception",
         "H2032"
       ],
       [
-        " and she bare",
+        ", and she bare",
         "H3205"
       ],
       [
-        " a son.",
+        " a son",
+        "H1121"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ruth|4|14": [
       [
         "And the women",
-        "H802"
+        "H0802"
       ],
       [
         " said",
-        "H559"
+        "H0559"
       ],
       [
-        " unto Naomi,",
+        " unto Naomi",
         "H5281"
       ],
       [
-        " Blessed",
+        ", Blessed",
         "H1288"
       ],
       [
-        " be the LORD,",
+        " be the LORD",
         "H3068"
       ],
       [
-        " which hath not left",
+        ", which hath not left",
         "H7673"
       ],
       [
@@ -2817,11 +3785,11 @@
         "H3117"
       ],
       [
-        " without a kinsman,",
+        " without a kinsman",
         "H1350"
       ],
       [
-        " that his name",
+        ", that his name",
         "H8034"
       ],
       [
@@ -2829,7 +3797,87 @@
         "H7121"
       ],
       [
-        " in Israel.",
+        " in Israel",
+        "H3478"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ruth|4|15": [
+      [
+        "And he shall be unto thee a restorer",
+        "H7725"
+      ],
+      [
+        " of thy life",
+        "H5315"
+      ],
+      [
+        ", and a nourisher",
+        "H3557"
+      ],
+      [
+        " of thine old age",
+        "H7872"
+      ],
+      [
+        ": for thy daughter in law",
+        "H3618"
+      ],
+      [
+        ", which loveth",
+        "H0157"
+      ],
+      [
+        " thee, which is better",
+        "H2896"
+      ],
+      [
+        " to thee than seven",
+        "H7651"
+      ],
+      [
+        " sons",
+        "H1121"
+      ],
+      [
+        ", hath born",
+        "H3205"
+      ],
+      [
+        " him.",
+        null
+      ]
+    ],
+    "Ruth|4|16": [
+      [
+        "And Naomi",
+        "H5281"
+      ],
+      [
+        " took",
+        "H3947"
+      ],
+      [
+        " the child",
+        "H3206"
+      ],
+      [
+        ", and laid",
+        "H7896"
+      ],
+      [
+        " it in her bosom",
+        "H2436"
+      ],
+      [
+        ", and became nurse",
+        "H0539"
+      ],
+      [
+        " unto it.",
         null
       ]
     ],
@@ -2843,15 +3891,15 @@
         "H7121"
       ],
       [
-        " it a name,",
+        " it a name",
         "H8034"
       ],
       [
-        " saying,",
-        "H559"
+        ", saying",
+        "H0559"
       ],
       [
-        " There is a son",
+        ", There is a son",
         "H1121"
       ],
       [
@@ -2859,11 +3907,11 @@
         "H3205"
       ],
       [
-        " to Naomi;",
+        " to Naomi",
         "H5281"
       ],
       [
-        " and they called",
+        "; and they called",
         "H7121"
       ],
       [
@@ -2871,23 +3919,27 @@
         "H8034"
       ],
       [
-        " Obed:",
+        " Obed",
         "H5744"
       ],
       [
-        " he is the father",
-        "H1"
+        ": he is the father",
+        "H0001"
       ],
       [
-        " of Jesse,",
+        " of Jesse",
         "H3448"
       ],
       [
-        " the father",
-        "H1"
+        ", the father",
+        "H0001"
       ],
       [
-        " of David.",
+        " of David",
+        "H1732"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2897,11 +3949,11 @@
         "H8435"
       ],
       [
-        " of Pharez:",
+        " of Pharez",
         "H6557"
       ],
       [
-        " Pharez",
+        ": Pharez",
         "H6557"
       ],
       [
@@ -2909,7 +3961,11 @@
         "H3205"
       ],
       [
-        " Hezron,",
+        " Hezron",
+        "H2696"
+      ],
+      [
+        ",",
         null
       ]
     ],
@@ -2923,11 +3979,11 @@
         "H3205"
       ],
       [
-        " Ram,",
+        " Ram",
         "H7410"
       ],
       [
-        " and Ram",
+        ", and Ram",
         "H7410"
       ],
       [
@@ -2935,7 +3991,11 @@
         "H3205"
       ],
       [
-        " Amminadab,",
+        " Amminadab",
+        "H5992"
+      ],
+      [
+        ",",
         null
       ]
     ],
@@ -2949,11 +4009,11 @@
         "H3205"
       ],
       [
-        " Nahshon,",
+        " Nahshon",
         "H5177"
       ],
       [
-        " and Nahshon",
+        ", and Nahshon",
         "H5177"
       ],
       [
@@ -2961,7 +4021,11 @@
         "H3205"
       ],
       [
-        " Salmon,",
+        " Salmon",
+        "H8009"
+      ],
+      [
+        ",",
         null
       ]
     ],
@@ -2975,11 +4039,11 @@
         "H3205"
       ],
       [
-        " Boaz,",
+        " Boaz",
         "H1162"
       ],
       [
-        " and Boaz",
+        ", and Boaz",
         "H1162"
       ],
       [
@@ -2987,7 +4051,11 @@
         "H3205"
       ],
       [
-        " Obed,",
+        " Obed",
+        "H5744"
+      ],
+      [
+        ",",
         null
       ]
     ],
@@ -3001,11 +4069,11 @@
         "H3205"
       ],
       [
-        " Jesse,",
+        " Jesse",
         "H3448"
       ],
       [
-        " and Jesse",
+        ", and Jesse",
         "H3448"
       ],
       [
@@ -3013,7 +4081,11 @@
         "H3205"
       ],
       [
-        " David.",
+        " David",
+        "H1732"
+      ],
+      [
+        ".",
         null
       ]
     ]

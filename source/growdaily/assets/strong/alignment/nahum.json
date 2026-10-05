@@ -9,11 +9,11 @@
         "H4853"
       ],
       [
-        " of Nineveh.",
+        " of Nineveh",
         "H5210"
       ],
       [
-        " The book",
+        ". The book",
         "H5612"
       ],
       [
@@ -25,45 +25,45 @@
         "H5151"
       ],
       [
-        " the Elkoshite.",
+        " the Elkoshite",
+        "H0512"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Nahum|1|2": [
       [
         "God",
-        "H410"
+        "H0410"
       ],
       [
-        " is jealous,",
+        " is jealous",
         "H7072"
       ],
       [
-        " and the LORD",
+        ", and the LORD",
         "H3068"
       ],
       [
-        " revengeth;",
+        " revengeth",
         "H5358"
       ],
       [
-        " the LORD",
+        "; the LORD",
         "H3068"
       ],
       [
-        " revengeth,",
+        " revengeth",
         "H5358"
       ],
       [
-        " and is furious;",
+        ", and is furious",
         "H1167"
       ],
       [
-        "",
-        "H2534"
-      ],
-      [
-        " the LORD",
+        "; the LORD",
         "H3068"
       ],
       [
@@ -71,15 +71,19 @@
         "H5358"
       ],
       [
-        " on his adversaries,",
+        " on his adversaries",
         "H6862"
       ],
       [
-        " and he reserveth",
+        ", and he reserveth",
         "H5201"
       ],
       [
-        " wrath for his enemies.",
+        " wrath for his enemies",
+        "H0341"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -90,22 +94,22 @@
       ],
       [
         " is slow",
-        "H750"
+        "H0750"
       ],
       [
-        " to anger,",
-        "H639"
+        " to anger",
+        "H0639"
       ],
       [
-        " and great",
+        ", and great",
         "H1419"
       ],
       [
-        " in power,",
+        " in power",
         "H3581"
       ],
       [
-        " and will not at all",
+        ", and will not at all",
         "H5352"
       ],
       [
@@ -125,19 +129,23 @@
         "H5492"
       ],
       [
-        " and in the storm,",
+        " and in the storm",
         "H8183"
       ],
       [
-        " and the clouds",
+        ", and the clouds",
         "H6051"
       ],
       [
         " are the dust",
-        "H80"
+        "H0080"
       ],
       [
-        " of his feet.",
+        " of his feet",
+        "H7272"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -147,35 +155,35 @@
         "H1605"
       ],
       [
-        " the sea,",
+        " the sea",
         "H3220"
       ],
       [
-        " and maketh it dry,",
+        ", and maketh it dry",
         "H2717"
       ],
       [
-        " and drieth up",
+        ", and drieth up",
         "H3001"
       ],
       [
-        " all the rivers:",
+        " all the rivers",
         "H5104"
       ],
       [
-        " Bashan",
+        ": Bashan",
         "H1316"
       ],
       [
-        " languisheth,",
-        "H535"
+        " languisheth",
+        "H0535"
       ],
       [
-        " and Carmel,",
+        ", and Carmel",
         "H3760"
       ],
       [
-        " and the flower",
+        ", and the flower",
         "H6525"
       ],
       [
@@ -183,7 +191,137 @@
         "H3844"
       ],
       [
-        " languisheth.",
+        " languisheth",
+        "H0535"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Nahum|1|5": [
+      [
+        "The mountains",
+        "H2022"
+      ],
+      [
+        " quake",
+        "H7493"
+      ],
+      [
+        " at him, and the hills",
+        "H1389"
+      ],
+      [
+        " melt",
+        "H4127"
+      ],
+      [
+        ", and the earth",
+        "H0776"
+      ],
+      [
+        " is burned",
+        "H5375"
+      ],
+      [
+        " at his presence",
+        "H6440"
+      ],
+      [
+        ", yea, the world",
+        "H8398"
+      ],
+      [
+        ", and all that dwell",
+        "H3427"
+      ],
+      [
+        " therein.",
+        null
+      ]
+    ],
+    "Nahum|1|6": [
+      [
+        "Who can stand",
+        "H5975"
+      ],
+      [
+        " before",
+        "H6440"
+      ],
+      [
+        " his indignation",
+        "H2195"
+      ],
+      [
+        "? and who can abide",
+        "H6965"
+      ],
+      [
+        " in the fierceness",
+        "H2740"
+      ],
+      [
+        " of his anger",
+        "H0639"
+      ],
+      [
+        "? his fury",
+        "H2534"
+      ],
+      [
+        " is poured out",
+        "H5413"
+      ],
+      [
+        " like fire",
+        "H0784"
+      ],
+      [
+        ", and the rocks",
+        "H6697"
+      ],
+      [
+        " are thrown down",
+        "H5422"
+      ],
+      [
+        " by him.",
+        null
+      ]
+    ],
+    "Nahum|1|7": [
+      [
+        "The LORD",
+        "H3068"
+      ],
+      [
+        " is good",
+        "H2896"
+      ],
+      [
+        ", a strong hold",
+        "H4581"
+      ],
+      [
+        " in the day",
+        "H3117"
+      ],
+      [
+        " of trouble",
+        "H6869"
+      ],
+      [
+        "; and he knoweth",
+        "H3045"
+      ],
+      [
+        " them that trust",
+        "H2620"
+      ],
+      [
+        " in him.",
         null
       ]
     ],
@@ -217,7 +355,11 @@
         "H7291"
       ],
       [
-        " his enemies.",
+        " his enemies",
+        "H0341"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -227,19 +369,19 @@
         "H2803"
       ],
       [
-        " against the LORD?",
+        " against the LORD",
         "H3068"
       ],
       [
-        " he will make",
+        "? he will make",
         "H6213"
       ],
       [
-        " an utter end:",
+        " an utter end",
         "H3617"
       ],
       [
-        " affliction",
+        ": affliction",
         "H6869"
       ],
       [
@@ -247,7 +389,11 @@
         "H6965"
       ],
       [
-        " the second time.",
+        " the second time",
+        "H6471"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -257,20 +403,20 @@
         "H5440"
       ],
       [
-        " as thorns,",
+        " as thorns",
         "H5518"
       ],
       [
-        " and while they are drunken",
+        ", and while they are drunken",
         "H5433"
       ],
       [
-        " as drunkards,",
+        " as drunkards",
         "H5435"
       ],
       [
-        " they shall be devoured",
-        "H398"
+        ", they shall be devoured",
+        "H0398"
       ],
       [
         " as stubble",
@@ -281,7 +427,11 @@
         "H4392"
       ],
       [
-        " dry.",
+        " dry",
+        "H3002"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -299,15 +449,57 @@
         "H7451"
       ],
       [
-        " against the LORD,",
+        " against the LORD",
         "H3068"
       ],
       [
-        " a wicked",
+        ", a wicked",
         "H1100"
       ],
       [
-        " counsellor.",
+        " counsellor",
+        "H3289"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Nahum|1|12": [
+      [
+        "Thus saith",
+        "H0559"
+      ],
+      [
+        " the LORD",
+        "H3068"
+      ],
+      [
+        "; Though they be quiet",
+        "H8003"
+      ],
+      [
+        ", and likewise many",
+        "H7227"
+      ],
+      [
+        ", yet thus shall they be cut down",
+        "H1494"
+      ],
+      [
+        ", when he shall pass through",
+        "H5674"
+      ],
+      [
+        ". Though I have afflicted",
+        "H6031"
+      ],
+      [
+        " thee, I will afflict",
+        "H6031"
+      ],
+      [
+        " thee no more.",
         null
       ]
     ],
@@ -329,7 +521,11 @@
         "H4147"
       ],
       [
-        " in sunder.",
+        " in sunder",
+        "H5423"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -347,16 +543,16 @@
         "H8034"
       ],
       [
-        " be sown:",
+        " be sown",
         "H2232"
       ],
       [
-        " out of the house",
+        ": out of the house",
         "H1004"
       ],
       [
         " of thy gods",
-        "H430"
+        "H0430"
       ],
       [
         " will I cut off",
@@ -367,19 +563,23 @@
         "H6459"
       ],
       [
-        " and the molten image:",
+        " and the molten image",
         "H4541"
       ],
       [
-        " I will make",
+        ": I will make",
         "H7760"
       ],
       [
-        " thy grave;",
+        " thy grave",
         "H6913"
       ],
       [
-        " for thou art vile.",
+        "; for thou art vile",
+        "H7043"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -393,39 +593,39 @@
         "H7272"
       ],
       [
-        " of him that bringeth good tidings,",
+        " of him that bringeth good tidings",
         "H1319"
       ],
       [
-        " that publisheth",
+        ", that publisheth",
         "H8085"
       ],
       [
-        " peace!",
+        " peace",
         "H7965"
       ],
       [
-        " O Judah,",
+        "! O Judah",
         "H3063"
       ],
       [
-        " keep",
+        ", keep",
         "H2287"
       ],
       [
-        " thy solemn feasts,",
+        " thy solemn feasts",
         "H2282"
       ],
       [
-        " perform",
+        ", perform",
         "H7999"
       ],
       [
-        " thy vows:",
+        " thy vows",
         "H5088"
       ],
       [
-        " for the wicked",
+        ": for the wicked",
         "H1100"
       ],
       [
@@ -437,7 +637,11 @@
         "H5674"
       ],
       [
-        " thee; he is utterly cut off.",
+        " thee; he is utterly cut off",
+        "H3772"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -451,43 +655,47 @@
         "H5927"
       ],
       [
-        " before thy face:",
+        " before thy face",
         "H6440"
       ],
       [
-        " keep",
+        ": keep",
         "H5341"
       ],
       [
-        " the munition,",
+        " the munition",
         "H4694"
       ],
       [
-        " watch",
+        ", watch",
         "H6822"
       ],
       [
-        " the way,",
+        " the way",
         "H1870"
       ],
       [
-        " make thy loins",
+        ", make thy loins",
         "H4975"
       ],
       [
-        " strong,",
+        " strong",
         "H2388"
       ],
       [
-        " fortify",
-        "H553"
+        ", fortify",
+        "H0553"
       ],
       [
         " thy power",
         "H3581"
       ],
       [
-        " mightily.",
+        " mightily",
+        "H3966"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -505,31 +713,35 @@
         "H1347"
       ],
       [
-        " of Jacob,",
+        " of Jacob",
         "H3290"
       ],
       [
-        " as the excellency",
+        ", as the excellency",
         "H1347"
       ],
       [
-        " of Israel:",
+        " of Israel",
         "H3478"
       ],
       [
-        " for the emptiers",
+        ": for the emptiers",
         "H1238"
       ],
       [
-        " have emptied them out,",
+        " have emptied them out",
         "H1238"
       ],
       [
-        " and marred",
+        ", and marred",
         "H7843"
       ],
       [
-        " their vine branches.",
+        " their vine branches",
+        "H2156"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -543,28 +755,28 @@
         "H1368"
       ],
       [
-        " is made red,",
-        "H119"
+        " is made red",
+        "H0119"
       ],
       [
-        " the valiant",
+        ", the valiant",
         "H2428"
       ],
       [
         " men",
-        "H582"
+        "H0582"
       ],
       [
-        " are in scarlet:",
+        " are in scarlet",
         "H8529"
       ],
       [
-        " the chariots",
+        ": the chariots",
         "H7393"
       ],
       [
         " shall be with flaming",
-        "H784"
+        "H0784"
       ],
       [
         " torches",
@@ -575,15 +787,19 @@
         "H3117"
       ],
       [
-        " of his preparation,",
+        " of his preparation",
         "H3559"
       ],
       [
-        " and the fir trees",
+        ", and the fir trees",
         "H1265"
       ],
       [
-        " shall be terribly shaken.",
+        " shall be terribly shaken",
+        "H7477"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -597,31 +813,35 @@
         "H1984"
       ],
       [
-        " in the streets,",
+        " in the streets",
         "H2351"
       ],
       [
-        " they shall justle one against another",
+        ", they shall justle one against another",
         "H8264"
       ],
       [
-        " in the broad ways:",
+        " in the broad ways",
         "H7339"
       ],
       [
-        " they shall seem",
+        ": they shall seem",
         "H4758"
       ],
       [
-        " like torches,",
+        " like torches",
         "H3940"
       ],
       [
-        " they shall run",
+        ", they shall run",
         "H7323"
       ],
       [
-        " like the lightnings.",
+        " like the lightnings",
+        "H1300"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -631,19 +851,19 @@
         "H2142"
       ],
       [
-        " his worthies:",
-        "H117"
+        " his worthies",
+        "H0117"
       ],
       [
-        " they shall stumble",
+        ": they shall stumble",
         "H3782"
       ],
       [
-        " in their walk;",
+        " in their walk",
         "H1979"
       ],
       [
-        " they shall make haste",
+        "; they shall make haste",
         "H4116"
       ],
       [
@@ -655,7 +875,11 @@
         "H5526"
       ],
       [
-        " shall be prepared.",
+        " shall be prepared",
+        "H3559"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -669,15 +893,19 @@
         "H5104"
       ],
       [
-        " shall be opened,",
+        " shall be opened",
         "H6605"
       ],
       [
-        " and the palace",
+        ", and the palace",
         "H1964"
       ],
       [
-        " shall be dissolved.",
+        " shall be dissolved",
+        "H4127"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -687,16 +915,16 @@
         "H5324"
       ],
       [
-        " shall be led away captive,",
+        " shall be led away captive",
         "H1540"
       ],
       [
-        " she shall be brought up,",
+        ", she shall be brought up",
         "H5927"
       ],
       [
-        " and her maids",
-        "H519"
+        ", and her maids",
+        "H0519"
       ],
       [
         " shall lead",
@@ -707,15 +935,19 @@
         "H6963"
       ],
       [
-        " of doves,",
+        " of doves",
         "H3123"
       ],
       [
-        " tabering",
+        ", tabering",
         "H8608"
       ],
       [
-        " upon their breasts.",
+        " upon their breasts",
+        "H3824"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -733,45 +965,49 @@
         "H1295"
       ],
       [
-        " of water:",
+        " of water",
         "H4325"
       ],
       [
-        " yet they shall flee away.",
+        ": yet they shall flee away",
         "H5127"
       ],
       [
-        " Stand,",
+        ". Stand",
         "H5975"
       ],
       [
-        " stand,",
+        ", stand",
         "H5975"
       ],
       [
-        " shall they cry; but none shall look back.",
+        ", shall they cry; but none shall look back",
+        "H6437"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Nahum|2|9": [
       [
         "Take ye the spoil",
-        "H962"
+        "H0962"
       ],
       [
-        " of silver,",
+        " of silver",
         "H3701"
       ],
       [
-        " take the spoil",
-        "H962"
+        ", take the spoil",
+        "H0962"
       ],
       [
-        " of gold:",
+        " of gold",
         "H2091"
       ],
       [
-        " for there is none end",
+        ": for there is none end",
         "H7097"
       ],
       [
@@ -787,49 +1023,53 @@
         "H2532"
       ],
       [
-        " furniture.",
+        " furniture",
+        "H3627"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Nahum|2|10": [
       [
-        "She is empty,",
-        "H950"
+        "She is empty",
+        "H0950"
       ],
       [
-        " and void,",
+        ", and void",
         "H4003"
       ],
       [
-        " and waste:",
+        ", and waste",
         "H1110"
       ],
       [
-        " and the heart",
+        ": and the heart",
         "H3820"
       ],
       [
-        " melteth,",
+        " melteth",
         "H4549"
       ],
       [
-        " and the knees",
+        ", and the knees",
         "H1290"
       ],
       [
-        " smite together,",
+        " smite together",
         "H6375"
       ],
       [
-        " and much pain",
+        ", and much pain",
         "H2479"
       ],
       [
-        " is in all loins,",
+        " is in all loins",
         "H4975"
       ],
       [
-        " and the faces",
+        ", and the faces",
         "H6440"
       ],
       [
@@ -837,7 +1077,11 @@
         "H6908"
       ],
       [
-        " blackness.",
+        " blackness",
+        "H6289"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -847,46 +1091,50 @@
         "H4583"
       ],
       [
-        " of the lions,",
-        "H738"
+        " of the lions",
+        "H0738"
       ],
       [
-        " and the feedingplace",
+        ", and the feedingplace",
         "H4829"
       ],
       [
-        " of the young lions,",
+        " of the young lions",
         "H3715"
       ],
       [
-        " where the lion,",
-        "H738"
+        ", where the lion",
+        "H0738"
       ],
       [
-        " even the old lion,",
+        ", even the old lion",
         "H3833"
       ],
       [
-        " walked,",
+        ", walked",
         "H1980"
       ],
       [
-        " and the lion's",
-        "H738"
+        ", and the lion's",
+        "H0738"
       ],
       [
-        " whelp,",
+        " whelp",
         "H1482"
       ],
       [
-        " and none made them afraid?",
+        ", and none made them afraid",
+        "H2729"
+      ],
+      [
+        "?",
         null
       ]
     ],
     "Nahum|2|12": [
       [
         "The lion",
-        "H738"
+        "H0738"
       ],
       [
         " did tear in pieces",
@@ -897,19 +1145,19 @@
         "H1767"
       ],
       [
-        " for his whelps,",
+        " for his whelps",
         "H1484"
       ],
       [
-        " and strangled",
+        ", and strangled",
         "H2614"
       ],
       [
-        " for his lionesses,",
+        " for his lionesses",
         "H3833"
       ],
       [
-        " and filled",
+        ", and filled",
         "H4390"
       ],
       [
@@ -917,15 +1165,19 @@
         "H2356"
       ],
       [
-        " with prey,",
+        " with prey",
         "H2964"
       ],
       [
-        " and his dens",
+        ", and his dens",
         "H4585"
       ],
       [
-        " with ravin.",
+        " with ravin",
+        "H2966"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -939,11 +1191,11 @@
         "H3068"
       ],
       [
-        " of hosts,",
+        " of hosts",
         "H6635"
       ],
       [
-        " and I will burn",
+        ", and I will burn",
         "H1197"
       ],
       [
@@ -951,23 +1203,23 @@
         "H7393"
       ],
       [
-        " in the smoke,",
+        " in the smoke",
         "H6227"
       ],
       [
-        " and the sword",
+        ", and the sword",
         "H2719"
       ],
       [
         " shall devour",
-        "H398"
+        "H0398"
       ],
       [
-        " thy young lions:",
+        " thy young lions",
         "H3715"
       ],
       [
-        " and I will cut off",
+        ": and I will cut off",
         "H3772"
       ],
       [
@@ -975,11 +1227,11 @@
         "H2964"
       ],
       [
-        " from the earth,",
-        "H776"
+        " from the earth",
+        "H0776"
       ],
       [
-        " and the voice",
+        ", and the voice",
         "H6963"
       ],
       [
@@ -987,7 +1239,49 @@
         "H4397"
       ],
       [
-        " shall no more be heard.",
+        " shall no more be heard",
+        "H8085"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Nahum|3|1": [
+      [
+        "Woe",
+        "H1945"
+      ],
+      [
+        " to the bloody",
+        "H1818"
+      ],
+      [
+        " city",
+        "H5892"
+      ],
+      [
+        "! it is all full",
+        "H4392"
+      ],
+      [
+        " of lies",
+        "H3585"
+      ],
+      [
+        " and robbery",
+        "H6563"
+      ],
+      [
+        "; the prey",
+        "H2964"
+      ],
+      [
+        " departeth",
+        "H4185"
+      ],
+      [
+        " not;",
         null
       ]
     ],
@@ -997,11 +1291,11 @@
         "H6963"
       ],
       [
-        " of a whip,",
+        " of a whip",
         "H7752"
       ],
       [
-        " and the noise",
+        ", and the noise",
         "H6963"
       ],
       [
@@ -1009,23 +1303,27 @@
         "H7494"
       ],
       [
-        " of the wheels,",
-        "H212"
+        " of the wheels",
+        "H0212"
       ],
       [
-        " and of the pransing",
+        ", and of the pransing",
         "H1725"
       ],
       [
-        " horses,",
+        " horses",
         "H5483"
       ],
       [
-        " and of the jumping",
+        ", and of the jumping",
         "H7540"
       ],
       [
-        " chariots.",
+        " chariots",
+        "H4818"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1051,43 +1349,43 @@
         "H1300"
       ],
       [
-        " spear:",
+        " spear",
         "H2595"
       ],
       [
-        " and there is a multitude",
+        ": and there is a multitude",
         "H7230"
       ],
       [
-        " of slain,",
+        " of slain",
         "H2491"
       ],
       [
-        " and a great",
+        ", and a great",
         "H3514"
       ],
       [
-        " number of carcases;",
+        " number of carcases",
         "H6297"
       ],
       [
-        " and there is none end",
+        "; and there is none end",
         "H7097"
       ],
       [
-        " of their corpses;",
+        " of their corpses",
         "H1472"
       ],
       [
-        " they stumble",
+        "; they stumble",
         "H3782"
       ],
       [
-        "",
-        "H3782"
+        " upon their corpses",
+        "H1472"
       ],
       [
-        " upon their corpses:",
+        ":",
         null
       ]
     ],
@@ -1105,23 +1403,19 @@
         "H2896"
       ],
       [
-        "",
-        "H2580"
-      ],
-      [
-        " harlot,",
+        " harlot",
         "H2181"
       ],
       [
-        " the mistress",
+        ", the mistress",
         "H1172"
       ],
       [
-        " of witchcrafts,",
+        " of witchcrafts",
         "H3785"
       ],
       [
-        " that selleth",
+        ", that selleth",
         "H4376"
       ],
       [
@@ -1129,15 +1423,19 @@
         "H1471"
       ],
       [
-        " through her whoredoms,",
+        " through her whoredoms",
         "H2183"
       ],
       [
-        " and families",
+        ", and families",
         "H4940"
       ],
       [
-        " through her witchcrafts.",
+        " through her witchcrafts",
+        "H3785"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1151,11 +1449,11 @@
         "H3068"
       ],
       [
-        " of hosts;",
+        " of hosts",
         "H6635"
       ],
       [
-        " and I will discover",
+        "; and I will discover",
         "H1540"
       ],
       [
@@ -1163,11 +1461,11 @@
         "H7757"
       ],
       [
-        " upon thy face,",
+        " upon thy face",
         "H6440"
       ],
       [
-        " and I will shew",
+        ", and I will shew",
         "H7200"
       ],
       [
@@ -1175,15 +1473,19 @@
         "H1471"
       ],
       [
-        " thy nakedness,",
+        " thy nakedness",
         "H4626"
       ],
       [
-        " and the kingdoms",
+        ", and the kingdoms",
         "H4467"
       ],
       [
-        " thy shame.",
+        " thy shame",
+        "H7036"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1197,15 +1499,61 @@
         "H8251"
       ],
       [
-        " upon thee, and make thee vile,",
+        " upon thee, and make thee vile",
         "H5034"
       ],
       [
-        " and will set",
+        ", and will set",
         "H7760"
       ],
       [
-        " thee as a gazingstock.",
+        " thee as a gazingstock",
+        "H7210"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Nahum|3|7": [
+      [
+        "And it shall come to pass, that all they that look",
+        "H7200"
+      ],
+      [
+        " upon thee shall flee",
+        "H5074"
+      ],
+      [
+        " from thee, and say",
+        "H0559"
+      ],
+      [
+        ", Nineveh",
+        "H5210"
+      ],
+      [
+        " is laid waste",
+        "H7703"
+      ],
+      [
+        ": who will bemoan",
+        "H5110"
+      ],
+      [
+        " her? whence",
+        "H0370"
+      ],
+      [
+        " shall I seek",
+        "H1245"
+      ],
+      [
+        " comforters",
+        "H5162"
+      ],
+      [
+        " for thee?",
         null
       ]
     ],
@@ -1216,26 +1564,22 @@
       ],
       [
         " than populous",
-        "H527"
+        "H0527"
       ],
       [
-        "",
-        "H528"
-      ],
-      [
-        " No,",
+        " No",
         "H4996"
       ],
       [
-        " that was situate",
+        ", that was situate",
         "H3427"
       ],
       [
-        " among the rivers,",
+        " among the rivers",
         "H2975"
       ],
       [
-        " that had the waters",
+        ", that had the waters",
         "H4325"
       ],
       [
@@ -1247,15 +1591,19 @@
         "H2426"
       ],
       [
-        " was the sea,",
+        " was the sea",
         "H3220"
       ],
       [
-        " and her wall",
+        ", and her wall",
         "H2346"
       ],
       [
-        " was from the sea?",
+        " was from the sea",
+        "H3220"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -1269,19 +1617,15 @@
         "H4714"
       ],
       [
-        " were her strength,",
+        " were her strength",
         "H6109"
       ],
       [
-        " and it was infinite;",
-        "H369"
+        ", and it was infinite",
+        "H0369"
       ],
       [
-        "",
-        "H7097"
-      ],
-      [
-        " Put",
+        "; Put",
         "H6316"
       ],
       [
@@ -1289,25 +1633,29 @@
         "H3864"
       ],
       [
-        " were thy helpers.",
+        " were thy helpers",
+        "H5833"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Nahum|3|10": [
       [
-        "Yet was she carried away,",
+        "Yet was she carried away",
         "H1473"
       ],
       [
-        " she went",
+        ", she went",
         "H1980"
       ],
       [
-        " into captivity:",
+        " into captivity",
         "H7628"
       ],
       [
-        " her young children",
+        ": her young children",
         "H5768"
       ],
       [
@@ -1319,11 +1667,11 @@
         "H7218"
       ],
       [
-        " of all the streets:",
+        " of all the streets",
         "H2351"
       ],
       [
-        " and they cast",
+        ": and they cast",
         "H3032"
       ],
       [
@@ -1331,11 +1679,11 @@
         "H1486"
       ],
       [
-        " for her honourable men,",
+        " for her honourable men",
         "H3513"
       ],
       [
-        " and all her great men",
+        ", and all her great men",
         "H1419"
       ],
       [
@@ -1343,21 +1691,25 @@
         "H7576"
       ],
       [
-        " in chains.",
+        " in chains",
+        "H2131"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Nahum|3|11": [
       [
-        "Thou also shalt be drunken:",
+        "Thou also shalt be drunken",
         "H7937"
       ],
       [
-        " thou shalt be hid,",
+        ": thou shalt be hid",
         "H5956"
       ],
       [
-        " thou also shalt seek",
+        ", thou also shalt seek",
         "H1245"
       ],
       [
@@ -1365,7 +1717,11 @@
         "H4581"
       ],
       [
-        " because of the enemy.",
+        " because of the enemy",
+        "H0341"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1379,15 +1735,15 @@
         "H8384"
       ],
       [
-        " with the firstripe figs:",
+        " with the firstripe figs",
         "H1061"
       ],
       [
-        " if they be shaken,",
+        ": if they be shaken",
         "H5128"
       ],
       [
-        " they shall even fall",
+        ", they shall even fall",
         "H5307"
       ],
       [
@@ -1395,7 +1751,11 @@
         "H6310"
       ],
       [
-        " of the eater.",
+        " of the eater",
+        "H0398"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1409,16 +1769,16 @@
         "H7130"
       ],
       [
-        " of thee are women:",
-        "H802"
+        " of thee are women",
+        "H0802"
       ],
       [
-        " the gates",
+        ": the gates",
         "H8179"
       ],
       [
         " of thy land",
-        "H776"
+        "H0776"
       ],
       [
         " shall be set wide",
@@ -1429,19 +1789,23 @@
         "H6605"
       ],
       [
-        " unto thine enemies:",
-        "H341"
+        " unto thine enemies",
+        "H0341"
       ],
       [
-        " the fire",
-        "H784"
+        ": the fire",
+        "H0784"
       ],
       [
         " shall devour",
-        "H398"
+        "H0398"
       ],
       [
-        " thy bars.",
+        " thy bars",
+        "H1280"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1455,81 +1819,89 @@
         "H4325"
       ],
       [
-        " for the siege,",
+        " for the siege",
         "H4692"
       ],
       [
-        " fortify",
+        ", fortify",
         "H2388"
       ],
       [
-        " thy strong holds:",
+        " thy strong holds",
         "H4013"
       ],
       [
-        " go",
-        "H935"
+        ": go",
+        "H0935"
       ],
       [
-        " into clay,",
+        " into clay",
         "H2916"
       ],
       [
-        " and tread",
+        ", and tread",
         "H7429"
       ],
       [
-        " the morter,",
+        " the morter",
         "H2563"
       ],
       [
-        " make strong",
+        ", make strong",
         "H2388"
       ],
       [
-        " the brickkiln.",
+        " the brickkiln",
+        "H4404"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Nahum|3|15": [
       [
         "There shall the fire",
-        "H784"
+        "H0784"
       ],
       [
         " devour",
-        "H398"
+        "H0398"
       ],
       [
         " thee; the sword",
         "H2719"
       ],
       [
-        " shall cut thee off,",
+        " shall cut thee off",
         "H3772"
       ],
       [
-        " it shall eat thee up",
-        "H398"
+        ", it shall eat thee up",
+        "H0398"
       ],
       [
-        " like the cankerworm:",
+        " like the cankerworm",
         "H3218"
       ],
       [
-        " make thyself many",
+        ": make thyself many",
         "H3513"
       ],
       [
-        " as the cankerworm,",
+        " as the cankerworm",
         "H3218"
       ],
       [
-        " make thyself many",
+        ", make thyself many",
         "H3513"
       ],
       [
-        " as the locusts.",
+        " as the locusts",
+        "H0697"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1547,19 +1919,131 @@
         "H3556"
       ],
       [
-        " of heaven:",
+        " of heaven",
         "H8064"
       ],
       [
-        " the cankerworm",
+        ": the cankerworm",
         "H3218"
       ],
       [
-        " spoileth,",
+        " spoileth",
         "H6584"
       ],
       [
-        " and flieth away.",
+        ", and flieth away",
+        "H5774"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Nahum|3|17": [
+      [
+        "Thy crowned",
+        "H4502"
+      ],
+      [
+        " are as the locusts",
+        "H0697"
+      ],
+      [
+        ", and thy captains",
+        "H2951"
+      ],
+      [
+        " as the great grasshoppers",
+        "H1462"
+      ],
+      [
+        ", which camp",
+        "H2583"
+      ],
+      [
+        " in the hedges",
+        "H1448"
+      ],
+      [
+        " in the cold",
+        "H7135"
+      ],
+      [
+        " day",
+        "H3117"
+      ],
+      [
+        ", but when the sun",
+        "H8121"
+      ],
+      [
+        " ariseth",
+        "H2224"
+      ],
+      [
+        " they flee away",
+        "H5074"
+      ],
+      [
+        ", and their place",
+        "H4725"
+      ],
+      [
+        " is not known",
+        "H3045"
+      ],
+      [
+        " where",
+        "H0335"
+      ],
+      [
+        " they are.",
+        null
+      ]
+    ],
+    "Nahum|3|18": [
+      [
+        "Thy shepherds",
+        "H7462"
+      ],
+      [
+        " slumber",
+        "H5123"
+      ],
+      [
+        ", O king",
+        "H4428"
+      ],
+      [
+        " of Assyria",
+        "H0804"
+      ],
+      [
+        ": thy nobles",
+        "H0117"
+      ],
+      [
+        " shall dwell",
+        "H7931"
+      ],
+      [
+        " in the dust: thy people",
+        "H5971"
+      ],
+      [
+        " is scattered",
+        "H6335"
+      ],
+      [
+        " upon the mountains",
+        "H2022"
+      ],
+      [
+        ", and no man gathereth",
+        "H6908"
+      ],
+      [
+        " them.",
         null
       ]
     ],
@@ -1569,19 +2053,19 @@
         "H3545"
       ],
       [
-        " of thy bruise;",
+        " of thy bruise",
         "H7667"
       ],
       [
-        " thy wound",
+        "; thy wound",
         "H4347"
       ],
       [
-        " is grievous:",
+        " is grievous",
         "H2470"
       ],
       [
-        " all that hear",
+        ": all that hear",
         "H8085"
       ],
       [
@@ -1605,7 +2089,11 @@
         "H5674"
       ],
       [
-        " continually?",
+        " continually",
+        "H8548"
+      ],
+      [
+        "?",
         null
       ]
     ]

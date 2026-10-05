@@ -5,11 +5,11 @@
   "verses": {
     "James|1|1": [
       [
-        "James,",
+        "James",
         "G2385"
       ],
       [
-        " a servant",
+        ", a servant",
         "G1401"
       ],
       [
@@ -29,11 +29,15 @@
         "G2424"
       ],
       [
-        " Christ,",
+        " Christ",
         "G5547"
       ],
       [
-        " to the twelve",
+        ", to the",
+        "G5443"
+      ],
+      [
+        " twelve",
         "G1427"
       ],
       [
@@ -41,15 +45,19 @@
         "G5443"
       ],
       [
-        " which",
-        "G1722"
+        " which are",
+        "G3588"
       ],
       [
-        " are scattered abroad,",
+        " scattered abroad",
         "G1290"
       ],
       [
-        " greeting.",
+        ", greeting",
+        "G5463"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -59,11 +67,11 @@
         "G3450"
       ],
       [
-        " brethren,",
-        "G80"
+        " brethren",
+        "G0080"
       ],
       [
-        " count it",
+        ", count it",
         "G2233"
       ],
       [
@@ -79,15 +87,19 @@
         "G3752"
       ],
       [
-        " ye fall",
+        " ye fall into",
         "G4045"
       ],
       [
-        " into divers",
+        " divers",
         "G4164"
       ],
       [
-        " temptations;",
+        " temptations",
+        "G3986"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -117,7 +129,11 @@
         "G2716"
       ],
       [
-        " patience.",
+        " patience",
+        "G5281"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -127,11 +143,7 @@
         "G1161"
       ],
       [
-        " let",
-        "G2192"
-      ],
-      [
-        " patience",
+        " let patience",
         "G5281"
       ],
       [
@@ -143,11 +155,11 @@
         "G5046"
       ],
       [
-        " work,",
+        " work",
         "G2041"
       ],
       [
-        " that",
+        ", that",
         "G2443"
       ],
       [
@@ -163,26 +175,30 @@
         "G2532"
       ],
       [
-        " entire,",
+        " entire",
         "G3648"
       ],
       [
-        " wanting",
+        ", wanting",
         "G3007"
       ],
       [
-        " nothing.",
-        "G1722"
+        " nothing",
+        "G3367"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "James|1|5": [
       [
-        "",
-        "G1161"
+        "If",
+        "G1487"
       ],
       [
-        "If any",
-        "G1536"
+        " any",
+        "G5100"
       ],
       [
         " of you",
@@ -193,23 +209,23 @@
         "G3007"
       ],
       [
-        " wisdom,",
+        " wisdom",
         "G4678"
       ],
       [
-        " let him ask",
-        "G154"
+        ", let him ask",
+        "G0154"
       ],
       [
         " of",
         "G3844"
       ],
       [
-        " God,",
+        " God",
         "G2316"
       ],
       [
-        " that giveth",
+        ", that giveth",
         "G1325"
       ],
       [
@@ -217,11 +233,11 @@
         "G3956"
       ],
       [
-        " men liberally,",
-        "G574"
+        " men liberally",
+        "G0574"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -229,11 +245,11 @@
         "G3679"
       ],
       [
-        " not;",
+        " not",
         "G3361"
       ],
       [
-        " and",
+        "; and",
         "G2532"
       ],
       [
@@ -241,7 +257,11 @@
         "G1325"
       ],
       [
-        " him.",
+        " him",
+        "G0846"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -252,26 +272,26 @@
       ],
       [
         " let him ask",
-        "G154"
+        "G0154"
       ],
       [
         " in",
         "G1722"
       ],
       [
-        " faith,",
+        " faith",
         "G4102"
       ],
       [
-        " nothing",
+        ", nothing",
         "G3367"
       ],
       [
-        " wavering.",
+        " wavering",
         "G1252"
       ],
       [
-        " For",
+        ". For",
         "G1063"
       ],
       [
@@ -292,14 +312,18 @@
       ],
       [
         " driven with the wind",
-        "G416"
+        "G0416"
       ],
       [
         " and",
         "G2532"
       ],
       [
-        " tossed.",
+        " tossed",
+        "G4494"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -309,11 +333,7 @@
         "G1063"
       ],
       [
-        " let",
-        "G3633"
-      ],
-      [
-        " not",
+        " let not",
         "G3361"
       ],
       [
@@ -322,7 +342,7 @@
       ],
       [
         " man",
-        "G444"
+        "G0444"
       ],
       [
         " think",
@@ -345,7 +365,11 @@
         "G3844"
       ],
       [
-        " the Lord.",
+        " the Lord",
+        "G2962"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -356,11 +380,11 @@
       ],
       [
         " man",
-        "G435"
+        "G0435"
       ],
       [
         " is unstable",
-        "G182"
+        "G0182"
       ],
       [
         " in",
@@ -372,25 +396,25 @@
       ],
       [
         " his",
-        "G846"
+        "G0846"
       ],
       [
-        " ways.",
+        " ways",
+        "G3598"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "James|1|9": [
       [
-        "",
+        "Let",
         "G1161"
       ],
       [
-        "Let",
-        "G2744"
-      ],
-      [
         " the brother",
-        "G80"
+        "G0080"
       ],
       [
         " of low degree",
@@ -406,10 +430,14 @@
       ],
       [
         " that he",
-        "G846"
+        "G0846"
       ],
       [
-        " is exalted:",
+        " is exalted",
+        "G5311"
+      ],
+      [
+        ":",
         null
       ]
     ],
@@ -419,23 +447,23 @@
         "G1161"
       ],
       [
-        " the rich,",
+        " the rich",
         "G4145"
       ],
       [
-        " in",
+        ", in",
         "G1722"
       ],
       [
         " that he",
-        "G846"
+        "G0846"
       ],
       [
-        " is made low:",
+        " is made low",
         "G5014"
       ],
       [
-        " because",
+        ": because",
         "G3754"
       ],
       [
@@ -444,14 +472,18 @@
       ],
       [
         " the flower",
-        "G438"
+        "G0438"
       ],
       [
         " of the grass",
         "G5528"
       ],
       [
-        " he shall pass away.",
+        " he shall pass away",
+        "G3928"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -466,18 +498,18 @@
       ],
       [
         " is no sooner risen",
-        "G393"
+        "G0393"
       ],
       [
         " with",
         "G4862"
       ],
       [
-        " a burning heat,",
+        " a burning heat",
         "G2742"
       ],
       [
-        " but",
+        ", but",
         "G2532"
       ],
       [
@@ -485,27 +517,27 @@
         "G3583"
       ],
       [
-        " the grass,",
+        " the grass",
         "G5528"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
         " the flower",
-        "G438"
+        "G0438"
       ],
       [
         " thereof",
-        "G846"
+        "G0846"
       ],
       [
-        " falleth,",
+        " falleth",
         "G1601"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -518,14 +550,14 @@
       ],
       [
         " of it",
-        "G846"
+        "G0846"
       ],
       [
-        " perisheth:",
-        "G622"
+        " perisheth",
+        "G0622"
       ],
       [
-        " so",
+        ": so",
         "G3779"
       ],
       [
@@ -550,10 +582,14 @@
       ],
       [
         " his",
-        "G846"
+        "G0846"
       ],
       [
-        " ways.",
+        " ways",
+        "G4197"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -564,7 +600,7 @@
       ],
       [
         " is the man",
-        "G435"
+        "G0435"
       ],
       [
         " that",
@@ -575,23 +611,23 @@
         "G5278"
       ],
       [
-        " temptation:",
+        " temptation",
         "G3986"
       ],
       [
-        " for",
+        ": for",
         "G3754"
       ],
       [
-        " when he is tried,",
-        "G1384"
-      ],
-      [
-        "",
+        " when he is",
         "G1096"
       ],
       [
-        " he shall receive",
+        " tried",
+        "G1384"
+      ],
+      [
+        ", he shall receive",
         "G2983"
       ],
       [
@@ -599,11 +635,11 @@
         "G4735"
       ],
       [
-        " of life,",
+        " of life",
         "G2222"
       ],
       [
-        " which",
+        ", which",
         "G3739"
       ],
       [
@@ -615,21 +651,25 @@
         "G1861"
       ],
       [
-        " to them that love",
-        "G25"
+        " to them",
+        "G3588"
       ],
       [
-        " him.",
+        " that love",
+        "G0025"
+      ],
+      [
+        " him",
+        "G0846"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "James|1|13": [
       [
-        "Let",
-        "G3004"
-      ],
-      [
-        " no man",
+        "Let no man",
         "G3367"
       ],
       [
@@ -637,27 +677,27 @@
         "G3004"
       ],
       [
-        " when he is tempted,",
-        "G3985"
-      ],
-      [
-        "",
+        " when",
         "G3754"
       ],
       [
-        " I am tempted",
+        " he is tempted",
+        "G3985"
+      ],
+      [
+        ", I am tempted",
         "G3985"
       ],
       [
         " of",
-        "G575"
+        "G0575"
       ],
       [
-        " God:",
+        " God",
         "G2316"
       ],
       [
-        " for",
+        ": for",
         "G1063"
       ],
       [
@@ -666,18 +706,14 @@
       ],
       [
         " cannot be tempted",
-        "G551"
+        "G0551"
       ],
       [
-        "",
-        "G2076"
-      ],
-      [
-        " with evil,",
+        " with evil",
         "G2556"
       ],
       [
-        " neither",
+        ", neither",
         "G1161"
       ],
       [
@@ -686,14 +722,14 @@
       ],
       [
         " he",
-        "G846"
+        "G0846"
       ],
       [
-        "",
-        "G3985"
+        " any man",
+        "G3762"
       ],
       [
-        " any man:",
+        ":",
         null
       ]
     ],
@@ -707,11 +743,11 @@
         "G1538"
       ],
       [
-        " is tempted,",
+        " is tempted",
         "G3985"
       ],
       [
-        " when he is drawn away",
+        ", when he is drawn away",
         "G1828"
       ],
       [
@@ -723,57 +759,65 @@
         "G2398"
       ],
       [
-        " lust,",
+        " lust",
         "G1939"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " enticed.",
+        " enticed",
+        "G1185"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "James|1|15": [
       [
-        "Then",
+        "Then when",
         "G1534"
       ],
       [
-        " when lust",
+        " lust",
         "G1939"
       ],
       [
-        " hath conceived,",
+        " hath conceived",
         "G4815"
       ],
       [
-        " it bringeth forth",
+        ", it bringeth forth",
         "G5088"
       ],
       [
-        " sin:",
-        "G266"
+        " sin",
+        "G0266"
       ],
       [
-        " and",
+        ": and",
         "G1161"
       ],
       [
-        " sin,",
-        "G266"
+        " sin",
+        "G0266"
       ],
       [
-        " when it is finished,",
-        "G658"
+        ", when it is finished",
+        "G0658"
       ],
       [
-        " bringeth forth",
-        "G616"
+        ", bringeth forth",
+        "G0616"
       ],
       [
-        " death.",
+        " death",
+        "G2288"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -787,19 +831,23 @@
         "G3361"
       ],
       [
-        " err,",
+        " err",
         "G4105"
       ],
       [
-        " my",
+        ", my",
         "G3450"
       ],
       [
         " beloved",
-        "G27"
+        "G0027"
       ],
       [
-        " brethren.",
+        " brethren",
+        "G0080"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -810,7 +858,7 @@
       ],
       [
         " good",
-        "G18"
+        "G0018"
       ],
       [
         " gift",
@@ -837,27 +885,27 @@
         "G2076"
       ],
       [
-        " from above,",
-        "G509"
+        " from above",
+        "G0509"
       ],
       [
-        " and cometh down",
+        ", and cometh down",
         "G2597"
       ],
       [
         " from",
-        "G575"
+        "G0575"
       ],
       [
         " the Father",
         "G3962"
       ],
       [
-        " of lights,",
+        " of lights",
         "G5457"
       ],
       [
-        " with",
+        ", with",
         "G3844"
       ],
       [
@@ -873,19 +921,23 @@
         "G3756"
       ],
       [
-        " variableness,",
+        " variableness",
         "G3883"
       ],
       [
-        " neither",
+        ", neither",
         "G2228"
       ],
       [
         " shadow",
-        "G644"
+        "G0644"
       ],
       [
-        " of turning.",
+        " of turning",
+        "G5157"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -896,7 +948,7 @@
       ],
       [
         " begat he",
-        "G616"
+        "G0616"
       ],
       [
         " us",
@@ -907,15 +959,11 @@
         "G3056"
       ],
       [
-        " of truth,",
-        "G225"
+        " of truth",
+        "G0225"
       ],
       [
-        " that",
-        "G1519"
-      ],
-      [
-        " we",
+        ", that we",
         "G2248"
       ],
       [
@@ -928,45 +976,45 @@
       ],
       [
         " of firstfruits",
-        "G536"
+        "G0536"
       ],
       [
         " of his",
-        "G846"
+        "G0846"
       ],
       [
-        " creatures.",
+        " creatures",
+        "G2938"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "James|1|19": [
       [
-        "Wherefore,",
+        "Wherefore",
         "G5620"
       ],
       [
-        " my",
+        ", my",
         "G3450"
       ],
       [
         " beloved",
-        "G27"
+        "G0027"
       ],
       [
-        " brethren,",
-        "G80"
+        " brethren",
+        "G0080"
       ],
       [
-        " let",
-        "G2077"
-      ],
-      [
-        " every",
+        ", let every",
         "G3956"
       ],
       [
         " man",
-        "G444"
+        "G0444"
       ],
       [
         " be",
@@ -981,11 +1029,11 @@
         "G1519"
       ],
       [
-        " hear,",
-        "G191"
+        " hear",
+        "G0191"
       ],
       [
-        " slow",
+        ", slow",
         "G1021"
       ],
       [
@@ -993,11 +1041,11 @@
         "G1519"
       ],
       [
-        " speak,",
+        " speak",
         "G2980"
       ],
       [
-        " slow",
+        ", slow",
         "G1021"
       ],
       [
@@ -1005,7 +1053,11 @@
         "G1519"
       ],
       [
-        " wrath:",
+        " wrath",
+        "G3709"
+      ],
+      [
+        ":",
         null
       ]
     ],
@@ -1020,7 +1072,7 @@
       ],
       [
         " of man",
-        "G435"
+        "G0435"
       ],
       [
         " worketh",
@@ -1035,7 +1087,11 @@
         "G1343"
       ],
       [
-        " of God.",
+        " of God",
+        "G2316"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1046,7 +1102,7 @@
       ],
       [
         " lay apart",
-        "G659"
+        "G0659"
       ],
       [
         " all",
@@ -1065,11 +1121,11 @@
         "G4050"
       ],
       [
-        " of naughtiness,",
+        " of naughtiness",
         "G2549"
       ],
       [
-        " and receive",
+        ", and receive",
         "G1209"
       ],
       [
@@ -1085,11 +1141,11 @@
         "G1721"
       ],
       [
-        " word,",
+        " word",
         "G3056"
       ],
       [
-        " which",
+        ", which",
         "G3588"
       ],
       [
@@ -1105,7 +1161,11 @@
         "G5216"
       ],
       [
-        " souls.",
+        " souls",
+        "G5590"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1115,19 +1175,19 @@
         "G1161"
       ],
       [
-        " be ye",
+        " be",
         "G1096"
       ],
       [
-        " doers",
+        " ye doers",
         "G4163"
       ],
       [
-        " of the word,",
+        " of the word",
         "G3056"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -1136,18 +1196,22 @@
       ],
       [
         " hearers",
-        "G202"
+        "G0202"
       ],
       [
-        " only,",
+        " only",
         "G3440"
       ],
       [
-        " deceiving",
+        ", deceiving",
         "G3884"
       ],
       [
-        " your own selves.",
+        " your own selves",
+        "G1438"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1157,23 +1221,23 @@
         "G3754"
       ],
       [
-        " if any",
-        "G1536"
+        " if",
+        "G1487"
       ],
       [
-        " be",
-        "G2076"
+        " any",
+        "G5100"
       ],
       [
-        " a hearer",
-        "G202"
+        " be a hearer",
+        "G0202"
       ],
       [
-        " of the word,",
+        " of the word",
         "G3056"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -1181,20 +1245,24 @@
         "G3756"
       ],
       [
-        " a doer,",
+        " a doer",
         "G4163"
       ],
       [
-        " he",
+        ", he",
         "G3778"
       ],
       [
-        " is like",
+        " is",
+        "G2076"
+      ],
+      [
+        " like unto",
         "G1503"
       ],
       [
-        " unto a man",
-        "G435"
+        " a man",
+        "G0435"
       ],
       [
         " beholding",
@@ -1202,7 +1270,7 @@
       ],
       [
         " his",
-        "G846"
+        "G0846"
       ],
       [
         " natural",
@@ -1217,7 +1285,11 @@
         "G1722"
       ],
       [
-        " a glass:",
+        " a glass",
+        "G2072"
+      ],
+      [
+        ":",
         null
       ]
     ],
@@ -1231,19 +1303,19 @@
         "G2657"
       ],
       [
-        " himself,",
+        " himself",
         "G1438"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " goeth his way,",
-        "G565"
+        " goeth his way",
+        "G0565"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -1259,7 +1331,11 @@
         "G3697"
       ],
       [
-        " he was.",
+        " he was",
+        "G2258"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1285,11 +1361,11 @@
         "G3551"
       ],
       [
-        " of liberty,",
+        " of liberty",
         "G1657"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -1313,23 +1389,23 @@
         "G1953"
       ],
       [
-        " hearer,",
-        "G202"
+        " hearer",
+        "G0202"
       ],
       [
-        " but",
-        "G235"
+        ", but",
+        "G0235"
       ],
       [
         " a doer",
         "G4163"
       ],
       [
-        " of the work,",
+        " of the work",
         "G2041"
       ],
       [
-        " this man",
+        ", this man",
         "G3778"
       ],
       [
@@ -1346,17 +1422,25 @@
       ],
       [
         " his",
-        "G846"
+        "G0846"
       ],
       [
-        " deed.",
+        " deed",
+        "G4162"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "James|1|26": [
       [
-        "If any man",
-        "G1536"
+        "If",
+        "G1487"
+      ],
+      [
+        " any man",
+        "G5100"
       ],
       [
         " among",
@@ -1375,11 +1459,11 @@
         "G1511"
       ],
       [
-        " religious,",
+        " religious",
         "G2357"
       ],
       [
-        " and bridleth",
+        ", and bridleth",
         "G5468"
       ],
       [
@@ -1388,30 +1472,30 @@
       ],
       [
         " his",
-        "G846"
+        "G0846"
       ],
       [
-        " tongue,",
+        " tongue",
         "G1100"
       ],
       [
-        " but",
-        "G235"
+        ", but",
+        "G0235"
       ],
       [
         " deceiveth",
-        "G538"
+        "G0538"
       ],
       [
         " his own",
-        "G846"
+        "G0846"
       ],
       [
-        " heart,",
+        " heart",
         "G2588"
       ],
       [
-        " this man's",
+        ", this man's",
         "G5127"
       ],
       [
@@ -1419,7 +1503,11 @@
         "G2356"
       ],
       [
-        " is vain.",
+        " is vain",
+        "G3152"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1438,7 +1526,7 @@
       ],
       [
         " undefiled",
-        "G283"
+        "G0283"
       ],
       [
         " before",
@@ -1461,11 +1549,11 @@
         "G2076"
       ],
       [
-        " this,",
+        " this",
         "G3778"
       ],
       [
-        " To visit",
+        ", To visit",
         "G1980"
       ],
       [
@@ -1486,14 +1574,14 @@
       ],
       [
         " their",
-        "G846"
+        "G0846"
       ],
       [
-        " affliction,",
+        " affliction",
         "G2347"
       ],
       [
-        " and to keep",
+        ", and to keep",
         "G5083"
       ],
       [
@@ -1502,14 +1590,18 @@
       ],
       [
         " unspotted",
-        "G784"
+        "G0784"
       ],
       [
         " from",
-        "G575"
+        "G0575"
       ],
       [
-        " the world.",
+        " the world",
+        "G2889"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1519,11 +1611,11 @@
         "G3450"
       ],
       [
-        " brethren,",
-        "G80"
+        " brethren",
+        "G0080"
       ],
       [
-        " have",
+        ", have",
         "G2192"
       ],
       [
@@ -1547,19 +1639,23 @@
         "G2424"
       ],
       [
-        " Christ,",
+        " Christ",
         "G5547"
       ],
       [
-        " the Lord of glory,",
+        ", the Lord of glory",
         "G1391"
       ],
       [
-        " with",
+        ", with",
         "G1722"
       ],
       [
-        " respect of persons.",
+        " respect of persons",
+        "G4382"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1590,14 +1686,14 @@
       ],
       [
         " a man",
-        "G435"
+        "G0435"
       ],
       [
-        " with a gold ring,",
+        " with a gold ring",
         "G5554"
       ],
       [
-        " in",
+        ", in",
         "G1722"
       ],
       [
@@ -1605,11 +1701,11 @@
         "G2986"
       ],
       [
-        " apparel,",
+        " apparel",
         "G2066"
       ],
       [
-        " and",
+        ", and",
         "G1161"
       ],
       [
@@ -1633,7 +1729,11 @@
         "G4508"
       ],
       [
-        " raiment;",
+        " raiment",
+        "G2066"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -1651,7 +1751,11 @@
         "G1909"
       ],
       [
-        " him that weareth",
+        " him that",
+        "G3588"
+      ],
+      [
+        " weareth",
         "G5409"
       ],
       [
@@ -1659,11 +1763,11 @@
         "G2986"
       ],
       [
-        " clothing,",
+        " clothing",
         "G2066"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -1671,11 +1775,11 @@
         "G2036"
       ],
       [
-        " unto him,",
-        "G846"
+        " unto him",
+        "G0846"
       ],
       [
-        " Sit",
+        ", Sit",
         "G2521"
       ],
       [
@@ -1687,11 +1791,11 @@
         "G5602"
       ],
       [
-        " in a good place;",
+        " in a good place",
         "G2573"
       ],
       [
-        " and",
+        "; and",
         "G2532"
       ],
       [
@@ -1699,11 +1803,11 @@
         "G2036"
       ],
       [
-        " to the poor,",
+        " to the poor",
         "G4434"
       ],
       [
-        " Stand",
+        ", Stand",
         "G2476"
       ],
       [
@@ -1711,11 +1815,11 @@
         "G4771"
       ],
       [
-        " there,",
+        " there",
         "G1563"
       ],
       [
-        " or",
+        ", or",
         "G2228"
       ],
       [
@@ -1735,7 +1839,11 @@
         "G3450"
       ],
       [
-        " footstool:",
+        " footstool",
+        "G5286"
+      ],
+      [
+        ":",
         null
       ]
     ],
@@ -1761,11 +1869,11 @@
         "G1722"
       ],
       [
-        " yourselves,",
+        " yourselves",
         "G1438"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -1781,29 +1889,33 @@
         "G4190"
       ],
       [
-        " thoughts?",
+        " thoughts",
+        "G1261"
+      ],
+      [
+        "?",
         null
       ]
     ],
     "James|2|5": [
       [
-        "Hearken,",
-        "G191"
+        "Hearken",
+        "G0191"
       ],
       [
-        " my",
+        ", my",
         "G3450"
       ],
       [
         " beloved",
-        "G27"
+        "G0027"
       ],
       [
-        " brethren,",
-        "G80"
+        " brethren",
+        "G0080"
       ],
       [
-        " Hath",
+        ", Hath",
         "G1586"
       ],
       [
@@ -1839,11 +1951,11 @@
         "G1722"
       ],
       [
-        " faith,",
+        " faith",
         "G4102"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -1852,7 +1964,7 @@
       ],
       [
         " of the kingdom",
-        "G932"
+        "G0932"
       ],
       [
         " which",
@@ -1863,11 +1975,19 @@
         "G1861"
       ],
       [
-        " to them that love",
-        "G25"
+        " to them that",
+        "G3588"
       ],
       [
-        " him?",
+        " love",
+        "G0025"
+      ],
+      [
+        " him",
+        "G0846"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -1882,14 +2002,14 @@
       ],
       [
         " have despised",
-        "G818"
+        "G0818"
       ],
       [
-        " the poor.",
+        " the poor",
         "G4434"
       ],
       [
-        " Do",
+        ". Do",
         "G2616"
       ],
       [
@@ -1905,19 +2025,15 @@
         "G2616"
       ],
       [
-        " you,",
+        " you",
         "G5216"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
         " draw",
-        "G846"
-      ],
-      [
-        "",
         "G1670"
       ],
       [
@@ -1929,14 +2045,18 @@
         "G1519"
       ],
       [
-        " the judgment seats?",
+        " the judgment seats",
+        "G2922"
+      ],
+      [
+        "?",
         null
       ]
     ],
     "James|2|7": [
       [
         "Do",
-        "G987"
+        "G0987"
       ],
       [
         " not",
@@ -1944,11 +2064,11 @@
       ],
       [
         " they",
-        "G846"
+        "G0846"
       ],
       [
         " blaspheme",
-        "G987"
+        "G0987"
       ],
       [
         " that worthy",
@@ -1963,11 +2083,19 @@
         "G1909"
       ],
       [
-        " the which ye",
+        " the which",
+        "G3588"
+      ],
+      [
+        " ye",
         "G5209"
       ],
       [
-        " are called?",
+        " are called",
+        "G1941"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -1977,16 +2105,12 @@
         "G1487"
       ],
       [
-        "",
-        "G3305"
-      ],
-      [
         " ye fulfil",
         "G5055"
       ],
       [
         " the royal",
-        "G937"
+        "G0937"
       ],
       [
         " law",
@@ -1997,12 +2121,12 @@
         "G2596"
       ],
       [
-        " the scripture,",
+        " the scripture",
         "G1124"
       ],
       [
-        " Thou shalt love",
-        "G25"
+        ", Thou shalt love",
+        "G0025"
       ],
       [
         " thy",
@@ -2017,15 +2141,19 @@
         "G5613"
       ],
       [
-        " thyself,",
+        " thyself",
         "G4572"
       ],
       [
-        " ye do",
+        ", ye do",
         "G4160"
       ],
       [
-        " well:",
+        " well",
+        "G2573"
+      ],
+      [
+        ":",
         null
       ]
     ],
@@ -2039,19 +2167,19 @@
         "G1487"
       ],
       [
-        " ye have respect to persons,",
+        " ye have respect to persons",
         "G4380"
       ],
       [
-        " ye commit",
+        ", ye commit",
         "G2038"
       ],
       [
-        " sin,",
-        "G266"
+        " sin",
+        "G0266"
       ],
       [
-        " and are convinced",
+        ", and are convinced",
         "G1651"
       ],
       [
@@ -2067,7 +2195,11 @@
         "G5613"
       ],
       [
-        " transgressors.",
+        " transgressors",
+        "G3848"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2089,11 +2221,11 @@
         "G3650"
       ],
       [
-        " law,",
+        " law",
         "G3551"
       ],
       [
-        " and yet",
+        ", and yet",
         "G1161"
       ],
       [
@@ -2113,11 +2245,15 @@
         "G1096"
       ],
       [
-        " guilty",
+        " guilty of",
         "G1777"
       ],
       [
-        " of all.",
+        " all",
+        "G3956"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2127,11 +2263,11 @@
         "G1063"
       ],
       [
-        " he that said,",
+        " he that said",
         "G2036"
       ],
       [
-        " Do",
+        ", Do",
         "G3431"
       ],
       [
@@ -2139,19 +2275,19 @@
         "G3361"
       ],
       [
-        " commit adultery,",
+        " commit adultery",
         "G3431"
       ],
       [
-        " said",
+        ", said",
         "G2036"
       ],
       [
-        " also,",
+        " also",
         "G2532"
       ],
       [
-        " Do",
+        ", Do",
         "G5407"
       ],
       [
@@ -2159,11 +2295,11 @@
         "G3361"
       ],
       [
-        " kill.",
+        " kill",
         "G5407"
       ],
       [
-        " Now",
+        ". Now",
         "G1161"
       ],
       [
@@ -2179,19 +2315,19 @@
         "G3756"
       ],
       [
-        " adultery,",
+        " adultery",
         "G3431"
       ],
       [
-        " yet if",
+        ", yet",
         "G1161"
       ],
       [
-        " thou kill,",
+        " if thou kill",
         "G5407"
       ],
       [
-        " thou art become",
+        ", thou art become",
         "G1096"
       ],
       [
@@ -2199,7 +2335,11 @@
         "G3848"
       ],
       [
-        " of the law.",
+        " of the law",
+        "G3551"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2209,11 +2349,11 @@
         "G3779"
       ],
       [
-        " speak ye,",
+        " speak ye",
         "G2980"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -2221,19 +2361,19 @@
         "G3779"
       ],
       [
-        " do,",
+        " do",
         "G4160"
       ],
       [
-        " as",
+        ", as",
         "G5613"
       ],
       [
-        " they that shall be",
+        " they that shall",
         "G3195"
       ],
       [
-        " judged",
+        " be judged",
         "G2919"
       ],
       [
@@ -2245,7 +2385,11 @@
         "G3551"
       ],
       [
-        " of liberty.",
+        " of liberty",
+        "G1657"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2255,15 +2399,19 @@
         "G1063"
       ],
       [
-        " he shall have judgment",
+        " he",
+        "G4160"
+      ],
+      [
+        " shall have judgment",
         "G2920"
       ],
       [
-        " without mercy,",
-        "G448"
+        " without mercy",
+        "G0448"
       ],
       [
-        " that hath shewed",
+        ", that hath shewed",
         "G4160"
       ],
       [
@@ -2271,11 +2419,11 @@
         "G3361"
       ],
       [
-        " mercy;",
+        " mercy",
         "G1656"
       ],
       [
-        " and",
+        "; and",
         "G2532"
       ],
       [
@@ -2287,7 +2435,11 @@
         "G2620"
       ],
       [
-        " judgment.",
+        " judgment",
+        "G2920"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2297,19 +2449,19 @@
         "G5101"
       ],
       [
-        " doth it profit,",
+        " doth it profit",
         "G3786"
       ],
       [
-        " my",
+        ", my",
         "G3450"
       ],
       [
-        " brethren,",
-        "G80"
+        " brethren",
+        "G0080"
       ],
       [
-        " though",
+        ", though",
         "G1437"
       ],
       [
@@ -2325,11 +2477,11 @@
         "G2192"
       ],
       [
-        " faith,",
+        " faith",
         "G4102"
       ],
       [
-        " and",
+        ", and",
         "G1161"
       ],
       [
@@ -2341,16 +2493,12 @@
         "G3361"
       ],
       [
-        " works?",
+        " works",
         "G2041"
       ],
       [
-        " can",
+        "? can",
         "G1410"
-      ],
-      [
-        "",
-        "G3361"
       ],
       [
         " faith",
@@ -2361,7 +2509,11 @@
         "G4982"
       ],
       [
-        " him?",
+        " him",
+        "G0846"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -2371,12 +2523,8 @@
         "G1437"
       ],
       [
-        "",
-        "G1161"
-      ],
-      [
         " a brother",
-        "G80"
+        "G0080"
       ],
       [
         " or",
@@ -2384,18 +2532,18 @@
       ],
       [
         " sister",
-        "G79"
+        "G0079"
       ],
       [
         " be",
         "G5225"
       ],
       [
-        " naked,",
+        " naked",
         "G1131"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -2403,15 +2551,15 @@
         "G3007"
       ],
       [
-        "",
-        "G5600"
-      ],
-      [
         " of daily",
         "G2184"
       ],
       [
-        " food,",
+        " food",
+        "G5160"
+      ],
+      [
+        ",",
         null
       ]
     ],
@@ -2437,11 +2585,11 @@
         "G2036"
       ],
       [
-        " unto them,",
-        "G846"
+        " unto them",
+        "G0846"
       ],
       [
-        " Depart",
+        ", Depart",
         "G5217"
       ],
       [
@@ -2449,11 +2597,15 @@
         "G1722"
       ],
       [
-        " peace,",
+        " peace",
         "G1515"
       ],
       [
-        " be ye warmed",
+        ", be",
+        "G2328"
+      ],
+      [
+        " ye warmed",
         "G2328"
       ],
       [
@@ -2461,11 +2613,11 @@
         "G2532"
       ],
       [
-        " filled;",
+        " filled",
         "G5526"
       ],
       [
-        " notwithstanding",
+        "; notwithstanding",
         "G1161"
       ],
       [
@@ -2474,7 +2626,7 @@
       ],
       [
         " them",
-        "G846"
+        "G0846"
       ],
       [
         " not",
@@ -2485,15 +2637,19 @@
         "G2006"
       ],
       [
-        " to the body;",
+        " to the body",
         "G4983"
       ],
       [
-        " what",
+        "; what",
         "G5101"
       ],
       [
-        " doth it profit?",
+        " doth it profit",
+        "G3786"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -2507,12 +2663,12 @@
         "G3779"
       ],
       [
-        " faith,",
+        " faith",
         "G4102"
       ],
       [
-        " if",
-        "G3362"
+        ", if",
+        "G1437"
       ],
       [
         " it hath",
@@ -2520,40 +2676,48 @@
       ],
       [
         " not",
-        "G3362"
+        "G3361"
       ],
       [
-        " works,",
+        " works",
         "G2041"
       ],
       [
-        " is",
+        ", is",
         "G2076"
       ],
       [
-        " dead,",
+        " dead",
         "G3498"
       ],
       [
-        " being alone.",
+        ", being",
         "G2596"
+      ],
+      [
+        " alone",
+        "G1438"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "James|2|18": [
       [
-        "Yea,",
-        "G235"
+        "Yea",
+        "G0235"
       ],
       [
-        " a man",
+        ", a man",
         "G5100"
       ],
       [
-        " may say,",
+        " may say",
         "G2046"
       ],
       [
-        " Thou",
+        ", Thou",
         "G4771"
       ],
       [
@@ -2561,11 +2725,11 @@
         "G2192"
       ],
       [
-        " faith,",
+        " faith",
         "G4102"
       ],
       [
-        " and I",
+        ", and I",
         "G2504"
       ],
       [
@@ -2573,11 +2737,11 @@
         "G2192"
       ],
       [
-        " works:",
+        " works",
         "G2041"
       ],
       [
-        " shew",
+        ": shew",
         "G1166"
       ],
       [
@@ -2601,11 +2765,11 @@
         "G4675"
       ],
       [
-        " works,",
+        " works",
         "G2041"
       ],
       [
-        " and I",
+        ", and I",
         "G2504"
       ],
       [
@@ -2633,7 +2797,11 @@
         "G3450"
       ],
       [
-        " works.",
+        " works",
+        "G2041"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2659,19 +2827,19 @@
         "G1520"
       ],
       [
-        " God;",
+        " God",
         "G2316"
       ],
       [
-        " thou doest",
+        "; thou doest",
         "G4160"
       ],
       [
-        " well:",
+        " well",
         "G2573"
       ],
       [
-        " the devils",
+        ": the devils",
         "G1140"
       ],
       [
@@ -2679,15 +2847,19 @@
         "G2532"
       ],
       [
-        " believe,",
+        " believe",
         "G4100"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " tremble.",
+        " tremble",
+        "G5425"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2697,15 +2869,15 @@
         "G1161"
       ],
       [
-        " wilt",
+        " wilt thou",
         "G2309"
       ],
       [
-        " thou know,",
+        " know",
         "G1097"
       ],
       [
-        " O",
+        ", O",
         "G5599"
       ],
       [
@@ -2713,11 +2885,11 @@
         "G2756"
       ],
       [
-        " man,",
-        "G444"
+        " man",
+        "G0444"
       ],
       [
-        " that",
+        ", that",
         "G3754"
       ],
       [
@@ -2737,22 +2909,22 @@
         "G2076"
       ],
       [
-        " dead?",
+        " dead",
+        "G3498"
+      ],
+      [
+        "?",
         null
       ]
     ],
     "James|2|21": [
       [
-        "Was",
-        "G1344"
-      ],
-      [
-        " not",
+        "Was not",
         "G3756"
       ],
       [
         " Abraham",
-        "G11"
+        "G0011"
       ],
       [
         " our",
@@ -2771,12 +2943,12 @@
         "G1537"
       ],
       [
-        " works,",
+        " works",
         "G2041"
       ],
       [
-        " when he had offered",
-        "G399"
+        ", when he had offered",
+        "G0399"
       ],
       [
         " Isaac",
@@ -2784,7 +2956,7 @@
       ],
       [
         " his",
-        "G846"
+        "G0846"
       ],
       [
         " son",
@@ -2795,14 +2967,18 @@
         "G1909"
       ],
       [
-        " the altar?",
+        " the altar",
+        "G2379"
+      ],
+      [
+        "?",
         null
       ]
     ],
     "James|2|22": [
       [
         "Seest thou",
-        "G991"
+        "G0991"
       ],
       [
         " how",
@@ -2813,19 +2989,19 @@
         "G4102"
       ],
       [
-        " wrought",
+        " wrought with",
         "G4903"
       ],
       [
-        " with his",
-        "G846"
+        " his",
+        "G0846"
       ],
       [
-        " works,",
+        " works",
         "G2041"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -2845,7 +3021,11 @@
         "G4102"
       ],
       [
-        " made perfect?",
+        " made perfect",
+        "G5048"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -2863,27 +3043,23 @@
         "G4137"
       ],
       [
-        " which saith,",
+        " which saith",
         "G3004"
       ],
       [
-        "",
-        "G1161"
-      ],
-      [
-        " Abraham",
-        "G11"
+        ", Abraham",
+        "G0011"
       ],
       [
         " believed",
         "G4100"
       ],
       [
-        " God,",
+        " God",
         "G2316"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -2892,18 +3068,18 @@
       ],
       [
         " unto him",
-        "G846"
+        "G0846"
       ],
       [
         " for",
         "G1519"
       ],
       [
-        " righteousness:",
+        " righteousness",
         "G1343"
       ],
       [
-        " and",
+        ": and",
         "G2532"
       ],
       [
@@ -2915,7 +3091,11 @@
         "G5384"
       ],
       [
-        " of God.",
+        " of God",
+        "G2316"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2942,14 +3122,14 @@
       ],
       [
         " a man",
-        "G444"
+        "G0444"
       ],
       [
-        " is justified,",
+        " is justified",
         "G1344"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -2965,7 +3145,11 @@
         "G4102"
       ],
       [
-        " only.",
+        " only",
+        "G3441"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2973,10 +3157,6 @@
       [
         "Likewise",
         "G3668"
-      ],
-      [
-        "",
-        "G1161"
       ],
       [
         " also",
@@ -3007,23 +3187,27 @@
         "G1537"
       ],
       [
-        " works,",
+        " works",
         "G2041"
       ],
       [
-        " when she had received",
+        ", when she had received",
         "G5264"
       ],
       [
-        " the messengers,",
-        "G32"
+        " the messengers",
+        "G0032"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " had sent them out",
+        " had sent",
+        "G1544"
+      ],
+      [
+        " them out",
         "G1544"
       ],
       [
@@ -3031,7 +3215,11 @@
         "G2087"
       ],
       [
-        " way?",
+        " way",
+        "G3598"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -3061,11 +3249,11 @@
         "G2076"
       ],
       [
-        " dead,",
+        " dead",
         "G3498"
       ],
       [
-        " so",
+        ", so",
         "G3779"
       ],
       [
@@ -3089,7 +3277,11 @@
         "G3498"
       ],
       [
-        " also.",
+        " also",
+        "G2532"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3099,11 +3291,11 @@
         "G3450"
       ],
       [
-        " brethren,",
-        "G80"
+        " brethren",
+        "G0080"
       ],
       [
-        " be",
+        ", be",
         "G1096"
       ],
       [
@@ -3115,11 +3307,11 @@
         "G4183"
       ],
       [
-        " masters,",
+        " masters",
         "G1320"
       ],
       [
-        " knowing",
+        ", knowing",
         "G1492"
       ],
       [
@@ -3132,10 +3324,14 @@
       ],
       [
         " the greater",
-        "G3187"
+        "G3173"
       ],
       [
-        " condemnation.",
+        " condemnation",
+        "G2917"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3153,12 +3349,16 @@
         "G4417"
       ],
       [
-        " all.",
-        "G537"
+        " all",
+        "G0537"
       ],
       [
-        " If any man",
-        "G1536"
+        ". If",
+        "G1487"
+      ],
+      [
+        " any man",
+        "G5100"
       ],
       [
         " offend",
@@ -3173,11 +3373,11 @@
         "G1722"
       ],
       [
-        " word,",
+        " word",
         "G3056"
       ],
       [
-        " the same",
+        ", the same",
         "G3778"
       ],
       [
@@ -3185,11 +3385,11 @@
         "G5046"
       ],
       [
-        " man,",
-        "G435"
+        " man",
+        "G0435"
       ],
       [
-        " and able",
+        ", and able",
         "G1415"
       ],
       [
@@ -3205,18 +3405,22 @@
         "G3650"
       ],
       [
-        " body.",
+        " body",
+        "G4983"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "James|3|3": [
       [
-        "Behold,",
+        "Behold",
         "G2400"
       ],
       [
-        " we put",
-        "G906"
+        ", we put",
+        "G0906"
       ],
       [
         " bits",
@@ -3227,31 +3431,31 @@
         "G1519"
       ],
       [
-        " the horses'",
+        " the horses",
         "G2462"
       ],
       [
-        " mouths,",
+        "' mouths",
         "G4750"
       ],
       [
-        " that",
+        ", that",
         "G4314"
       ],
       [
         " they",
-        "G846"
+        "G0846"
       ],
       [
         " may obey",
         "G3982"
       ],
       [
-        " us;",
+        " us",
         "G2254"
       ],
       [
-        " and",
+        "; and",
         "G2532"
       ],
       [
@@ -3260,14 +3464,18 @@
       ],
       [
         " their",
-        "G846"
+        "G0846"
       ],
       [
         " whole",
         "G3650"
       ],
       [
-        " body.",
+        " body",
+        "G4983"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3281,19 +3489,19 @@
         "G2532"
       ],
       [
-        " the ships,",
+        " the ships",
         "G4143"
       ],
       [
-        " which though they be",
+        ", which though",
         "G5607"
       ],
       [
-        " so great,",
+        " they be so great",
         "G5082"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -3309,11 +3517,11 @@
         "G4642"
       ],
       [
-        " winds,",
-        "G417"
+        " winds",
+        "G0417"
       ],
       [
-        " yet are they turned about",
+        ", yet are they turned about",
         "G3329"
       ],
       [
@@ -3325,24 +3533,24 @@
         "G1646"
       ],
       [
-        " helm,",
+        " helm",
         "G4079"
       ],
       [
-        " whithersoever",
+        ", whithersoever",
         "G3699"
       ],
       [
-        "",
-        "G302"
-      ],
-      [
         " the governor",
-        "G2116"
+        "G3730"
       ],
       [
-        " listeth.",
-        "G3730"
+        " listeth",
+        "G1014"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "James|3|5": [
@@ -3367,23 +3575,23 @@
         "G3398"
       ],
       [
-        " member,",
+        " member",
         "G3196"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " boasteth great things.",
+        " boasteth great things",
         "G3166"
       ],
       [
-        " Behold,",
+        ". Behold",
         "G2400"
       ],
       [
-        " how great",
+        ", how great",
         "G2245"
       ],
       [
@@ -3399,7 +3607,11 @@
         "G4442"
       ],
       [
-        " kindleth!",
+        " kindleth",
+        "G0381"
+      ],
+      [
+        "!",
         null
       ]
     ],
@@ -3413,19 +3625,19 @@
         "G1100"
       ],
       [
-        " is a fire,",
+        " is a fire",
         "G4442"
       ],
       [
-        " a world",
+        ", a world",
         "G2889"
       ],
       [
-        " of iniquity:",
-        "G93"
+        " of iniquity",
+        "G0093"
       ],
       [
-        " so",
+        ": so",
         "G3779"
       ],
       [
@@ -3445,11 +3657,11 @@
         "G2257"
       ],
       [
-        " members,",
+        " members",
         "G3196"
       ],
       [
-        " that it defileth",
+        ", that it defileth",
         "G4695"
       ],
       [
@@ -3457,11 +3669,11 @@
         "G3650"
       ],
       [
-        " body,",
+        " body",
         "G4983"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -3473,11 +3685,11 @@
         "G5164"
       ],
       [
-        " of nature;",
+        " of nature",
         "G1078"
       ],
       [
-        " and",
+        "; and",
         "G2532"
       ],
       [
@@ -3489,7 +3701,11 @@
         "G5259"
       ],
       [
-        " hell.",
+        " hell",
+        "G1067"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3507,43 +3723,39 @@
         "G5449"
       ],
       [
-        " of beasts,",
+        " of beasts",
         "G2342"
       ],
       [
-        " and",
-        "G5037"
-      ],
-      [
-        "",
+        ", and",
         "G2532"
       ],
       [
-        " of birds,",
+        " of birds",
         "G4071"
       ],
       [
-        " and",
+        ", and",
         "G5037"
       ],
       [
-        " of serpents,",
+        " of serpents",
         "G2062"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " of things in the sea,",
+        " of things in the sea",
         "G1724"
       ],
       [
-        " is tamed,",
+        ", is tamed",
         "G1150"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -3551,8 +3763,12 @@
         "G1150"
       ],
       [
-        " of mankind:",
-        "G5449"
+        " of mankind",
+        "G0442"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "James|3|8": [
@@ -3574,22 +3790,22 @@
       ],
       [
         " man",
-        "G444"
+        "G0444"
       ],
       [
-        " tame;",
+        " tame",
         "G1150"
       ],
       [
-        " it is an unruly",
-        "G183"
+        "; it is an unruly",
+        "G0183"
       ],
       [
-        " evil,",
+        " evil",
         "G2556"
       ],
       [
-        " full",
+        ", full",
         "G3324"
       ],
       [
@@ -3597,57 +3813,53 @@
         "G2287"
       ],
       [
-        " poison.",
+        " poison",
+        "G2447"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "James|3|9": [
       [
         "Therewith",
-        "G1722"
-      ],
-      [
-        "",
-        "G846"
+        "G0846"
       ],
       [
         " bless we",
         "G2127"
       ],
       [
-        " God,",
+        " God",
         "G2316"
       ],
       [
-        " even",
+        ", even",
         "G2532"
       ],
       [
-        " the Father;",
+        " the Father",
         "G3962"
       ],
       [
-        " and",
+        "; and",
         "G2532"
       ],
       [
         " therewith",
-        "G1722"
-      ],
-      [
-        "",
-        "G846"
+        "G0846"
       ],
       [
         " curse we",
         "G2672"
       ],
       [
-        " men,",
-        "G444"
+        " men",
+        "G0444"
       ],
       [
-        " which",
+        ", which",
         "G3588"
       ],
       [
@@ -3663,7 +3875,11 @@
         "G3669"
       ],
       [
-        " of God.",
+        " of God",
+        "G2316"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3674,7 +3890,7 @@
       ],
       [
         " the same",
-        "G846"
+        "G0846"
       ],
       [
         " mouth",
@@ -3693,19 +3909,19 @@
         "G2532"
       ],
       [
-        " cursing.",
+        " cursing",
         "G2671"
       ],
       [
-        " My",
+        ". My",
         "G3450"
       ],
       [
-        " brethren,",
-        "G80"
+        " brethren",
+        "G0080"
       ],
       [
-        " these things",
+        ", these things",
         "G5023"
       ],
       [
@@ -3721,7 +3937,11 @@
         "G3779"
       ],
       [
-        " to be.",
+        " to be",
+        "G1096"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3744,7 +3964,7 @@
       ],
       [
         " the same",
-        "G846"
+        "G0846"
       ],
       [
         " place",
@@ -3759,53 +3979,53 @@
         "G2532"
       ],
       [
-        " bitter?",
+        " bitter",
+        "G4089"
+      ],
+      [
+        "?",
         null
       ]
     ],
     "James|3|12": [
       [
         "Can",
-        "G3361"
-      ],
-      [
-        "",
         "G1410"
       ],
       [
-        " the fig tree,",
+        " the fig tree",
         "G4808"
       ],
       [
-        " my",
+        ", my",
         "G3450"
       ],
       [
-        " brethren,",
-        "G80"
+        " brethren",
+        "G0080"
       ],
       [
-        " bear",
+        ", bear",
         "G4160"
       ],
       [
-        " olive berries?",
+        " olive berries",
         "G1636"
       ],
       [
-        " either",
+        "? either",
         "G2228"
       ],
       [
-        " a vine,",
-        "G288"
+        " a vine",
+        "G0288"
       ],
       [
-        " figs?",
+        ", figs",
         "G4810"
       ],
       [
-        " so",
+        "? so",
         "G3779"
       ],
       [
@@ -3822,7 +4042,7 @@
       ],
       [
         " salt",
-        "G252"
+        "G0252"
       ],
       [
         " water",
@@ -3833,7 +4053,11 @@
         "G2532"
       ],
       [
-        " fresh.",
+        " fresh",
+        "G1099"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3859,11 +4083,11 @@
         "G1722"
       ],
       [
-        " you?",
+        " you",
         "G5213"
       ],
       [
-        " let him shew",
+        "? let him shew",
         "G1166"
       ],
       [
@@ -3876,11 +4100,11 @@
       ],
       [
         " conversation",
-        "G391"
+        "G0391"
       ],
       [
         " his",
-        "G846"
+        "G0846"
       ],
       [
         " works",
@@ -3895,7 +4119,11 @@
         "G4240"
       ],
       [
-        " of wisdom.",
+        " of wisdom",
+        "G4678"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3937,31 +4165,35 @@
         "G5216"
       ],
       [
-        " hearts,",
+        " hearts",
         "G2588"
       ],
       [
-        " glory",
+        ", glory",
         "G2620"
       ],
       [
-        " not,",
+        " not",
         "G3361"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " lie not",
+        " lie",
         "G5574"
       ],
       [
-        " against",
+        " not against",
         "G2596"
       ],
       [
-        " the truth.",
+        " the truth",
+        "G0225"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3976,10 +4208,6 @@
       ],
       [
         " descendeth",
-        "G2076"
-      ],
-      [
-        "",
         "G2718"
       ],
       [
@@ -3987,23 +4215,27 @@
         "G3756"
       ],
       [
-        " from above,",
-        "G509"
+        " from above",
+        "G0509"
       ],
       [
-        " but",
-        "G235"
+        ", but",
+        "G0235"
       ],
       [
-        " is earthly,",
+        " is earthly",
         "G1919"
       ],
       [
-        " sensual,",
+        ", sensual",
         "G5591"
       ],
       [
-        " devilish.",
+        ", devilish",
+        "G1141"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -4034,7 +4266,7 @@
       ],
       [
         " is confusion",
-        "G181"
+        "G0181"
       ],
       [
         " and",
@@ -4049,7 +4281,11 @@
         "G5337"
       ],
       [
-        " work.",
+        " work",
+        "G4229"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -4063,43 +4299,39 @@
         "G4678"
       ],
       [
-        " that is from above",
-        "G509"
-      ],
-      [
-        " is",
+        " that is",
         "G2076"
       ],
       [
-        " first",
+        " from above",
+        "G0509"
+      ],
+      [
+        " is first",
         "G4412"
       ],
       [
-        " pure,",
-        "G3303"
+        " pure",
+        "G0053"
       ],
       [
-        "",
-        "G53"
-      ],
-      [
-        " then",
+        ", then",
         "G1899"
       ],
       [
-        " peaceable,",
+        " peaceable",
         "G1516"
       ],
       [
-        " gentle,",
+        ", gentle",
         "G1933"
       ],
       [
-        " and easy to be intreated,",
+        ", and easy to be intreated",
         "G2138"
       ],
       [
-        " full",
+        ", full",
         "G3324"
       ],
       [
@@ -4112,22 +4344,26 @@
       ],
       [
         " good",
-        "G18"
+        "G0018"
       ],
       [
-        " fruits,",
+        " fruits",
         "G2590"
       ],
       [
-        " without partiality,",
-        "G87"
+        ", without partiality",
+        "G0087"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " without hypocrisy.",
+        " without hypocrisy",
+        "G0505"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -4157,11 +4393,19 @@
         "G1515"
       ],
       [
-        " of them that make",
+        " of them",
+        "G3588"
+      ],
+      [
+        " that make",
         "G4160"
       ],
       [
-        " peace.",
+        " peace",
+        "G1515"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -4187,19 +4431,19 @@
         "G1722"
       ],
       [
-        " you?",
+        " you",
         "G5213"
       ],
       [
-        " come they not",
+        "? come they not",
         "G3756"
       ],
       [
-        " hence,",
+        " hence",
         "G1782"
       ],
       [
-        " even of",
+        ", even of",
         "G1537"
       ],
       [
@@ -4223,17 +4467,21 @@
         "G5216"
       ],
       [
-        " members?",
+        " members",
+        "G3196"
+      ],
+      [
+        "?",
         null
       ]
     ],
     "James|4|2": [
       [
-        "Ye lust,",
+        "Ye lust",
         "G1937"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -4241,39 +4489,35 @@
         "G2192"
       ],
       [
-        " not:",
+        " not",
         "G3756"
       ],
       [
-        " ye kill,",
+        ": ye kill",
         "G5407"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " desire to have,",
+        " desire to have",
         "G2206"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
         " cannot",
-        "G3756"
-      ],
-      [
-        "",
         "G1410"
       ],
       [
-        " obtain:",
+        " obtain",
         "G2013"
       ],
       [
-        " ye fight",
+        ": ye fight",
         "G3164"
       ],
       [
@@ -4281,11 +4525,11 @@
         "G2532"
       ],
       [
-        " war,",
+        " war",
         "G4170"
       ],
       [
-        " yet",
+        ", yet",
         "G1161"
       ],
       [
@@ -4293,11 +4537,11 @@
         "G2192"
       ],
       [
-        " not,",
+        " not",
         "G3756"
       ],
       [
-        " because",
+        ", because",
         "G1223"
       ],
       [
@@ -4306,20 +4550,24 @@
       ],
       [
         " ask",
-        "G154"
+        "G0154"
       ],
       [
-        " not.",
+        " not",
+        "G3361"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "James|4|3": [
       [
-        "Ye ask,",
-        "G154"
+        "Ye ask",
+        "G0154"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -4327,23 +4575,23 @@
         "G2983"
       ],
       [
-        " not,",
+        " not",
         "G3756"
       ],
       [
-        " because",
+        ", because",
         "G1360"
       ],
       [
         " ye ask",
-        "G154"
+        "G0154"
       ],
       [
-        " amiss,",
+        " amiss",
         "G2560"
       ],
       [
-        " that",
+        ", that",
         "G2443"
       ],
       [
@@ -4359,7 +4607,11 @@
         "G5216"
       ],
       [
-        " lusts.",
+        " lusts",
+        "G2237"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -4373,11 +4625,11 @@
         "G2532"
       ],
       [
-        " adulteresses,",
+        " adulteresses",
         "G3428"
       ],
       [
-        " know ye",
+        ", know ye",
         "G1492"
       ],
       [
@@ -4405,28 +4657,24 @@
         "G2189"
       ],
       [
-        " with God?",
+        " with God",
         "G2316"
       ],
       [
-        " whosoever",
+        "? whosoever",
         "G3739"
-      ],
-      [
-        "",
-        "G302"
       ],
       [
         " therefore",
         "G3767"
       ],
       [
-        " will be",
-        "G1511"
+        " will",
+        "G1014"
       ],
       [
-        "",
-        "G1014"
+        " be",
+        "G1511"
       ],
       [
         " a friend",
@@ -4445,17 +4693,21 @@
         "G2190"
       ],
       [
-        " of God.",
+        " of God",
+        "G2316"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "James|4|5": [
       [
-        "",
+        "Do",
         "G2228"
       ],
       [
-        "Do ye think",
+        " ye think",
         "G1380"
       ],
       [
@@ -4471,11 +4723,11 @@
         "G3004"
       ],
       [
-        " in vain,",
+        " in vain",
         "G2761"
       ],
       [
-        " The spirit",
+        ", The spirit",
         "G4151"
       ],
       [
@@ -4503,7 +4755,11 @@
         "G4314"
       ],
       [
-        " envy?",
+        " envy",
+        "G5355"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -4518,34 +4774,34 @@
       ],
       [
         " more",
-        "G3187"
+        "G3173"
       ],
       [
-        " grace.",
+        " grace",
         "G5485"
       ],
       [
-        " Wherefore",
+        ". Wherefore",
         "G1352"
       ],
       [
-        " he saith,",
+        " he saith",
         "G3004"
       ],
       [
-        " God",
+        ", God",
         "G2316"
       ],
       [
         " resisteth",
-        "G498"
+        "G0498"
       ],
       [
-        " the proud,",
+        " the proud",
         "G5244"
       ],
       [
-        " but",
+        ", but",
         "G1161"
       ],
       [
@@ -4557,7 +4813,11 @@
         "G5485"
       ],
       [
-        " unto the humble.",
+        " unto the humble",
+        "G5011"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -4571,19 +4831,19 @@
         "G3767"
       ],
       [
-        " to God.",
+        " to God",
         "G2316"
       ],
       [
-        " Resist",
-        "G436"
+        ". Resist",
+        "G0436"
       ],
       [
-        " the devil,",
+        " the devil",
         "G1228"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -4592,10 +4852,14 @@
       ],
       [
         " from",
-        "G575"
+        "G0575"
       ],
       [
-        " you.",
+        " you",
+        "G5216"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -4605,11 +4869,11 @@
         "G1448"
       ],
       [
-        " to God,",
+        " to God",
         "G2316"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -4617,61 +4881,69 @@
         "G1448"
       ],
       [
-        " to you.",
+        " to you",
         "G5213"
       ],
       [
-        " Cleanse",
+        ". Cleanse",
         "G2511"
       ],
       [
-        " your hands,",
+        " your hands",
         "G5495"
       ],
       [
-        " ye sinners;",
-        "G268"
+        ", ye sinners",
+        "G0268"
       ],
       [
-        " and",
+        "; and",
         "G2532"
       ],
       [
         " purify",
-        "G48"
+        "G0048"
       ],
       [
-        " your hearts,",
+        " your hearts",
         "G2588"
       ],
       [
-        " ye double minded.",
+        ", ye double minded",
+        "G1374"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "James|4|9": [
       [
-        "Be afflicted,",
+        "Be afflicted",
         "G5003"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " mourn,",
+        " mourn",
         "G3996"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " weep:",
+        " weep",
         "G2799"
       ],
       [
-        " let your",
+        ": let",
+        "G3344"
+      ],
+      [
+        " your",
         "G5216"
       ],
       [
@@ -4687,11 +4959,11 @@
         "G1519"
       ],
       [
-        " mourning,",
+        " mourning",
         "G3997"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -4703,7 +4975,11 @@
         "G1519"
       ],
       [
-        " heaviness.",
+        " heaviness",
+        "G2726"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -4713,15 +4989,15 @@
         "G5013"
       ],
       [
-        " in the sight",
+        " in the sight of",
         "G1799"
       ],
       [
-        " of the Lord,",
+        " the Lord",
         "G2962"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -4733,7 +5009,11 @@
         "G5209"
       ],
       [
-        " up.",
+        " up",
+        "G5312"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -4751,23 +5031,31 @@
         "G2635"
       ],
       [
-        " one of another,",
-        "G240"
+        " one of another",
+        "G0240"
       ],
       [
-        " brethren.",
-        "G80"
+        ", brethren",
+        "G0080"
       ],
       [
-        " He that speaketh evil",
+        ". He that",
+        "G3588"
+      ],
+      [
+        " speaketh evil",
         "G2635"
       ],
       [
-        " of his brother,",
-        "G80"
+        " of",
+        "G0080"
       ],
       [
-        " and",
+        " his brother",
+        "G0080"
+      ],
+      [
+        ", and",
         "G2532"
       ],
       [
@@ -4776,22 +5064,22 @@
       ],
       [
         " his",
-        "G846"
+        "G0846"
       ],
       [
-        " brother,",
-        "G80"
+        " brother",
+        "G0080"
       ],
       [
-        " speaketh evil",
+        ", speaketh evil",
         "G2635"
       ],
       [
-        " of the law,",
+        " of the law",
         "G3551"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -4799,11 +5087,11 @@
         "G2919"
       ],
       [
-        " the law:",
+        " the law",
         "G3551"
       ],
       [
-        " but",
+        ": but",
         "G1161"
       ],
       [
@@ -4815,11 +5103,11 @@
         "G2919"
       ],
       [
-        " the law,",
+        " the law",
         "G3551"
       ],
       [
-        " thou art",
+        ", thou art",
         "G1488"
       ],
       [
@@ -4831,15 +5119,19 @@
         "G4163"
       ],
       [
-        " of the law,",
+        " of the law",
         "G3551"
       ],
       [
-        " but",
-        "G235"
+        ", but",
+        "G0235"
       ],
       [
-        " a judge.",
+        " a judge",
+        "G2923"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -4853,11 +5145,11 @@
         "G1520"
       ],
       [
-        " lawgiver,",
+        " lawgiver",
         "G3550"
       ],
       [
-        " who",
+        ", who",
         "G3588"
       ],
       [
@@ -4873,11 +5165,11 @@
         "G2532"
       ],
       [
-        " to destroy:",
-        "G622"
+        " to destroy",
+        "G0622"
       ],
       [
-        " who",
+        ": who",
         "G5101"
       ],
       [
@@ -4897,25 +5189,33 @@
         "G2919"
       ],
       [
-        " another?",
+        " another",
+        "G2087"
+      ],
+      [
+        "?",
         null
       ]
     ],
     "James|4|13": [
       [
         "Go to",
-        "G33"
+        "G0071"
       ],
       [
-        " now,",
+        " now",
         "G3568"
       ],
       [
-        " ye that say,",
+        ", ye",
+        "G3588"
+      ],
+      [
+        " that say",
         "G3004"
       ],
       [
-        " To day",
+        ", To day",
         "G4594"
       ],
       [
@@ -4924,7 +5224,7 @@
       ],
       [
         " to morrow",
-        "G839"
+        "G0839"
       ],
       [
         " we will go",
@@ -4939,19 +5239,15 @@
         "G3592"
       ],
       [
-        " a city,",
+        " a city",
         "G4172"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
         " continue",
-        "G4160"
-      ],
-      [
-        "",
         "G4160"
       ],
       [
@@ -4963,28 +5259,28 @@
         "G1520"
       ],
       [
-        " year,",
+        " year",
         "G1763"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " buy and sell,",
+        " buy and sell",
         "G1710"
       ],
       [
-        "",
-        "G1710"
-      ],
-      [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " get gain:",
+        " get gain",
         "G2770"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "James|4|14": [
@@ -5005,11 +5301,11 @@
         "G3588"
       ],
       [
-        " shall be on the morrow.",
-        "G839"
+        " shall be on the morrow",
+        "G0839"
       ],
       [
-        " For",
+        ". For",
         "G1063"
       ],
       [
@@ -5021,11 +5317,11 @@
         "G5216"
       ],
       [
-        " life?",
+        " life",
         "G2222"
       ],
       [
-        " It is",
+        "? It is",
         "G2076"
       ],
       [
@@ -5033,23 +5329,23 @@
         "G1063"
       ],
       [
-        " a vapour,",
-        "G822"
+        " a vapour",
+        "G0822"
       ],
       [
-        " that",
-        "G4314"
-      ],
-      [
-        " appeareth for",
+        ", that appeareth",
         "G5316"
       ],
       [
-        " a little time,",
+        " for",
+        "G4314"
+      ],
+      [
+        " a little time",
         "G3641"
       ],
       [
-        " and",
+        ", and",
         "G1161"
       ],
       [
@@ -5057,25 +5353,29 @@
         "G1899"
       ],
       [
-        " vanisheth away.",
+        " vanisheth away",
+        "G0853"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "James|4|15": [
       [
         "For that",
-        "G473"
+        "G0473"
       ],
       [
         " ye",
         "G5209"
       ],
       [
-        " ought to say,",
+        " ought to say",
         "G3004"
       ],
       [
-        " If",
+        ", If",
         "G1437"
       ],
       [
@@ -5083,23 +5383,15 @@
         "G2962"
       ],
       [
-        " will,",
+        " will",
         "G2309"
       ],
       [
-        "",
-        "G2532"
-      ],
-      [
-        " we shall live,",
+        ", we shall live",
         "G2198"
       ],
       [
-        "",
-        "G2198"
-      ],
-      [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -5107,19 +5399,19 @@
         "G4160"
       ],
       [
-        "",
-        "G4160"
-      ],
-      [
-        " this,",
+        " this",
         "G5124"
       ],
       [
-        " or",
+        ", or",
         "G2228"
       ],
       [
-        " that.",
+        " that",
+        "G1565"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -5145,11 +5437,11 @@
         "G5216"
       ],
       [
-        " boastings:",
-        "G212"
+        " boastings",
+        "G0212"
       ],
       [
-        " all",
+        ": all",
         "G3956"
       ],
       [
@@ -5165,7 +5457,11 @@
         "G2076"
       ],
       [
-        " evil.",
+        " evil",
+        "G4190"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -5183,11 +5479,11 @@
         "G4160"
       ],
       [
-        " good,",
+        " good",
         "G2570"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -5195,19 +5491,65 @@
         "G4160"
       ],
       [
-        " it not,",
+        " it not",
         "G3361"
       ],
       [
-        " to him",
-        "G846"
+        ", to him",
+        "G0846"
       ],
       [
         " it is",
         "G2076"
       ],
       [
-        " sin.",
+        " sin",
+        "G0266"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "James|5|1": [
+      [
+        "Go to",
+        "G0071"
+      ],
+      [
+        " now",
+        "G3568"
+      ],
+      [
+        ", ye rich men",
+        "G4145"
+      ],
+      [
+        ", weep",
+        "G2799"
+      ],
+      [
+        " and howl",
+        "G3649"
+      ],
+      [
+        " for",
+        "G1909"
+      ],
+      [
+        " your",
+        "G5216"
+      ],
+      [
+        " miseries",
+        "G5004"
+      ],
+      [
+        " that shall come upon",
+        "G1904"
+      ],
+      [
+        " you.",
         null
       ]
     ],
@@ -5221,11 +5563,11 @@
         "G4149"
       ],
       [
-        " are corrupted,",
+        " are corrupted",
         "G4595"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -5241,7 +5583,11 @@
         "G1096"
       ],
       [
-        " motheaten.",
+        " motheaten",
+        "G4598"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -5260,14 +5606,14 @@
       ],
       [
         " silver",
-        "G696"
+        "G0696"
       ],
       [
-        " is cankered;",
+        " is cankered",
         "G2728"
       ],
       [
-        " and",
+        "; and",
         "G2532"
       ],
       [
@@ -5276,7 +5622,7 @@
       ],
       [
         " of them",
-        "G846"
+        "G0846"
       ],
       [
         " shall be",
@@ -5291,11 +5637,11 @@
         "G1519"
       ],
       [
-        " you,",
+        " you",
         "G5213"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -5315,11 +5661,11 @@
         "G5613"
       ],
       [
-        " fire.",
+        " fire",
         "G4442"
       ],
       [
-        " Ye have heaped treasure together",
+        ". Ye have heaped treasure together",
         "G2343"
       ],
       [
@@ -5331,17 +5677,21 @@
         "G2078"
       ],
       [
-        " days.",
+        " days",
+        "G2250"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "James|5|4": [
       [
-        "Behold,",
+        "Behold",
         "G2400"
       ],
       [
-        " the hire",
+        ", the hire",
         "G3408"
       ],
       [
@@ -5349,51 +5699,51 @@
         "G2040"
       ],
       [
-        " who",
+        " who have",
         "G3588"
       ],
       [
-        " have reaped down",
-        "G270"
+        " reaped down",
+        "G0270"
       ],
       [
         " your",
         "G5216"
       ],
       [
-        " fields,",
+        " fields",
         "G5561"
       ],
       [
-        " which",
-        "G3588"
-      ],
-      [
-        " is of",
-        "G575"
+        ", which is of",
+        "G0575"
       ],
       [
         " you",
         "G5216"
       ],
       [
-        " kept back by fraud,",
-        "G650"
+        " kept back by fraud",
+        "G0650"
       ],
       [
-        " crieth:",
+        ", crieth",
         "G2896"
       ],
       [
-        " and",
+        ": and",
         "G2532"
       ],
       [
         " the cries",
-        "G995"
+        "G0995"
       ],
       [
-        " of them which have reaped",
+        " of them",
+        "G3588"
+      ],
+      [
+        " which have reaped",
         "G2325"
       ],
       [
@@ -5413,7 +5763,11 @@
         "G2962"
       ],
       [
-        " of sabaoth.",
+        " of sabaoth",
+        "G4519"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -5427,19 +5781,19 @@
         "G1909"
       ],
       [
-        " the earth,",
+        " the earth",
         "G1093"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " been wanton;",
+        " been wanton",
         "G4684"
       ],
       [
-        " ye have nourished",
+        "; ye have nourished",
         "G5142"
       ],
       [
@@ -5447,11 +5801,11 @@
         "G5216"
       ],
       [
-        " hearts,",
+        " hearts",
         "G2588"
       ],
       [
-        " as",
+        ", as",
         "G5613"
       ],
       [
@@ -5463,7 +5817,11 @@
         "G2250"
       ],
       [
-        " of slaughter.",
+        " of slaughter",
+        "G4967"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -5477,12 +5835,12 @@
         "G5407"
       ],
       [
-        " the just;",
+        " the just",
         "G1342"
       ],
       [
-        " and he doth",
-        "G498"
+        "; and he doth",
+        "G0498"
       ],
       [
         " not",
@@ -5490,10 +5848,14 @@
       ],
       [
         " resist",
-        "G498"
+        "G0498"
       ],
       [
-        " you.",
+        " you",
+        "G5213"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -5503,15 +5865,15 @@
         "G3114"
       ],
       [
-        " therefore,",
+        " therefore",
         "G3767"
       ],
       [
-        " brethren,",
-        "G80"
+        ", brethren",
+        "G0080"
       ],
       [
-        " unto",
+        ", unto",
         "G2193"
       ],
       [
@@ -5519,23 +5881,23 @@
         "G3952"
       ],
       [
-        " of the Lord.",
+        " of the Lord",
         "G2962"
       ],
       [
-        " Behold,",
+        ". Behold",
         "G2400"
       ],
       [
-        " the husbandman",
+        ", the husbandman",
         "G1092"
       ],
       [
-        " waiteth",
+        " waiteth for",
         "G1551"
       ],
       [
-        " for the precious",
+        " the precious",
         "G5093"
       ],
       [
@@ -5543,11 +5905,11 @@
         "G2590"
       ],
       [
-        " of the earth,",
+        " of the earth",
         "G1093"
       ],
       [
-        " and hath long patience",
+        ", and hath long patience",
         "G3114"
       ],
       [
@@ -5555,16 +5917,12 @@
         "G1909"
       ],
       [
-        " it,",
-        "G846"
+        " it",
+        "G0846"
       ],
       [
-        " until",
+        ", until",
         "G2193"
-      ],
-      [
-        "",
-        "G302"
       ],
       [
         " he receive",
@@ -5583,7 +5941,11 @@
         "G3797"
       ],
       [
-        " rain.",
+        " rain",
+        "G5205"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -5601,11 +5963,11 @@
         "G2532"
       ],
       [
-        " patient;",
+        " patient",
         "G3114"
       ],
       [
-        " stablish",
+        "; stablish",
         "G4741"
       ],
       [
@@ -5613,11 +5975,11 @@
         "G5216"
       ],
       [
-        " hearts:",
+        " hearts",
         "G2588"
       ],
       [
-        " for",
+        ": for",
         "G3754"
       ],
       [
@@ -5629,7 +5991,11 @@
         "G2962"
       ],
       [
-        " draweth nigh.",
+        " draweth nigh",
+        "G1448"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -5643,32 +6009,32 @@
         "G3361"
       ],
       [
-        " one against another,",
+        " one against",
         "G2596"
       ],
       [
-        "",
-        "G240"
+        " another",
+        "G0240"
       ],
       [
-        " brethren,",
-        "G80"
+        ", brethren",
+        "G0080"
       ],
       [
-        " lest",
-        "G3363"
+        ", lest",
+        "G3361"
       ],
       [
-        " ye be condemned:",
+        " ye be condemned",
         "G2632"
       ],
       [
-        " behold,",
+        ": behold",
         "G2400"
       ],
       [
-        " the judge",
-        "G2923"
+        ", the judge",
+        "G4253"
       ],
       [
         " standeth",
@@ -5676,32 +6042,36 @@
       ],
       [
         " before",
-        "G4253"
+        "G3588"
       ],
       [
-        " the door.",
+        " the door",
+        "G2476"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "James|5|10": [
       [
-        "Take,",
+        "Take",
         "G2983"
       ],
       [
-        " my",
+        ", my",
         "G3450"
       ],
       [
-        " brethren,",
-        "G80"
+        " brethren",
+        "G0080"
       ],
       [
-        " the prophets,",
+        ", the prophets",
         "G4396"
       ],
       [
-        " who",
+        ", who",
         "G3739"
       ],
       [
@@ -5713,53 +6083,65 @@
         "G3686"
       ],
       [
-        " of the Lord,",
+        " of the Lord",
         "G2962"
       ],
       [
-        " for an example",
+        ", for an example",
         "G5262"
       ],
       [
-        " of suffering affliction,",
+        " of suffering affliction",
         "G2552"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " of patience.",
+        " of patience",
+        "G3115"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "James|5|11": [
       [
-        "Behold,",
+        "Behold",
         "G2400"
       ],
       [
-        " we count them happy",
+        ", we count",
         "G3106"
       ],
       [
-        " which endure.",
+        " them",
+        "G3588"
+      ],
+      [
+        " happy",
+        "G3106"
+      ],
+      [
+        " which endure",
         "G5278"
       ],
       [
-        " Ye have heard",
-        "G191"
+        ". Ye have heard",
+        "G0191"
       ],
       [
         " of the patience",
         "G5281"
       ],
       [
-        " of Job,",
+        " of Job",
         "G2492"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -5771,11 +6153,11 @@
         "G5056"
       ],
       [
-        " of the Lord;",
+        " of the Lord",
         "G2962"
       ],
       [
-        " that",
+        "; that",
         "G3754"
       ],
       [
@@ -5787,15 +6169,19 @@
         "G2076"
       ],
       [
-        " very pitiful,",
+        " very pitiful",
         "G4184"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " of tender mercy.",
+        " of tender mercy",
+        "G3629"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -5809,43 +6195,43 @@
         "G4253"
       ],
       [
-        " all things,",
+        " all things",
         "G3956"
       ],
       [
-        " my",
+        ", my",
         "G3450"
       ],
       [
-        " brethren,",
-        "G80"
+        " brethren",
+        "G0080"
       ],
       [
-        " swear",
+        ", swear",
         "G3660"
       ],
       [
-        " not,",
+        " not",
         "G3361"
       ],
       [
-        " neither",
+        ", neither",
         "G3383"
       ],
       [
-        " by heaven,",
+        " by heaven",
         "G3772"
       ],
       [
-        " neither",
+        ", neither",
         "G3383"
       ],
       [
-        " by the earth,",
+        " by the earth",
         "G1093"
       ],
       [
-        " neither",
+        ", neither",
         "G3383"
       ],
       [
@@ -5854,14 +6240,14 @@
       ],
       [
         " other",
-        "G243"
+        "G0243"
       ],
       [
-        " oath:",
+        " oath",
         "G3727"
       ],
       [
-        " but",
+        ": but",
         "G1161"
       ],
       [
@@ -5881,24 +6267,24 @@
         "G2277"
       ],
       [
-        " yea;",
+        " yea",
         "G3483"
       ],
       [
-        " and",
+        "; and",
         "G2532"
       ],
       [
-        " your nay,",
+        " your nay",
         "G3756"
       ],
       [
-        " nay;",
+        ", nay",
         "G3756"
       ],
       [
-        " lest",
-        "G3363"
+        "; lest",
+        "G2443"
       ],
       [
         " ye fall",
@@ -5909,7 +6295,11 @@
         "G1519"
       ],
       [
-        " condemnation.",
+        " condemnation",
+        "G5272"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -5931,15 +6321,15 @@
         "G5213"
       ],
       [
-        " afflicted?",
+        " afflicted",
         "G2553"
       ],
       [
-        " let him pray.",
+        "? let him pray",
         "G4336"
       ],
       [
-        " Is",
+        ". Is",
         "G2114"
       ],
       [
@@ -5947,18 +6337,22 @@
         "G5100"
       ],
       [
-        " merry?",
+        " merry",
         "G2114"
       ],
       [
-        " let him sing psalms.",
+        "? let him sing psalms",
+        "G5567"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "James|5|14": [
       [
         "Is",
-        "G770"
+        "G0770"
       ],
       [
         " any",
@@ -5966,18 +6360,18 @@
       ],
       [
         " sick",
-        "G770"
+        "G0770"
       ],
       [
         " among",
         "G1722"
       ],
       [
-        " you?",
+        " you",
         "G5213"
       ],
       [
-        " let him call",
+        "? let him call",
         "G4341"
       ],
       [
@@ -5985,11 +6379,11 @@
         "G4245"
       ],
       [
-        " of the church;",
+        " of the church",
         "G1577"
       ],
       [
-        " and",
+        "; and",
         "G2532"
       ],
       [
@@ -6001,16 +6395,16 @@
         "G1909"
       ],
       [
-        " him,",
-        "G846"
+        " him",
+        "G0846"
       ],
       [
-        " anointing",
-        "G218"
+        ", anointing",
+        "G0218"
       ],
       [
         " him",
-        "G846"
+        "G0846"
       ],
       [
         " with oil",
@@ -6025,7 +6419,11 @@
         "G3686"
       ],
       [
-        " of the Lord:",
+        " of the Lord",
+        "G2962"
+      ],
+      [
+        ":",
         null
       ]
     ],
@@ -6047,11 +6445,11 @@
         "G4982"
       ],
       [
-        " the sick,",
+        " the sick",
         "G2577"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -6064,34 +6462,42 @@
       ],
       [
         " him",
-        "G846"
+        "G0846"
       ],
       [
-        " up;",
+        " up",
         "G1453"
       ],
       [
-        " and if",
+        "; and if",
         "G2579"
       ],
       [
-        " he have",
-        "G5600"
-      ],
-      [
-        " committed",
+        " he have committed",
         "G4160"
       ],
       [
-        " sins,",
-        "G266"
+        " sins",
+        "G0266"
       ],
       [
-        " they shall be forgiven",
-        "G863"
+        ", they",
+        "G0863"
       ],
       [
-        " him.",
+        " shall be",
+        "G5600"
+      ],
+      [
+        " forgiven",
+        "G0863"
+      ],
+      [
+        " him",
+        "G0846"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -6105,11 +6511,11 @@
         "G3900"
       ],
       [
-        " one to another,",
-        "G240"
+        " one to another",
+        "G0240"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -6118,26 +6524,26 @@
       ],
       [
         " one",
-        "G240"
+        "G0240"
       ],
       [
         " for",
         "G5228"
       ],
       [
-        " another,",
-        "G240"
+        " another",
+        "G0240"
       ],
       [
-        " that",
+        ", that",
         "G3704"
       ],
       [
-        " ye may be healed.",
+        " ye may be healed",
         "G2390"
       ],
       [
-        " The effectual fervent",
+        ". The effectual fervent",
         "G1754"
       ],
       [
@@ -6153,7 +6559,11 @@
         "G2480"
       ],
       [
-        " much.",
+        " much",
+        "G4183"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -6168,18 +6578,18 @@
       ],
       [
         " a man",
-        "G444"
+        "G0444"
       ],
       [
-        " subject to like passions as",
+        " subject to like passions",
         "G3663"
       ],
       [
-        " we are,",
+        " as we are",
         "G2254"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -6199,11 +6609,11 @@
         "G3361"
       ],
       [
-        " rain:",
+        " rain",
         "G1026"
       ],
       [
-        " and",
+        ": and",
         "G2532"
       ],
       [
@@ -6239,7 +6649,11 @@
         "G1803"
       ],
       [
-        " months.",
+        " months",
+        "G3376"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -6253,11 +6667,11 @@
         "G4336"
       ],
       [
-        " again,",
+        " again",
         "G3825"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -6269,11 +6683,11 @@
         "G1325"
       ],
       [
-        " rain,",
+        " rain",
         "G5205"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -6282,24 +6696,28 @@
       ],
       [
         " brought forth",
-        "G985"
+        "G0985"
       ],
       [
         " her",
-        "G846"
+        "G0846"
       ],
       [
-        " fruit.",
+        " fruit",
+        "G2590"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "James|5|19": [
       [
-        "Brethren,",
-        "G80"
+        "Brethren",
+        "G0080"
       ],
       [
-        " if",
+        ", if",
         "G1437"
       ],
       [
@@ -6320,14 +6738,14 @@
       ],
       [
         " from",
-        "G575"
+        "G0575"
       ],
       [
-        " the truth,",
-        "G225"
+        " the truth",
+        "G0225"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -6339,25 +6757,21 @@
         "G1994"
       ],
       [
-        " him;",
+        " him",
+        "G0846"
+      ],
+      [
+        ";",
         null
       ]
     ],
     "James|5|20": [
       [
-        "Let",
+        "Let him know",
         "G1097"
       ],
       [
-        " him",
-        "G846"
-      ],
-      [
-        " know,",
-        "G1097"
-      ],
-      [
-        " that",
+        ", that",
         "G3754"
       ],
       [
@@ -6366,7 +6780,7 @@
       ],
       [
         " the sinner",
-        "G268"
+        "G0268"
       ],
       [
         " from",
@@ -6378,7 +6792,7 @@
       ],
       [
         " of his",
-        "G846"
+        "G0846"
       ],
       [
         " way",
@@ -6397,11 +6811,11 @@
         "G1537"
       ],
       [
-        " death,",
+        " death",
         "G2288"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -6413,7 +6827,11 @@
         "G4128"
       ],
       [
-        " of sins.",
+        " of sins",
+        "G0266"
+      ],
+      [
+        ".",
         null
       ]
     ]

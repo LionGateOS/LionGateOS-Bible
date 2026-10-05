@@ -5,10 +5,10 @@
  * Validates the output of buildStrongsAlignment.js against known requirements.
  *
  * Verifies:
- * - 31,100 canonical Custom KJV verses were evaluated
+ * - 31,102 canonical Custom KJV verses were evaluated
  * - exactly 30,945 are exact matches
  * - exactly 155 use text-mismatch fallback
- * - totals add up to 31,100
+ * - totals add up to 31,102
  * - every emitted Strong's number has valid H or G format
  * - every referenced dictionary number is reported as found or missing
  * - generated clean text exactly reconstructs each accepted target verse
@@ -299,8 +299,8 @@ async function main() {
     }
   }
 
-  // Update totals - we should have exactly 31,100 verses (one for each Custom KJV verse)
-  totalVerses = expectedVerseKeys.size; // This should be 31,100
+  // Update totals - we should have exactly 31,102 verses (one for each Custom KJV verse)
+  totalVerses = expectedVerseKeys.size; // This should be 31,102
   fallbackVerses = Object.values(alignmentData.verses).filter(v => !v.exactTextMatch).length;
   textMismatchFallback = fallbackVerses; // All fallbacks are text-mismatch for this count
 
@@ -345,8 +345,8 @@ async function main() {
   console.log("  Reconstruction failures:  " + reconstructionFailures);
   console.log("");
 
-  // Check totals - we need exactly 31,100 canonical verses
-  const expectedTotal = 31100;
+  // Check totals - we need exactly 31,102 canonical verses
+  const expectedTotal = 31102;
 
   console.log("=== REQUIREMENT VERIFICATION ===");
   const totalCheck = totalVerses === expectedTotal;
@@ -355,7 +355,7 @@ async function main() {
   const reconstructionCheck = reconstructionFailures === 0;
   const missingCheck = missingVerses.length === 0;
 
-  console.log("31,100 canonical Custom KJV verses evaluated: " + (totalCheck ? "PASS" : "FAIL (" + totalVerses + ")"));
+  console.log("31,102 canonical Custom KJV verses evaluated: " + (totalCheck ? "PASS" : "FAIL (" + totalVerses + ")"));
   console.log("All Strong's numbers valid format:            " + (formatCheck ? "PASS" : "FAIL (" + invalidStrongsFormat + " invalid)"));
   console.log("No duplicate verse keys:                      " + (duplicateCheck ? "PASS" : "FAIL"));
   console.log("Text reconstruction succeeds for all:         " + (reconstructionCheck ? "PASS" : "FAIL (" + reconstructionFailures + " failures)"));

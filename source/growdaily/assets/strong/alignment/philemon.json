@@ -5,11 +5,11 @@
   "verses": {
     "Philemon|1|1": [
       [
-        "Paul,",
+        "Paul",
         "G3972"
       ],
       [
-        " a prisoner",
+        ", a prisoner",
         "G1198"
       ],
       [
@@ -17,11 +17,11 @@
         "G2424"
       ],
       [
-        " Christ,",
+        " Christ",
         "G5547"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -29,11 +29,11 @@
         "G5095"
       ],
       [
-        " our brother,",
-        "G80"
+        " our brother",
+        "G0080"
       ],
       [
-        " unto Philemon",
+        ", unto Philemon",
         "G5371"
       ],
       [
@@ -41,15 +41,19 @@
         "G2257"
       ],
       [
-        " dearly beloved,",
-        "G27"
+        " dearly beloved",
+        "G0027"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " fellowlabourer,",
+        " fellowlabourer",
+        "G4904"
+      ],
+      [
+        ",",
         null
       ]
     ],
@@ -59,31 +63,35 @@
         "G2532"
       ],
       [
-        " to our beloved",
-        "G27"
+        " to",
+        "G0027"
       ],
       [
-        " Apphia,",
-        "G682"
+        " our beloved",
+        "G0027"
       ],
       [
-        " and",
+        " Apphia",
+        "G0682"
+      ],
+      [
+        ", and",
         "G2532"
       ],
       [
         " Archippus",
-        "G751"
+        "G0751"
       ],
       [
         " our",
         "G2257"
       ],
       [
-        " fellowsoldier,",
+        " fellowsoldier",
         "G4961"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -99,7 +107,11 @@
         "G4675"
       ],
       [
-        " house:",
+        " house",
+        "G3624"
+      ],
+      [
+        ":",
         null
       ]
     ],
@@ -109,20 +121,20 @@
         "G5485"
       ],
       [
-        " to you,",
+        " to you",
         "G5213"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " peace,",
+        " peace",
         "G1515"
       ],
       [
-        " from",
-        "G575"
+        ", from",
+        "G0575"
       ],
       [
         " God",
@@ -149,7 +161,11 @@
         "G2424"
       ],
       [
-        " Christ.",
+        " Christ",
+        "G5547"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -163,11 +179,11 @@
         "G3450"
       ],
       [
-        " God,",
+        " God",
         "G2316"
       ],
       [
-        " making",
+        ", making",
         "G4160"
       ],
       [
@@ -191,14 +207,18 @@
         "G3450"
       ],
       [
-        " prayers,",
+        " prayers",
+        "G4335"
+      ],
+      [
+        ",",
         null
       ]
     ],
     "Philemon|1|5": [
       [
         "Hearing",
-        "G191"
+        "G0191"
       ],
       [
         " of thy",
@@ -206,18 +226,18 @@
       ],
       [
         " love",
-        "G26"
+        "G0026"
       ],
       [
         " and",
         "G2532"
       ],
       [
-        " faith,",
+        " faith",
         "G4102"
       ],
       [
-        " which",
+        ", which",
         "G3739"
       ],
       [
@@ -233,11 +253,11 @@
         "G2962"
       ],
       [
-        " Jesus,",
+        " Jesus",
         "G2424"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -249,7 +269,11 @@
         "G3956"
       ],
       [
-        " saints;",
+        " saints",
+        "G0040"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -292,14 +316,14 @@
       ],
       [
         " good thing",
-        "G18"
+        "G0018"
       ],
       [
-        " which",
+        " which is",
         "G3588"
       ],
       [
-        " is in",
+        " in",
         "G1722"
       ],
       [
@@ -315,7 +339,11 @@
         "G5547"
       ],
       [
-        " Jesus.",
+        " Jesus",
+        "G2424"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -334,7 +362,7 @@
       ],
       [
         " joy",
-        "G5485"
+        "G5479"
       ],
       [
         " and",
@@ -353,11 +381,11 @@
         "G4675"
       ],
       [
-        " love,",
-        "G26"
+        " love",
+        "G0026"
       ],
       [
-        " because",
+        ", because",
         "G3754"
       ],
       [
@@ -366,32 +394,36 @@
       ],
       [
         " of the saints",
-        "G40"
+        "G0040"
       ],
       [
         " are refreshed",
-        "G373"
+        "G0373"
       ],
       [
         " by",
         "G1223"
       ],
       [
-        " thee,",
+        " thee",
         "G4675"
       ],
       [
-        " brother.",
+        ", brother",
+        "G0080"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Philemon|1|8": [
       [
-        "Wherefore,",
+        "Wherefore",
         "G1352"
       ],
       [
-        " though I might be",
+        ", though I might be",
         "G2192"
       ],
       [
@@ -419,7 +451,11 @@
         "G4671"
       ],
       [
-        " that which is convenient,",
+        " that which is convenient",
+        "G0433"
+      ],
+      [
+        ",",
         null
       ]
     ],
@@ -430,10 +466,14 @@
       ],
       [
         " love's",
-        "G26"
+        "G0026"
       ],
       [
-        " sake I",
+        " sake",
+        "G1223"
+      ],
+      [
+        " I",
         "G3870"
       ],
       [
@@ -461,11 +501,11 @@
         "G3972"
       ],
       [
-        " the aged,",
+        " the aged",
         "G4246"
       ],
       [
-        " and",
+        ", and",
         "G1161"
       ],
       [
@@ -485,7 +525,11 @@
         "G2424"
       ],
       [
-        " Christ.",
+        " Christ",
+        "G5547"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -504,18 +548,18 @@
       ],
       [
         " my",
-        "G1699"
+        "G1700"
       ],
       [
         " son",
         "G5043"
       ],
       [
-        " Onesimus,",
+        " Onesimus",
         "G3682"
       ],
       [
-        " whom",
+        ", whom",
         "G3739"
       ],
       [
@@ -531,7 +575,11 @@
         "G3450"
       ],
       [
-        " bonds:",
+        " bonds",
+        "G1199"
+      ],
+      [
+        ":",
         null
       ]
     ],
@@ -546,18 +594,18 @@
       ],
       [
         " was",
-        "G890"
+        "G3588"
       ],
       [
         " to thee",
         "G4671"
       ],
       [
-        " unprofitable,",
-        "G890"
+        " unprofitable",
+        "G0890"
       ],
       [
-        " but",
+        ", but",
         "G1161"
       ],
       [
@@ -577,7 +625,11 @@
         "G2532"
       ],
       [
-        " to me:",
+        " to me",
+        "G1698"
+      ],
+      [
+        ":",
         null
       ]
     ],
@@ -587,11 +639,11 @@
         "G3739"
       ],
       [
-        " I have sent again:",
-        "G375"
+        " I have sent again",
+        "G0375"
       ],
       [
-        " thou",
+        ": thou",
         "G4771"
       ],
       [
@@ -603,19 +655,27 @@
         "G4355"
       ],
       [
-        " him,",
-        "G846"
+        " him",
+        "G0846"
       ],
       [
-        " that is,",
-        "G5123"
+        ", that",
+        "G5124"
       ],
       [
-        " mine own",
+        " is",
+        "G2076"
+      ],
+      [
+        ", mine own",
         "G1699"
       ],
       [
-        " bowels:",
+        " bowels",
+        "G4698"
+      ],
+      [
+        ":",
         null
       ]
     ],
@@ -641,15 +701,19 @@
         "G4314"
       ],
       [
-        " me,",
+        " me",
         "G1683"
       ],
       [
-        " that",
+        ", that",
         "G2443"
       ],
       [
-        " in thy",
+        " in",
+        "G5228"
+      ],
+      [
+        " thy",
         "G4675"
       ],
       [
@@ -673,7 +737,11 @@
         "G1199"
       ],
       [
-        " of the gospel:",
+        " of the gospel",
+        "G2098"
+      ],
+      [
+        ":",
         null
       ]
     ],
@@ -695,20 +763,20 @@
         "G1106"
       ],
       [
-        " would",
+        " would I",
         "G2309"
       ],
       [
-        " I do",
+        " do",
         "G4160"
       ],
       [
-        " nothing;",
+        " nothing",
         "G3762"
       ],
       [
-        " that",
-        "G3363"
+        "; that",
+        "G2443"
       ],
       [
         " thy",
@@ -716,49 +784,45 @@
       ],
       [
         " benefit",
-        "G18"
+        "G0018"
       ],
       [
-        " should",
-        "G5600"
-      ],
-      [
-        " not",
-        "G3363"
+        " should not",
+        "G3361"
       ],
       [
         " be",
         "G5600"
       ],
       [
-        " as",
+        " as it were",
         "G5613"
       ],
       [
-        " it were of",
+        " of",
         "G2596"
       ],
       [
-        " necessity,",
-        "G318"
+        " necessity",
+        "G0318"
       ],
       [
-        " but",
-        "G235"
+        ", but",
+        "G0235"
       ],
       [
-        " willingly.",
+        " willingly",
         "G1595"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "Philemon|1|15": [
       [
         "For",
         "G1063"
-      ],
-      [
-        "",
-        "G1223"
       ],
       [
         " perhaps",
@@ -781,23 +845,27 @@
         "G4314"
       ],
       [
-        " a season,",
+        " a season",
         "G5610"
       ],
       [
-        " that",
+        ", that",
         "G2443"
       ],
       [
         " thou shouldest receive",
-        "G568"
+        "G0568"
       ],
       [
         " him",
-        "G846"
+        "G0846"
       ],
       [
-        " for ever;",
+        " for ever",
+        "G0166"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -811,39 +879,39 @@
         "G5613"
       ],
       [
-        " a servant,",
+        " a servant",
         "G1401"
       ],
       [
-        " but",
-        "G235"
+        ", but",
+        "G0235"
       ],
       [
         " above",
         "G5228"
       ],
       [
-        " a servant,",
+        " a servant",
         "G1401"
       ],
       [
-        " a brother",
-        "G80"
+        ", a brother",
+        "G0080"
       ],
       [
-        " beloved,",
-        "G27"
+        " beloved",
+        "G0027"
       ],
       [
-        " specially",
+        ", specially",
         "G3122"
       ],
       [
-        " to me,",
+        " to me",
         "G1698"
       ],
       [
-        " but",
+        ", but",
         "G1161"
       ],
       [
@@ -855,11 +923,11 @@
         "G3123"
       ],
       [
-        " unto thee,",
+        " unto thee",
         "G4671"
       ],
       [
-        " both",
+        ", both",
         "G2532"
       ],
       [
@@ -867,11 +935,11 @@
         "G1722"
       ],
       [
-        " the flesh,",
+        " the flesh",
         "G4561"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -879,7 +947,11 @@
         "G1722"
       ],
       [
-        " the Lord?",
+        " the Lord",
+        "G2962"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -901,45 +973,45 @@
         "G3767"
       ],
       [
-        " a partner,",
+        " a partner",
         "G2844"
       ],
       [
-        " receive",
+        ", receive",
         "G4355"
       ],
       [
         " him",
-        "G846"
+        "G0846"
       ],
       [
         " as",
         "G5613"
       ],
       [
-        " myself.",
+        " myself",
+        "G1691"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Philemon|1|18": [
       [
         "If",
-        "G1161"
-      ],
-      [
-        "",
         "G1487"
       ],
       [
         " he hath wronged",
-        "G91"
+        "G0091"
       ],
       [
-        " thee,",
+        " thee",
         "G4571"
       ],
       [
-        " or",
+        ", or",
         "G2228"
       ],
       [
@@ -947,11 +1019,11 @@
         "G3784"
       ],
       [
-        " thee ought,",
+        " thee ought",
         "G5100"
       ],
       [
-        " put",
+        ", put",
         "G1677"
       ],
       [
@@ -959,11 +1031,15 @@
         "G5124"
       ],
       [
-        " on",
+        " on mine",
+        "G1698"
+      ],
+      [
+        " account",
         "G1677"
       ],
       [
-        " mine account;",
+        ";",
         null
       ]
     ],
@@ -985,20 +1061,20 @@
         "G1699"
       ],
       [
-        " hand,",
+        " hand",
         "G5495"
       ],
       [
-        " I",
+        ", I",
         "G1473"
       ],
       [
         " will repay",
-        "G661"
+        "G0661"
       ],
       [
         " it: albeit",
-        "G3363"
+        "G2443"
       ],
       [
         " I do",
@@ -1006,7 +1082,7 @@
       ],
       [
         " not",
-        "G3363"
+        "G3361"
       ],
       [
         " say",
@@ -1037,21 +1113,25 @@
         "G4572"
       ],
       [
-        " besides.",
+        " besides",
+        "G4359"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Philemon|1|20": [
       [
-        "Yea,",
+        "Yea",
         "G3483"
       ],
       [
-        " brother,",
-        "G80"
+        ", brother",
+        "G0080"
       ],
       [
-        " let",
+        ", let",
         "G3685"
       ],
       [
@@ -1071,12 +1151,12 @@
         "G1722"
       ],
       [
-        " the Lord:",
+        " the Lord",
         "G2962"
       ],
       [
-        " refresh",
-        "G373"
+        ": refresh",
+        "G0373"
       ],
       [
         " my",
@@ -1091,7 +1171,11 @@
         "G1722"
       ],
       [
-        " the Lord.",
+        " the Lord",
+        "G2962"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1101,7 +1185,11 @@
         "G3982"
       ],
       [
-        " in thy",
+        " in",
+        "G5218"
+      ],
+      [
+        " thy",
         "G4675"
       ],
       [
@@ -1113,11 +1201,11 @@
         "G1125"
       ],
       [
-        " unto thee,",
+        " unto thee",
         "G4671"
       ],
       [
-        " knowing",
+        ", knowing",
         "G1492"
       ],
       [
@@ -1125,11 +1213,7 @@
         "G3754"
       ],
       [
-        " thou wilt",
-        "G4160"
-      ],
-      [
-        " also",
+        " thou wilt also",
         "G2532"
       ],
       [
@@ -1138,14 +1222,14 @@
       ],
       [
         " more than",
-        "G3739"
-      ],
-      [
-        "",
         "G5228"
       ],
       [
-        " I say.",
+        " I say",
+        "G3004"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1156,7 +1240,7 @@
       ],
       [
         " withal",
-        "G260"
+        "G0260"
       ],
       [
         " prepare",
@@ -1171,11 +1255,11 @@
         "G2532"
       ],
       [
-        " a lodging:",
+        " a lodging",
         "G3578"
       ],
       [
-        " for",
+        ": for",
         "G1063"
       ],
       [
@@ -1203,25 +1287,29 @@
         "G5483"
       ],
       [
-        " unto you.",
+        " unto you",
+        "G5213"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Philemon|1|23": [
       [
         "There salute",
-        "G782"
+        "G0782"
       ],
       [
         " thee",
         "G4571"
       ],
       [
-        " Epaphras,",
+        " Epaphras",
         "G1889"
       ],
       [
-        " my",
+        ", my",
         "G3450"
       ],
       [
@@ -1237,33 +1325,41 @@
         "G5547"
       ],
       [
-        " Jesus;",
+        " Jesus",
+        "G2424"
+      ],
+      [
+        ";",
         null
       ]
     ],
     "Philemon|1|24": [
       [
-        "Marcus,",
+        "Marcus",
         "G3138"
       ],
       [
-        " Aristarchus,",
-        "G708"
+        ", Aristarchus",
+        "G0708"
       ],
       [
-        " Demas,",
+        ", Demas",
         "G1214"
       ],
       [
-        " Lucas,",
+        ", Lucas",
         "G3065"
       ],
       [
-        " my",
+        ", my",
         "G3450"
       ],
       [
-        " fellowlabourers.",
+        " fellowlabourers",
+        "G4904"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1297,11 +1393,15 @@
         "G5216"
       ],
       [
-        " spirit.",
+        " spirit",
         "G4151"
       ],
       [
-        " Amen.",
+        ". Amen",
+        "G0281"
+      ],
+      [
+        ".",
         null
       ]
     ]

@@ -9,23 +9,27 @@
         "H1697"
       ],
       [
-        " of the Preacher,",
+        " of the Preacher",
         "H6953"
       ],
       [
-        " the son",
+        ", the son",
         "H1121"
       ],
       [
-        " of David,",
+        " of David",
         "H1732"
       ],
       [
-        " king",
+        ", king",
         "H4428"
       ],
       [
-        " in Jerusalem.",
+        " in Jerusalem",
+        "H3389"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -35,27 +39,31 @@
         "H1892"
       ],
       [
-        " of vanities,",
+        " of vanities",
         "H1892"
       ],
       [
-        " saith",
-        "H559"
+        ", saith",
+        "H0559"
       ],
       [
-        " the Preacher,",
+        " the Preacher",
         "H6953"
       ],
       [
-        " vanity",
+        ", vanity",
         "H1892"
       ],
       [
-        " of vanities;",
+        " of vanities",
         "H1892"
       ],
       [
-        " all is vanity.",
+        "; all is vanity",
+        "H1892"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -66,7 +74,7 @@
       ],
       [
         " hath a man",
-        "H120"
+        "H0120"
       ],
       [
         " of all his labour",
@@ -77,7 +85,11 @@
         "H5998"
       ],
       [
-        " under the sun?",
+        " under the sun",
+        "H8121"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -87,31 +99,31 @@
         "H1755"
       ],
       [
-        " passeth away,",
+        " passeth away",
         "H1980"
       ],
       [
-        " and another generation",
+        ", and another generation",
         "H1755"
       ],
       [
-        " cometh:",
-        "H935"
+        " cometh",
+        "H0935"
       ],
       [
-        "",
-        "H935"
-      ],
-      [
-        " but the earth",
-        "H776"
+        ": but the earth",
+        "H0776"
       ],
       [
         " abideth",
         "H5975"
       ],
       [
-        " for ever.",
+        " for ever",
+        "H5769"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -121,19 +133,19 @@
         "H8121"
       ],
       [
-        " also ariseth,",
+        " also ariseth",
         "H2224"
       ],
       [
-        " and the sun",
+        ", and the sun",
         "H8121"
       ],
       [
-        " goeth down,",
-        "H935"
+        " goeth down",
+        "H0935"
       ],
       [
-        " and hasteth",
+        ", and hasteth",
         "H7602"
       ],
       [
@@ -141,7 +153,11 @@
         "H4725"
       ],
       [
-        " where he arose.",
+        " where he arose",
+        "H2224"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -155,23 +171,23 @@
         "H1980"
       ],
       [
-        " toward the south,",
+        " toward the south",
         "H1864"
       ],
       [
-        " and turneth about",
+        ", and turneth about",
         "H5437"
       ],
       [
-        " unto the north;",
+        " unto the north",
         "H6828"
       ],
       [
-        " it whirleth about continually,",
+        "; it whirleth about continually",
         "H1980"
       ],
       [
-        " and the wind",
+        ", and the wind",
         "H7307"
       ],
       [
@@ -179,7 +195,11 @@
         "H7725"
       ],
       [
-        " according to his circuits.",
+        " according to his circuits",
+        "H5439"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -193,19 +213,19 @@
         "H1980"
       ],
       [
-        " into the sea;",
+        " into the sea",
         "H3220"
       ],
       [
-        " yet the sea",
+        "; yet the sea",
         "H3220"
       ],
       [
-        " is not full;",
+        " is not full",
         "H4392"
       ],
       [
-        " unto the place",
+        "; unto the place",
         "H4725"
       ],
       [
@@ -213,15 +233,19 @@
         "H5158"
       ],
       [
-        " come,",
+        " come",
         "H1980"
       ],
       [
-        " thither they return",
+        ", thither they return",
         "H7725"
       ],
       [
-        " again.",
+        " again",
+        "H3212"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -231,12 +255,12 @@
         "H1697"
       ],
       [
-        " are full of labour;",
+        " are full of labour",
         "H3023"
       ],
       [
-        " man",
-        "H376"
+        "; man",
+        "H0376"
       ],
       [
         " cannot",
@@ -255,19 +279,23 @@
         "H7646"
       ],
       [
-        " with seeing,",
+        " with seeing",
         "H7200"
       ],
       [
-        " nor the ear",
-        "H241"
+        ", nor the ear",
+        "H0241"
       ],
       [
         " filled",
         "H4390"
       ],
       [
-        " with hearing.",
+        " with hearing",
+        "H8085"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -277,15 +305,57 @@
         "H6213"
       ],
       [
-        " is that which shall be done:",
+        " is that which shall be done",
         "H6213"
       ],
       [
-        " and there is no new",
+        ": and there is no new",
         "H2319"
       ],
       [
-        " thing under the sun.",
+        " thing under the sun",
+        "H8121"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|1|10": [
+      [
+        "Is there",
+        "H3426"
+      ],
+      [
+        " any thing",
+        "H1697"
+      ],
+      [
+        " whereof it may be said",
+        "H0559"
+      ],
+      [
+        ", See",
+        "H7200"
+      ],
+      [
+        ", this is new",
+        "H2319"
+      ],
+      [
+        "? it hath been already",
+        "H3528"
+      ],
+      [
+        " of old time",
+        "H5769"
+      ],
+      [
+        ", which was before",
+        "H6440"
+      ],
+      [
+        " us.",
         null
       ]
     ],
@@ -304,10 +374,14 @@
       ],
       [
         " of things that are to come",
-        "H314"
+        "H0314"
       ],
       [
-        " with those that shall come after.",
+        " with those that shall come after",
+        "H0314"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -325,7 +399,73 @@
         "H3478"
       ],
       [
-        " in Jerusalem.",
+        " in Jerusalem",
+        "H3389"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|1|13": [
+      [
+        "And I gave",
+        "H5414"
+      ],
+      [
+        " my heart",
+        "H3820"
+      ],
+      [
+        " to seek",
+        "H1875"
+      ],
+      [
+        " and search out",
+        "H8446"
+      ],
+      [
+        " by wisdom",
+        "H2451"
+      ],
+      [
+        " concerning all things that are done",
+        "H6213"
+      ],
+      [
+        " under heaven",
+        "H8064"
+      ],
+      [
+        ": this sore",
+        "H7451"
+      ],
+      [
+        " travail",
+        "H6045"
+      ],
+      [
+        " hath God",
+        "H0430"
+      ],
+      [
+        " given",
+        "H5414"
+      ],
+      [
+        " to the sons",
+        "H1121"
+      ],
+      [
+        " of man",
+        "H0120"
+      ],
+      [
+        " to be exercised",
+        "H6031"
+      ],
+      [
+        " therewith.",
         null
       ]
     ],
@@ -343,11 +483,11 @@
         "H6213"
       ],
       [
-        " under the sun;",
+        " under the sun",
         "H8121"
       ],
       [
-        " and, behold, all is vanity",
+        "; and, behold, all is vanity",
         "H1892"
       ],
       [
@@ -355,7 +495,11 @@
         "H7469"
       ],
       [
-        " of spirit.",
+        " of spirit",
+        "H7307"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -369,11 +513,11 @@
         "H3201"
       ],
       [
-        " be made straight:",
+        " be made straight",
         "H8626"
       ],
       [
-        " and that which is wanting",
+        ": and that which is wanting",
         "H2642"
       ],
       [
@@ -381,7 +525,11 @@
         "H3201"
       ],
       [
-        " be numbered.",
+        " be numbered",
+        "H4487"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -391,19 +539,19 @@
         "H1696"
       ],
       [
-        " with mine own heart,",
+        " with mine own heart",
         "H3820"
       ],
       [
-        " saying,",
-        "H559"
+        ", saying",
+        "H0559"
       ],
       [
-        " Lo, I am come to great estate,",
+        ", Lo, I am come to great estate",
         "H1431"
       ],
       [
-        " and have gotten",
+        ", and have gotten",
         "H3254"
       ],
       [
@@ -415,11 +563,11 @@
         "H6440"
       ],
       [
-        " me in Jerusalem:",
+        " me in Jerusalem",
         "H3389"
       ],
       [
-        " yea, my heart",
+        ": yea, my heart",
         "H3820"
       ],
       [
@@ -435,7 +583,11 @@
         "H2451"
       ],
       [
-        " and knowledge.",
+        " and knowledge",
+        "H1847"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -453,11 +605,11 @@
         "H3045"
       ],
       [
-        " wisdom,",
+        " wisdom",
         "H2451"
       ],
       [
-        " and to know",
+        ", and to know",
         "H3045"
       ],
       [
@@ -465,11 +617,11 @@
         "H1947"
       ],
       [
-        " and folly:",
+        " and folly",
         "H5531"
       ],
       [
-        " I perceived",
+        ": I perceived",
         "H3045"
       ],
       [
@@ -481,7 +633,11 @@
         "H7475"
       ],
       [
-        " of spirit.",
+        " of spirit",
+        "H7307"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -499,11 +655,11 @@
         "H7230"
       ],
       [
-        " grief:",
+        " grief",
         "H3708"
       ],
       [
-        " and he that increaseth",
+        ": and he that increaseth",
         "H3254"
       ],
       [
@@ -515,41 +671,79 @@
         "H3254"
       ],
       [
-        " sorrow.",
+        " sorrow",
+        "H4341"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ecclesiastes|2|1": [
       [
         "I said",
-        "H559"
+        "H0559"
       ],
       [
-        " in mine heart,",
+        " in mine heart",
         "H3820"
       ],
       [
-        " Go to now,",
+        ", Go to now",
         "H3212"
       ],
       [
-        " I will prove",
+        ", I will prove",
         "H5254"
       ],
       [
-        " thee with mirth,",
+        " thee with mirth",
         "H8057"
       ],
       [
-        " therefore enjoy",
+        ", therefore enjoy",
         "H7200"
       ],
       [
-        " pleasure:",
+        " pleasure",
         "H2896"
       ],
       [
-        " and, behold, this also is vanity.",
+        ": and, behold, this also is vanity",
+        "H1892"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|2|2": [
+      [
+        "I said",
+        "H0559"
+      ],
+      [
+        " of laughter",
+        "H7814"
+      ],
+      [
+        ", It is mad",
+        "H1984"
+      ],
+      [
+        ": and of mirth",
+        "H8057"
+      ],
+      [
+        ", What",
+        "H2090"
+      ],
+      [
+        " doeth",
+        "H6213"
+      ],
+      [
+        " it?",
         null
       ]
     ],
@@ -571,11 +765,11 @@
         "H1320"
       ],
       [
-        " unto wine,",
+        " unto wine",
         "H3196"
       ],
       [
-        " yet acquainting",
+        ", yet acquainting",
         "H5090"
       ],
       [
@@ -583,19 +777,19 @@
         "H3820"
       ],
       [
-        " with wisdom;",
+        " with wisdom",
         "H2451"
       ],
       [
-        " and to lay hold",
-        "H270"
+        "; and to lay hold",
+        "H0270"
       ],
       [
-        " on folly,",
+        " on folly",
         "H5531"
       ],
       [
-        " till I might see",
+        ", till I might see",
         "H7200"
       ],
       [
@@ -607,11 +801,11 @@
         "H1121"
       ],
       [
-        " of men,",
-        "H120"
+        " of men",
+        "H0120"
       ],
       [
-        " which they should do",
+        ", which they should do",
         "H6213"
       ],
       [
@@ -627,7 +821,11 @@
         "H3117"
       ],
       [
-        " of their life.",
+        " of their life",
+        "H2416"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -637,23 +835,27 @@
         "H1431"
       ],
       [
-        " works;",
+        " works",
         "H4639"
       ],
       [
-        " I builded",
+        "; I builded",
         "H1129"
       ],
       [
-        " me houses;",
+        " me houses",
         "H1004"
       ],
       [
-        " I planted",
+        "; I planted",
         "H5193"
       ],
       [
-        " me vineyards:",
+        " me vineyards",
+        "H3754"
+      ],
+      [
+        ":",
         null
       ]
     ],
@@ -667,11 +869,11 @@
         "H1593"
       ],
       [
-        " and orchards,",
+        " and orchards",
         "H6508"
       ],
       [
-        " and I planted",
+        ", and I planted",
         "H5193"
       ],
       [
@@ -679,7 +881,11 @@
         "H6086"
       ],
       [
-        " in them of all kind of fruits:",
+        " in them of all kind of fruits",
+        "H6529"
+      ],
+      [
+        ":",
         null
       ]
     ],
@@ -693,11 +899,11 @@
         "H1295"
       ],
       [
-        " of water,",
+        " of water",
         "H4325"
       ],
       [
-        " to water",
+        ", to water",
         "H8248"
       ],
       [
@@ -709,7 +915,149 @@
         "H6779"
       ],
       [
-        " trees:",
+        " trees",
+        "H6086"
+      ],
+      [
+        ":",
+        null
+      ]
+    ],
+    "Ecclesiastes|2|7": [
+      [
+        "I got",
+        "H7069"
+      ],
+      [
+        " me servants",
+        "H5650"
+      ],
+      [
+        " and maidens",
+        "H8198"
+      ],
+      [
+        ", and had servants born",
+        "H1121"
+      ],
+      [
+        " in my house",
+        "H1004"
+      ],
+      [
+        "; also I had great",
+        "H7235"
+      ],
+      [
+        " possessions",
+        "H4735"
+      ],
+      [
+        " of great",
+        "H1241"
+      ],
+      [
+        " and small cattle",
+        "H6629"
+      ],
+      [
+        " above all that were in Jerusalem",
+        "H3389"
+      ],
+      [
+        " before",
+        "H6440"
+      ],
+      [
+        " me:",
+        null
+      ]
+    ],
+    "Ecclesiastes|2|8": [
+      [
+        "I gathered",
+        "H3664"
+      ],
+      [
+        " me also silver",
+        "H3701"
+      ],
+      [
+        " and gold",
+        "H2091"
+      ],
+      [
+        ", and the peculiar treasure",
+        "H5459"
+      ],
+      [
+        " of kings",
+        "H4428"
+      ],
+      [
+        " and of the provinces",
+        "H4082"
+      ],
+      [
+        ": I gat",
+        "H6213"
+      ],
+      [
+        " me men singers",
+        "H7891"
+      ],
+      [
+        " and women singers",
+        "H7891"
+      ],
+      [
+        ", and the delights",
+        "H8588"
+      ],
+      [
+        " of the sons",
+        "H1121"
+      ],
+      [
+        " of men",
+        "H0120"
+      ],
+      [
+        ", as musical instruments",
+        "H7705"
+      ],
+      [
+        ", and that of all sorts.",
+        null
+      ]
+    ],
+    "Ecclesiastes|2|9": [
+      [
+        "So I was great",
+        "H1431"
+      ],
+      [
+        ", and increased",
+        "H3254"
+      ],
+      [
+        " more than all that were before",
+        "H6440"
+      ],
+      [
+        " me in Jerusalem",
+        "H3389"
+      ],
+      [
+        ": also my wisdom",
+        "H2451"
+      ],
+      [
+        " remained",
+        "H5975"
+      ],
+      [
+        " with me.",
         null
       ]
     ],
@@ -724,7 +1072,7 @@
       ],
       [
         " I kept",
-        "H680"
+        "H0680"
       ],
       [
         " not from them, I withheld",
@@ -735,11 +1083,11 @@
         "H3820"
       ],
       [
-        " from any joy;",
+        " from any joy",
         "H8057"
       ],
       [
-        " for my heart",
+        "; for my heart",
         "H3820"
       ],
       [
@@ -747,15 +1095,19 @@
         "H8056"
       ],
       [
-        " in all my labour:",
+        " in all my labour",
         "H5999"
       ],
       [
-        " and this was my portion",
+        ": and this was my portion",
         "H2506"
       ],
       [
-        " of all my labour.",
+        " of all my labour",
+        "H5999"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -773,11 +1125,11 @@
         "H3027"
       ],
       [
-        " had wrought,",
+        " had wrought",
         "H6213"
       ],
       [
-        " and on the labour",
+        ", and on the labour",
         "H5999"
       ],
       [
@@ -785,11 +1137,11 @@
         "H5998"
       ],
       [
-        " to do:",
+        " to do",
         "H6213"
       ],
       [
-        " and, behold, all was vanity",
+        ": and, behold, all was vanity",
         "H1892"
       ],
       [
@@ -797,15 +1149,19 @@
         "H7469"
       ],
       [
-        " of spirit,",
+        " of spirit",
         "H7307"
       ],
       [
-        " and there was no profit",
+        ", and there was no profit",
         "H3504"
       ],
       [
-        " under the sun.",
+        " under the sun",
+        "H8121"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -819,39 +1175,43 @@
         "H7200"
       ],
       [
-        " wisdom,",
+        " wisdom",
         "H2451"
       ],
       [
-        " and madness,",
+        ", and madness",
         "H1947"
       ],
       [
-        " and folly:",
+        ", and folly",
         "H5531"
       ],
       [
-        " for what can the man",
-        "H120"
+        ": for what can the man",
+        "H0120"
       ],
       [
         " do that cometh",
-        "H935"
+        "H0935"
       ],
       [
         " after",
-        "H310"
+        "H0310"
       ],
       [
-        " the king?",
+        " the king",
         "H4428"
       ],
       [
-        " even that which hath been already",
+        "? even that which hath been already",
         "H3528"
       ],
       [
-        " done.",
+        " done",
+        "H6213"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -873,69 +1233,123 @@
         "H3504"
       ],
       [
-        " folly,",
+        " folly",
         "H5531"
       ],
       [
-        " as far as light",
-        "H216"
+        ", as far as light",
+        "H0216"
       ],
       [
         " excelleth",
         "H3504"
       ],
       [
-        " darkness.",
+        " darkness",
+        "H2822"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|2|14": [
+      [
+        "The wise man's",
+        "H2450"
+      ],
+      [
+        " eyes",
+        "H5869"
+      ],
+      [
+        " are in his head",
+        "H7218"
+      ],
+      [
+        "; but the fool",
+        "H3684"
+      ],
+      [
+        " walketh",
+        "H1980"
+      ],
+      [
+        " in darkness",
+        "H2822"
+      ],
+      [
+        ": and I myself perceived",
+        "H3045"
+      ],
+      [
+        " also that one",
+        "H0259"
+      ],
+      [
+        " event",
+        "H4745"
+      ],
+      [
+        " happeneth",
+        "H7136"
+      ],
+      [
+        " to them all.",
         null
       ]
     ],
     "Ecclesiastes|2|15": [
       [
         "Then",
-        "H227"
+        "H0227"
       ],
       [
         " said",
-        "H559"
+        "H0559"
       ],
       [
-        " I in my heart,",
+        " I in my heart",
         "H3820"
       ],
       [
-        " As it happeneth",
+        ", As it happeneth",
         "H4745"
       ],
       [
-        " to the fool,",
+        " to the fool",
         "H3684"
       ],
       [
-        " so it happeneth",
+        ", so it happeneth",
         "H7136"
       ],
       [
-        " even to me;",
+        " even to me",
         "H1571"
       ],
       [
-        " and why was I then more",
+        "; and why was I then more",
         "H3148"
       ],
       [
-        " wise?",
+        " wise",
         "H2449"
       ],
       [
-        " Then I said",
+        "? Then I said",
         "H1696"
       ],
       [
-        " in my heart,",
+        " in my heart",
         "H3820"
       ],
       [
-        " that this also is vanity.",
+        ", that this also is vanity",
+        "H1892"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -957,11 +1371,11 @@
         "H3684"
       ],
       [
-        " for ever;",
+        " for ever",
         "H5769"
       ],
       [
-        " seeing that which now",
+        "; seeing that which now",
         "H3528"
       ],
       [
@@ -970,14 +1384,14 @@
       ],
       [
         " to come",
-        "H935"
+        "H0935"
       ],
       [
-        " shall all be forgotten.",
+        " shall all be forgotten",
         "H7911"
       ],
       [
-        " And how dieth",
+        ". And how dieth",
         "H4191"
       ],
       [
@@ -985,7 +1399,11 @@
         "H2450"
       ],
       [
-        " man? as the fool.",
+        " man? as the fool",
+        "H3684"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -995,11 +1413,11 @@
         "H8130"
       ],
       [
-        " life;",
+        " life",
         "H2416"
       ],
       [
-        " because the work",
+        "; because the work",
         "H4639"
       ],
       [
@@ -1023,7 +1441,45 @@
         "H7469"
       ],
       [
-        " of spirit.",
+        " of spirit",
+        "H7307"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|2|18": [
+      [
+        "Yea, I hated",
+        "H8130"
+      ],
+      [
+        " all my labour",
+        "H5999"
+      ],
+      [
+        " which I had taken",
+        "H6001"
+      ],
+      [
+        " under the sun",
+        "H8121"
+      ],
+      [
+        ": because I should leave",
+        "H3240"
+      ],
+      [
+        " it unto the man",
+        "H0120"
+      ],
+      [
+        " that shall be after",
+        "H0310"
+      ],
+      [
+        " me.",
         null
       ]
     ],
@@ -1037,11 +1493,11 @@
         "H2450"
       ],
       [
-        " man or a fool?",
+        " man or a fool",
         "H5530"
       ],
       [
-        " yet shall he have rule",
+        "? yet shall he have rule",
         "H7980"
       ],
       [
@@ -1049,19 +1505,23 @@
         "H5999"
       ],
       [
-        " wherein I have laboured,",
+        " wherein I have laboured",
         "H5998"
       ],
       [
-        " and wherein I have shewed myself wise",
+        ", and wherein I have shewed myself wise",
         "H2449"
       ],
       [
-        " under the sun.",
+        " under the sun",
         "H8121"
       ],
       [
-        " This is also vanity.",
+        ". This is also vanity",
+        "H1892"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1091,7 +1551,11 @@
         "H5998"
       ],
       [
-        " under the sun.",
+        " under the sun",
+        "H8121"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1102,27 +1566,27 @@
       ],
       [
         " a man",
-        "H120"
+        "H0120"
       ],
       [
         " whose labour",
         "H5999"
       ],
       [
-        " is in wisdom,",
+        " is in wisdom",
         "H2451"
       ],
       [
-        " and in knowledge,",
+        ", and in knowledge",
         "H1847"
       ],
       [
-        " and in equity;",
+        ", and in equity",
         "H3788"
       ],
       [
-        " yet to a man",
-        "H120"
+        "; yet to a man",
+        "H0120"
       ],
       [
         " that hath not laboured",
@@ -1133,11 +1597,11 @@
         "H5414"
       ],
       [
-        " it for his portion.",
+        " it for his portion",
         "H2506"
       ],
       [
-        " This also is vanity",
+        ". This also is vanity",
         "H1892"
       ],
       [
@@ -1145,7 +1609,11 @@
         "H7227"
       ],
       [
-        " evil.",
+        " evil",
+        "H7451"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1156,22 +1624,22 @@
       ],
       [
         " man",
-        "H120"
+        "H0120"
       ],
       [
-        " of all his labour,",
+        " of all his labour",
         "H5999"
       ],
       [
-        " and of the vexation",
+        ", and of the vexation",
         "H7475"
       ],
       [
-        " of his heart,",
+        " of his heart",
         "H3820"
       ],
       [
-        " wherein",
+        ", wherein",
         "H1931"
       ],
       [
@@ -1179,7 +1647,11 @@
         "H6001"
       ],
       [
-        " under the sun?",
+        " under the sun",
+        "H8121"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -1189,19 +1661,19 @@
         "H3117"
       ],
       [
-        " are sorrows,",
+        " are sorrows",
         "H4341"
       ],
       [
-        " and his travail",
+        ", and his travail",
         "H6045"
       ],
       [
-        " grief;",
+        " grief",
         "H3708"
       ],
       [
-        " yea, his heart",
+        "; yea, his heart",
         "H3820"
       ],
       [
@@ -1209,11 +1681,15 @@
         "H7901"
       ],
       [
-        " in the night.",
+        " in the night",
         "H3915"
       ],
       [
-        " This is also vanity.",
+        ". This is also vanity",
+        "H1892"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1223,19 +1699,19 @@
         "H2896"
       ],
       [
-        " for a man,",
-        "H120"
+        " for a man",
+        "H0120"
       ],
       [
-        " than that he should eat",
-        "H398"
+        ", than that he should eat",
+        "H0398"
       ],
       [
-        " and drink,",
+        " and drink",
         "H8354"
       ],
       [
-        " and that he should make his soul",
+        ", and that he should make his soul",
         "H5315"
       ],
       [
@@ -1247,23 +1723,45 @@
         "H2896"
       ],
       [
-        " in his labour.",
+        " in his labour",
         "H5999"
       ],
       [
-        " This",
+        ". This",
         "H2090"
       ],
       [
-        " also I saw,",
+        " also I saw",
         "H7200"
       ],
       [
-        " that it was from the hand",
+        ", that it was from the hand",
         "H3027"
       ],
       [
-        " of God.",
+        " of God",
+        "H0430"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|2|25": [
+      [
+        "For who can eat",
+        "H0398"
+      ],
+      [
+        ", or who else can hasten",
+        "H2363"
+      ],
+      [
+        " hereunto, more",
+        "H2351"
+      ],
+      [
+        " than I?",
         null
       ]
     ],
@@ -1274,7 +1772,7 @@
       ],
       [
         " to a man",
-        "H120"
+        "H0120"
       ],
       [
         " that is good",
@@ -1285,19 +1783,19 @@
         "H6440"
       ],
       [
-        " wisdom,",
+        " wisdom",
         "H2451"
       ],
       [
-        " and knowledge,",
+        ", and knowledge",
         "H1847"
       ],
       [
-        " and joy:",
+        ", and joy",
         "H8057"
       ],
       [
-        " but to the sinner",
+        ": but to the sinner",
         "H2398"
       ],
       [
@@ -1305,19 +1803,19 @@
         "H5414"
       ],
       [
-        " travail,",
+        " travail",
         "H6045"
       ],
       [
-        " to gather",
-        "H622"
+        ", to gather",
+        "H0622"
       ],
       [
-        " and to heap up,",
+        " and to heap up",
         "H3664"
       ],
       [
-        " that he may give",
+        ", that he may give",
         "H5414"
       ],
       [
@@ -1329,11 +1827,11 @@
         "H6440"
       ],
       [
-        " God.",
-        "H430"
+        " God",
+        "H0430"
       ],
       [
-        " This also is vanity",
+        ". This also is vanity",
         "H1892"
       ],
       [
@@ -1341,17 +1839,21 @@
         "H7469"
       ],
       [
-        " of spirit.",
+        " of spirit",
+        "H7307"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ecclesiastes|3|1": [
       [
-        "To every thing there is a season,",
+        "To every thing there is a season",
         "H2165"
       ],
       [
-        " and a time",
+        ", and a time",
         "H6256"
       ],
       [
@@ -1359,7 +1861,11 @@
         "H2656"
       ],
       [
-        " under the heaven:",
+        " under the heaven",
+        "H8064"
+      ],
+      [
+        ":",
         null
       ]
     ],
@@ -1369,27 +1875,27 @@
         "H6256"
       ],
       [
-        " to be born,",
+        " to be born",
         "H3205"
       ],
       [
-        " and a time",
+        ", and a time",
         "H6256"
       ],
       [
-        " to die;",
+        " to die",
         "H4191"
       ],
       [
-        " a time",
+        "; a time",
         "H6256"
       ],
       [
-        " to plant,",
+        " to plant",
         "H5193"
       ],
       [
-        " and a time",
+        ", and a time",
         "H6256"
       ],
       [
@@ -1397,7 +1903,11 @@
         "H6131"
       ],
       [
-        " that which is planted;",
+        " that which is planted",
+        "H5193"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -1407,31 +1917,35 @@
         "H6256"
       ],
       [
-        " to kill,",
+        " to kill",
         "H2026"
       ],
       [
-        " and a time",
+        ", and a time",
         "H6256"
       ],
       [
-        " to heal;",
+        " to heal",
         "H7495"
       ],
       [
-        " a time",
+        "; a time",
         "H6256"
       ],
       [
-        " to break down,",
+        " to break down",
         "H6555"
       ],
       [
-        " and a time",
+        ", and a time",
         "H6256"
       ],
       [
-        " to build up;",
+        " to build up",
+        "H1129"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -1441,31 +1955,35 @@
         "H6256"
       ],
       [
-        " to weep,",
+        " to weep",
         "H1058"
       ],
       [
-        " and a time",
+        ", and a time",
         "H6256"
       ],
       [
-        " to laugh;",
+        " to laugh",
         "H7832"
       ],
       [
-        " a time",
+        "; a time",
         "H6256"
       ],
       [
-        " to mourn,",
+        " to mourn",
         "H5594"
       ],
       [
-        " and a time",
+        ", and a time",
         "H6256"
       ],
       [
-        " to dance;",
+        " to dance",
+        "H7540"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -1479,11 +1997,11 @@
         "H7993"
       ],
       [
-        " stones,",
-        "H68"
+        " stones",
+        "H0068"
       ],
       [
-        " and a time",
+        ", and a time",
         "H6256"
       ],
       [
@@ -1492,22 +2010,22 @@
       ],
       [
         " stones",
-        "H68"
+        "H0068"
       ],
       [
-        " together;",
+        " together",
         "H3664"
       ],
       [
-        " a time",
+        "; a time",
         "H6256"
       ],
       [
-        " to embrace,",
+        " to embrace",
         "H2263"
       ],
       [
-        " and a time",
+        ", and a time",
         "H6256"
       ],
       [
@@ -1515,7 +2033,11 @@
         "H7368"
       ],
       [
-        " from embracing;",
+        " from embracing",
+        "H2263"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -1525,31 +2047,35 @@
         "H6256"
       ],
       [
-        " to get,",
+        " to get",
         "H1245"
       ],
       [
-        " and a time",
+        ", and a time",
         "H6256"
       ],
       [
-        " to lose;",
-        "H6"
+        " to lose",
+        "H0006"
       ],
       [
-        " a time",
+        "; a time",
         "H6256"
       ],
       [
-        " to keep,",
+        " to keep",
         "H8104"
       ],
       [
-        " and a time",
+        ", and a time",
         "H6256"
       ],
       [
-        " to cast away;",
+        " to cast away",
+        "H7993"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -1559,31 +2085,35 @@
         "H6256"
       ],
       [
-        " to rend,",
+        " to rend",
         "H7167"
       ],
       [
-        " and a time",
+        ", and a time",
         "H6256"
       ],
       [
-        " to sew;",
+        " to sew",
         "H8609"
       ],
       [
-        " a time",
+        "; a time",
         "H6256"
       ],
       [
-        " to keep silence,",
+        " to keep silence",
         "H2814"
       ],
       [
-        " and a time",
+        ", and a time",
         "H6256"
       ],
       [
-        " to speak;",
+        " to speak",
+        "H1696"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -1593,31 +2123,35 @@
         "H6256"
       ],
       [
-        " to love,",
-        "H157"
+        " to love",
+        "H0157"
       ],
       [
-        " and a time",
+        ", and a time",
         "H6256"
       ],
       [
-        " to hate;",
+        " to hate",
         "H8130"
       ],
       [
-        " a time",
+        "; a time",
         "H6256"
       ],
       [
-        " of war,",
+        " of war",
         "H4421"
       ],
       [
-        " and a time",
+        ", and a time",
         "H6256"
       ],
       [
-        " of peace.",
+        " of peace",
+        "H7965"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1632,10 +2166,48 @@
       ],
       [
         " in that wherein",
-        "H834"
+        "H0834"
       ],
       [
-        " he laboureth?",
+        " he laboureth",
+        "H6001"
+      ],
+      [
+        "?",
+        null
+      ]
+    ],
+    "Ecclesiastes|3|10": [
+      [
+        "I have seen",
+        "H7200"
+      ],
+      [
+        " the travail",
+        "H6045"
+      ],
+      [
+        ", which God",
+        "H0430"
+      ],
+      [
+        " hath given",
+        "H5414"
+      ],
+      [
+        " to the sons",
+        "H1121"
+      ],
+      [
+        " of men",
+        "H0120"
+      ],
+      [
+        " to be exercised",
+        "H6031"
+      ],
+      [
+        " in it.",
         null
       ]
     ],
@@ -1649,11 +2221,11 @@
         "H3303"
       ],
       [
-        " in his time:",
+        " in his time",
         "H6256"
       ],
       [
-        " also he hath set",
+        ": also he hath set",
         "H5414"
       ],
       [
@@ -1661,16 +2233,16 @@
         "H5769"
       ],
       [
-        " in their heart,",
+        " in their heart",
         "H3820"
       ],
       [
-        " so that",
+        ", so that",
         "H1097"
       ],
       [
         " no man",
-        "H120"
+        "H0120"
       ],
       [
         " can find out",
@@ -1682,7 +2254,7 @@
       ],
       [
         " that God",
-        "H430"
+        "H0430"
       ],
       [
         " maketh",
@@ -1693,7 +2265,11 @@
         "H7218"
       ],
       [
-        " to the end.",
+        " to the end",
+        "H5490"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1707,11 +2283,11 @@
         "H2896"
       ],
       [
-        " in them, but for a man to rejoice,",
+        " in them, but for a man to rejoice",
         "H8055"
       ],
       [
-        " and to do",
+        ", and to do",
         "H6213"
       ],
       [
@@ -1719,25 +2295,29 @@
         "H2896"
       ],
       [
-        " in his life.",
+        " in his life",
+        "H2416"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ecclesiastes|3|13": [
       [
         "And also that every man",
-        "H120"
+        "H0120"
       ],
       [
         " should eat",
-        "H398"
+        "H0398"
       ],
       [
-        " and drink,",
+        " and drink",
         "H8354"
       ],
       [
-        " and enjoy",
+        ", and enjoy",
         "H7200"
       ],
       [
@@ -1745,52 +2325,148 @@
         "H2896"
       ],
       [
-        " of all his labour,",
+        " of all his labour",
         "H5999"
       ],
       [
-        " it is the gift",
+        ", it is the gift",
         "H4991"
       ],
       [
-        " of God.",
+        " of God",
+        "H0430"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|3|14": [
+      [
+        "I know",
+        "H3045"
+      ],
+      [
+        " that, whatsoever God",
+        "H0430"
+      ],
+      [
+        " doeth",
+        "H6213"
+      ],
+      [
+        ", it shall be for ever",
+        "H5769"
+      ],
+      [
+        ": nothing",
+        "H0369"
+      ],
+      [
+        " can be put",
+        "H3254"
+      ],
+      [
+        " to it, nor any thing taken",
+        "H1639"
+      ],
+      [
+        " from it: and God",
+        "H0430"
+      ],
+      [
+        " doeth",
+        "H6213"
+      ],
+      [
+        " it, that men should fear",
+        "H3372"
+      ],
+      [
+        " before",
+        "H6440"
+      ],
+      [
+        " him.",
         null
       ]
     ],
     "Ecclesiastes|3|15": [
       [
-        "That which hath been is now;",
+        "That which hath been is now",
         "H3528"
       ],
       [
-        " and that which is to be hath already",
+        "; and that which is to be hath already",
         "H3528"
       ],
       [
         " been; and God",
-        "H430"
+        "H0430"
       ],
       [
         " requireth",
         "H1245"
       ],
       [
-        " that which is past.",
+        " that which is past",
+        "H7291"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|3|16": [
+      [
+        "And moreover I saw",
+        "H7200"
+      ],
+      [
+        " under the sun",
+        "H8121"
+      ],
+      [
+        " the place",
+        "H4725"
+      ],
+      [
+        " of judgment",
+        "H4941"
+      ],
+      [
+        ", that wickedness",
+        "H7562"
+      ],
+      [
+        " was there; and the place",
+        "H4725"
+      ],
+      [
+        " of righteousness",
+        "H6664"
+      ],
+      [
+        ", that iniquity",
+        "H7562"
+      ],
+      [
+        " was there.",
         null
       ]
     ],
     "Ecclesiastes|3|17": [
       [
         "I said",
-        "H559"
+        "H0559"
       ],
       [
-        " in mine heart,",
+        " in mine heart",
         "H3820"
       ],
       [
-        " God",
-        "H430"
+        ", God",
+        "H0430"
       ],
       [
         " shall judge",
@@ -1801,11 +2477,11 @@
         "H6662"
       ],
       [
-        " and the wicked:",
+        " and the wicked",
         "H7563"
       ],
       [
-        " for there is a time",
+        ": for there is a time",
         "H6256"
       ],
       [
@@ -1813,14 +2489,18 @@
         "H2656"
       ],
       [
-        " and for every work.",
+        " and for every work",
+        "H4639"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ecclesiastes|3|18": [
       [
         "I said",
-        "H559"
+        "H0559"
       ],
       [
         " in mine heart",
@@ -1835,12 +2515,12 @@
         "H1121"
       ],
       [
-        " of men,",
-        "H120"
+        " of men",
+        "H0120"
       ],
       [
-        " that God",
-        "H430"
+        ", that God",
+        "H0430"
       ],
       [
         " might manifest",
@@ -1855,7 +2535,11 @@
         "H1992"
       ],
       [
-        " themselves are beasts.",
+        " themselves are beasts",
+        "H0929"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1870,58 +2554,62 @@
       ],
       [
         " of men",
-        "H120"
+        "H0120"
       ],
       [
         " befalleth",
         "H4745"
       ],
       [
-        " beasts;",
-        "H929"
+        " beasts",
+        "H0929"
       ],
       [
-        " even one thing",
-        "H259"
+        "; even one thing",
+        "H0259"
       ],
       [
         " befalleth",
         "H4745"
       ],
       [
-        " them: as the one dieth,",
+        " them: as the one dieth",
         "H4194"
       ],
       [
-        " so dieth",
+        ", so dieth",
         "H4194"
       ],
       [
-        " the other;",
+        " the other",
         "H2088"
       ],
       [
-        " yea, they have all one",
-        "H259"
+        "; yea, they have all one",
+        "H0259"
       ],
       [
-        " breath;",
+        " breath",
         "H7307"
       ],
       [
-        " so that a man",
-        "H120"
+        "; so that a man",
+        "H0120"
       ],
       [
         " hath no preeminence",
         "H4195"
       ],
       [
-        " above a beast:",
-        "H929"
+        " above a beast",
+        "H0929"
       ],
       [
-        " for all is vanity.",
+        ": for all is vanity",
+        "H1892"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1932,18 +2620,18 @@
       ],
       [
         " unto one",
-        "H259"
+        "H0259"
       ],
       [
-        " place;",
+        " place",
         "H4725"
       ],
       [
-        " all are of the dust,",
+        "; all are of the dust",
         "H6083"
       ],
       [
-        " and all turn",
+        ", and all turn",
         "H7725"
       ],
       [
@@ -1951,7 +2639,11 @@
         "H6083"
       ],
       [
-        " again.",
+        " again",
+        "H7725"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1969,24 +2661,20 @@
         "H1121"
       ],
       [
-        "",
-        "H120"
-      ],
-      [
         " that goeth",
         "H5927"
       ],
       [
-        " upward,",
+        " upward",
         "H4605"
       ],
       [
-        " and the spirit",
+        ", and the spirit",
         "H7307"
       ],
       [
         " of the beast",
-        "H929"
+        "H0929"
       ],
       [
         " that goeth",
@@ -1997,17 +2685,63 @@
         "H4295"
       ],
       [
-        " to the earth?",
+        " to the earth",
+        "H0776"
+      ],
+      [
+        "?",
+        null
+      ]
+    ],
+    "Ecclesiastes|3|22": [
+      [
+        "Wherefore I perceive",
+        "H7200"
+      ],
+      [
+        " that there is nothing better",
+        "H2896"
+      ],
+      [
+        ", than that a man",
+        "H0120"
+      ],
+      [
+        " should rejoice",
+        "H8055"
+      ],
+      [
+        " in his own works",
+        "H4639"
+      ],
+      [
+        "; for that is his portion",
+        "H2506"
+      ],
+      [
+        ": for who shall bring",
+        "H0935"
+      ],
+      [
+        " him to see",
+        "H7200"
+      ],
+      [
+        " what shall be after",
+        "H0310"
+      ],
+      [
+        " him?",
         null
       ]
     ],
     "Ecclesiastes|4|1": [
       [
-        "So I returned,",
+        "So I returned",
         "H7725"
       ],
       [
-        " and considered",
+        ", and considered",
         "H7200"
       ],
       [
@@ -2019,23 +2753,23 @@
         "H6213"
       ],
       [
-        " under the sun:",
+        " under the sun",
         "H8121"
       ],
       [
-        " and behold the tears",
+        ": and behold the tears",
         "H1832"
       ],
       [
-        " of such as were oppressed,",
+        " of such as were oppressed",
         "H6231"
       ],
       [
-        " and they had no comforter;",
+        ", and they had no comforter",
         "H5162"
       ],
       [
-        " and on the side",
+        "; and on the side",
         "H3027"
       ],
       [
@@ -2043,11 +2777,15 @@
         "H6231"
       ],
       [
-        " there was power;",
+        " there was power",
         "H3581"
       ],
       [
-        " but they had no comforter.",
+        "; but they had no comforter",
+        "H5162"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2077,7 +2815,11 @@
         "H5728"
       ],
       [
-        " alive.",
+        " alive",
+        "H2416"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2111,7 +2853,11 @@
         "H6213"
       ],
       [
-        " under the sun.",
+        " under the sun",
+        "H8121"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2121,31 +2867,31 @@
         "H7200"
       ],
       [
-        " all travail,",
+        " all travail",
         "H5999"
       ],
       [
-        " and every right",
+        ", and every right",
         "H3788"
       ],
       [
-        " work,",
+        " work",
         "H4639"
       ],
       [
-        " that for this a man",
-        "H376"
+        ", that for this a man",
+        "H0376"
       ],
       [
         " is envied",
         "H7068"
       ],
       [
-        " of his neighbour.",
+        " of his neighbour",
         "H7453"
       ],
       [
-        " This is also vanity",
+        ". This is also vanity",
         "H1892"
       ],
       [
@@ -2153,7 +2899,11 @@
         "H7469"
       ],
       [
-        " of spirit.",
+        " of spirit",
+        "H7307"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2171,15 +2921,19 @@
         "H3027"
       ],
       [
-        " together,",
+        " together",
         "H2263"
       ],
       [
-        " and eateth",
-        "H398"
+        ", and eateth",
+        "H0398"
       ],
       [
-        " his own flesh.",
+        " his own flesh",
+        "H1320"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2193,11 +2947,11 @@
         "H3709"
       ],
       [
-        " with quietness,",
+        " with quietness",
         "H5183"
       ],
       [
-        " than both the hands",
+        ", than both the hands",
         "H2651"
       ],
       [
@@ -2213,17 +2967,21 @@
         "H7469"
       ],
       [
-        " of spirit.",
+        " of spirit",
+        "H7307"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ecclesiastes|4|7": [
       [
-        "Then I returned,",
+        "Then I returned",
         "H7725"
       ],
       [
-        " and I saw",
+        ", and I saw",
         "H7200"
       ],
       [
@@ -2231,7 +2989,11 @@
         "H1892"
       ],
       [
-        " under the sun.",
+        " under the sun",
+        "H8121"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2242,30 +3004,30 @@
       ],
       [
         " one",
-        "H259"
+        "H0259"
       ],
       [
-        " alone, and there is not a second;",
+        " alone, and there is not a second",
         "H8145"
       ],
       [
-        " yea, he hath neither child",
+        "; yea, he hath neither child",
         "H1121"
       ],
       [
-        " nor brother:",
-        "H251"
+        " nor brother",
+        "H0251"
       ],
       [
-        " yet is there no end",
+        ": yet is there no end",
         "H7093"
       ],
       [
-        " of all his labour;",
+        " of all his labour",
         "H5999"
       ],
       [
-        " neither is his eye",
+        "; neither is his eye",
         "H5869"
       ],
       [
@@ -2273,15 +3035,15 @@
         "H7646"
       ],
       [
-        " with riches;",
+        " with riches",
         "H6239"
       ],
       [
-        " neither saith he, For whom do I labour,",
+        "; neither saith he, For whom do I labour",
         "H6001"
       ],
       [
-        " and bereave",
+        ", and bereave",
         "H2637"
       ],
       [
@@ -2289,19 +3051,23 @@
         "H5315"
       ],
       [
-        " of good?",
+        " of good",
         "H2896"
       ],
       [
-        " This is also vanity,",
+        "? This is also vanity",
         "H1892"
       ],
       [
-        " yea, it is a sore",
+        ", yea, it is a sore",
         "H7451"
       ],
       [
-        " travail.",
+        " travail",
+        "H6045"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2315,11 +3081,11 @@
         "H2896"
       ],
       [
-        " than one;",
-        "H259"
+        " than one",
+        "H0259"
       ],
       [
-        " because they have",
+        "; because they have",
         "H3426"
       ],
       [
@@ -2331,52 +3097,90 @@
         "H7939"
       ],
       [
-        " for their labour.",
+        " for their labour",
+        "H5999"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ecclesiastes|4|10": [
       [
-        "For if they fall,",
+        "For if they fall",
         "H5307"
       ],
       [
-        " the one",
-        "H259"
+        ", the one",
+        "H0259"
       ],
       [
         " will lift up",
         "H6965"
       ],
       [
-        " his fellow:",
+        " his fellow",
         "H2270"
       ],
       [
-        " but woe",
-        "H337"
+        ": but woe",
+        "H0337"
       ],
       [
         " to him that is alone",
-        "H259"
+        "H0259"
       ],
       [
-        " when he falleth;",
+        " when he falleth",
         "H5307"
       ],
       [
-        " for he hath not another",
+        "; for he hath not another",
         "H8145"
       ],
       [
-        " to help him up.",
+        " to help him up",
+        "H6965"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|4|11": [
+      [
+        "Again",
+        "H1571"
+      ],
+      [
+        ", if two",
+        "H8147"
+      ],
+      [
+        " lie together",
+        "H7901"
+      ],
+      [
+        ", then they have heat",
+        "H2552"
+      ],
+      [
+        ": but how can one",
+        "H0259"
+      ],
+      [
+        " be warm",
+        "H3179"
+      ],
+      [
+        " alone?",
         null
       ]
     ],
     "Ecclesiastes|4|12": [
       [
         "And if one",
-        "H259"
+        "H0259"
       ],
       [
         " prevail",
@@ -2403,7 +3207,11 @@
         "H4120"
       ],
       [
-        " broken.",
+        " broken",
+        "H5423"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2433,37 +3241,37 @@
         "H3684"
       ],
       [
-        " king,",
+        " king",
         "H4428"
       ],
       [
-        " who will",
+        ", who will",
         "H3045"
       ],
       [
-        " no more be admonished.",
+        " no more be admonished",
+        "H2094"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ecclesiastes|4|14": [
       [
         "For out of prison",
-        "H631"
-      ],
-      [
-        "",
-        "H1004"
+        "H0631"
       ],
       [
         " he cometh",
         "H3318"
       ],
       [
-        " to reign;",
+        " to reign",
         "H4427"
       ],
       [
-        " whereas also he that is born",
+        "; whereas also he that is born",
         "H3205"
       ],
       [
@@ -2471,7 +3279,45 @@
         "H4438"
       ],
       [
-        " becometh poor.",
+        " becometh poor",
+        "H7326"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|4|15": [
+      [
+        "I considered",
+        "H7200"
+      ],
+      [
+        " all the living",
+        "H2416"
+      ],
+      [
+        " which walk",
+        "H1980"
+      ],
+      [
+        " under the sun",
+        "H8121"
+      ],
+      [
+        ", with the second",
+        "H8145"
+      ],
+      [
+        " child",
+        "H3206"
+      ],
+      [
+        " that shall stand up",
+        "H5975"
+      ],
+      [
+        " in his stead.",
         null
       ]
     ],
@@ -2481,16 +3327,16 @@
         "H7093"
       ],
       [
-        " of all the people,",
+        " of all the people",
         "H5971"
       ],
       [
-        " even of all that have been before",
+        ", even of all that have been before",
         "H6440"
       ],
       [
         " them: they also that come after",
-        "H314"
+        "H0314"
       ],
       [
         " shall not rejoice",
@@ -2505,7 +3351,11 @@
         "H7475"
       ],
       [
-        " of spirit.",
+        " of spirit",
+        "H7307"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2527,19 +3377,19 @@
         "H1004"
       ],
       [
-        " of God,",
-        "H430"
+        " of God",
+        "H0430"
       ],
       [
-        " and be more ready",
+        ", and be more ready",
         "H7138"
       ],
       [
-        " to hear,",
+        " to hear",
         "H8085"
       ],
       [
-        " than to give",
+        ", than to give",
         "H5414"
       ],
       [
@@ -2547,11 +3397,11 @@
         "H2077"
       ],
       [
-        " of fools:",
+        " of fools",
         "H3684"
       ],
       [
-        " for they consider",
+        ": for they consider",
         "H3045"
       ],
       [
@@ -2559,21 +3409,25 @@
         "H6213"
       ],
       [
-        " evil.",
+        " evil",
+        "H7451"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ecclesiastes|5|2": [
       [
         "Be not rash",
-        "H926"
+        "H0926"
       ],
       [
-        " with thy mouth,",
+        " with thy mouth",
         "H6310"
       ],
       [
-        " and let not thine heart",
+        ", and let not thine heart",
         "H3820"
       ],
       [
@@ -2593,27 +3447,31 @@
         "H6440"
       ],
       [
-        " God:",
-        "H430"
+        " God",
+        "H0430"
       ],
       [
-        " for God",
-        "H430"
+        ": for God",
+        "H0430"
       ],
       [
-        " is in heaven,",
+        " is in heaven",
         "H8064"
       ],
       [
-        " and thou upon earth:",
-        "H776"
+        ", and thou upon earth",
+        "H0776"
       ],
       [
-        " therefore let thy words",
+        ": therefore let thy words",
         "H1697"
       ],
       [
-        " be few.",
+        " be few",
+        "H4592"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2624,18 +3482,18 @@
       ],
       [
         " cometh",
-        "H935"
+        "H0935"
       ],
       [
         " through the multitude",
         "H7230"
       ],
       [
-        " of business;",
+        " of business",
         "H6045"
       ],
       [
-        " and a fool's",
+        "; and a fool's",
         "H3684"
       ],
       [
@@ -2647,7 +3505,11 @@
         "H7230"
       ],
       [
-        " of words.",
+        " of words",
+        "H1697"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2661,12 +3523,12 @@
         "H5088"
       ],
       [
-        " unto God,",
-        "H430"
+        " unto God",
+        "H0430"
       ],
       [
-        " defer",
-        "H309"
+        ", defer",
+        "H0309"
       ],
       [
         " not to pay",
@@ -2677,15 +3539,19 @@
         "H2656"
       ],
       [
-        " in fools:",
+        " in fools",
         "H3684"
       ],
       [
-        " pay",
+        ": pay",
         "H7999"
       ],
       [
-        " that which thou hast vowed.",
+        " that which thou hast vowed",
+        "H5087"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2695,15 +3561,19 @@
         "H2896"
       ],
       [
-        " is it that thou shouldest not vow,",
+        " is it that thou shouldest not vow",
         "H5087"
       ],
       [
-        " than that thou shouldest vow",
+        ", than that thou shouldest vow",
         "H5087"
       ],
       [
-        " and not pay.",
+        " and not pay",
+        "H7999"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2721,39 +3591,39 @@
         "H1320"
       ],
       [
-        " to sin;",
+        " to sin",
         "H2398"
       ],
       [
-        " neither say",
-        "H559"
+        "; neither say",
+        "H0559"
       ],
       [
         " thou before",
         "H6440"
       ],
       [
-        " the angel,",
+        " the angel",
         "H4397"
       ],
       [
-        " that it was an error:",
+        ", that it was an error",
         "H7684"
       ],
       [
-        " wherefore should God",
-        "H430"
+        ": wherefore should God",
+        "H0430"
       ],
       [
         " be angry",
         "H7107"
       ],
       [
-        " at thy voice,",
+        " at thy voice",
         "H6963"
       ],
       [
-        " and destroy",
+        ", and destroy",
         "H2254"
       ],
       [
@@ -2761,7 +3631,11 @@
         "H4639"
       ],
       [
-        " of thine hands?",
+        " of thine hands",
+        "H3027"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -2783,15 +3657,19 @@
         "H1697"
       ],
       [
-        " there are also divers vanities:",
+        " there are also divers vanities",
         "H1892"
       ],
       [
-        " but fear",
+        ": but fear",
         "H3372"
       ],
       [
-        " thou God.",
+        " thou God",
+        "H0430"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2805,11 +3683,11 @@
         "H6233"
       ],
       [
-        " of the poor,",
+        " of the poor",
         "H7326"
       ],
       [
-        " and violent",
+        ", and violent",
         "H1499"
       ],
       [
@@ -2821,19 +3699,19 @@
         "H6664"
       ],
       [
-        " in a province,",
+        " in a province",
         "H4082"
       ],
       [
-        " marvel",
+        ", marvel",
         "H8539"
       ],
       [
-        " not at the matter:",
+        " not at the matter",
         "H2656"
       ],
       [
-        " for he that is higher",
+        ": for he that is higher",
         "H1364"
       ],
       [
@@ -2841,15 +3719,19 @@
         "H1364"
       ],
       [
-        " regardeth;",
+        " regardeth",
         "H8104"
       ],
       [
-        " and there be higher",
+        "; and there be higher",
         "H1364"
       ],
       [
-        " than they.",
+        " than they",
+        "H5921"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2860,7 +3742,7 @@
       ],
       [
         " of the earth",
-        "H776"
+        "H0776"
       ],
       [
         " is for all: the king",
@@ -2871,14 +3753,18 @@
         "H5647"
       ],
       [
-        " by the field.",
+        " by the field",
+        "H7704"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ecclesiastes|5|10": [
       [
         "He that loveth",
-        "H157"
+        "H0157"
       ],
       [
         " silver",
@@ -2889,23 +3775,27 @@
         "H7646"
       ],
       [
-        " with silver;",
+        " with silver",
         "H3701"
       ],
       [
-        " nor he that loveth",
-        "H157"
+        "; nor he that loveth",
+        "H0157"
       ],
       [
         " abundance",
         "H1995"
       ],
       [
-        " with increase:",
+        " with increase",
         "H8393"
       ],
       [
-        " this is also vanity.",
+        ": this is also vanity",
+        "H1892"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -2915,16 +3805,16 @@
         "H2896"
       ],
       [
-        " increase,",
+        " increase",
         "H7235"
       ],
       [
-        " they are increased",
+        ", they are increased",
         "H7231"
       ],
       [
         " that eat",
-        "H398"
+        "H0398"
       ],
       [
         " them: and what good",
@@ -2936,18 +3826,18 @@
       ],
       [
         " thereof, saving",
-        "H518"
+        "H0518"
       ],
       [
         " the beholding",
         "H7207"
       ],
       [
-        "",
-        "H7212"
+        " of them with their eyes",
+        "H5869"
       ],
       [
-        " of them with their eyes?",
+        "?",
         null
       ]
     ],
@@ -2961,23 +3851,23 @@
         "H5647"
       ],
       [
-        " is sweet,",
+        " is sweet",
         "H4966"
       ],
       [
-        " whether he eat",
-        "H398"
+        ", whether he eat",
+        "H0398"
       ],
       [
         " little",
         "H4592"
       ],
       [
-        " or much:",
+        " or much",
         "H7235"
       ],
       [
-        " but the abundance",
+        ": but the abundance",
         "H7647"
       ],
       [
@@ -2989,7 +3879,11 @@
         "H3240"
       ],
       [
-        " him to sleep.",
+        " him to sleep",
+        "H3462"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3011,11 +3905,11 @@
         "H7200"
       ],
       [
-        " under the sun,",
+        " under the sun",
         "H8121"
       ],
       [
-        " namely, riches",
+        ", namely, riches",
         "H6239"
       ],
       [
@@ -3027,7 +3921,11 @@
         "H1167"
       ],
       [
-        " thereof to their hurt.",
+        " thereof to their hurt",
+        "H7451"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3038,30 +3936,34 @@
       ],
       [
         " perish",
-        "H6"
+        "H0006"
       ],
       [
         " by evil",
         "H7451"
       ],
       [
-        " travail:",
+        " travail",
         "H6045"
       ],
       [
-        " and he begetteth",
+        ": and he begetteth",
         "H3205"
       ],
       [
-        " a son,",
+        " a son",
         "H1121"
       ],
       [
-        " and there is nothing",
+        ", and there is nothing",
         "H3972"
       ],
       [
-        " in his hand.",
+        " in his hand",
+        "H3027"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3072,14 +3974,14 @@
       ],
       [
         " of his mother's",
-        "H517"
+        "H0517"
       ],
       [
-        " womb,",
-        "H990"
+        " womb",
+        "H0990"
       ],
       [
-        " naked",
+        ", naked",
         "H6174"
       ],
       [
@@ -3091,11 +3993,11 @@
         "H3212"
       ],
       [
-        " as he came,",
-        "H935"
+        " as he came",
+        "H0935"
       ],
       [
-        " and shall take",
+        ", and shall take",
         "H5375"
       ],
       [
@@ -3103,15 +4005,19 @@
         "H3972"
       ],
       [
-        " of his labour,",
+        " of his labour",
         "H5999"
       ],
       [
-        " which he may carry away",
+        ", which he may carry away",
         "H3212"
       ],
       [
-        " in his hand.",
+        " in his hand",
+        "H3027"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3125,23 +4031,23 @@
         "H2470"
       ],
       [
-        " evil,",
+        " evil",
         "H7451"
       ],
       [
-        " that in all points",
+        ", that in all points",
         "H5980"
       ],
       [
-        " as he came,",
-        "H935"
+        " as he came",
+        "H0935"
       ],
       [
-        " so shall he go:",
+        ", so shall he go",
         "H3212"
       ],
       [
-        " and what profit",
+        ": and what profit",
         "H3504"
       ],
       [
@@ -3149,7 +4055,11 @@
         "H5998"
       ],
       [
-        " for the wind?",
+        " for the wind",
+        "H7307"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -3160,14 +4070,14 @@
       ],
       [
         " also he eateth",
-        "H398"
+        "H0398"
       ],
       [
-        " in darkness,",
+        " in darkness",
         "H2822"
       ],
       [
-        " and he hath much",
+        ", and he hath much",
         "H7235"
       ],
       [
@@ -3179,17 +4089,21 @@
         "H7110"
       ],
       [
-        " with his sickness.",
+        " with his sickness",
+        "H2483"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ecclesiastes|5|18": [
       [
-        "Behold that which I have seen:",
+        "Behold that which I have seen",
         "H7200"
       ],
       [
-        " it is good",
+        ": it is good",
         "H2896"
       ],
       [
@@ -3198,14 +4112,14 @@
       ],
       [
         " for one to eat",
-        "H398"
+        "H0398"
       ],
       [
-        " and to drink,",
+        " and to drink",
         "H8354"
       ],
       [
-        " and to enjoy",
+        ", and to enjoy",
         "H7200"
       ],
       [
@@ -3233,30 +4147,34 @@
         "H3117"
       ],
       [
-        " of his life,",
+        " of his life",
         "H2416"
       ],
       [
-        " which God",
-        "H430"
+        ", which God",
+        "H0430"
       ],
       [
         " giveth",
         "H5414"
       ],
       [
-        " him: for it is his portion.",
+        " him: for it is his portion",
+        "H2506"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ecclesiastes|5|19": [
       [
         "Every man",
-        "H120"
+        "H0120"
       ],
       [
         " also to whom God",
-        "H430"
+        "H0430"
       ],
       [
         " hath given",
@@ -3267,35 +4185,35 @@
         "H6239"
       ],
       [
-        " and wealth,",
+        " and wealth",
         "H5233"
       ],
       [
-        " and hath given him power",
+        ", and hath given him power",
         "H7980"
       ],
       [
         " to eat",
-        "H398"
+        "H0398"
       ],
       [
         " thereof, and to take",
         "H5375"
       ],
       [
-        " his portion,",
+        " his portion",
         "H2506"
       ],
       [
-        " and to rejoice",
+        ", and to rejoice",
         "H8055"
       ],
       [
-        " in his labour;",
+        " in his labour",
         "H5999"
       ],
       [
-        " this",
+        "; this",
         "H2090"
       ],
       [
@@ -3303,7 +4221,11 @@
         "H4991"
       ],
       [
-        " of God.",
+        " of God",
+        "H0430"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3321,12 +4243,12 @@
         "H3117"
       ],
       [
-        " of his life;",
+        " of his life",
         "H2416"
       ],
       [
-        " because God",
-        "H430"
+        "; because God",
+        "H0430"
       ],
       [
         " answereth",
@@ -3337,7 +4259,11 @@
         "H8057"
       ],
       [
-        " of his heart.",
+        " of his heart",
+        "H3820"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3355,45 +4281,49 @@
         "H7200"
       ],
       [
-        " under the sun,",
+        " under the sun",
         "H8121"
       ],
       [
-        " and it is common",
+        ", and it is common",
         "H7227"
       ],
       [
-        " among men:",
+        " among men",
+        "H0120"
+      ],
+      [
+        ":",
         null
       ]
     ],
     "Ecclesiastes|6|2": [
       [
         "A man",
-        "H376"
+        "H0376"
       ],
       [
         " to whom God",
-        "H430"
+        "H0430"
       ],
       [
         " hath given",
         "H5414"
       ],
       [
-        " riches,",
+        " riches",
         "H6239"
       ],
       [
-        " wealth,",
+        ", wealth",
         "H5233"
       ],
       [
-        " and honour,",
+        ", and honour",
         "H3519"
       ],
       [
-        " so that he wanteth",
+        ", so that he wanteth",
         "H2638"
       ],
       [
@@ -3401,12 +4331,12 @@
         "H5315"
       ],
       [
-        " of all that he desireth,",
-        "H183"
+        " of all that he desireth",
+        "H0183"
       ],
       [
-        " yet God",
-        "H430"
+        ", yet God",
+        "H0430"
       ],
       [
         " giveth him not power",
@@ -3414,52 +4344,122 @@
       ],
       [
         " to eat",
-        "H398"
+        "H0398"
       ],
       [
         " thereof, but a stranger",
-        "H376"
-      ],
-      [
-        "",
-        "H5237"
+        "H0376"
       ],
       [
         " eateth",
-        "H398"
+        "H0398"
       ],
       [
-        " it: this is vanity,",
+        " it: this is vanity",
         "H1892"
       ],
       [
-        " and it is an evil",
+        ", and it is an evil",
         "H7451"
       ],
       [
-        " disease.",
+        " disease",
+        "H2483"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|6|3": [
+      [
+        "If a man",
+        "H0376"
+      ],
+      [
+        " beget",
+        "H3205"
+      ],
+      [
+        " an hundred",
+        "H3967"
+      ],
+      [
+        " children, and live",
+        "H2421"
+      ],
+      [
+        " many",
+        "H7227"
+      ],
+      [
+        " years",
+        "H8141"
+      ],
+      [
+        ", so that the days",
+        "H3117"
+      ],
+      [
+        " of his years",
+        "H8141"
+      ],
+      [
+        " be many",
+        "H7227"
+      ],
+      [
+        ", and his soul",
+        "H5315"
+      ],
+      [
+        " be not filled",
+        "H7646"
+      ],
+      [
+        " with good",
+        "H2896"
+      ],
+      [
+        ", and also that he have no burial",
+        "H6900"
+      ],
+      [
+        "; I say",
+        "H0559"
+      ],
+      [
+        ", that an untimely birth",
+        "H5309"
+      ],
+      [
+        " is better",
+        "H2896"
+      ],
+      [
+        " than he.",
         null
       ]
     ],
     "Ecclesiastes|6|4": [
       [
         "For he cometh",
-        "H935"
+        "H0935"
       ],
       [
-        " in with vanity,",
+        " in with vanity",
         "H1892"
       ],
       [
-        " and departeth",
+        ", and departeth",
         "H3212"
       ],
       [
-        " in darkness,",
+        " in darkness",
         "H2822"
       ],
       [
-        " and his name",
+        ", and his name",
         "H8034"
       ],
       [
@@ -3467,14 +4467,48 @@
         "H3680"
       ],
       [
-        " with darkness.",
+        " with darkness",
+        "H2822"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|6|5": [
+      [
+        "Moreover he hath not seen",
+        "H7200"
+      ],
+      [
+        " the sun",
+        "H8121"
+      ],
+      [
+        ", nor known",
+        "H3045"
+      ],
+      [
+        " any thing: this",
+        "H2088"
+      ],
+      [
+        " hath more rest",
+        "H5183"
+      ],
+      [
+        " than",
+        "H2088"
+      ],
+      [
+        " the other.",
         null
       ]
     ],
     "Ecclesiastes|6|6": [
       [
         "Yea, though",
-        "H432"
+        "H0432"
       ],
       [
         " he live",
@@ -3482,7 +4516,7 @@
       ],
       [
         " a thousand",
-        "H505"
+        "H0505"
       ],
       [
         " years",
@@ -3497,19 +4531,23 @@
         "H7200"
       ],
       [
-        " no good:",
+        " no good",
         "H2896"
       ],
       [
-        " do not all go",
+        ": do not all go",
         "H1980"
       ],
       [
         " to one",
-        "H259"
+        "H0259"
       ],
       [
-        " place?",
+        " place",
+        "H4725"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -3520,18 +4558,22 @@
       ],
       [
         " of man",
-        "H120"
+        "H0120"
       ],
       [
-        " is for his mouth,",
+        " is for his mouth",
         "H6310"
       ],
       [
-        " and yet the appetite",
+        ", and yet the appetite",
         "H5315"
       ],
       [
-        " is not filled.",
+        " is not filled",
+        "H4390"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3545,15 +4587,15 @@
         "H3148"
       ],
       [
-        " than the fool?",
+        " than the fool",
         "H3684"
       ],
       [
-        " what hath the poor,",
+        "? what hath the poor",
         "H6041"
       ],
       [
-        " that knoweth",
+        ", that knoweth",
         "H3045"
       ],
       [
@@ -3561,7 +4603,11 @@
         "H1980"
       ],
       [
-        " before the living?",
+        " before the living",
+        "H2416"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -3583,11 +4629,11 @@
         "H1980"
       ],
       [
-        " of the desire:",
+        " of the desire",
         "H5315"
       ],
       [
-        " this is also vanity",
+        ": this is also vanity",
         "H1892"
       ],
       [
@@ -3595,7 +4641,45 @@
         "H7469"
       ],
       [
-        " of spirit.",
+        " of spirit",
+        "H7307"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|6|10": [
+      [
+        "That which hath been is named",
+        "H7121"
+      ],
+      [
+        " already",
+        "H3528"
+      ],
+      [
+        ", and it is known",
+        "H3045"
+      ],
+      [
+        " that it is man",
+        "H0120"
+      ],
+      [
+        ": neither may",
+        "H3201"
+      ],
+      [
+        " he contend",
+        "H1777"
+      ],
+      [
+        " with him that is mightier",
+        "H8623"
+      ],
+      [
+        " than he.",
         null
       ]
     ],
@@ -3617,15 +4701,19 @@
         "H7235"
       ],
       [
-        " vanity,",
+        " vanity",
         "H1892"
       ],
       [
-        " what is man",
-        "H120"
+        ", what is man",
+        "H0120"
       ],
       [
-        " the better?",
+        " the better",
+        "H3148"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -3640,14 +4728,14 @@
       ],
       [
         " for man",
-        "H120"
+        "H0120"
       ],
       [
-        " in this life,",
+        " in this life",
         "H2416"
       ],
       [
-        " all",
+        ", all",
         "H4557"
       ],
       [
@@ -3667,23 +4755,27 @@
         "H6213"
       ],
       [
-        " as a shadow?",
+        " as a shadow",
         "H6738"
       ],
       [
-        " for who can tell",
+        "? for who can tell",
         "H5046"
       ],
       [
         " a man",
-        "H120"
+        "H0120"
       ],
       [
         " what shall be after",
-        "H310"
+        "H0310"
       ],
       [
-        " him under the sun?",
+        " him under the sun",
+        "H8121"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -3701,11 +4793,11 @@
         "H2896"
       ],
       [
-        " ointment;",
+        " ointment",
         "H8081"
       ],
       [
-        " and the day",
+        "; and the day",
         "H3117"
       ],
       [
@@ -3717,7 +4809,11 @@
         "H3117"
       ],
       [
-        " of one's birth.",
+        " of one's birth",
+        "H3205"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3735,11 +4831,11 @@
         "H1004"
       ],
       [
-        " of mourning,",
-        "H60"
+        " of mourning",
+        "H0060"
       ],
       [
-        " than to go",
+        ", than to go",
         "H3212"
       ],
       [
@@ -3747,23 +4843,23 @@
         "H1004"
       ],
       [
-        " of feasting:",
+        " of feasting",
         "H4960"
       ],
       [
-        " for",
-        "H834"
+        ": for",
+        "H0834"
       ],
       [
         " that is the end",
         "H5490"
       ],
       [
-        " of all men;",
-        "H120"
+        " of all men",
+        "H0120"
       ],
       [
-        " and the living",
+        "; and the living",
         "H2416"
       ],
       [
@@ -3771,7 +4867,11 @@
         "H5414"
       ],
       [
-        " it to his heart.",
+        " it to his heart",
+        "H3820"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3785,11 +4885,11 @@
         "H2896"
       ],
       [
-        " than laughter:",
+        " than laughter",
         "H7814"
       ],
       [
-        " for by the sadness",
+        ": for by the sadness",
         "H7455"
       ],
       [
@@ -3801,7 +4901,11 @@
         "H3820"
       ],
       [
-        " is made better.",
+        " is made better",
+        "H3190"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3819,11 +4923,11 @@
         "H1004"
       ],
       [
-        " of mourning;",
-        "H60"
+        " of mourning",
+        "H0060"
       ],
       [
-        " but the heart",
+        "; but the heart",
         "H3820"
       ],
       [
@@ -3835,7 +4939,11 @@
         "H1004"
       ],
       [
-        " of mirth.",
+        " of mirth",
+        "H8057"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3853,12 +4961,12 @@
         "H1606"
       ],
       [
-        " of the wise,",
+        " of the wise",
         "H2450"
       ],
       [
-        " than for a man",
-        "H376"
+        ", than for a man",
+        "H0376"
       ],
       [
         " to hear",
@@ -3869,7 +4977,11 @@
         "H7892"
       ],
       [
-        " of fools.",
+        " of fools",
+        "H3684"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3883,19 +4995,23 @@
         "H5518"
       ],
       [
-        " under a pot,",
+        " under a pot",
         "H5518"
       ],
       [
-        " so is the laughter",
+        ", so is the laughter",
         "H7814"
       ],
       [
-        " of the fool:",
+        " of the fool",
         "H3684"
       ],
       [
-        " this also is vanity.",
+        ": this also is vanity",
+        "H1892"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3909,19 +5025,23 @@
         "H2450"
       ],
       [
-        " mad;",
+        " mad",
         "H1984"
       ],
       [
-        " and a gift",
+        "; and a gift",
         "H4979"
       ],
       [
         " destroyeth",
-        "H6"
+        "H0006"
       ],
       [
-        " the heart.",
+        " the heart",
+        "H3820"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -3932,7 +5052,7 @@
       ],
       [
         " is the end",
-        "H319"
+        "H0319"
       ],
       [
         " of a thing",
@@ -3944,7 +5064,7 @@
       ],
       [
         " thereof: and the patient",
-        "H750"
+        "H0750"
       ],
       [
         " in spirit",
@@ -3959,25 +5079,29 @@
         "H1362"
       ],
       [
-        " in spirit.",
+        " in spirit",
+        "H7307"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ecclesiastes|7|9": [
       [
         "Be not hasty",
-        "H926"
+        "H0926"
       ],
       [
         " in thy spirit",
         "H7307"
       ],
       [
-        " to be angry:",
+        " to be angry",
         "H3707"
       ],
       [
-        " for anger",
+        ": for anger",
         "H3708"
       ],
       [
@@ -3989,7 +5113,41 @@
         "H2436"
       ],
       [
-        " of fools.",
+        " of fools",
+        "H3684"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|7|10": [
+      [
+        "Say",
+        "H0559"
+      ],
+      [
+        " not thou, What is the cause that the former",
+        "H7223"
+      ],
+      [
+        " days",
+        "H3117"
+      ],
+      [
+        " were better",
+        "H2896"
+      ],
+      [
+        " than these? for thou dost not enquire",
+        "H7592"
+      ],
+      [
+        " wisely",
+        "H2451"
+      ],
+      [
+        " concerning this.",
         null
       ]
     ],
@@ -4003,11 +5161,11 @@
         "H2896"
       ],
       [
-        " with an inheritance:",
+        " with an inheritance",
         "H5159"
       ],
       [
-        " and by it there is profit",
+        ": and by it there is profit",
         "H3148"
       ],
       [
@@ -4015,7 +5173,53 @@
         "H7200"
       ],
       [
-        " the sun.",
+        " the sun",
+        "H8121"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|7|12": [
+      [
+        "For wisdom",
+        "H2451"
+      ],
+      [
+        " is a defence",
+        "H6738"
+      ],
+      [
+        ", and money",
+        "H3701"
+      ],
+      [
+        " is a defence",
+        "H6738"
+      ],
+      [
+        ": but the excellency",
+        "H3504"
+      ],
+      [
+        " of knowledge",
+        "H1847"
+      ],
+      [
+        " is, that wisdom",
+        "H2451"
+      ],
+      [
+        " giveth life",
+        "H2421"
+      ],
+      [
+        " to them that have",
+        "H1167"
+      ],
+      [
+        " it.",
         null
       ]
     ],
@@ -4029,19 +5233,85 @@
         "H4639"
       ],
       [
-        " of God:",
-        "H430"
+        " of God",
+        "H0430"
       ],
       [
-        " for who can",
+        ": for who can",
         "H3201"
       ],
       [
-        " make that straight,",
+        " make that straight",
         "H8626"
       ],
       [
-        " which he hath made crooked?",
+        ", which he hath made crooked",
+        "H5791"
+      ],
+      [
+        "?",
+        null
+      ]
+    ],
+    "Ecclesiastes|7|14": [
+      [
+        "In the day",
+        "H3117"
+      ],
+      [
+        " of prosperity",
+        "H2896"
+      ],
+      [
+        " be joyful",
+        "H2896"
+      ],
+      [
+        ", but in the day",
+        "H3117"
+      ],
+      [
+        " of adversity",
+        "H7451"
+      ],
+      [
+        " consider",
+        "H7200"
+      ],
+      [
+        ": God",
+        "H0430"
+      ],
+      [
+        " also hath set",
+        "H6213"
+      ],
+      [
+        " the one over against",
+        "H5980"
+      ],
+      [
+        " the other, to the end",
+        "H1700"
+      ],
+      [
+        " that man",
+        "H0120"
+      ],
+      [
+        " should find",
+        "H4672"
+      ],
+      [
+        " nothing",
+        "H3972"
+      ],
+      [
+        " after",
+        "H0310"
+      ],
+      [
+        " him.",
         null
       ]
     ],
@@ -4055,11 +5325,11 @@
         "H3117"
       ],
       [
-        " of my vanity:",
+        " of my vanity",
         "H1892"
       ],
       [
-        " there is",
+        ": there is",
         "H3426"
       ],
       [
@@ -4068,22 +5338,52 @@
       ],
       [
         " man that perisheth",
-        "H6"
+        "H0006"
       ],
       [
-        " in his righteousness,",
+        " in his righteousness",
         "H6664"
       ],
       [
-        " and there is a wicked",
+        ", and there is a wicked",
         "H7563"
       ],
       [
         " man that prolongeth",
-        "H748"
+        "H0748"
       ],
       [
-        " his life in his wickedness.",
+        " his life in his wickedness",
+        "H7451"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|7|16": [
+      [
+        "Be not righteous",
+        "H6662"
+      ],
+      [
+        " over much",
+        "H7235"
+      ],
+      [
+        "; neither make thyself over",
+        "H3148"
+      ],
+      [
+        " wise",
+        "H2449"
+      ],
+      [
+        ": why shouldest thou destroy",
+        "H8074"
+      ],
+      [
+        " thyself?",
         null
       ]
     ],
@@ -4093,19 +5393,61 @@
         "H7235"
       ],
       [
-        " wicked,",
+        " wicked",
         "H7561"
       ],
       [
-        " neither be thou foolish:",
+        ", neither be thou foolish",
         "H5530"
       ],
       [
-        " why shouldest thou die",
+        ": why shouldest thou die",
         "H4191"
       ],
       [
-        " before thy time?",
+        " before thy time",
+        "H6256"
+      ],
+      [
+        "?",
+        null
+      ]
+    ],
+    "Ecclesiastes|7|18": [
+      [
+        "It is good",
+        "H2896"
+      ],
+      [
+        " that thou shouldest take hold",
+        "H0270"
+      ],
+      [
+        " of this; yea, also from this",
+        "H2088"
+      ],
+      [
+        " withdraw",
+        "H3240"
+      ],
+      [
+        " not thine hand",
+        "H3027"
+      ],
+      [
+        ": for he that feareth",
+        "H3373"
+      ],
+      [
+        " God",
+        "H0430"
+      ],
+      [
+        " shall come forth",
+        "H3318"
+      ],
+      [
+        " of them all.",
         null
       ]
     ],
@@ -4131,7 +5473,75 @@
         "H7989"
       ],
       [
-        " men which are in the city.",
+        " men which are in the city",
+        "H5892"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|7|20": [
+      [
+        "For there is not a just",
+        "H6662"
+      ],
+      [
+        " man",
+        "H0120"
+      ],
+      [
+        " upon earth",
+        "H0776"
+      ],
+      [
+        ", that doeth",
+        "H6213"
+      ],
+      [
+        " good",
+        "H2896"
+      ],
+      [
+        ", and sinneth",
+        "H2398"
+      ],
+      [
+        " not.",
+        null
+      ]
+    ],
+    "Ecclesiastes|7|21": [
+      [
+        "Also take",
+        "H5414"
+      ],
+      [
+        " no heed",
+        "H3820"
+      ],
+      [
+        " unto all words",
+        "H1697"
+      ],
+      [
+        " that are spoken",
+        "H1696"
+      ],
+      [
+        "; lest thou hear",
+        "H8085"
+      ],
+      [
+        " thy servant",
+        "H5650"
+      ],
+      [
+        " curse",
+        "H7043"
+      ],
+      [
+        " thee:",
         null
       ]
     ],
@@ -4139,10 +5549,6 @@
       [
         "For oftentimes",
         "H6471"
-      ],
-      [
-        "",
-        "H7227"
       ],
       [
         " also thine own heart",
@@ -4157,21 +5563,59 @@
         "H7043"
       ],
       [
-        " others.",
+        " others",
+        "H0312"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|7|23": [
+      [
+        "All this",
+        "H2090"
+      ],
+      [
+        " have I proved",
+        "H5254"
+      ],
+      [
+        " by wisdom",
+        "H2451"
+      ],
+      [
+        ": I said",
+        "H0559"
+      ],
+      [
+        ", I will be wise",
+        "H2449"
+      ],
+      [
+        "; but it was far",
+        "H7350"
+      ],
+      [
+        " from me.",
         null
       ]
     ],
     "Ecclesiastes|7|24": [
       [
-        "That which is far off,",
+        "That which is far off",
         "H7350"
       ],
       [
-        " and exceeding deep,",
+        ", and exceeding deep",
         "H6013"
       ],
       [
-        " who can find it out?",
+        ", who can find it out",
+        "H4672"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -4185,23 +5629,23 @@
         "H3820"
       ],
       [
-        " to know,",
+        " to know",
         "H3045"
       ],
       [
-        " and to search,",
+        ", and to search",
         "H8446"
       ],
       [
-        " and to seek out",
+        ", and to seek out",
         "H1245"
       ],
       [
-        " wisdom,",
+        " wisdom",
         "H2451"
       ],
       [
-        " and the reason",
+        ", and the reason",
         "H2808"
       ],
       [
@@ -4213,49 +5657,119 @@
         "H7562"
       ],
       [
-        " of folly,",
+        " of folly",
         "H3689"
       ],
       [
-        " even of foolishness",
+        ", even of foolishness",
         "H5531"
       ],
       [
-        " and madness:",
+        " and madness",
+        "H1947"
+      ],
+      [
+        ":",
+        null
+      ]
+    ],
+    "Ecclesiastes|7|26": [
+      [
+        "And I find",
+        "H4672"
+      ],
+      [
+        " more bitter",
+        "H4751"
+      ],
+      [
+        " than death",
+        "H4194"
+      ],
+      [
+        " the woman",
+        "H0802"
+      ],
+      [
+        ", whose heart",
+        "H3820"
+      ],
+      [
+        " is snares",
+        "H4685"
+      ],
+      [
+        " and nets",
+        "H2764"
+      ],
+      [
+        ", and her hands",
+        "H3027"
+      ],
+      [
+        " as bands",
+        "H0612"
+      ],
+      [
+        ": whoso pleaseth",
+        "H2896"
+      ],
+      [
+        " God",
+        "H0430"
+      ],
+      [
+        " shall escape",
+        "H4422"
+      ],
+      [
+        " from her; but the sinner",
+        "H2398"
+      ],
+      [
+        " shall be taken",
+        "H3920"
+      ],
+      [
+        " by her.",
         null
       ]
     ],
     "Ecclesiastes|7|27": [
       [
-        "Behold,",
+        "Behold",
         "H7200"
       ],
       [
-        " this have I found,",
+        ", this have I found",
         "H4672"
       ],
       [
-        " saith",
-        "H559"
+        ", saith",
+        "H0559"
       ],
       [
-        " the preacher,",
+        " the preacher",
         "H6953"
       ],
       [
-        " counting one",
-        "H259"
+        ", counting one",
+        "H0259"
       ],
       [
-        " by one,",
-        "H259"
+        " by one",
+        "H0259"
       ],
       [
-        " to find out",
+        ", to find out",
         "H4672"
       ],
       [
-        " the account:",
+        " the account",
+        "H2808"
+      ],
+      [
+        ":",
         null
       ]
     ],
@@ -4265,54 +5779,58 @@
         "H5315"
       ],
       [
-        " seeketh,",
+        " seeketh",
         "H1245"
       ],
       [
-        " but I find",
+        ", but I find",
         "H4672"
       ],
       [
         " not: one",
-        "H259"
+        "H0259"
       ],
       [
         " man",
-        "H120"
+        "H0120"
       ],
       [
         " among a thousand",
-        "H505"
+        "H0505"
       ],
       [
-        " have I found;",
+        " have I found",
         "H4672"
       ],
       [
-        " but a woman",
-        "H802"
+        "; but a woman",
+        "H0802"
       ],
       [
-        " among all those have I not found.",
+        " among all those have I not found",
+        "H4672"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ecclesiastes|7|29": [
       [
-        "Lo,",
+        "Lo",
         "H7200"
       ],
       [
-        " this only",
-        "H905"
+        ", this only",
+        "H0905"
       ],
       [
-        " have I found,",
+        " have I found",
         "H4672"
       ],
       [
-        " that God",
-        "H430"
+        ", that God",
+        "H0430"
       ],
       [
         " hath made",
@@ -4320,14 +5838,14 @@
       ],
       [
         " man",
-        "H120"
+        "H0120"
       ],
       [
-        " upright;",
+        " upright",
         "H3477"
       ],
       [
-        " but they have sought out",
+        "; but they have sought out",
         "H1245"
       ],
       [
@@ -4335,7 +5853,11 @@
         "H7227"
       ],
       [
-        " inventions.",
+        " inventions",
+        "H2810"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -4353,12 +5875,12 @@
         "H6592"
       ],
       [
-        " of a thing?",
+        " of a thing",
         "H1697"
       ],
       [
-        " a man's",
-        "H120"
+        "? a man's",
+        "H0120"
       ],
       [
         " wisdom",
@@ -4369,11 +5891,11 @@
         "H6440"
       ],
       [
-        " to shine,",
-        "H215"
+        " to shine",
+        "H0215"
       ],
       [
-        " and the boldness",
+        ", and the boldness",
         "H5797"
       ],
       [
@@ -4381,7 +5903,11 @@
         "H6440"
       ],
       [
-        " shall be changed.",
+        " shall be changed",
+        "H8132"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -4395,11 +5921,11 @@
         "H4428"
       ],
       [
-        " commandment,",
+        " commandment",
         "H6310"
       ],
       [
-        " and that in regard",
+        ", and that in regard",
         "H1700"
       ],
       [
@@ -4407,7 +5933,75 @@
         "H7621"
       ],
       [
-        " of God.",
+        " of God",
+        "H0430"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|8|3": [
+      [
+        "Be not hasty",
+        "H0926"
+      ],
+      [
+        " to go out",
+        "H3212"
+      ],
+      [
+        " of his sight",
+        "H6440"
+      ],
+      [
+        ": stand",
+        "H5975"
+      ],
+      [
+        " not in an evil",
+        "H7451"
+      ],
+      [
+        " thing",
+        "H1697"
+      ],
+      [
+        "; for he doeth",
+        "H6213"
+      ],
+      [
+        " whatsoever pleaseth",
+        "H2654"
+      ],
+      [
+        " him.",
+        null
+      ]
+    ],
+    "Ecclesiastes|8|4": [
+      [
+        "Where the word",
+        "H1697"
+      ],
+      [
+        " of a king",
+        "H4428"
+      ],
+      [
+        " is, there is power",
+        "H7983"
+      ],
+      [
+        ": and who may say",
+        "H0559"
+      ],
+      [
+        " unto him, What doest",
+        "H6213"
+      ],
+      [
+        " thou?",
         null
       ]
     ],
@@ -4429,11 +6023,11 @@
         "H7451"
       ],
       [
-        " thing:",
+        " thing",
         "H1697"
       ],
       [
-        " and a wise man's",
+        ": and a wise man's",
         "H2450"
       ],
       [
@@ -4449,17 +6043,127 @@
         "H6256"
       ],
       [
-        " and judgment.",
+        " and judgment",
+        "H4941"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|8|6": [
+      [
+        "Because to every purpose",
+        "H2656"
+      ],
+      [
+        " there is",
+        "H3426"
+      ],
+      [
+        " time",
+        "H6256"
+      ],
+      [
+        " and judgment",
+        "H4941"
+      ],
+      [
+        ", therefore the misery",
+        "H7451"
+      ],
+      [
+        " of man",
+        "H0120"
+      ],
+      [
+        " is great",
+        "H7227"
+      ],
+      [
+        " upon him.",
+        null
+      ]
+    ],
+    "Ecclesiastes|8|7": [
+      [
+        "For he knoweth",
+        "H3045"
+      ],
+      [
+        " not that which shall be: for who can tell",
+        "H5046"
+      ],
+      [
+        " him when it shall be?",
+        null
+      ]
+    ],
+    "Ecclesiastes|8|8": [
+      [
+        "There is no man",
+        "H0120"
+      ],
+      [
+        " that hath power",
+        "H7989"
+      ],
+      [
+        " over the spirit",
+        "H7307"
+      ],
+      [
+        " to retain",
+        "H3607"
+      ],
+      [
+        " the spirit",
+        "H7307"
+      ],
+      [
+        "; neither hath he power",
+        "H7983"
+      ],
+      [
+        " in the day",
+        "H3117"
+      ],
+      [
+        " of death",
+        "H4194"
+      ],
+      [
+        ": and there is no discharge",
+        "H4917"
+      ],
+      [
+        " in that war",
+        "H4421"
+      ],
+      [
+        "; neither shall wickedness",
+        "H7562"
+      ],
+      [
+        " deliver",
+        "H4422"
+      ],
+      [
+        " those that are given",
+        "H1167"
+      ],
+      [
+        " to it.",
         null
       ]
     ],
     "Ecclesiastes|8|9": [
       [
-        "All this have I seen,",
+        "All this have I seen",
         "H7200"
       ],
       [
-        " and applied",
+        ", and applied",
         "H5414"
       ],
       [
@@ -4475,23 +6179,27 @@
         "H6213"
       ],
       [
-        " under the sun:",
+        " under the sun",
         "H8121"
       ],
       [
-        " there is a time",
+        ": there is a time",
         "H6256"
       ],
       [
         " wherein one man",
-        "H120"
+        "H0120"
       ],
       [
         " ruleth",
         "H7980"
       ],
       [
-        " over another to his own hurt.",
+        " over another to his own hurt",
+        "H7451"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -4509,12 +6217,12 @@
         "H7563"
       ],
       [
-        " buried,",
+        " buried",
         "H6912"
       ],
       [
-        " who had come",
-        "H935"
+        ", who had come",
+        "H0935"
       ],
       [
         " and gone",
@@ -4525,11 +6233,11 @@
         "H4725"
       ],
       [
-        " of the holy,",
+        " of the holy",
         "H6918"
       ],
       [
-        " and they were forgotten",
+        ", and they were forgotten",
         "H7911"
       ],
       [
@@ -4537,11 +6245,15 @@
         "H5892"
       ],
       [
-        " where they had so done:",
+        " where they had so done",
         "H6213"
       ],
       [
-        " this is also vanity.",
+        ": this is also vanity",
+        "H1892"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -4563,11 +6275,11 @@
         "H6213"
       ],
       [
-        " speedily,",
+        " speedily",
         "H4120"
       ],
       [
-        " therefore the heart",
+        ", therefore the heart",
         "H3820"
       ],
       [
@@ -4576,7 +6288,7 @@
       ],
       [
         " of men",
-        "H120"
+        "H0120"
       ],
       [
         " is fully set",
@@ -4587,7 +6299,61 @@
         "H6213"
       ],
       [
-        " evil.",
+        " evil",
+        "H7451"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|8|12": [
+      [
+        "Though a sinner",
+        "H2398"
+      ],
+      [
+        " do",
+        "H6213"
+      ],
+      [
+        " evil",
+        "H7451"
+      ],
+      [
+        " an hundred times",
+        "H3967"
+      ],
+      [
+        ", and his days be prolonged",
+        "H0748"
+      ],
+      [
+        ", yet surely I know",
+        "H3045"
+      ],
+      [
+        " that it shall be well",
+        "H2896"
+      ],
+      [
+        " with them that fear",
+        "H3373"
+      ],
+      [
+        " God",
+        "H0430"
+      ],
+      [
+        ", which fear",
+        "H3372"
+      ],
+      [
+        " before",
+        "H6440"
+      ],
+      [
+        " him:",
         null
       ]
     ],
@@ -4597,23 +6363,23 @@
         "H2896"
       ],
       [
-        " with the wicked,",
+        " with the wicked",
         "H7563"
       ],
       [
-        " neither shall he prolong",
-        "H748"
+        ", neither shall he prolong",
+        "H0748"
       ],
       [
-        " his days,",
+        " his days",
         "H3117"
       ],
       [
-        " which are as a shadow;",
+        ", which are as a shadow",
         "H6738"
       ],
       [
-        " because he feareth",
+        "; because he feareth",
         "H3373"
       ],
       [
@@ -4621,7 +6387,11 @@
         "H6440"
       ],
       [
-        " God.",
+        " God",
+        "H0430"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -4639,11 +6409,11 @@
         "H6213"
       ],
       [
-        " upon the earth;",
-        "H776"
+        " upon the earth",
+        "H0776"
       ],
       [
-        " that there be just",
+        "; that there be just",
         "H6662"
       ],
       [
@@ -4655,11 +6425,11 @@
         "H4639"
       ],
       [
-        " of the wicked;",
+        " of the wicked",
         "H7563"
       ],
       [
-        " again, there be",
+        "; again, there be",
         "H3426"
       ],
       [
@@ -4675,19 +6445,23 @@
         "H4639"
       ],
       [
-        " of the righteous:",
+        " of the righteous",
         "H6662"
       ],
       [
-        " I said",
-        "H559"
+        ": I said",
+        "H0559"
       ],
       [
         " that this also",
         "H1571"
       ],
       [
-        " is vanity.",
+        " is vanity",
+        "H1892"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -4697,35 +6471,35 @@
         "H7623"
       ],
       [
-        " mirth,",
+        " mirth",
         "H8057"
       ],
       [
-        " because a man",
-        "H120"
+        ", because a man",
+        "H0120"
       ],
       [
         " hath no better thing",
         "H2896"
       ],
       [
-        " under the sun,",
+        " under the sun",
         "H8121"
       ],
       [
-        " than to eat,",
-        "H398"
+        ", than to eat",
+        "H0398"
       ],
       [
-        " and to drink,",
+        ", and to drink",
         "H8354"
       ],
       [
-        " and to be merry:",
+        ", and to be merry",
         "H8055"
       ],
       [
-        " for that shall abide",
+        ": for that shall abide",
         "H3867"
       ],
       [
@@ -4737,19 +6511,23 @@
         "H3117"
       ],
       [
-        " of his life,",
+        " of his life",
         "H2416"
       ],
       [
-        " which God",
-        "H430"
+        ", which God",
+        "H0430"
       ],
       [
         " giveth",
         "H5414"
       ],
       [
-        " him under the sun.",
+        " him under the sun",
+        "H8121"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -4767,11 +6545,11 @@
         "H3045"
       ],
       [
-        " wisdom,",
+        " wisdom",
         "H2451"
       ],
       [
-        " and to see",
+        ", and to see",
         "H7200"
       ],
       [
@@ -4783,11 +6561,11 @@
         "H6213"
       ],
       [
-        " upon the earth:",
-        "H776"
+        " upon the earth",
+        "H0776"
       ],
       [
-        " (for also there is that neither day",
+        ": (for also there is that neither day",
         "H3117"
       ],
       [
@@ -4803,69 +6581,225 @@
         "H8142"
       ],
       [
-        " with his eyes:)",
+        " with his eyes",
+        "H5869"
+      ],
+      [
+        ":)",
+        null
+      ]
+    ],
+    "Ecclesiastes|8|17": [
+      [
+        "Then I beheld",
+        "H7200"
+      ],
+      [
+        " all the work",
+        "H4639"
+      ],
+      [
+        " of God",
+        "H0430"
+      ],
+      [
+        ", that a man",
+        "H0120"
+      ],
+      [
+        " cannot",
+        "H3201"
+      ],
+      [
+        " find out",
+        "H4672"
+      ],
+      [
+        " the work",
+        "H4639"
+      ],
+      [
+        " that is done",
+        "H6213"
+      ],
+      [
+        " under the sun",
+        "H8121"
+      ],
+      [
+        ": because",
+        "H0834"
+      ],
+      [
+        " though",
+        "H7945"
+      ],
+      [
+        " a man",
+        "H0120"
+      ],
+      [
+        " labour",
+        "H5998"
+      ],
+      [
+        " to seek it out",
+        "H1245"
+      ],
+      [
+        ", yet he shall not find",
+        "H4672"
+      ],
+      [
+        " it; yea further; though a wise",
+        "H2450"
+      ],
+      [
+        " man think",
+        "H0559"
+      ],
+      [
+        " to know",
+        "H3045"
+      ],
+      [
+        " it, yet shall he not be able",
+        "H3201"
+      ],
+      [
+        " to find",
+        "H4672"
+      ],
+      [
+        " it.",
+        null
+      ]
+    ],
+    "Ecclesiastes|9|1": [
+      [
+        "For all this I considered",
+        "H5414"
+      ],
+      [
+        " in my heart",
+        "H3820"
+      ],
+      [
+        " even to declare",
+        "H0952"
+      ],
+      [
+        " all this, that the righteous",
+        "H6662"
+      ],
+      [
+        ", and the wise",
+        "H2450"
+      ],
+      [
+        ", and their works",
+        "H5652"
+      ],
+      [
+        ", are in the hand",
+        "H3027"
+      ],
+      [
+        " of God",
+        "H0430"
+      ],
+      [
+        ": no man",
+        "H0120"
+      ],
+      [
+        " knoweth",
+        "H3045"
+      ],
+      [
+        " either",
+        "H1571"
+      ],
+      [
+        " love",
+        "H0160"
+      ],
+      [
+        " or hatred",
+        "H8135"
+      ],
+      [
+        " by all that is before",
+        "H6440"
+      ],
+      [
+        " them.",
         null
       ]
     ],
     "Ecclesiastes|9|2": [
       [
         "All things come alike to all: there is one",
-        "H259"
+        "H0259"
       ],
       [
         " event",
         "H4745"
       ],
       [
-        " to the righteous,",
+        " to the righteous",
         "H6662"
       ],
       [
-        " and to the wicked;",
+        ", and to the wicked",
         "H7563"
       ],
       [
-        " to the good",
+        "; to the good",
         "H2896"
       ],
       [
-        " and to the clean,",
+        " and to the clean",
         "H2889"
       ],
       [
-        " and to the unclean;",
+        ", and to the unclean",
         "H2931"
       ],
       [
-        " to him that sacrificeth,",
+        "; to him that sacrificeth",
         "H2076"
       ],
       [
-        " and to him that",
-        "H834"
+        ", and to him that",
+        "H0834"
       ],
       [
         " sacrificeth",
         "H2076"
       ],
       [
-        " not: as is the good,",
+        " not: as is the good",
         "H2896"
       ],
       [
-        " so is the sinner;",
+        ", so is the sinner",
         "H2398"
       ],
       [
-        " and he that sweareth,",
+        "; and he that sweareth",
         "H7650"
       ],
       [
-        " as he that feareth",
+        ", as he that feareth",
         "H3373"
       ],
       [
-        " an oath.",
+        " an oath",
+        "H7621"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -4879,12 +6813,12 @@
         "H6213"
       ],
       [
-        " under the sun,",
+        " under the sun",
         "H8121"
       ],
       [
-        " that there is one",
-        "H259"
+        ", that there is one",
+        "H0259"
       ],
       [
         " event",
@@ -4900,18 +6834,18 @@
       ],
       [
         " of men",
-        "H120"
+        "H0120"
       ],
       [
         " is full",
         "H4390"
       ],
       [
-        " of evil,",
+        " of evil",
         "H7451"
       ],
       [
-        " and madness",
+        ", and madness",
         "H1947"
       ],
       [
@@ -4919,15 +6853,19 @@
         "H3824"
       ],
       [
-        " while they live,",
+        " while they live",
         "H2416"
       ],
       [
-        " and after",
-        "H310"
+        ", and after",
+        "H0310"
       ],
       [
-        " that they go to the dead.",
+        " that they go to the dead",
+        "H4191"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -4945,19 +6883,15 @@
         "H2266"
       ],
       [
-        "",
-        "H977"
-      ],
-      [
         " to all the living",
         "H2416"
       ],
       [
-        " there is hope:",
-        "H986"
+        " there is hope",
+        "H0986"
       ],
       [
-        " for a living",
+        ": for a living",
         "H2416"
       ],
       [
@@ -4973,7 +6907,11 @@
         "H4191"
       ],
       [
-        " lion.",
+        " lion",
+        "H0738"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -4987,11 +6925,11 @@
         "H3045"
       ],
       [
-        " that they shall die:",
+        " that they shall die",
         "H4191"
       ],
       [
-        " but the dead",
+        ": but the dead",
         "H4191"
       ],
       [
@@ -4999,45 +6937,49 @@
         "H3045"
       ],
       [
-        " not any thing,",
+        " not any thing",
         "H3972"
       ],
       [
-        " neither have they any more a reward;",
+        ", neither have they any more a reward",
         "H7939"
       ],
       [
-        " for the memory",
+        "; for the memory",
         "H2143"
       ],
       [
-        " of them is forgotten.",
+        " of them is forgotten",
+        "H7911"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ecclesiastes|9|6": [
       [
-        "Also their love,",
-        "H160"
+        "Also their love",
+        "H0160"
       ],
       [
-        " and their hatred,",
+        ", and their hatred",
         "H8135"
       ],
       [
-        " and their envy,",
+        ", and their envy",
         "H7068"
       ],
       [
-        " is now",
+        ", is now",
         "H3528"
       ],
       [
-        " perished;",
-        "H6"
+        " perished",
+        "H0006"
       ],
       [
-        " neither have they any more a portion",
+        "; neither have they any more a portion",
         "H2506"
       ],
       [
@@ -5049,29 +6991,33 @@
         "H6213"
       ],
       [
-        " under the sun.",
+        " under the sun",
+        "H8121"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ecclesiastes|9|7": [
       [
-        "Go thy way,",
+        "Go thy way",
         "H3212"
       ],
       [
-        " eat",
-        "H398"
+        ", eat",
+        "H0398"
       ],
       [
         " thy bread",
         "H3899"
       ],
       [
-        " with joy,",
+        " with joy",
         "H8057"
       ],
       [
-        " and drink",
+        ", and drink",
         "H8354"
       ],
       [
@@ -5083,12 +7029,12 @@
         "H2896"
       ],
       [
-        " heart;",
+        " heart",
         "H3820"
       ],
       [
-        " for God",
-        "H430"
+        "; for God",
+        "H0430"
       ],
       [
         " now",
@@ -5099,25 +7045,29 @@
         "H7521"
       ],
       [
-        " thy works.",
+        " thy works",
+        "H4639"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ecclesiastes|9|8": [
       [
         "Let thy garments",
-        "H899"
+        "H0899"
       ],
       [
         " be always",
         "H6256"
       ],
       [
-        " white;",
+        " white",
         "H3836"
       ],
       [
-        " and let thy head",
+        "; and let thy head",
         "H7218"
       ],
       [
@@ -5125,7 +7075,11 @@
         "H2637"
       ],
       [
-        " no ointment.",
+        " no ointment",
+        "H8081"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -5140,11 +7094,11 @@
       ],
       [
         " with the wife",
-        "H802"
+        "H0802"
       ],
       [
         " whom thou lovest",
-        "H157"
+        "H0157"
       ],
       [
         " all the days",
@@ -5155,35 +7109,35 @@
         "H2416"
       ],
       [
-        " of thy vanity,",
+        " of thy vanity",
         "H1892"
       ],
       [
-        " which he hath given",
+        ", which he hath given",
         "H5414"
       ],
       [
-        " thee under the sun,",
+        " thee under the sun",
         "H8121"
       ],
       [
-        " all the days",
+        ", all the days",
         "H3117"
       ],
       [
-        " of thy vanity:",
+        " of thy vanity",
         "H1892"
       ],
       [
-        " for that is thy portion",
+        ": for that is thy portion",
         "H2506"
       ],
       [
-        " in this life,",
+        " in this life",
         "H2416"
       ],
       [
-        " and in thy labour",
+        ", and in thy labour",
         "H5999"
       ],
       [
@@ -5191,7 +7145,11 @@
         "H6001"
       ],
       [
-        " under the sun.",
+        " under the sun",
+        "H8121"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -5205,39 +7163,267 @@
         "H4672"
       ],
       [
-        " to do,",
+        " to do",
         "H6213"
       ],
       [
-        " do",
+        ", do",
         "H6213"
       ],
       [
-        " it with thy might;",
+        " it with thy might",
         "H3581"
       ],
       [
-        " for there is no work,",
+        "; for there is no work",
         "H4639"
       ],
       [
-        " nor device,",
+        ", nor device",
         "H2808"
       ],
       [
-        " nor knowledge,",
+        ", nor knowledge",
         "H1847"
       ],
       [
-        " nor wisdom,",
+        ", nor wisdom",
         "H2451"
       ],
       [
-        " in the grave,",
+        ", in the grave",
         "H7585"
       ],
       [
-        " whither thou goest.",
+        ", whither thou goest",
+        "H1980"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|9|11": [
+      [
+        "I returned",
+        "H7725"
+      ],
+      [
+        ", and saw",
+        "H7200"
+      ],
+      [
+        " under the sun",
+        "H8121"
+      ],
+      [
+        ", that the race",
+        "H4793"
+      ],
+      [
+        " is not to the swift",
+        "H7031"
+      ],
+      [
+        ", nor the battle",
+        "H4421"
+      ],
+      [
+        " to the strong",
+        "H1368"
+      ],
+      [
+        ", neither yet bread",
+        "H3899"
+      ],
+      [
+        " to the wise",
+        "H2450"
+      ],
+      [
+        ", nor yet riches",
+        "H6239"
+      ],
+      [
+        " to men of understanding",
+        "H0995"
+      ],
+      [
+        ", nor yet favour",
+        "H2580"
+      ],
+      [
+        " to men of skill",
+        "H3045"
+      ],
+      [
+        "; but time",
+        "H6256"
+      ],
+      [
+        " and chance",
+        "H6294"
+      ],
+      [
+        " happeneth",
+        "H7136"
+      ],
+      [
+        " to them all.",
+        null
+      ]
+    ],
+    "Ecclesiastes|9|12": [
+      [
+        "For man",
+        "H0120"
+      ],
+      [
+        " also knoweth",
+        "H3045"
+      ],
+      [
+        " not his time",
+        "H6256"
+      ],
+      [
+        ": as the fishes",
+        "H1709"
+      ],
+      [
+        " that are taken",
+        "H0270"
+      ],
+      [
+        " in an evil",
+        "H7451"
+      ],
+      [
+        " net",
+        "H4685"
+      ],
+      [
+        ", and as the birds",
+        "H6833"
+      ],
+      [
+        " that are caught",
+        "H0270"
+      ],
+      [
+        " in the snare",
+        "H6341"
+      ],
+      [
+        "; so",
+        "H1992"
+      ],
+      [
+        " are the sons",
+        "H1121"
+      ],
+      [
+        " of men",
+        "H0120"
+      ],
+      [
+        " snared",
+        "H3369"
+      ],
+      [
+        " in an evil",
+        "H7451"
+      ],
+      [
+        " time",
+        "H6256"
+      ],
+      [
+        ", when it falleth",
+        "H5307"
+      ],
+      [
+        " suddenly",
+        "H6597"
+      ],
+      [
+        " upon them.",
+        null
+      ]
+    ],
+    "Ecclesiastes|9|13": [
+      [
+        "This",
+        "H2090"
+      ],
+      [
+        " wisdom",
+        "H2451"
+      ],
+      [
+        " have I seen",
+        "H7200"
+      ],
+      [
+        " also under the sun",
+        "H8121"
+      ],
+      [
+        ", and it seemed great",
+        "H1419"
+      ],
+      [
+        " unto me:",
+        null
+      ]
+    ],
+    "Ecclesiastes|9|14": [
+      [
+        "There was a little",
+        "H6996"
+      ],
+      [
+        " city",
+        "H5892"
+      ],
+      [
+        ", and few",
+        "H4592"
+      ],
+      [
+        " men",
+        "H0582"
+      ],
+      [
+        " within it; and there came",
+        "H0935"
+      ],
+      [
+        " a great",
+        "H1419"
+      ],
+      [
+        " king",
+        "H4428"
+      ],
+      [
+        " against it, and besieged",
+        "H5437"
+      ],
+      [
+        " it, and built",
+        "H1129"
+      ],
+      [
+        " great",
+        "H1419"
+      ],
+      [
+        " bulwarks",
+        "H4685"
+      ],
+      [
+        " against it:",
         null
       ]
     ],
@@ -5255,11 +7441,11 @@
         "H2450"
       ],
       [
-        " man,",
-        "H376"
+        " man",
+        "H0376"
       ],
       [
-        " and he by his wisdom",
+        ", and he by his wisdom",
         "H2451"
       ],
       [
@@ -5267,12 +7453,12 @@
         "H4422"
       ],
       [
-        " the city;",
+        " the city",
         "H5892"
       ],
       [
-        " yet no man",
-        "H120"
+        "; yet no man",
+        "H0120"
       ],
       [
         " remembered",
@@ -5283,14 +7469,18 @@
         "H4542"
       ],
       [
-        " man.",
+        " man",
+        "H0376"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ecclesiastes|9|16": [
       [
         "Then said",
-        "H559"
+        "H0559"
       ],
       [
         " I, Wisdom",
@@ -5301,11 +7491,11 @@
         "H2896"
       ],
       [
-        " than strength:",
+        " than strength",
         "H1369"
       ],
       [
-        " nevertheless the poor man's",
+        ": nevertheless the poor man's",
         "H4542"
       ],
       [
@@ -5313,15 +7503,19 @@
         "H2451"
       ],
       [
-        " is despised,",
-        "H959"
+        " is despised",
+        "H0959"
       ],
       [
-        " and his words",
+        ", and his words",
         "H1697"
       ],
       [
-        " are not heard.",
+        " are not heard",
+        "H8085"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -5351,7 +7545,11 @@
         "H4910"
       ],
       [
-        " among fools.",
+        " among fools",
+        "H3684"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -5369,12 +7567,12 @@
         "H3627"
       ],
       [
-        " of war:",
+        " of war",
         "H7128"
       ],
       [
-        " but one",
-        "H259"
+        ": but one",
+        "H0259"
       ],
       [
         " sinner",
@@ -5382,14 +7580,18 @@
       ],
       [
         " destroyeth",
-        "H6"
+        "H0006"
       ],
       [
         " much",
         "H7235"
       ],
       [
-        " good.",
+        " good",
+        "H2896"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -5415,11 +7617,11 @@
         "H5042"
       ],
       [
-        " a stinking savour:",
-        "H887"
+        " a stinking savour",
+        "H0887"
       ],
       [
-        " so doth a little",
+        ": so doth a little",
         "H4592"
       ],
       [
@@ -5435,7 +7637,11 @@
         "H2451"
       ],
       [
-        " and honour.",
+        " and honour",
+        "H3519"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -5449,11 +7655,11 @@
         "H3820"
       ],
       [
-        " is at his right hand;",
+        " is at his right hand",
         "H3225"
       ],
       [
-        " but a fool's",
+        "; but a fool's",
         "H3684"
       ],
       [
@@ -5461,7 +7667,11 @@
         "H3820"
       ],
       [
-        " at his left.",
+        " at his left",
+        "H8040"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -5475,11 +7685,11 @@
         "H1980"
       ],
       [
-        " by the way,",
+        " by the way",
         "H1870"
       ],
       [
-        " his wisdom",
+        ", his wisdom",
         "H3820"
       ],
       [
@@ -5488,10 +7698,14 @@
       ],
       [
         " him, and he saith",
-        "H559"
+        "H0559"
       ],
       [
-        " to every one that he is a fool.",
+        " to every one that he is a fool",
+        "H5530"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -5513,11 +7727,11 @@
         "H3240"
       ],
       [
-        " not thy place;",
+        " not thy place",
         "H4725"
       ],
       [
-        " for yielding",
+        "; for yielding",
         "H4832"
       ],
       [
@@ -5529,7 +7743,11 @@
         "H1419"
       ],
       [
-        " offences.",
+        " offences",
+        "H2399"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -5547,11 +7765,11 @@
         "H7200"
       ],
       [
-        " under the sun,",
+        " under the sun",
         "H8121"
       ],
       [
-        " as an error",
+        ", as an error",
         "H7684"
       ],
       [
@@ -5563,7 +7781,11 @@
         "H6440"
       ],
       [
-        " the ruler:",
+        " the ruler",
+        "H7989"
+      ],
+      [
+        ":",
         null
       ]
     ],
@@ -5581,11 +7803,11 @@
         "H7227"
       ],
       [
-        " dignity,",
+        " dignity",
         "H4791"
       ],
       [
-        " and the rich",
+        ", and the rich",
         "H6223"
       ],
       [
@@ -5593,7 +7815,11 @@
         "H3427"
       ],
       [
-        " in low place.",
+        " in low place",
+        "H8216"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -5607,11 +7833,11 @@
         "H5650"
       ],
       [
-        " upon horses,",
+        " upon horses",
         "H5483"
       ],
       [
-        " and princes",
+        ", and princes",
         "H8269"
       ],
       [
@@ -5623,7 +7849,75 @@
         "H5650"
       ],
       [
-        " upon the earth.",
+        " upon the earth",
+        "H0776"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|10|8": [
+      [
+        "He that diggeth",
+        "H2658"
+      ],
+      [
+        " a pit",
+        "H1475"
+      ],
+      [
+        " shall fall",
+        "H5307"
+      ],
+      [
+        " into it; and whoso breaketh",
+        "H6555"
+      ],
+      [
+        " an hedge",
+        "H1447"
+      ],
+      [
+        ", a serpent",
+        "H5175"
+      ],
+      [
+        " shall bite",
+        "H5391"
+      ],
+      [
+        " him.",
+        null
+      ]
+    ],
+    "Ecclesiastes|10|9": [
+      [
+        "Whoso removeth",
+        "H5265"
+      ],
+      [
+        " stones",
+        "H0068"
+      ],
+      [
+        " shall be hurt",
+        "H6087"
+      ],
+      [
+        " therewith; and he that cleaveth",
+        "H1234"
+      ],
+      [
+        " wood",
+        "H6086"
+      ],
+      [
+        " shall be endangered",
+        "H5533"
+      ],
+      [
+        " thereby.",
         null
       ]
     ],
@@ -5633,27 +7927,27 @@
         "H1270"
       ],
       [
-        " be blunt,",
+        " be blunt",
         "H6949"
       ],
       [
-        " and he do not whet",
+        ", and he do not whet",
         "H7043"
       ],
       [
-        " the edge,",
+        " the edge",
         "H6440"
       ],
       [
-        " then must he put",
+        ", then must he put",
         "H1396"
       ],
       [
-        " to more strength:",
+        " to more strength",
         "H2428"
       ],
       [
-        " but wisdom",
+        ": but wisdom",
         "H2451"
       ],
       [
@@ -5661,7 +7955,11 @@
         "H3504"
       ],
       [
-        " to direct.",
+        " to direct",
+        "H3787"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -5675,19 +7973,53 @@
         "H5391"
       ],
       [
-        " without enchantment;",
+        " without enchantment",
         "H3908"
       ],
       [
-        " and a babbler",
+        "; and a babbler",
         "H3956"
       ],
       [
-        "",
-        "H1167"
+        " is no better",
+        "H3504"
       ],
       [
-        " is no better.",
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|10|12": [
+      [
+        "The words",
+        "H1697"
+      ],
+      [
+        " of a wise man's",
+        "H2450"
+      ],
+      [
+        " mouth",
+        "H6310"
+      ],
+      [
+        " are gracious",
+        "H2580"
+      ],
+      [
+        "; but the lips",
+        "H8193"
+      ],
+      [
+        " of a fool",
+        "H3684"
+      ],
+      [
+        " will swallow up",
+        "H1104"
+      ],
+      [
+        " himself.",
         null
       ]
     ],
@@ -5705,12 +8037,12 @@
         "H6310"
       ],
       [
-        " is foolishness:",
+        " is foolishness",
         "H5531"
       ],
       [
-        " and the end",
-        "H319"
+        ": and the end",
+        "H0319"
       ],
       [
         " of his talk",
@@ -5721,7 +8053,45 @@
         "H7451"
       ],
       [
-        " madness.",
+        " madness",
+        "H1948"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|10|14": [
+      [
+        "A fool",
+        "H5530"
+      ],
+      [
+        " also is full",
+        "H7235"
+      ],
+      [
+        " of words",
+        "H1697"
+      ],
+      [
+        ": a man",
+        "H0120"
+      ],
+      [
+        " cannot tell",
+        "H3045"
+      ],
+      [
+        " what shall be; and what shall be after",
+        "H0310"
+      ],
+      [
+        " him, who can tell",
+        "H5046"
+      ],
+      [
+        " him?",
         null
       ]
     ],
@@ -5747,51 +8117,59 @@
         "H3212"
       ],
       [
-        " to the city.",
+        " to the city",
+        "H5892"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ecclesiastes|10|16": [
       [
         "Woe",
-        "H337"
+        "H0337"
       ],
       [
-        " to thee, O land,",
-        "H776"
+        " to thee, O land",
+        "H0776"
       ],
       [
-        " when thy king",
+        ", when thy king",
         "H4428"
       ],
       [
-        " is a child,",
+        " is a child",
         "H5288"
       ],
       [
-        " and thy princes",
+        ", and thy princes",
         "H8269"
       ],
       [
         " eat",
-        "H398"
+        "H0398"
       ],
       [
-        " in the morning!",
+        " in the morning",
+        "H1242"
+      ],
+      [
+        "!",
         null
       ]
     ],
     "Ecclesiastes|10|17": [
       [
         "Blessed",
-        "H835"
+        "H0835"
       ],
       [
-        " art thou, O land,",
-        "H776"
+        " art thou, O land",
+        "H0776"
       ],
       [
-        " when thy king",
+        ", when thy king",
         "H4428"
       ],
       [
@@ -5799,27 +8177,31 @@
         "H1121"
       ],
       [
-        " of nobles,",
+        " of nobles",
         "H2715"
       ],
       [
-        " and thy princes",
+        ", and thy princes",
         "H8269"
       ],
       [
         " eat",
-        "H398"
+        "H0398"
       ],
       [
-        " in due season,",
+        " in due season",
         "H6256"
       ],
       [
-        " for strength,",
+        ", for strength",
         "H1369"
       ],
       [
-        " and not for drunkenness!",
+        ", and not for drunkenness",
+        "H8358"
+      ],
+      [
+        "!",
         null
       ]
     ],
@@ -5833,11 +8215,11 @@
         "H4746"
       ],
       [
-        " decayeth;",
+        " decayeth",
         "H4355"
       ],
       [
-        " and through idleness",
+        "; and through idleness",
         "H8220"
       ],
       [
@@ -5849,7 +8231,45 @@
         "H1004"
       ],
       [
-        " droppeth through.",
+        " droppeth through",
+        "H1811"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|10|19": [
+      [
+        "A feast",
+        "H3899"
+      ],
+      [
+        " is made",
+        "H6213"
+      ],
+      [
+        " for laughter",
+        "H7814"
+      ],
+      [
+        ", and wine",
+        "H3196"
+      ],
+      [
+        " maketh merry",
+        "H8055"
+      ],
+      [
+        ": but money",
+        "H3701"
+      ],
+      [
+        " answereth",
+        "H6030"
+      ],
+      [
+        " all things.",
         null
       ]
     ],
@@ -5859,15 +8279,15 @@
         "H7043"
       ],
       [
-        " not the king,",
+        " not the king",
         "H4428"
       ],
       [
-        " no not in thy thought;",
+        ", no not in thy thought",
         "H4093"
       ],
       [
-        " and curse",
+        "; and curse",
         "H7043"
       ],
       [
@@ -5875,15 +8295,11 @@
         "H6223"
       ],
       [
-        " in thy bedchamber:",
+        " in thy bedchamber",
         "H2315"
       ],
       [
-        "",
-        "H4904"
-      ],
-      [
-        " for a bird",
+        ": for a bird",
         "H5775"
       ],
       [
@@ -5895,11 +8311,11 @@
         "H3212"
       ],
       [
-        " the voice,",
+        " the voice",
         "H6963"
       ],
       [
-        " and that which hath",
+        ", and that which hath",
         "H1167"
       ],
       [
@@ -5911,7 +8327,11 @@
         "H5046"
       ],
       [
-        " the matter.",
+        " the matter",
+        "H1697"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -5929,11 +8349,11 @@
         "H6440"
       ],
       [
-        " the waters:",
+        " the waters",
         "H4325"
       ],
       [
-        " for thou shalt find",
+        ": for thou shalt find",
         "H4672"
       ],
       [
@@ -5941,7 +8361,11 @@
         "H7230"
       ],
       [
-        " days.",
+        " days",
+        "H3117"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -5955,15 +8379,15 @@
         "H2506"
       ],
       [
-        " to seven,",
+        " to seven",
         "H7651"
       ],
       [
-        " and also to eight;",
+        ", and also to eight",
         "H8083"
       ],
       [
-        " for thou knowest",
+        "; for thou knowest",
         "H3045"
       ],
       [
@@ -5971,7 +8395,11 @@
         "H7451"
       ],
       [
-        " shall be upon the earth.",
+        " shall be upon the earth",
+        "H0776"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -5985,19 +8413,19 @@
         "H4390"
       ],
       [
-        " of rain,",
+        " of rain",
         "H1653"
       ],
       [
-        " they empty",
+        ", they empty",
         "H7324"
       ],
       [
-        " themselves upon the earth:",
-        "H776"
+        " themselves upon the earth",
+        "H0776"
       ],
       [
-        " and if the tree",
+        ": and if the tree",
         "H6086"
       ],
       [
@@ -6005,15 +8433,15 @@
         "H5307"
       ],
       [
-        " toward the south,",
+        " toward the south",
         "H1864"
       ],
       [
-        " or toward the north,",
+        ", or toward the north",
         "H6828"
       ],
       [
-        " in the place",
+        ", in the place",
         "H4725"
       ],
       [
@@ -6021,11 +8449,15 @@
         "H6086"
       ],
       [
-        " falleth,",
+        " falleth",
         "H5307"
       ],
       [
-        " there it shall be.",
+        ", there it shall be",
+        "H1933"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -6039,11 +8471,11 @@
         "H7307"
       ],
       [
-        " shall not sow;",
+        " shall not sow",
         "H2232"
       ],
       [
-        " and he that regardeth",
+        "; and he that regardeth",
         "H7200"
       ],
       [
@@ -6051,7 +8483,57 @@
         "H5645"
       ],
       [
-        " shall not reap.",
+        " shall not reap",
+        "H7114"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|11|5": [
+      [
+        "As thou knowest",
+        "H3045"
+      ],
+      [
+        " not what is the way",
+        "H1870"
+      ],
+      [
+        " of the spirit",
+        "H7307"
+      ],
+      [
+        ", nor how the bones",
+        "H6106"
+      ],
+      [
+        " do grow in the womb",
+        "H0990"
+      ],
+      [
+        " of her that is with child",
+        "H4392"
+      ],
+      [
+        ": even so thou knowest",
+        "H3045"
+      ],
+      [
+        " not the works",
+        "H4639"
+      ],
+      [
+        " of God",
+        "H0430"
+      ],
+      [
+        " who maketh",
+        "H6213"
+      ],
+      [
+        " all.",
         null
       ]
     ],
@@ -6065,11 +8547,11 @@
         "H2232"
       ],
       [
-        " thy seed,",
+        " thy seed",
         "H2233"
       ],
       [
-        " and in the evening",
+        ", and in the evening",
         "H6153"
       ],
       [
@@ -6077,45 +8559,49 @@
         "H3240"
       ],
       [
-        " not thine hand:",
+        " not thine hand",
         "H3027"
       ],
       [
-        " for thou knowest",
+        ": for thou knowest",
         "H3045"
       ],
       [
         " not whether",
-        "H335"
+        "H0335"
       ],
       [
-        " shall prosper,",
+        " shall prosper",
         "H3787"
       ],
       [
-        " either this or that, or whether they both",
+        ", either this or that, or whether they both",
         "H8147"
       ],
       [
         " shall be alike",
-        "H259"
+        "H0259"
       ],
       [
-        " good.",
+        " good",
+        "H2896"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ecclesiastes|11|7": [
       [
         "Truly the light",
-        "H216"
+        "H0216"
       ],
       [
-        " is sweet,",
+        " is sweet",
         "H4966"
       ],
       [
-        " and a pleasant",
+        ", and a pleasant",
         "H2896"
       ],
       [
@@ -6127,14 +8613,18 @@
         "H7200"
       ],
       [
-        " the sun:",
+        " the sun",
+        "H8121"
+      ],
+      [
+        ":",
         null
       ]
     ],
     "Ecclesiastes|11|8": [
       [
         "But if a man",
-        "H120"
+        "H0120"
       ],
       [
         " live",
@@ -6145,11 +8635,11 @@
         "H7235"
       ],
       [
-        " years,",
+        " years",
         "H8141"
       ],
       [
-        " and rejoice",
+        ", and rejoice",
         "H8055"
       ],
       [
@@ -6161,37 +8651,41 @@
         "H3117"
       ],
       [
-        " of darkness;",
+        " of darkness",
         "H2822"
       ],
       [
-        " for they shall be many.",
+        "; for they shall be many",
         "H7235"
       ],
       [
-        " All that cometh",
-        "H935"
+        ". All that cometh",
+        "H0935"
       ],
       [
-        " is vanity.",
+        " is vanity",
+        "H1892"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ecclesiastes|11|9": [
       [
-        "Rejoice,",
+        "Rejoice",
         "H8055"
       ],
       [
-        " O young man,",
-        "H970"
+        ", O young man",
+        "H0970"
       ],
       [
-        " in thy youth;",
+        ", in thy youth",
         "H3208"
       ],
       [
-        " and let thy heart",
+        "; and let thy heart",
         "H3820"
       ],
       [
@@ -6203,11 +8697,11 @@
         "H3117"
       ],
       [
-        " of thy youth,",
-        "H979"
+        " of thy youth",
+        "H0979"
       ],
       [
-        " and walk",
+        ", and walk",
         "H1980"
       ],
       [
@@ -6215,31 +8709,35 @@
         "H1870"
       ],
       [
-        " of thine heart,",
+        " of thine heart",
         "H3820"
       ],
       [
-        " and in the sight",
+        ", and in the sight",
         "H4758"
       ],
       [
-        " of thine eyes:",
+        " of thine eyes",
         "H5869"
       ],
       [
-        " but know",
+        ": but know",
         "H3045"
       ],
       [
         " thou, that for all these things God",
-        "H430"
+        "H0430"
       ],
       [
         " will bring",
-        "H935"
+        "H0935"
       ],
       [
-        " thee into judgment.",
+        " thee into judgment",
+        "H4941"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -6253,11 +8751,11 @@
         "H3708"
       ],
       [
-        " from thy heart,",
+        " from thy heart",
         "H3820"
       ],
       [
-        " and put away",
+        ", and put away",
         "H5674"
       ],
       [
@@ -6265,11 +8763,11 @@
         "H7451"
       ],
       [
-        " from thy flesh:",
+        " from thy flesh",
         "H1320"
       ],
       [
-        " for childhood",
+        ": for childhood",
         "H3208"
       ],
       [
@@ -6277,33 +8775,87 @@
         "H7839"
       ],
       [
-        " are vanity.",
+        " are vanity",
+        "H1892"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|12|1": [
+      [
+        "Remember",
+        "H2142"
+      ],
+      [
+        " now thy Creator",
+        "H1254"
+      ],
+      [
+        " in the days",
+        "H3117"
+      ],
+      [
+        " of thy youth",
+        "H0979"
+      ],
+      [
+        ", while the evil",
+        "H7451"
+      ],
+      [
+        " days",
+        "H3117"
+      ],
+      [
+        " come",
+        "H0935"
+      ],
+      [
+        " not, nor the years",
+        "H8141"
+      ],
+      [
+        " draw nigh",
+        "H5060"
+      ],
+      [
+        ", when thou shalt say",
+        "H0559"
+      ],
+      [
+        ", I have no pleasure",
+        "H2656"
+      ],
+      [
+        " in them;",
         null
       ]
     ],
     "Ecclesiastes|12|2": [
       [
-        "While the sun,",
+        "While the sun",
         "H8121"
       ],
       [
-        " or the light,",
-        "H216"
+        ", or the light",
+        "H0216"
       ],
       [
-        " or the moon,",
+        ", or the moon",
         "H3394"
       ],
       [
-        " or the stars,",
+        ", or the stars",
         "H3556"
       ],
       [
-        " be not darkened,",
+        ", be not darkened",
         "H2821"
       ],
       [
-        " nor the clouds",
+        ", nor the clouds",
         "H5645"
       ],
       [
@@ -6312,10 +8864,14 @@
       ],
       [
         " after",
-        "H310"
+        "H0310"
       ],
       [
-        " the rain:",
+        " the rain",
+        "H1653"
+      ],
+      [
+        ":",
         null
       ]
     ],
@@ -6333,16 +8889,16 @@
         "H1004"
       ],
       [
-        " shall tremble,",
+        " shall tremble",
         "H2111"
       ],
       [
-        " and the strong",
+        ", and the strong",
         "H2428"
       ],
       [
         " men",
-        "H582"
+        "H0582"
       ],
       [
         " shall bow",
@@ -6354,22 +8910,26 @@
       ],
       [
         " cease",
-        "H988"
+        "H0988"
       ],
       [
-        " because they are few,",
+        " because they are few",
         "H4591"
       ],
       [
-        " and those that look out",
+        ", and those that look out",
         "H7200"
       ],
       [
         " of the windows",
-        "H699"
+        "H0699"
       ],
       [
-        " be darkened,",
+        " be darkened",
+        "H2821"
+      ],
+      [
+        ",",
         null
       ]
     ],
@@ -6383,11 +8943,11 @@
         "H5462"
       ],
       [
-        " in the streets,",
+        " in the streets",
         "H7784"
       ],
       [
-        " when the sound",
+        ", when the sound",
         "H6963"
       ],
       [
@@ -6395,11 +8955,11 @@
         "H2913"
       ],
       [
-        " is low,",
+        " is low",
         "H8217"
       ],
       [
-        " and he shall rise up",
+        ", and he shall rise up",
         "H6965"
       ],
       [
@@ -6407,11 +8967,11 @@
         "H6963"
       ],
       [
-        " of the bird,",
+        " of the bird",
         "H6833"
       ],
       [
-        " and all the daughters",
+        ", and all the daughters",
         "H1323"
       ],
       [
@@ -6419,7 +8979,11 @@
         "H7892"
       ],
       [
-        " shall be brought low;",
+        " shall be brought low",
+        "H7817"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -6429,44 +8993,44 @@
         "H3372"
       ],
       [
-        " of that which is high,",
+        " of that which is high",
         "H1364"
       ],
       [
-        " and fears",
+        ", and fears",
         "H2849"
       ],
       [
-        " shall be in the way,",
+        " shall be in the way",
         "H1870"
       ],
       [
-        " and the almond tree",
+        ", and the almond tree",
         "H8247"
       ],
       [
-        " shall flourish,",
+        " shall flourish",
         "H5006"
       ],
       [
-        " and the grasshopper",
+        ", and the grasshopper",
         "H2284"
       ],
       [
-        " shall be a burden,",
+        " shall be a burden",
         "H5445"
       ],
       [
-        " and desire",
-        "H35"
+        ", and desire",
+        "H0035"
       ],
       [
-        " shall fail:",
+        " shall fail",
         "H6565"
       ],
       [
-        " because man",
-        "H120"
+        ": because man",
+        "H0120"
       ],
       [
         " goeth",
@@ -6477,11 +9041,11 @@
         "H5769"
       ],
       [
-        " home,",
+        " home",
         "H1004"
       ],
       [
-        " and the mourners",
+        ", and the mourners",
         "H5594"
       ],
       [
@@ -6489,7 +9053,11 @@
         "H5437"
       ],
       [
-        " the streets:",
+        " the streets",
+        "H7784"
+      ],
+      [
+        ":",
         null
       ]
     ],
@@ -6507,15 +9075,11 @@
         "H2256"
       ],
       [
-        " be loosed,",
+        " be loosed",
         "H7576"
       ],
       [
-        "",
-        "H7368"
-      ],
-      [
-        " or the golden",
+        ", or the golden",
         "H2091"
       ],
       [
@@ -6523,11 +9087,11 @@
         "H1543"
       ],
       [
-        " be broken,",
+        " be broken",
         "H7533"
       ],
       [
-        " or the pitcher",
+        ", or the pitcher",
         "H3537"
       ],
       [
@@ -6535,11 +9099,11 @@
         "H7665"
       ],
       [
-        " at the fountain,",
+        " at the fountain",
         "H4002"
       ],
       [
-        " or the wheel",
+        ", or the wheel",
         "H1534"
       ],
       [
@@ -6547,7 +9111,45 @@
         "H7533"
       ],
       [
-        " at the cistern.",
+        " at the cistern",
+        "H0953"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Ecclesiastes|12|7": [
+      [
+        "Then shall the dust",
+        "H6083"
+      ],
+      [
+        " return",
+        "H7725"
+      ],
+      [
+        " to the earth",
+        "H0776"
+      ],
+      [
+        " as it was: and the spirit",
+        "H7307"
+      ],
+      [
+        " shall return",
+        "H7725"
+      ],
+      [
+        " unto God",
+        "H0430"
+      ],
+      [
+        " who gave",
+        "H5414"
+      ],
+      [
+        " it.",
         null
       ]
     ],
@@ -6557,37 +9159,41 @@
         "H1892"
       ],
       [
-        " of vanities,",
+        " of vanities",
         "H1892"
       ],
       [
-        " saith",
-        "H559"
+        ", saith",
+        "H0559"
       ],
       [
-        " the preacher;",
+        " the preacher",
         "H6953"
       ],
       [
-        " all is vanity.",
+        "; all is vanity",
+        "H1892"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ecclesiastes|12|9": [
       [
-        "And moreover,",
+        "And moreover",
         "H3148"
       ],
       [
-        " because the preacher",
+        ", because the preacher",
         "H6953"
       ],
       [
-        " was wise,",
+        " was wise",
         "H2450"
       ],
       [
-        " he still taught",
+        ", he still taught",
         "H3925"
       ],
       [
@@ -6595,19 +9201,19 @@
         "H5971"
       ],
       [
-        " knowledge;",
+        " knowledge",
         "H1847"
       ],
       [
-        " yea, he gave good heed,",
-        "H239"
+        "; yea, he gave good heed",
+        "H0239"
       ],
       [
-        " and sought out,",
+        ", and sought out",
         "H2713"
       ],
       [
-        " and set in order",
+        ", and set in order",
         "H8626"
       ],
       [
@@ -6615,7 +9221,11 @@
         "H7235"
       ],
       [
-        " proverbs.",
+        " proverbs",
+        "H4912"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -6637,23 +9247,27 @@
         "H2656"
       ],
       [
-        " words:",
+        " words",
         "H1697"
       ],
       [
-        " and that which was written",
+        ": and that which was written",
         "H3789"
       ],
       [
-        " was upright,",
+        " was upright",
         "H3476"
       ],
       [
-        " even words",
+        ", even words",
         "H1697"
       ],
       [
-        " of truth.",
+        " of truth",
+        "H0571"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -6667,11 +9281,11 @@
         "H2450"
       ],
       [
-        " are as goads,",
+        " are as goads",
         "H1861"
       ],
       [
-        " and as nails",
+        ", and as nails",
         "H4930"
       ],
       [
@@ -6683,41 +9297,45 @@
         "H1167"
       ],
       [
-        " of assemblies,",
-        "H627"
+        " of assemblies",
+        "H0627"
       ],
       [
-        " which are given",
+        ", which are given",
         "H5414"
       ],
       [
         " from one",
-        "H259"
+        "H0259"
       ],
       [
-        " shepherd.",
+        " shepherd",
+        "H7462"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ecclesiastes|12|12": [
       [
-        "And further,",
+        "And further",
         "H3148"
       ],
       [
-        " by these,",
+        ", by these",
         "H1992"
       ],
       [
-        " my son,",
+        ", my son",
         "H1121"
       ],
       [
-        " be admonished:",
+        ", be admonished",
         "H2094"
       ],
       [
-        " of making",
+        ": of making",
         "H6213"
       ],
       [
@@ -6729,11 +9347,11 @@
         "H5612"
       ],
       [
-        " there is no end;",
+        " there is no end",
         "H7093"
       ],
       [
-        " and much",
+        "; and much",
         "H7235"
       ],
       [
@@ -6745,7 +9363,11 @@
         "H3024"
       ],
       [
-        " of the flesh.",
+        " of the flesh",
+        "H1320"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -6759,57 +9381,65 @@
         "H5490"
       ],
       [
-        " of the whole matter:",
+        " of the whole matter",
         "H1697"
       ],
       [
-        " Fear",
+        ": Fear",
         "H3372"
       ],
       [
-        " God,",
-        "H430"
+        " God",
+        "H0430"
       ],
       [
-        " and keep",
+        ", and keep",
         "H8104"
       ],
       [
-        " his commandments:",
+        " his commandments",
         "H4687"
       ],
       [
-        " for this is the whole duty of man.",
+        ": for this is the whole duty of man",
+        "H0120"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Ecclesiastes|12|14": [
       [
         "For God",
-        "H430"
+        "H0430"
       ],
       [
         " shall bring",
-        "H935"
+        "H0935"
       ],
       [
         " every work",
         "H4639"
       ],
       [
-        " into judgment,",
+        " into judgment",
         "H4941"
       ],
       [
-        " with every secret thing,",
+        ", with every secret thing",
         "H5956"
       ],
       [
-        " whether it be good,",
+        ", whether it be good",
         "H2896"
       ],
       [
-        " or whether it be evil.",
+        ", or whether it be evil",
+        "H7451"
+      ],
+      [
+        ".",
         null
       ]
     ]

@@ -212,9 +212,9 @@ for (let bookIndex = 0; bookIndex < manifest.books.length; bookIndex++) {
 
 if (
   stats.books !== 66 ||
-  stats.canonical !== 31100 ||
-  stats.aligned !== 26926 ||
-  stats.standardFallback !== 4174
+  stats.canonical !== 31102 ||
+  stats.aligned !== 31102 ||
+  stats.standardFallback !== 0
 ) {
   failures.push(
     "Full-Bible totals differ from the verified manifest totals"
@@ -239,6 +239,6 @@ if (failures.length) {
   process.exit(1);
 }
 
-console.log("\nPASS: all 66 books and 31,100 verses verified.");
+console.log("\nPASS: all 66 books and 31,102 verses verified.");
 console.log("PASS: no standard wording replaced custom wording.");
 console.log("PASS: all fallback paths were explicit and safe.");

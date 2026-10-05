@@ -5,12 +5,12 @@
   "verses": {
     "1 Timothy|1|1": [
       [
-        "Paul,",
+        "Paul",
         "G3972"
       ],
       [
-        " an apostle",
-        "G652"
+        ", an apostle",
+        "G0652"
       ],
       [
         " of Jesus",
@@ -37,11 +37,11 @@
         "G2257"
       ],
       [
-        " Saviour,",
+        " Saviour",
         "G4990"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -53,29 +53,29 @@
         "G2424"
       ],
       [
-        " Christ,",
+        " Christ",
         "G5547"
       ],
       [
-        " which",
-        "G3588"
-      ],
-      [
-        " is our",
+        ", which is our",
         "G2257"
       ],
       [
-        " hope;",
+        " hope",
         "G1680"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Timothy|1|2": [
       [
-        "Unto Timothy,",
+        "Unto Timothy",
         "G5095"
       ],
       [
-        " my own",
+        ", my own",
         "G1103"
       ],
       [
@@ -87,24 +87,24 @@
         "G1722"
       ],
       [
-        " the faith:",
+        " the faith",
         "G4102"
       ],
       [
-        " Grace,",
+        ": Grace",
         "G5485"
       ],
       [
-        " mercy,",
+        ", mercy",
         "G1656"
       ],
       [
-        " and peace,",
+        ", and peace",
         "G1515"
       ],
       [
-        " from",
-        "G575"
+        ", from",
+        "G0575"
       ],
       [
         " God",
@@ -135,8 +135,78 @@
         "G2257"
       ],
       [
-        " Lord.",
+        " Lord",
         "G2962"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|1|3": [
+      [
+        "As",
+        "G2531"
+      ],
+      [
+        " I besought",
+        "G3870"
+      ],
+      [
+        " thee",
+        "G4571"
+      ],
+      [
+        " to abide still",
+        "G4357"
+      ],
+      [
+        " at",
+        "G1722"
+      ],
+      [
+        " Ephesus",
+        "G2181"
+      ],
+      [
+        ", when I went",
+        "G4198"
+      ],
+      [
+        " into",
+        "G1519"
+      ],
+      [
+        " Macedonia",
+        "G3109"
+      ],
+      [
+        ", that",
+        "G2443"
+      ],
+      [
+        " thou mightest charge",
+        "G3853"
+      ],
+      [
+        " some",
+        "G5100"
+      ],
+      [
+        " that they teach",
+        "G2085"
+      ],
+      [
+        " no",
+        "G3361"
+      ],
+      [
+        " other doctrine",
+        "G2085"
+      ],
+      [
+        ",",
+        null
       ]
     ],
     "1 Timothy|1|4": [
@@ -145,11 +215,11 @@
         "G3366"
       ],
       [
-        " give heed",
+        " give heed to",
         "G4337"
       ],
       [
-        " to fables",
+        " fables",
         "G3454"
       ],
       [
@@ -158,14 +228,14 @@
       ],
       [
         " endless",
-        "G562"
+        "G0562"
       ],
       [
-        " genealogies,",
+        " genealogies",
         "G1076"
       ],
       [
-        " which",
+        ", which",
         "G3748"
       ],
       [
@@ -173,11 +243,11 @@
         "G3930"
       ],
       [
-        " questions,",
+        " questions",
         "G2214"
       ],
       [
-        " rather",
+        ", rather",
         "G3123"
       ],
       [
@@ -193,19 +263,19 @@
         "G3620"
       ],
       [
-        " which",
+        " which is",
         "G3588"
       ],
       [
-        " is in",
+        " in",
         "G1722"
       ],
       [
-        " faith:",
+        " faith",
         "G4102"
       ],
       [
-        " so do.",
+        ": so do.",
         null
       ]
     ],
@@ -228,7 +298,7 @@
       ],
       [
         " charity",
-        "G26"
+        "G0026"
       ],
       [
         " out of",
@@ -239,23 +309,23 @@
         "G2513"
       ],
       [
-        " heart,",
+        " heart",
         "G2588"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
         " of a good",
-        "G18"
+        "G0018"
       ],
       [
-        " conscience,",
+        " conscience",
         "G4893"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -263,8 +333,12 @@
         "G4102"
       ],
       [
-        " unfeigned:",
-        "G505"
+        " unfeigned",
+        "G0505"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "1 Timothy|1|6": [
@@ -278,7 +352,7 @@
       ],
       [
         " having swerved",
-        "G795"
+        "G0795"
       ],
       [
         " have turned aside",
@@ -289,8 +363,12 @@
         "G1519"
       ],
       [
-        " vain jangling;",
+        " vain jangling",
         "G3150"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Timothy|1|7": [
@@ -303,15 +381,11 @@
         "G1511"
       ],
       [
-        " teachers of the law;",
+        " teachers of the law",
         "G3547"
       ],
       [
-        "",
-        "G3361"
-      ],
-      [
-        " understanding",
+        "; understanding",
         "G3539"
       ],
       [
@@ -323,11 +397,11 @@
         "G3739"
       ],
       [
-        " they say,",
+        " they say",
         "G3004"
       ],
       [
-        " nor",
+        ", nor",
         "G3383"
       ],
       [
@@ -335,12 +409,12 @@
         "G4012"
       ],
       [
-        "",
-        "G5101"
+        " they affirm",
+        "G1226"
       ],
       [
-        " they affirm.",
-        "G1226"
+        ".",
+        null
       ]
     ],
     "1 Timothy|1|8": [
@@ -361,11 +435,11 @@
         "G3551"
       ],
       [
-        " is good,",
+        " is good",
         "G2570"
       ],
       [
-        " if",
+        ", if",
         "G1437"
       ],
       [
@@ -378,57 +452,209 @@
       ],
       [
         " it",
-        "G846"
+        "G0846"
       ],
       [
-        " lawfully;",
+        " lawfully",
         "G3545"
+      ],
+      [
+        ";",
+        null
       ]
     ],
-    "1 Timothy|1|10": [
+    "1 Timothy|1|9": [
       [
-        "For whoremongers,",
-        "G4205"
+        "Knowing",
+        "G1492"
       ],
       [
-        " for them that defile themselves with mankind,",
-        "G733"
+        " this",
+        "G5124"
       ],
       [
-        " for menstealers,",
-        "G405"
+        ", that",
+        "G3754"
       ],
       [
-        " for liars,",
-        "G5583"
+        " the law",
+        "G3551"
       ],
       [
-        " for perjured persons,",
-        "G1965"
+        " is",
+        "G2749"
+      ],
+      [
+        " not",
+        "G3756"
+      ],
+      [
+        " made for",
+        "G2749"
+      ],
+      [
+        " a righteous man",
+        "G1342"
+      ],
+      [
+        ", but",
+        "G1161"
+      ],
+      [
+        " for the lawless",
+        "G0459"
       ],
       [
         " and",
         "G2532"
       ],
       [
-        " if there be any",
-        "G1536"
+        " disobedient",
+        "G0506"
+      ],
+      [
+        ", for the ungodly",
+        "G0765"
+      ],
+      [
+        " and",
+        "G2532"
+      ],
+      [
+        " for sinners",
+        "G0268"
+      ],
+      [
+        ", for unholy",
+        "G0462"
+      ],
+      [
+        " and",
+        "G2532"
+      ],
+      [
+        " profane",
+        "G0952"
+      ],
+      [
+        ", for murderers of fathers",
+        "G3964"
+      ],
+      [
+        " and",
+        "G2532"
+      ],
+      [
+        " murderers of mothers",
+        "G3389"
+      ],
+      [
+        ", for manslayers",
+        "G0409"
+      ],
+      [
+        ",",
+        null
+      ]
+    ],
+    "1 Timothy|1|10": [
+      [
+        "For whoremongers",
+        "G4205"
+      ],
+      [
+        ", for them that defile themselves with mankind",
+        "G0733"
+      ],
+      [
+        ", for menstealers",
+        "G0405"
+      ],
+      [
+        ", for liars",
+        "G5583"
+      ],
+      [
+        ", for perjured persons",
+        "G1965"
+      ],
+      [
+        ", and",
+        "G2532"
+      ],
+      [
+        " if",
+        "G1487"
+      ],
+      [
+        " there be",
+        "G0480"
+      ],
+      [
+        " any",
+        "G5100"
       ],
       [
         " other thing",
         "G2087"
       ],
       [
-        " that is contrary",
-        "G480"
+        " that is contrary to",
+        "G0480"
       ],
       [
-        " to sound",
+        " sound",
         "G5198"
       ],
       [
-        " doctrine;",
+        " doctrine",
         "G1319"
+      ],
+      [
+        ";",
+        null
+      ]
+    ],
+    "1 Timothy|1|11": [
+      [
+        "According to",
+        "G2596"
+      ],
+      [
+        " the glorious",
+        "G1391"
+      ],
+      [
+        " gospel",
+        "G2098"
+      ],
+      [
+        " of the blessed",
+        "G3107"
+      ],
+      [
+        " God",
+        "G2316"
+      ],
+      [
+        ", which",
+        "G3739"
+      ],
+      [
+        " was committed to",
+        "G4100"
+      ],
+      [
+        " my",
+        "G1473"
+      ],
+      [
+        " trust",
+        "G4100"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|1|12": [
@@ -437,11 +663,11 @@
         "G2532"
       ],
       [
-        " I thank",
+        " I",
         "G2192"
       ],
       [
-        "",
+        " thank",
         "G5485"
       ],
       [
@@ -457,27 +683,23 @@
         "G2257"
       ],
       [
-        " Lord,",
+        " Lord",
         "G2962"
       ],
       [
-        " who",
-        "G3588"
-      ],
-      [
-        " hath enabled",
+        ", who hath enabled",
         "G1743"
       ],
       [
-        " me,",
+        " me",
         "G3165"
       ],
       [
-        " for",
+        ", for that",
         "G3754"
       ],
       [
-        " that he counted",
+        " he counted",
         "G2233"
       ],
       [
@@ -485,11 +707,11 @@
         "G3165"
       ],
       [
-        " faithful,",
+        " faithful",
         "G4103"
       ],
       [
-        " putting me",
+        ", putting me",
         "G5087"
       ],
       [
@@ -497,17 +719,17 @@
         "G1519"
       ],
       [
-        " the ministry;",
+        " the ministry",
         "G1248"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Timothy|1|13": [
       [
-        "Who",
-        "G3588"
-      ],
-      [
-        " was",
+        "Who was",
         "G5607"
       ],
       [
@@ -515,35 +737,35 @@
         "G4386"
       ],
       [
-        " a blasphemer,",
-        "G989"
+        " a blasphemer",
+        "G0989"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " a persecutor,",
+        " a persecutor",
         "G1376"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " injurious:",
+        " injurious",
         "G5197"
       ],
       [
-        " but",
-        "G235"
+        ": but",
+        "G0235"
       ],
       [
-        " I obtained mercy,",
+        " I obtained mercy",
         "G1653"
       ],
       [
-        " because",
+        ", because",
         "G3754"
       ],
       [
@@ -552,15 +774,19 @@
       ],
       [
         " it ignorantly",
-        "G50"
+        "G0050"
       ],
       [
         " in",
         "G1722"
       ],
       [
-        " unbelief.",
-        "G570"
+        " unbelief",
+        "G0570"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|1|14": [
@@ -598,14 +824,14 @@
       ],
       [
         " love",
-        "G26"
+        "G0026"
       ],
       [
-        " which",
+        " which is",
         "G3588"
       ],
       [
-        " is in",
+        " in",
         "G1722"
       ],
       [
@@ -613,37 +839,45 @@
         "G5547"
       ],
       [
-        " Jesus.",
+        " Jesus",
         "G2424"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|1|15": [
       [
-        "This is a faithful",
+        "This",
+        "G3588"
+      ],
+      [
+        " is a faithful",
         "G4103"
       ],
       [
-        " saying,",
+        " saying",
         "G3056"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
         " worthy",
-        "G514"
+        "G0514"
       ],
       [
         " of all",
         "G3956"
       ],
       [
-        " acceptation,",
-        "G594"
+        " acceptation",
+        "G0594"
       ],
       [
-        " that",
+        ", that",
         "G3754"
       ],
       [
@@ -671,11 +905,11 @@
         "G4982"
       ],
       [
-        " sinners;",
-        "G268"
+        " sinners",
+        "G0268"
       ],
       [
-        " of whom",
+        "; of whom",
         "G3739"
       ],
       [
@@ -687,29 +921,33 @@
         "G1510"
       ],
       [
-        " chief.",
+        " chief",
         "G4413"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|1|16": [
       [
         "Howbeit",
-        "G235"
+        "G0235"
       ],
       [
-        " for this",
-        "G5124"
-      ],
-      [
-        " cause",
+        " for",
         "G1223"
       ],
       [
-        " I obtained mercy,",
+        " this cause",
+        "G5124"
+      ],
+      [
+        " I obtained mercy",
         "G1653"
       ],
       [
-        " that",
+        ", that",
         "G2443"
       ],
       [
@@ -741,11 +979,11 @@
         "G3956"
       ],
       [
-        " longsuffering,",
+        " longsuffering",
         "G3115"
       ],
       [
-        " for",
+        ", for",
         "G4314"
       ],
       [
@@ -766,7 +1004,7 @@
       ],
       [
         " him",
-        "G846"
+        "G0846"
       ],
       [
         " to",
@@ -777,8 +1015,12 @@
         "G2222"
       ],
       [
-        " everlasting.",
-        "G166"
+        " everlasting",
+        "G0166"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|1|17": [
@@ -788,22 +1030,22 @@
       ],
       [
         " unto the King",
-        "G935"
+        "G0935"
       ],
       [
-        " eternal,",
-        "G165"
+        " eternal",
+        "G0165"
       ],
       [
-        " immortal,",
-        "G862"
+        ", immortal",
+        "G0862"
       ],
       [
-        " invisible,",
-        "G517"
+        ", invisible",
+        "G0517"
       ],
       [
-        " the only",
+        ", the only",
         "G3441"
       ],
       [
@@ -811,11 +1053,11 @@
         "G4680"
       ],
       [
-        " God,",
+        " God",
         "G2316"
       ],
       [
-        " be honour",
+        ", be honour",
         "G5092"
       ],
       [
@@ -832,15 +1074,97 @@
       ],
       [
         " ever",
-        "G165"
+        "G0165"
       ],
       [
-        " and ever.",
-        "G165"
+        " and ever",
+        "G0165"
       ],
       [
-        " Amen.",
-        "G281"
+        ". Amen",
+        "G0281"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|1|18": [
+      [
+        "This",
+        "G3778"
+      ],
+      [
+        " charge",
+        "G3852"
+      ],
+      [
+        " I commit",
+        "G3908"
+      ],
+      [
+        " unto thee",
+        "G4671"
+      ],
+      [
+        ", son",
+        "G5043"
+      ],
+      [
+        " Timothy",
+        "G5095"
+      ],
+      [
+        ", according to",
+        "G2596"
+      ],
+      [
+        " the prophecies",
+        "G4394"
+      ],
+      [
+        " which went before",
+        "G4254"
+      ],
+      [
+        " on",
+        "G1909"
+      ],
+      [
+        " thee",
+        "G4571"
+      ],
+      [
+        ", that",
+        "G2443"
+      ],
+      [
+        " thou",
+        "G4754"
+      ],
+      [
+        " by",
+        "G1722"
+      ],
+      [
+        " them",
+        "G0846"
+      ],
+      [
+        " mightest war",
+        "G4754"
+      ],
+      [
+        " a good",
+        "G2570"
+      ],
+      [
+        " warfare",
+        "G4752"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Timothy|1|19": [
@@ -849,23 +1173,23 @@
         "G2192"
       ],
       [
-        " faith,",
+        " faith",
         "G4102"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
         " a good",
-        "G18"
+        "G0018"
       ],
       [
-        " conscience;",
+        " conscience",
         "G4893"
       ],
       [
-        " which",
+        "; which",
         "G3739"
       ],
       [
@@ -874,7 +1198,7 @@
       ],
       [
         " having put away",
-        "G683"
+        "G0683"
       ],
       [
         " concerning",
@@ -885,8 +1209,12 @@
         "G4102"
       ],
       [
-        " have made shipwreck:",
+        " have made shipwreck",
         "G3489"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "1 Timothy|1|20": [
@@ -907,11 +1235,11 @@
         "G2532"
       ],
       [
-        " Alexander;",
-        "G223"
+        " Alexander",
+        "G0223"
       ],
       [
-        " whom",
+        "; whom",
         "G3739"
       ],
       [
@@ -919,11 +1247,11 @@
         "G3860"
       ],
       [
-        " unto Satan,",
+        " unto Satan",
         "G4567"
       ],
       [
-        " that",
+        ", that",
         "G2443"
       ],
       [
@@ -935,8 +1263,12 @@
         "G3361"
       ],
       [
-        " to blaspheme.",
-        "G987"
+        " to blaspheme",
+        "G0987"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|2|1": [
@@ -945,35 +1277,39 @@
         "G3870"
       ],
       [
-        " therefore,",
+        " therefore",
         "G3767"
       ],
       [
-        " that, first",
+        ", that",
+        "G4160"
+      ],
+      [
+        ", first",
         "G4412"
       ],
       [
-        " of all,",
+        " of all",
         "G3956"
       ],
       [
-        " supplications,",
+        ", supplications",
         "G1162"
       ],
       [
-        " prayers,",
+        ", prayers",
         "G4335"
       ],
       [
-        " intercessions,",
+        ", intercessions",
         "G1783"
       ],
       [
-        " and giving of thanks,",
+        ", and giving of thanks",
         "G2169"
       ],
       [
-        " be made",
+        ", be made",
         "G4160"
       ],
       [
@@ -985,8 +1321,12 @@
         "G3956"
       ],
       [
-        " men;",
-        "G444"
+        " men",
+        "G0444"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Timothy|2|2": [
@@ -995,11 +1335,11 @@
         "G5228"
       ],
       [
-        " kings,",
-        "G935"
+        " kings",
+        "G0935"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -1015,11 +1355,11 @@
         "G1722"
       ],
       [
-        " authority;",
+        " authority",
         "G5247"
       ],
       [
-        " that",
+        "; that",
         "G2443"
       ],
       [
@@ -1040,7 +1380,7 @@
       ],
       [
         " life",
-        "G979"
+        "G0979"
       ],
       [
         " in",
@@ -1059,8 +1399,12 @@
         "G2532"
       ],
       [
-        " honesty.",
+        " honesty",
         "G4587"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|2|3": [
@@ -1082,14 +1426,14 @@
       ],
       [
         " acceptable",
-        "G587"
+        "G0587"
       ],
       [
-        " in the sight",
+        " in the sight of",
         "G1799"
       ],
       [
-        " of God",
+        " God",
         "G2316"
       ],
       [
@@ -1097,8 +1441,12 @@
         "G2257"
       ],
       [
-        " Saviour;",
+        " Saviour",
         "G4990"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Timothy|2|4": [
@@ -1116,14 +1464,14 @@
       ],
       [
         " men",
-        "G444"
+        "G0444"
       ],
       [
-        " to be saved,",
+        " to be saved",
         "G4982"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -1139,8 +1487,12 @@
         "G1922"
       ],
       [
-        " of the truth.",
-        "G225"
+        " of the truth",
+        "G0225"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|2|5": [
@@ -1153,11 +1505,11 @@
         "G1520"
       ],
       [
-        " God,",
+        " God",
         "G2316"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -1177,29 +1529,29 @@
         "G2532"
       ],
       [
-        " men,",
-        "G444"
+        " men",
+        "G0444"
       ],
       [
-        " the man",
-        "G444"
+        ", the man",
+        "G0444"
       ],
       [
         " Christ",
         "G5547"
       ],
       [
-        " Jesus;",
+        " Jesus",
         "G2424"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Timothy|2|6": [
       [
-        "Who",
-        "G3588"
-      ],
-      [
-        " gave",
+        "Who gave",
         "G1325"
       ],
       [
@@ -1208,18 +1560,18 @@
       ],
       [
         " a ransom",
-        "G487"
+        "G0487"
       ],
       [
         " for",
         "G5228"
       ],
       [
-        " all,",
+        " all",
         "G3956"
       ],
       [
-        " to be testified",
+        ", to be testified",
         "G3142"
       ],
       [
@@ -1227,18 +1579,22 @@
         "G2398"
       ],
       [
-        " time.",
+        " time",
         "G2540"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|2|7": [
       [
-        "Whereunto",
-        "G1519"
+        "Where",
+        "G3739"
       ],
       [
-        "",
-        "G3739"
+        "unto",
+        "G1519"
       ],
       [
         " I",
@@ -1249,43 +1605,43 @@
         "G5087"
       ],
       [
-        " a preacher,",
+        " a preacher",
         "G2783"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " an apostle,",
-        "G652"
+        " an apostle",
+        "G0652"
       ],
       [
-        " (I speak",
+        ", (I speak",
         "G3004"
       ],
       [
         " the truth",
-        "G225"
+        "G0225"
       ],
       [
         " in",
         "G1722"
       ],
       [
-        " Christ,",
+        " Christ",
         "G5547"
       ],
       [
-        " and lie",
+        ", and lie",
         "G5574"
       ],
       [
-        " not;)",
+        " not",
         "G3756"
       ],
       [
-        " a teacher",
+        ";) a teacher",
         "G1320"
       ],
       [
@@ -1305,8 +1661,12 @@
         "G2532"
       ],
       [
-        " verity.",
-        "G225"
+        " verity",
+        "G0225"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|2|8": [
@@ -1319,8 +1679,12 @@
         "G3767"
       ],
       [
-        " that men",
-        "G435"
+        " that",
+        "G4336"
+      ],
+      [
+        " men",
+        "G0435"
       ],
       [
         " pray",
@@ -1328,18 +1692,14 @@
       ],
       [
         " every",
-        "G1722"
-      ],
-      [
-        "",
         "G3956"
       ],
       [
-        " where,",
+        " where",
         "G5117"
       ],
       [
-        " lifting up",
+        ", lifting up",
         "G1869"
       ],
       [
@@ -1347,11 +1707,11 @@
         "G3741"
       ],
       [
-        " hands,",
+        " hands",
         "G5495"
       ],
       [
-        " without",
+        ", without",
         "G5565"
       ],
       [
@@ -1363,8 +1723,12 @@
         "G2532"
       ],
       [
-        " doubting.",
+        " doubting",
         "G1261"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|2|9": [
@@ -1373,11 +1737,15 @@
         "G5615"
       ],
       [
-        " also,",
+        " also",
         "G2532"
       ],
       [
-        " that women",
+        ", that",
+        "G2885"
+      ],
+      [
+        " women",
         "G1135"
       ],
       [
@@ -1397,27 +1765,27 @@
         "G2887"
       ],
       [
-        " apparel,",
+        " apparel",
         "G2689"
       ],
       [
-        " with",
+        ", with",
         "G3326"
       ],
       [
         " shamefacedness",
-        "G127"
+        "G0127"
       ],
       [
         " and",
         "G2532"
       ],
       [
-        " sobriety;",
+        " sobriety",
         "G4997"
       ],
       [
-        " not",
+        "; not",
         "G3361"
       ],
       [
@@ -1425,27 +1793,27 @@
         "G1722"
       ],
       [
-        " broided hair,",
+        " broided hair",
         "G4117"
       ],
       [
-        " or",
+        ", or",
         "G2228"
       ],
       [
-        " gold,",
+        " gold",
         "G5557"
       ],
       [
-        " or",
+        ", or",
         "G2228"
       ],
       [
-        " pearls,",
+        " pearls",
         "G3135"
       ],
       [
-        " or",
+        ", or",
         "G2228"
       ],
       [
@@ -1453,14 +1821,18 @@
         "G4185"
       ],
       [
-        " array;",
+        " array",
         "G2441"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Timothy|2|10": [
       [
         "But",
-        "G235"
+        "G0235"
       ],
       [
         " (which",
@@ -1479,20 +1851,62 @@
         "G1861"
       ],
       [
-        " godliness)",
+        " godliness",
         "G2317"
       ],
       [
-        " with",
+        ") with",
         "G1223"
       ],
       [
         " good",
-        "G18"
+        "G0018"
       ],
       [
-        " works.",
+        " works",
         "G2041"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|2|11": [
+      [
+        "Let",
+        "G3129"
+      ],
+      [
+        " the woman",
+        "G1135"
+      ],
+      [
+        " learn",
+        "G3129"
+      ],
+      [
+        " in",
+        "G1722"
+      ],
+      [
+        " silence",
+        "G2271"
+      ],
+      [
+        " with",
+        "G1722"
+      ],
+      [
+        " all",
+        "G3956"
+      ],
+      [
+        " subjection",
+        "G5292"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|2|12": [
@@ -1513,24 +1927,24 @@
         "G1135"
       ],
       [
-        " to teach,",
+        " to teach",
         "G1321"
       ],
       [
-        " nor",
+        ", nor",
         "G3761"
       ],
       [
-        " to usurp authority",
-        "G831"
+        " to usurp authority over",
+        "G0831"
       ],
       [
-        " over the man,",
-        "G435"
+        " the man",
+        "G0435"
       ],
       [
-        " but",
-        "G235"
+        ", but",
+        "G0235"
       ],
       [
         " to be",
@@ -1541,8 +1955,96 @@
         "G1722"
       ],
       [
-        " silence.",
+        " silence",
         "G2271"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|2|13": [
+      [
+        "For",
+        "G1063"
+      ],
+      [
+        " Adam",
+        "G0076"
+      ],
+      [
+        " was",
+        "G4111"
+      ],
+      [
+        " first",
+        "G4413"
+      ],
+      [
+        " formed",
+        "G4111"
+      ],
+      [
+        ", then",
+        "G1534"
+      ],
+      [
+        " Eve",
+        "G2096"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|2|14": [
+      [
+        "And",
+        "G2532"
+      ],
+      [
+        " Adam",
+        "G0076"
+      ],
+      [
+        " was",
+        "G0538"
+      ],
+      [
+        " not",
+        "G3756"
+      ],
+      [
+        " deceived",
+        "G0538"
+      ],
+      [
+        ", but",
+        "G1161"
+      ],
+      [
+        " the woman",
+        "G1135"
+      ],
+      [
+        " being deceived",
+        "G0538"
+      ],
+      [
+        " was",
+        "G1096"
+      ],
+      [
+        " in",
+        "G1722"
+      ],
+      [
+        " the transgression",
+        "G3847"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|2|15": [
@@ -1559,11 +2061,11 @@
         "G1223"
       ],
       [
-        " childbearing,",
+        " childbearing",
         "G5042"
       ],
       [
-        " if",
+        ", if",
         "G1437"
       ],
       [
@@ -1584,7 +2086,7 @@
       ],
       [
         " charity",
-        "G26"
+        "G0026"
       ],
       [
         " and",
@@ -1592,40 +2094,52 @@
       ],
       [
         " holiness",
-        "G38"
+        "G0038"
       ],
       [
         " with",
         "G3326"
       ],
       [
-        " sobriety.",
+        " sobriety",
         "G4997"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|3|1": [
       [
-        "This is a true",
+        "This",
+        "G3588"
+      ],
+      [
+        " is a true",
         "G4103"
       ],
       [
-        " saying,",
+        " saying",
         "G3056"
       ],
       [
-        " If a man",
-        "G1536"
+        ", If",
+        "G1487"
+      ],
+      [
+        " a man",
+        "G5100"
       ],
       [
         " desire",
         "G3713"
       ],
       [
-        " the office of a bishop,",
+        " the office of a bishop",
         "G1984"
       ],
       [
-        " he desireth",
+        ", he desireth",
         "G1937"
       ],
       [
@@ -1633,8 +2147,12 @@
         "G2570"
       ],
       [
-        " work.",
+        " work",
         "G2041"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|3|2": [
@@ -1655,40 +2173,44 @@
         "G1511"
       ],
       [
-        " blameless,",
-        "G423"
+        " blameless",
+        "G0423"
       ],
       [
-        " the husband",
-        "G435"
+        ", the husband",
+        "G0435"
       ],
       [
         " of one",
-        "G3391"
+        "G1520"
       ],
       [
-        " wife,",
+        " wife",
         "G1135"
       ],
       [
-        " vigilant,",
+        ", vigilant",
         "G3524"
       ],
       [
-        " sober,",
+        ", sober",
         "G4998"
       ],
       [
-        " of good behaviour,",
+        ", of good behaviour",
         "G2887"
       ],
       [
-        " given to hospitality,",
+        ", given to hospitality",
         "G5382"
       ],
       [
-        " apt to teach;",
+        ", apt to teach",
         "G1317"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Timothy|3|3": [
@@ -1697,40 +2219,44 @@
         "G3361"
       ],
       [
-        " given to wine,",
+        " given to wine",
         "G3943"
       ],
       [
-        " no",
+        ", no",
         "G3361"
       ],
       [
-        " striker,",
+        " striker",
         "G4131"
       ],
       [
-        " not",
+        ", not",
         "G3361"
       ],
       [
-        " greedy of filthy lucre;",
-        "G146"
+        " greedy of filthy lucre",
+        "G0146"
       ],
       [
-        " but",
-        "G235"
+        "; but",
+        "G0235"
       ],
       [
-        " patient,",
+        " patient",
         "G1933"
       ],
       [
-        " not a brawler,",
-        "G269"
+        ", not a brawler",
+        "G0269"
       ],
       [
-        " not covetous;",
-        "G866"
+        ", not covetous",
+        "G0866"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Timothy|3|4": [
@@ -1747,11 +2273,11 @@
         "G2398"
       ],
       [
-        " house,",
+        " house",
         "G3624"
       ],
       [
-        " having",
+        ", having",
         "G2192"
       ],
       [
@@ -1775,8 +2301,70 @@
         "G3956"
       ],
       [
-        " gravity;",
+        " gravity",
         "G4587"
+      ],
+      [
+        ";",
+        null
+      ]
+    ],
+    "1 Timothy|3|5": [
+      [
+        "(For",
+        "G1161"
+      ],
+      [
+        " if",
+        "G1487"
+      ],
+      [
+        " a man",
+        "G5100"
+      ],
+      [
+        " know",
+        "G1492"
+      ],
+      [
+        " not",
+        "G3756"
+      ],
+      [
+        " how",
+        "G1492"
+      ],
+      [
+        " to rule",
+        "G4291"
+      ],
+      [
+        " his own",
+        "G2398"
+      ],
+      [
+        " house",
+        "G3624"
+      ],
+      [
+        ", how",
+        "G4459"
+      ],
+      [
+        " shall he take care",
+        "G1959"
+      ],
+      [
+        " of the church",
+        "G1577"
+      ],
+      [
+        " of God",
+        "G2316"
+      ],
+      [
+        "?)",
+        null
       ]
     ],
     "1 Timothy|3|6": [
@@ -1785,12 +2373,12 @@
         "G3361"
       ],
       [
-        " a novice,",
+        " a novice",
         "G3504"
       ],
       [
-        " lest",
-        "G3363"
+        ", lest",
+        "G3361"
       ],
       [
         " being lifted up with pride",
@@ -1809,8 +2397,12 @@
         "G2917"
       ],
       [
-        " of the devil.",
+        " of the devil",
         "G1228"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|3|7": [
@@ -1819,12 +2411,8 @@
         "G1161"
       ],
       [
-        "",
-        "G2532"
-      ],
-      [
         " he",
-        "G846"
+        "G0846"
       ],
       [
         " must",
@@ -1844,15 +2432,15 @@
       ],
       [
         " of",
-        "G575"
+        "G0575"
       ],
       [
-        " them which are without;",
+        " them which are without",
         "G1855"
       ],
       [
-        " lest",
-        "G3363"
+        "; lest",
+        "G3361"
       ],
       [
         " he fall",
@@ -1875,8 +2463,12 @@
         "G3803"
       ],
       [
-        " of the devil.",
+        " of the devil",
         "G1228"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|3|8": [
@@ -1889,40 +2481,44 @@
         "G1249"
       ],
       [
-        " be grave,",
+        " be grave",
         "G4586"
       ],
       [
-        " not",
+        ", not",
         "G3361"
       ],
       [
-        " doubletongued,",
+        " doubletongued",
         "G1351"
       ],
       [
-        " not",
+        ", not",
         "G3361"
       ],
       [
-        " given",
+        " given to",
         "G4337"
       ],
       [
-        " to much",
+        " much",
         "G4183"
       ],
       [
-        " wine,",
+        " wine",
         "G3631"
       ],
       [
-        " not",
+        ", not",
         "G3361"
       ],
       [
-        " greedy of filthy lucre;",
-        "G146"
+        " greedy of filthy lucre",
+        "G0146"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Timothy|3|9": [
@@ -1947,8 +2543,58 @@
         "G2513"
       ],
       [
-        " conscience.",
+        " conscience",
         "G4893"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|3|10": [
+      [
+        "And",
+        "G1161"
+      ],
+      [
+        " let",
+        "G1381"
+      ],
+      [
+        " these",
+        "G3778"
+      ],
+      [
+        " also",
+        "G2532"
+      ],
+      [
+        " first",
+        "G4412"
+      ],
+      [
+        " be proved",
+        "G1381"
+      ],
+      [
+        "; then",
+        "G1534"
+      ],
+      [
+        " let them use the office of a deacon",
+        "G1247"
+      ],
+      [
+        ", being",
+        "G5607"
+      ],
+      [
+        " found blameless",
+        "G0410"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|3|11": [
@@ -1961,23 +2607,23 @@
         "G1135"
       ],
       [
-        " be grave,",
+        " be grave",
         "G4586"
       ],
       [
-        " not",
+        ", not",
         "G3361"
       ],
       [
-        " slanderers,",
+        " slanderers",
         "G1228"
       ],
       [
-        " sober,",
+        ", sober",
         "G3524"
       ],
       [
-        " faithful",
+        ", faithful",
         "G4103"
       ],
       [
@@ -1985,8 +2631,66 @@
         "G1722"
       ],
       [
-        " all things.",
+        " all things",
         "G3956"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|3|12": [
+      [
+        "Let",
+        "G2077"
+      ],
+      [
+        " the deacons",
+        "G1249"
+      ],
+      [
+        " be",
+        "G2077"
+      ],
+      [
+        " the husbands",
+        "G0435"
+      ],
+      [
+        " of one",
+        "G1520"
+      ],
+      [
+        " wife",
+        "G1135"
+      ],
+      [
+        ", ruling",
+        "G4291"
+      ],
+      [
+        " their children",
+        "G5043"
+      ],
+      [
+        " and",
+        "G2532"
+      ],
+      [
+        " their own",
+        "G2398"
+      ],
+      [
+        " houses",
+        "G3624"
+      ],
+      [
+        " well",
+        "G2573"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|3|13": [
@@ -2015,11 +2719,11 @@
         "G2570"
       ],
       [
-        " degree,",
-        "G898"
+        " degree",
+        "G0898"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -2039,11 +2743,11 @@
         "G4102"
       ],
       [
-        " which",
+        " which is",
         "G3588"
       ],
       [
-        " is in",
+        " in",
         "G1722"
       ],
       [
@@ -2051,8 +2755,12 @@
         "G5547"
       ],
       [
-        " Jesus.",
+        " Jesus",
         "G2424"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|3|14": [
@@ -2065,11 +2773,11 @@
         "G1125"
       ],
       [
-        " unto thee,",
+        " unto thee",
         "G4671"
       ],
       [
-        " hoping",
+        ", hoping",
         "G1679"
       ],
       [
@@ -2085,8 +2793,12 @@
         "G4571"
       ],
       [
-        " shortly:",
+        " shortly",
         "G5032"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "1 Timothy|3|15": [
@@ -2099,11 +2811,11 @@
         "G1437"
       ],
       [
-        " I tarry long,",
+        " I tarry long",
         "G1019"
       ],
       [
-        " that",
+        ", that",
         "G2443"
       ],
       [
@@ -2120,7 +2832,7 @@
       ],
       [
         " to behave thyself",
-        "G390"
+        "G0390"
       ],
       [
         " in",
@@ -2131,11 +2843,11 @@
         "G3624"
       ],
       [
-        " of God,",
+        " of God",
         "G2316"
       ],
       [
-        " which",
+        ", which",
         "G3748"
       ],
       [
@@ -2151,11 +2863,11 @@
         "G2198"
       ],
       [
-        " God,",
+        " God",
         "G2316"
       ],
       [
-        " the pillar",
+        ", the pillar",
         "G4769"
       ],
       [
@@ -2167,8 +2879,12 @@
         "G1477"
       ],
       [
-        " of the truth.",
-        "G225"
+        " of the truth",
+        "G0225"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|3|16": [
@@ -2193,11 +2909,11 @@
         "G3466"
       ],
       [
-        " of godliness:",
+        " of godliness",
         "G2150"
       ],
       [
-        " God",
+        ": God",
         "G2316"
       ],
       [
@@ -2209,11 +2925,11 @@
         "G1722"
       ],
       [
-        " the flesh,",
+        " the flesh",
         "G4561"
       ],
       [
-        " justified",
+        ", justified",
         "G1344"
       ],
       [
@@ -2221,19 +2937,19 @@
         "G1722"
       ],
       [
-        " the Spirit,",
+        " the Spirit",
         "G4151"
       ],
       [
-        " seen",
+        ", seen",
         "G3700"
       ],
       [
-        " of angels,",
-        "G32"
+        " of angels",
+        "G0032"
       ],
       [
-        " preached",
+        ", preached",
         "G2784"
       ],
       [
@@ -2241,11 +2957,11 @@
         "G1722"
       ],
       [
-        " the Gentiles,",
+        " the Gentiles",
         "G1484"
       ],
       [
-        " believed on",
+        ", believed on",
         "G4100"
       ],
       [
@@ -2253,20 +2969,24 @@
         "G1722"
       ],
       [
-        " the world,",
+        " the world",
         "G2889"
       ],
       [
-        " received up",
-        "G353"
+        ", received up",
+        "G0353"
       ],
       [
         " into",
         "G1722"
       ],
       [
-        " glory.",
+        " glory",
         "G1391"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|4|1": [
@@ -2283,11 +3003,11 @@
         "G3004"
       ],
       [
-        " expressly,",
+        " expressly",
         "G4490"
       ],
       [
-        " that",
+        ", that",
         "G3754"
       ],
       [
@@ -2308,26 +3028,26 @@
       ],
       [
         " shall depart from",
-        "G868"
+        "G0868"
       ],
       [
-        " the faith,",
+        " the faith",
         "G4102"
       ],
       [
-        " giving heed",
+        ", giving heed to",
         "G4337"
       ],
       [
-        " to seducing",
+        " seducing",
         "G4108"
       ],
       [
-        " spirits,",
+        " spirits",
         "G4151"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -2335,8 +3055,46 @@
         "G1319"
       ],
       [
-        " of devils;",
+        " of devils",
         "G1140"
+      ],
+      [
+        ";",
+        null
+      ]
+    ],
+    "1 Timothy|4|2": [
+      [
+        "Speaking lies",
+        "G5573"
+      ],
+      [
+        " in",
+        "G1722"
+      ],
+      [
+        " hypocrisy",
+        "G5272"
+      ],
+      [
+        "; having",
+        "G2743"
+      ],
+      [
+        " their",
+        "G2398"
+      ],
+      [
+        " conscience",
+        "G4893"
+      ],
+      [
+        " seared with a hot iron",
+        "G2743"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Timothy|4|3": [
@@ -2345,19 +3103,19 @@
         "G2967"
       ],
       [
-        " to marry,",
+        " to marry",
         "G1060"
       ],
       [
-        " and commanding to abstain from",
-        "G567"
+        ", and commanding to abstain from",
+        "G0567"
       ],
       [
-        " meats,",
+        " meats",
         "G1033"
       ],
       [
-        " which",
+        ", which",
         "G3739"
       ],
       [
@@ -2397,8 +3155,12 @@
         "G1921"
       ],
       [
-        " the truth.",
-        "G225"
+        " the truth",
+        "G0225"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|4|4": [
@@ -2419,11 +3181,11 @@
         "G2316"
       ],
       [
-        " is good,",
+        " is good",
         "G2570"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -2431,11 +3193,11 @@
         "G3762"
       ],
       [
-        " to be refused,",
-        "G579"
+        " to be refused",
+        "G0579"
       ],
       [
-        " if it be received",
+        ", if it be received",
         "G2983"
       ],
       [
@@ -2443,8 +3205,12 @@
         "G3326"
       ],
       [
-        " thanksgiving:",
+        " thanksgiving",
         "G2169"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "1 Timothy|4|5": [
@@ -2454,7 +3220,7 @@
       ],
       [
         " it is sanctified",
-        "G37"
+        "G0037"
       ],
       [
         " by",
@@ -2473,8 +3239,86 @@
         "G2532"
       ],
       [
-        " prayer.",
+        " prayer",
         "G1783"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|4|6": [
+      [
+        "If thou put",
+        "G5294"
+      ],
+      [
+        " the brethren",
+        "G0080"
+      ],
+      [
+        " in remembrance of",
+        "G5294"
+      ],
+      [
+        " these things",
+        "G5023"
+      ],
+      [
+        ", thou shalt be",
+        "G2071"
+      ],
+      [
+        " a good",
+        "G2570"
+      ],
+      [
+        " minister",
+        "G1249"
+      ],
+      [
+        " of Jesus",
+        "G2424"
+      ],
+      [
+        " Christ",
+        "G5547"
+      ],
+      [
+        ", nourished up in",
+        "G1789"
+      ],
+      [
+        " the words",
+        "G3056"
+      ],
+      [
+        " of faith",
+        "G4102"
+      ],
+      [
+        " and",
+        "G2532"
+      ],
+      [
+        " of good",
+        "G2570"
+      ],
+      [
+        " doctrine",
+        "G1319"
+      ],
+      [
+        ", whereunto",
+        "G3739"
+      ],
+      [
+        " thou hast attained",
+        "G3877"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|4|7": [
@@ -2488,22 +3332,22 @@
       ],
       [
         " profane",
-        "G952"
+        "G0952"
       ],
       [
         " and",
         "G2532"
       ],
       [
-        " old wives'",
+        " old wives",
         "G1126"
       ],
       [
-        " fables,",
+        "' fables",
         "G3454"
       ],
       [
-        " and",
+        ", and",
         "G1161"
       ],
       [
@@ -2519,8 +3363,12 @@
         "G4314"
       ],
       [
-        " godliness.",
+        " godliness",
         "G2150"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|4|8": [
@@ -2538,18 +3386,14 @@
       ],
       [
         " profiteth",
-        "G2076"
+        "G5624"
       ],
       [
-        " little:",
-        "G4314"
-      ],
-      [
-        "",
+        " little",
         "G3641"
       ],
       [
-        " but",
+        ": but",
         "G1161"
       ],
       [
@@ -2569,11 +3413,11 @@
         "G4314"
       ],
       [
-        " all things,",
+        " all things",
         "G3956"
       ],
       [
-        " having",
+        ", having",
         "G2192"
       ],
       [
@@ -2585,21 +3429,29 @@
         "G2222"
       ],
       [
-        " that now is,",
+        " that now is",
         "G3568"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " of that which is to come.",
+        " of that which is to come",
         "G3195"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|4|9": [
       [
-        "This is a faithful",
+        "This",
+        "G3588"
+      ],
+      [
+        " is a faithful",
         "G4103"
       ],
       [
@@ -2612,15 +3464,101 @@
       ],
       [
         " worthy",
-        "G514"
+        "G0514"
       ],
       [
         " of all",
         "G3956"
       ],
       [
-        " acceptation.",
-        "G594"
+        " acceptation",
+        "G0594"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|4|10": [
+      [
+        "For",
+        "G1063"
+      ],
+      [
+        " therefore",
+        "G5124"
+      ],
+      [
+        " we",
+        "G2872"
+      ],
+      [
+        " both",
+        "G2532"
+      ],
+      [
+        " labour",
+        "G2872"
+      ],
+      [
+        " and",
+        "G2532"
+      ],
+      [
+        " suffer reproach",
+        "G3679"
+      ],
+      [
+        ", because",
+        "G3754"
+      ],
+      [
+        " we trust",
+        "G1679"
+      ],
+      [
+        " in",
+        "G1909"
+      ],
+      [
+        " the living",
+        "G2198"
+      ],
+      [
+        " God",
+        "G2316"
+      ],
+      [
+        ", who",
+        "G3739"
+      ],
+      [
+        " is",
+        "G2076"
+      ],
+      [
+        " the Saviour",
+        "G4990"
+      ],
+      [
+        " of all",
+        "G3956"
+      ],
+      [
+        " men",
+        "G0444"
+      ],
+      [
+        ", specially",
+        "G3122"
+      ],
+      [
+        " of those that believe",
+        "G4103"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|4|11": [
@@ -2637,8 +3575,102 @@
         "G2532"
       ],
       [
-        " teach.",
+        " teach",
         "G1321"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|4|12": [
+      [
+        "Let",
+        "G2706"
+      ],
+      [
+        " no man",
+        "G3367"
+      ],
+      [
+        " despise",
+        "G2706"
+      ],
+      [
+        " thy",
+        "G4675"
+      ],
+      [
+        " youth",
+        "G3503"
+      ],
+      [
+        "; but",
+        "G0235"
+      ],
+      [
+        " be thou",
+        "G1096"
+      ],
+      [
+        " an example",
+        "G5179"
+      ],
+      [
+        " of the believers",
+        "G4103"
+      ],
+      [
+        ", in",
+        "G1722"
+      ],
+      [
+        " word",
+        "G3056"
+      ],
+      [
+        ", in",
+        "G1722"
+      ],
+      [
+        " conversation",
+        "G0391"
+      ],
+      [
+        ", in",
+        "G1722"
+      ],
+      [
+        " charity",
+        "G0026"
+      ],
+      [
+        ", in",
+        "G1722"
+      ],
+      [
+        " spirit",
+        "G4151"
+      ],
+      [
+        ", in",
+        "G1722"
+      ],
+      [
+        " faith",
+        "G4102"
+      ],
+      [
+        ", in",
+        "G1722"
+      ],
+      [
+        " purity",
+        "G0047"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|4|13": [
@@ -2647,30 +3679,34 @@
         "G2193"
       ],
       [
-        " I come,",
+        " I come",
         "G2064"
       ],
       [
-        " give attendance",
+        ", give attendance",
         "G4337"
       ],
       [
-        " to reading,",
-        "G320"
+        " to reading",
+        "G0320"
       ],
       [
-        " to exhortation,",
+        ", to exhortation",
         "G3874"
       ],
       [
-        " to doctrine.",
+        ", to doctrine",
         "G1319"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|4|14": [
       [
         "Neglect",
-        "G272"
+        "G0272"
       ],
       [
         " not",
@@ -2685,11 +3721,11 @@
         "G1722"
       ],
       [
-        " thee,",
+        " thee",
         "G4671"
       ],
       [
-        " which",
+        ", which",
         "G3739"
       ],
       [
@@ -2705,11 +3741,11 @@
         "G1223"
       ],
       [
-        " prophecy,",
+        " prophecy",
         "G4394"
       ],
       [
-        " with",
+        ", with",
         "G3326"
       ],
       [
@@ -2721,8 +3757,12 @@
         "G5495"
       ],
       [
-        " of the presbytery.",
+        " of the presbytery",
         "G4244"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|4|15": [
@@ -2731,23 +3771,23 @@
         "G3191"
       ],
       [
-        " these things;",
+        " these things",
         "G5023"
       ],
       [
-        " give thyself",
+        "; give thyself wholly",
         "G2468"
       ],
       [
-        " wholly to",
+        " to",
         "G1722"
       ],
       [
-        " them;",
+        " them",
         "G5125"
       ],
       [
-        " that",
+        "; that",
         "G2443"
       ],
       [
@@ -2771,8 +3811,82 @@
         "G1722"
       ],
       [
-        " all.",
+        " all",
         "G3956"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|4|16": [
+      [
+        "Take heed unto",
+        "G1907"
+      ],
+      [
+        " thyself",
+        "G4572"
+      ],
+      [
+        ", and",
+        "G2532"
+      ],
+      [
+        " unto the doctrine",
+        "G1319"
+      ],
+      [
+        "; continue in",
+        "G1961"
+      ],
+      [
+        " them",
+        "G0846"
+      ],
+      [
+        ": for",
+        "G1063"
+      ],
+      [
+        " in doing",
+        "G4160"
+      ],
+      [
+        " this",
+        "G5124"
+      ],
+      [
+        " thou shalt",
+        "G4982"
+      ],
+      [
+        " both",
+        "G2532"
+      ],
+      [
+        " save",
+        "G4982"
+      ],
+      [
+        " thyself",
+        "G4572"
+      ],
+      [
+        ", and",
+        "G2532"
+      ],
+      [
+        " them that hear",
+        "G0191"
+      ],
+      [
+        " thee",
+        "G4675"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|5|1": [
@@ -2785,12 +3899,12 @@
         "G3361"
       ],
       [
-        " an elder,",
+        " an elder",
         "G4245"
       ],
       [
-        " but",
-        "G235"
+        ", but",
+        "G0235"
       ],
       [
         " intreat",
@@ -2801,11 +3915,11 @@
         "G5613"
       ],
       [
-        " a father;",
+        " a father",
         "G3962"
       ],
       [
-        " and the younger men",
+        "; and the younger men",
         "G3501"
       ],
       [
@@ -2813,8 +3927,12 @@
         "G5613"
       ],
       [
-        " brethren;",
-        "G80"
+        " brethren",
+        "G0080"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Timothy|5|2": [
@@ -2827,11 +3945,11 @@
         "G5613"
       ],
       [
-        " mothers;",
+        " mothers",
         "G3384"
       ],
       [
-        " the younger",
+        "; the younger",
         "G3501"
       ],
       [
@@ -2839,11 +3957,11 @@
         "G5613"
       ],
       [
-        " sisters,",
-        "G79"
+        " sisters",
+        "G0079"
       ],
       [
-        " with",
+        ", with",
         "G1722"
       ],
       [
@@ -2851,8 +3969,12 @@
         "G3956"
       ],
       [
-        " purity.",
-        "G47"
+        " purity",
+        "G0047"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|5|3": [
@@ -2865,12 +3987,20 @@
         "G5503"
       ],
       [
-        " that are widows",
+        " that are",
+        "G3689"
+      ],
+      [
+        " widows",
         "G5503"
       ],
       [
-        " indeed.",
+        " indeed",
         "G3689"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|5|4": [
@@ -2879,8 +4009,12 @@
         "G1161"
       ],
       [
-        " if any",
-        "G1536"
+        " if",
+        "G1487"
+      ],
+      [
+        " any",
+        "G5100"
       ],
       [
         " widow",
@@ -2899,11 +4033,11 @@
         "G2228"
       ],
       [
-        " nephews,",
+        " nephews",
         "G1549"
       ],
       [
-        " let them learn",
+        ", let them learn",
         "G3129"
       ],
       [
@@ -2915,31 +4049,27 @@
         "G2151"
       ],
       [
-        " at home,",
-        "G2398"
-      ],
-      [
-        "",
+        " at home",
         "G3624"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " to requite",
-        "G287"
+        " to",
+        "G0591"
       ],
       [
-        "",
-        "G591"
+        " requite",
+        "G0287"
       ],
       [
-        " their parents:",
+        " their parents",
         "G4269"
       ],
       [
-        " for",
+        ": for",
         "G1063"
       ],
       [
@@ -2960,15 +4090,19 @@
       ],
       [
         " acceptable",
-        "G587"
+        "G0587"
       ],
       [
         " before",
         "G1799"
       ],
       [
-        " God.",
+        " God",
         "G2316"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|5|5": [
@@ -2977,23 +4111,31 @@
         "G1161"
       ],
       [
-        " she that is a widow",
-        "G5503"
+        " she that",
+        "G3588"
       ],
       [
-        " indeed,",
+        " is",
         "G3689"
       ],
       [
-        " and",
+        " a widow",
+        "G5503"
+      ],
+      [
+        " indeed",
+        "G3689"
+      ],
+      [
+        ", and",
         "G2532"
       ],
       [
-        " desolate,",
+        " desolate",
         "G3443"
       ],
       [
-        " trusteth",
+        ", trusteth",
         "G1679"
       ],
       [
@@ -3001,19 +4143,19 @@
         "G1909"
       ],
       [
-        " God,",
+        " God",
         "G2316"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
-        " continueth",
+        " continueth in",
         "G4357"
       ],
       [
-        " in supplications",
+        " supplications",
         "G1162"
       ],
       [
@@ -3033,8 +4175,12 @@
         "G2532"
       ],
       [
-        " day.",
+        " day",
         "G2250"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|5|6": [
@@ -3043,7 +4189,11 @@
         "G1161"
       ],
       [
-        " she that liveth in pleasure",
+        " she that",
+        "G3588"
+      ],
+      [
+        " liveth in pleasure",
         "G4684"
       ],
       [
@@ -3051,8 +4201,12 @@
         "G2348"
       ],
       [
-        " while she liveth.",
+        " while she liveth",
         "G2198"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|5|7": [
@@ -3065,11 +4219,11 @@
         "G5023"
       ],
       [
-        " give in charge,",
+        " give in charge",
         "G3853"
       ],
       [
-        " that",
+        ", that",
         "G2443"
       ],
       [
@@ -3077,8 +4231,12 @@
         "G5600"
       ],
       [
-        " blameless.",
-        "G423"
+        " blameless",
+        "G0423"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|5|8": [
@@ -3087,8 +4245,12 @@
         "G1161"
       ],
       [
-        " if any",
-        "G1536"
+        " if",
+        "G1487"
+      ],
+      [
+        " any",
+        "G5100"
       ],
       [
         " provide",
@@ -3099,11 +4261,15 @@
         "G3756"
       ],
       [
-        " for his own,",
+        " for",
+        "G4306"
+      ],
+      [
+        " his own",
         "G2398"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -3111,19 +4277,19 @@
         "G3122"
       ],
       [
-        " for those of his own house,",
+        " for those of his own house",
         "G3609"
       ],
       [
-        " he hath denied",
-        "G720"
+        ", he hath denied",
+        "G0720"
       ],
       [
-        " the faith,",
+        " the faith",
         "G4102"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -3131,12 +4297,66 @@
         "G2076"
       ],
       [
-        " worse than",
+        " worse",
         "G5501"
       ],
       [
-        " an infidel.",
-        "G571"
+        " than an infidel",
+        "G0571"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|5|9": [
+      [
+        "Let",
+        "G2639"
+      ],
+      [
+        " not",
+        "G3361"
+      ],
+      [
+        " a widow",
+        "G5503"
+      ],
+      [
+        " be taken into the number",
+        "G2639"
+      ],
+      [
+        " under",
+        "G1640"
+      ],
+      [
+        " threescore",
+        "G1835"
+      ],
+      [
+        " years old",
+        "G2094"
+      ],
+      [
+        ", having been",
+        "G1096"
+      ],
+      [
+        " the wife",
+        "G1135"
+      ],
+      [
+        " of one",
+        "G1520"
+      ],
+      [
+        " man",
+        "G0435"
+      ],
+      [
+        ",",
+        null
       ]
     ],
     "1 Timothy|5|10": [
@@ -3153,27 +4373,27 @@
         "G2570"
       ],
       [
-        " works;",
+        " works",
         "G2041"
       ],
       [
-        " if",
+        "; if",
         "G1487"
       ],
       [
-        " she have brought up",
+        " she have brought up children",
         "G5044"
       ],
       [
-        " children, if",
+        ", if",
         "G1487"
       ],
       [
-        " she have lodged strangers,",
+        " she have lodged strangers",
         "G3580"
       ],
       [
-        " if",
+        ", if",
         "G1487"
       ],
       [
@@ -3181,15 +4401,15 @@
         "G3538"
       ],
       [
-        " the saints'",
-        "G40"
+        " the saints",
+        "G0040"
       ],
       [
-        " feet,",
+        "' feet",
         "G4228"
       ],
       [
-        " if",
+        ", if",
         "G1487"
       ],
       [
@@ -3197,11 +4417,11 @@
         "G1884"
       ],
       [
-        " the afflicted,",
+        " the afflicted",
         "G2346"
       ],
       [
-        " if",
+        ", if",
         "G1487"
       ],
       [
@@ -3214,11 +4434,15 @@
       ],
       [
         " good",
-        "G18"
+        "G0018"
       ],
       [
-        " work.",
+        " work",
         "G2041"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|5|11": [
@@ -3235,11 +4459,11 @@
         "G5503"
       ],
       [
-        " refuse:",
+        " refuse",
         "G3868"
       ],
       [
-        " for",
+        ": for",
         "G1063"
       ],
       [
@@ -3251,16 +4475,20 @@
         "G2691"
       ],
       [
-        " Christ,",
+        " Christ",
         "G5547"
       ],
       [
-        " they will",
+        ", they will",
         "G2309"
       ],
       [
-        " marry;",
+        " marry",
         "G1060"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Timothy|5|12": [
@@ -3269,24 +4497,32 @@
         "G2192"
       ],
       [
-        " damnation,",
+        " damnation",
         "G2917"
       ],
       [
-        " because",
+        ", because",
         "G3754"
       ],
       [
         " they have cast off",
-        "G114"
+        "G0114"
       ],
       [
-        " their first",
+        " their",
+        "G3588"
+      ],
+      [
+        " first",
         "G4413"
       ],
       [
-        " faith.",
+        " faith",
         "G4102"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|5|13": [
@@ -3295,31 +4531,27 @@
         "G1161"
       ],
       [
-        "",
-        "G2532"
-      ],
-      [
         " withal",
-        "G260"
+        "G0260"
       ],
       [
         " they learn",
         "G3129"
       ],
       [
-        " to be idle,",
-        "G692"
+        " to be idle",
+        "G0692"
       ],
       [
-        " wandering about",
+        ", wandering about",
         "G4022"
       ],
       [
-        " from house to house;",
+        " from house to house",
         "G3614"
       ],
       [
-        " and",
+        "; and",
         "G1161"
       ],
       [
@@ -3331,12 +4563,12 @@
         "G3440"
       ],
       [
-        " idle,",
-        "G692"
+        " idle",
+        "G0692"
       ],
       [
-        " but",
-        "G235"
+        ", but",
+        "G0235"
       ],
       [
         " tattlers",
@@ -3351,11 +4583,11 @@
         "G2532"
       ],
       [
-        " busybodies,",
+        " busybodies",
         "G4021"
       ],
       [
-        " speaking",
+        ", speaking",
         "G2980"
       ],
       [
@@ -3367,8 +4599,12 @@
         "G1163"
       ],
       [
-        " not.",
+        " not",
         "G3361"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|5|14": [
@@ -3381,23 +4617,27 @@
         "G3767"
       ],
       [
-        " that the younger women",
-        "G3501"
-      ],
-      [
-        " marry,",
+        " that",
         "G1060"
       ],
       [
-        " bear children,",
+        " the younger women",
+        "G3501"
+      ],
+      [
+        " marry",
+        "G1060"
+      ],
+      [
+        ", bear children",
         "G5041"
       ],
       [
-        " guide the house,",
+        ", guide the house",
         "G3616"
       ],
       [
-        " give",
+        ", give",
         "G1325"
       ],
       [
@@ -3406,19 +4646,259 @@
       ],
       [
         " occasion",
-        "G874"
+        "G0874"
       ],
       [
         " to the adversary",
-        "G480"
+        "G0480"
       ],
       [
-        " to",
-        "G5484"
-      ],
-      [
-        " speak reproachfully.",
+        " to speak reproachfully",
         "G3059"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|5|15": [
+      [
+        "For",
+        "G1063"
+      ],
+      [
+        " some",
+        "G5100"
+      ],
+      [
+        " are",
+        "G1624"
+      ],
+      [
+        " already",
+        "G2235"
+      ],
+      [
+        " turned aside",
+        "G1624"
+      ],
+      [
+        " after",
+        "G3694"
+      ],
+      [
+        " Satan",
+        "G4567"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|5|16": [
+      [
+        "If",
+        "G1487"
+      ],
+      [
+        " any",
+        "G5100"
+      ],
+      [
+        " man",
+        "G4103"
+      ],
+      [
+        " or",
+        "G2228"
+      ],
+      [
+        " woman",
+        "G4103"
+      ],
+      [
+        " that believeth",
+        "G4103"
+      ],
+      [
+        " have",
+        "G2192"
+      ],
+      [
+        " widows",
+        "G5503"
+      ],
+      [
+        ", let them relieve",
+        "G1884"
+      ],
+      [
+        " them",
+        "G0846"
+      ],
+      [
+        ", and",
+        "G2532"
+      ],
+      [
+        " let",
+        "G0916"
+      ],
+      [
+        " not",
+        "G3361"
+      ],
+      [
+        " the church",
+        "G1577"
+      ],
+      [
+        " be charged",
+        "G0916"
+      ],
+      [
+        "; that",
+        "G2443"
+      ],
+      [
+        " it may relieve",
+        "G1884"
+      ],
+      [
+        " them that",
+        "G3588"
+      ],
+      [
+        " are",
+        "G3689"
+      ],
+      [
+        " widows",
+        "G5503"
+      ],
+      [
+        " indeed",
+        "G3689"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|5|17": [
+      [
+        "Let",
+        "G0515"
+      ],
+      [
+        " the elders",
+        "G4245"
+      ],
+      [
+        " that rule",
+        "G4291"
+      ],
+      [
+        " well",
+        "G2573"
+      ],
+      [
+        " be counted worthy",
+        "G0515"
+      ],
+      [
+        " of double",
+        "G1362"
+      ],
+      [
+        " honour",
+        "G5092"
+      ],
+      [
+        ", especially",
+        "G3122"
+      ],
+      [
+        " they who labour",
+        "G2872"
+      ],
+      [
+        " in",
+        "G1722"
+      ],
+      [
+        " the word",
+        "G3056"
+      ],
+      [
+        " and",
+        "G2532"
+      ],
+      [
+        " doctrine",
+        "G1319"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|5|18": [
+      [
+        "For",
+        "G1063"
+      ],
+      [
+        " the scripture",
+        "G1124"
+      ],
+      [
+        " saith",
+        "G3004"
+      ],
+      [
+        ", Thou shalt",
+        "G5392"
+      ],
+      [
+        " not",
+        "G3756"
+      ],
+      [
+        " muzzle",
+        "G5392"
+      ],
+      [
+        " the ox",
+        "G1016"
+      ],
+      [
+        " that treadeth out the corn",
+        "G0248"
+      ],
+      [
+        ". And",
+        "G2532"
+      ],
+      [
+        ", The labourer",
+        "G2040"
+      ],
+      [
+        " is worthy",
+        "G0514"
+      ],
+      [
+        " of his",
+        "G0846"
+      ],
+      [
+        " reward",
+        "G3408"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|5|19": [
@@ -3439,15 +4919,11 @@
         "G3361"
       ],
       [
-        " an accusation,",
+        " an accusation",
         "G2724"
       ],
       [
-        " but",
-        "G1508"
-      ],
-      [
-        "",
+        ", but",
         "G1622"
       ],
       [
@@ -3467,14 +4943,18 @@
         "G5140"
       ],
       [
-        " witnesses.",
+        " witnesses",
         "G3144"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|5|20": [
       [
         "Them that sin",
-        "G264"
+        "G0264"
       ],
       [
         " rebuke",
@@ -3485,11 +4965,11 @@
         "G1799"
       ],
       [
-        " all,",
+        " all",
         "G3956"
       ],
       [
-        " that",
+        ", that",
         "G2443"
       ],
       [
@@ -3505,8 +4985,12 @@
         "G2192"
       ],
       [
-        " fear.",
+        " fear",
         "G5401"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|5|21": [
@@ -3519,11 +5003,11 @@
         "G1799"
       ],
       [
-        " God,",
+        " God",
         "G2316"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -3535,11 +5019,11 @@
         "G2424"
       ],
       [
-        " Christ,",
+        " Christ",
         "G5547"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -3547,11 +5031,11 @@
         "G1588"
       ],
       [
-        " angels,",
-        "G32"
+        " angels",
+        "G0032"
       ],
       [
-        " that",
+        ", that",
         "G2443"
       ],
       [
@@ -3567,11 +5051,11 @@
         "G5565"
       ],
       [
-        " preferring one before another,",
+        " preferring one before another",
         "G4299"
       ],
       [
-        " doing",
+        ", doing",
         "G4160"
       ],
       [
@@ -3583,8 +5067,132 @@
         "G2596"
       ],
       [
-        " partiality.",
+        " partiality",
         "G4346"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|5|22": [
+      [
+        "Lay",
+        "G2007"
+      ],
+      [
+        " hands",
+        "G5495"
+      ],
+      [
+        " suddenly",
+        "G5030"
+      ],
+      [
+        " on",
+        "G2007"
+      ],
+      [
+        " no man",
+        "G3367"
+      ],
+      [
+        ", neither",
+        "G3366"
+      ],
+      [
+        " be partaker of",
+        "G2841"
+      ],
+      [
+        " other men's",
+        "G0245"
+      ],
+      [
+        " sins",
+        "G0266"
+      ],
+      [
+        ": keep",
+        "G5083"
+      ],
+      [
+        " thyself",
+        "G4572"
+      ],
+      [
+        " pure",
+        "G0053"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|5|23": [
+      [
+        "Drink",
+        "G5202"
+      ],
+      [
+        " no longer",
+        "G3371"
+      ],
+      [
+        " water",
+        "G5202"
+      ],
+      [
+        ", but",
+        "G0235"
+      ],
+      [
+        " use",
+        "G5530"
+      ],
+      [
+        " a little",
+        "G3641"
+      ],
+      [
+        " wine",
+        "G3631"
+      ],
+      [
+        " for",
+        "G1223"
+      ],
+      [
+        " thy",
+        "G4675"
+      ],
+      [
+        " stomach's",
+        "G4751"
+      ],
+      [
+        " sake",
+        "G1223"
+      ],
+      [
+        " and",
+        "G2532"
+      ],
+      [
+        " thine",
+        "G4675"
+      ],
+      [
+        " often",
+        "G4437"
+      ],
+      [
+        " infirmities",
+        "G0769"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|5|24": [
@@ -3594,22 +5202,22 @@
       ],
       [
         " men's",
-        "G444"
+        "G0444"
       ],
       [
         " sins",
-        "G266"
+        "G0266"
       ],
       [
         " are",
         "G1526"
       ],
       [
-        " open beforehand,",
+        " open beforehand",
         "G4271"
       ],
       [
-        " going before",
+        ", going before",
         "G4254"
       ],
       [
@@ -3617,24 +5225,24 @@
         "G1519"
       ],
       [
-        " judgment;",
+        " judgment",
         "G2920"
       ],
       [
-        " and",
+        "; and",
         "G1161"
-      ],
-      [
-        "",
-        "G2532"
       ],
       [
         " some",
         "G5100"
       ],
       [
-        " men they follow after.",
+        " men they follow after",
         "G1872"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|5|25": [
@@ -3659,11 +5267,11 @@
         "G2076"
       ],
       [
-        " manifest beforehand;",
+        " manifest beforehand",
         "G4271"
       ],
       [
-        " and",
+        "; and",
         "G2532"
       ],
       [
@@ -3672,32 +5280,236 @@
       ],
       [
         " otherwise",
-        "G247"
+        "G0247"
       ],
       [
-        " cannot",
-        "G3756"
-      ],
-      [
-        "",
+        " can",
         "G1410"
       ],
       [
-        " be hid.",
+        "not",
+        "G3756"
+      ],
+      [
+        " be hid",
         "G2928"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|6|1": [
+      [
+        "Let",
+        "G2233"
+      ],
+      [
+        " as many",
+        "G3745"
+      ],
+      [
+        " servants",
+        "G1401"
+      ],
+      [
+        " as",
+        "G3745"
+      ],
+      [
+        " are",
+        "G1526"
+      ],
+      [
+        " under",
+        "G5259"
+      ],
+      [
+        " the yoke",
+        "G2218"
+      ],
+      [
+        " count",
+        "G2233"
+      ],
+      [
+        " their own",
+        "G2398"
+      ],
+      [
+        " masters",
+        "G1203"
+      ],
+      [
+        " worthy",
+        "G0514"
+      ],
+      [
+        " of all",
+        "G3956"
+      ],
+      [
+        " honour",
+        "G5092"
+      ],
+      [
+        ", that",
+        "G2443"
+      ],
+      [
+        " the name",
+        "G3686"
+      ],
+      [
+        " of God",
+        "G2316"
+      ],
+      [
+        " and",
+        "G2532"
+      ],
+      [
+        " his doctrine",
+        "G1319"
+      ],
+      [
+        " be",
+        "G0987"
+      ],
+      [
+        " not",
+        "G3361"
+      ],
+      [
+        " blasphemed",
+        "G0987"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|6|2": [
+      [
+        "And",
+        "G1161"
+      ],
+      [
+        " they that have",
+        "G2192"
+      ],
+      [
+        " believing",
+        "G4103"
+      ],
+      [
+        " masters",
+        "G1203"
+      ],
+      [
+        ", let them",
+        "G2706"
+      ],
+      [
+        " not",
+        "G3361"
+      ],
+      [
+        " despise",
+        "G2706"
+      ],
+      [
+        " them, because",
+        "G3754"
+      ],
+      [
+        " they are",
+        "G1526"
+      ],
+      [
+        " brethren",
+        "G0080"
+      ],
+      [
+        "; but",
+        "G0235"
+      ],
+      [
+        " rather",
+        "G3123"
+      ],
+      [
+        " do",
+        "G1398"
+      ],
+      [
+        " them service",
+        "G1398"
+      ],
+      [
+        ", because",
+        "G3754"
+      ],
+      [
+        " they are",
+        "G1526"
+      ],
+      [
+        " faithful",
+        "G4103"
+      ],
+      [
+        " and",
+        "G2532"
+      ],
+      [
+        " beloved",
+        "G0027"
+      ],
+      [
+        ", partakers",
+        "G0482"
+      ],
+      [
+        " of the benefit",
+        "G2108"
+      ],
+      [
+        ". These things",
+        "G5023"
+      ],
+      [
+        " teach",
+        "G1321"
+      ],
+      [
+        " and",
+        "G2532"
+      ],
+      [
+        " exhort",
+        "G3870"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|6|3": [
       [
-        "If any man",
-        "G1536"
+        "If",
+        "G1487"
       ],
       [
-        " teach otherwise,",
+        " any man",
+        "G5100"
+      ],
+      [
+        " teach otherwise",
         "G2085"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -3713,11 +5525,15 @@
         "G5198"
       ],
       [
-        " words,",
+        " words",
         "G3056"
       ],
       [
-        " even the words of our",
+        ", even the",
+        "G3588"
+      ],
+      [
+        " words of our",
         "G2257"
       ],
       [
@@ -3729,11 +5545,11 @@
         "G2424"
       ],
       [
-        " Christ,",
+        " Christ",
         "G5547"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -3741,30 +5557,34 @@
         "G1319"
       ],
       [
-        " which is according",
+        " which is according to",
         "G2596"
       ],
       [
-        " to godliness;",
+        " godliness",
         "G2150"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Timothy|6|4": [
       [
-        "He is proud,",
+        "He is proud",
         "G5187"
       ],
       [
-        " knowing",
+        ", knowing",
         "G1987"
       ],
       [
-        " nothing,",
+        " nothing",
         "G3367"
       ],
       [
-        " but",
-        "G235"
+        ", but",
+        "G0235"
       ],
       [
         " doting",
@@ -3783,40 +5603,44 @@
         "G2532"
       ],
       [
-        " strifes of words,",
+        " strifes of words",
         "G3055"
       ],
       [
-        " whereof",
-        "G1537"
+        ", where",
+        "G3739"
       ],
       [
-        "",
-        "G3739"
+        "of",
+        "G1537"
       ],
       [
         " cometh",
         "G1096"
       ],
       [
-        " envy,",
+        " envy",
         "G5355"
       ],
       [
-        " strife,",
+        ", strife",
         "G2054"
       ],
       [
-        " railings,",
-        "G988"
+        ", railings",
+        "G0988"
       ],
       [
-        " evil",
+        ", evil",
         "G4190"
       ],
       [
-        " surmisings,",
+        " surmisings",
         "G5283"
+      ],
+      [
+        ",",
+        null
       ]
     ],
     "1 Timothy|6|5": [
@@ -3826,34 +5650,34 @@
       ],
       [
         " of men",
-        "G444"
+        "G0444"
       ],
       [
         " of corrupt",
         "G1311"
       ],
       [
-        " minds,",
+        " minds",
         "G3563"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
         " destitute",
-        "G650"
+        "G0650"
       ],
       [
-        " of the truth,",
-        "G225"
+        " of the truth",
+        "G0225"
       ],
       [
-        " supposing",
+        ", supposing that",
         "G3543"
       ],
       [
-        " that gain",
+        " gain",
         "G4200"
       ],
       [
@@ -3861,20 +5685,24 @@
         "G1511"
       ],
       [
-        " godliness:",
+        " godliness",
         "G2150"
       ],
       [
-        " from",
-        "G575"
+        ": from",
+        "G0575"
       ],
       [
         " such",
         "G5108"
       ],
       [
-        " withdraw thyself.",
-        "G868"
+        " withdraw thyself",
+        "G0868"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|6|6": [
@@ -3892,7 +5720,7 @@
       ],
       [
         " contentment",
-        "G841"
+        "G0841"
       ],
       [
         " is",
@@ -3903,8 +5731,100 @@
         "G3173"
       ],
       [
-        " gain.",
+        " gain",
         "G4200"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|6|7": [
+      [
+        "For",
+        "G1063"
+      ],
+      [
+        " we brought",
+        "G1533"
+      ],
+      [
+        " nothing",
+        "G3762"
+      ],
+      [
+        " into",
+        "G1519"
+      ],
+      [
+        " this world",
+        "G2889"
+      ],
+      [
+        ", and it is certain",
+        "G1212"
+      ],
+      [
+        " we can",
+        "G1410"
+      ],
+      [
+        " carry",
+        "G1627"
+      ],
+      [
+        " no",
+        "G3761"
+      ],
+      [
+        "thing",
+        "G5100"
+      ],
+      [
+        " out",
+        "G1627"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|6|8": [
+      [
+        "And",
+        "G1161"
+      ],
+      [
+        " having",
+        "G2192"
+      ],
+      [
+        " food",
+        "G1305"
+      ],
+      [
+        " and",
+        "G2532"
+      ],
+      [
+        " raiment",
+        "G4629"
+      ],
+      [
+        " let us be",
+        "G0714"
+      ],
+      [
+        " therewith",
+        "G5125"
+      ],
+      [
+        " content",
+        "G0714"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|6|9": [
@@ -3937,11 +5857,11 @@
         "G2532"
       ],
       [
-        " a snare,",
+        " a snare",
         "G3803"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -3950,7 +5870,7 @@
       ],
       [
         " foolish",
-        "G453"
+        "G0453"
       ],
       [
         " and",
@@ -3958,14 +5878,14 @@
       ],
       [
         " hurtful",
-        "G983"
+        "G0983"
       ],
       [
-        " lusts,",
+        " lusts",
         "G1939"
       ],
       [
-        " which",
+        ", which",
         "G3748"
       ],
       [
@@ -3974,7 +5894,7 @@
       ],
       [
         " men",
-        "G444"
+        "G0444"
       ],
       [
         " in",
@@ -3989,8 +5909,94 @@
         "G2532"
       ],
       [
-        " perdition.",
-        "G684"
+        " perdition",
+        "G0684"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|6|10": [
+      [
+        "For",
+        "G1063"
+      ],
+      [
+        " the love of money",
+        "G5365"
+      ],
+      [
+        " is",
+        "G2076"
+      ],
+      [
+        " the root",
+        "G4491"
+      ],
+      [
+        " of all",
+        "G3956"
+      ],
+      [
+        " evil",
+        "G2556"
+      ],
+      [
+        ": which",
+        "G3739"
+      ],
+      [
+        " while",
+        "G3713"
+      ],
+      [
+        " some",
+        "G5100"
+      ],
+      [
+        " coveted after",
+        "G3713"
+      ],
+      [
+        ", they have erred",
+        "G0635"
+      ],
+      [
+        " from",
+        "G0575"
+      ],
+      [
+        " the faith",
+        "G4102"
+      ],
+      [
+        ", and",
+        "G2532"
+      ],
+      [
+        " pierced",
+        "G4044"
+      ],
+      [
+        " themselves",
+        "G1438"
+      ],
+      [
+        " through",
+        "G4044"
+      ],
+      [
+        " with many",
+        "G4183"
+      ],
+      [
+        " sorrows",
+        "G3601"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|6|11": [
@@ -3999,31 +6005,31 @@
         "G1161"
       ],
       [
-        " thou,",
+        " thou",
         "G4771"
       ],
       [
-        " O",
+        ", O",
         "G5599"
       ],
       [
         " man",
-        "G444"
+        "G0444"
       ],
       [
-        " of God,",
+        " of God",
         "G2316"
       ],
       [
-        " flee",
+        ", flee",
         "G5343"
       ],
       [
-        " these things;",
+        " these things",
         "G5023"
       ],
       [
-        " and",
+        "; and",
         "G1161"
       ],
       [
@@ -4031,33 +6037,197 @@
         "G1377"
       ],
       [
-        " righteousness,",
+        " righteousness",
         "G1343"
       ],
       [
-        " godliness,",
+        ", godliness",
         "G2150"
       ],
       [
-        " faith,",
+        ", faith",
         "G4102"
       ],
       [
-        " love,",
-        "G26"
+        ", love",
+        "G0026"
       ],
       [
-        " patience,",
+        ", patience",
         "G5281"
       ],
       [
-        " meekness.",
+        ", meekness",
         "G4236"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|6|12": [
+      [
+        "Fight",
+        "G0075"
+      ],
+      [
+        " the good",
+        "G2570"
+      ],
+      [
+        " fight",
+        "G0073"
+      ],
+      [
+        " of faith",
+        "G4102"
+      ],
+      [
+        ", lay hold on",
+        "G1949"
+      ],
+      [
+        " eternal",
+        "G0166"
+      ],
+      [
+        " life",
+        "G2222"
+      ],
+      [
+        ", where",
+        "G3739"
+      ],
+      [
+        "unto",
+        "G1519"
+      ],
+      [
+        " thou art",
+        "G2564"
+      ],
+      [
+        " also",
+        "G2532"
+      ],
+      [
+        " called",
+        "G2564"
+      ],
+      [
+        ", and",
+        "G2532"
+      ],
+      [
+        " hast professed",
+        "G3670"
+      ],
+      [
+        " a good",
+        "G2570"
+      ],
+      [
+        " profession",
+        "G3671"
+      ],
+      [
+        " before",
+        "G1799"
+      ],
+      [
+        " many",
+        "G4183"
+      ],
+      [
+        " witnesses",
+        "G3144"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|6|13": [
+      [
+        "I give",
+        "G3853"
+      ],
+      [
+        " thee",
+        "G4671"
+      ],
+      [
+        " charge",
+        "G3853"
+      ],
+      [
+        " in the sight of",
+        "G1799"
+      ],
+      [
+        " God",
+        "G2316"
+      ],
+      [
+        ", who quickeneth",
+        "G2227"
+      ],
+      [
+        " all things",
+        "G3956"
+      ],
+      [
+        ", and",
+        "G2532"
+      ],
+      [
+        " before Christ",
+        "G5547"
+      ],
+      [
+        " Jesus",
+        "G2424"
+      ],
+      [
+        ", who",
+        "G3140"
+      ],
+      [
+        " before",
+        "G1909"
+      ],
+      [
+        " Pontius",
+        "G4194"
+      ],
+      [
+        " Pilate",
+        "G4091"
+      ],
+      [
+        " witnessed",
+        "G3140"
+      ],
+      [
+        " a good",
+        "G2570"
+      ],
+      [
+        " confession",
+        "G3671"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Timothy|6|14": [
       [
-        "That thou",
+        "That",
+        "G5083"
+      ],
+      [
+        " thou",
         "G4571"
       ],
       [
@@ -4069,15 +6239,15 @@
         "G1785"
       ],
       [
-        " without spot,",
-        "G784"
+        " without spot",
+        "G0784"
       ],
       [
-        " unrebukeable,",
-        "G423"
+        ", unrebukeable",
+        "G0423"
       ],
       [
-        " until",
+        ", until",
         "G3360"
       ],
       [
@@ -4097,8 +6267,12 @@
         "G2424"
       ],
       [
-        " Christ:",
+        " Christ",
         "G5547"
+      ],
+      [
+        ":",
+        null
       ]
     ],
     "1 Timothy|6|15": [
@@ -4115,15 +6289,11 @@
         "G2540"
       ],
       [
-        " he shall shew,",
+        " he shall shew",
         "G1166"
       ],
       [
-        " who",
-        "G3588"
-      ],
-      [
-        " is the blessed",
+        ", who is the blessed",
         "G3107"
       ],
       [
@@ -4135,19 +6305,19 @@
         "G3441"
       ],
       [
-        " Potentate,",
+        " Potentate",
         "G1413"
       ],
       [
-        " the King",
-        "G935"
+        ", the King",
+        "G0935"
       ],
       [
-        " of kings,",
-        "G936"
+        " of kings",
+        "G0936"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
@@ -4155,14 +6325,18 @@
         "G2962"
       ],
       [
-        " of lords;",
+        " of lords",
         "G2961"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Timothy|6|16": [
       [
         "Who",
-        "G3588"
+        "G2192"
       ],
       [
         " only",
@@ -4173,39 +6347,39 @@
         "G2192"
       ],
       [
-        " immortality,",
-        "G110"
+        " immortality",
+        "G0110"
       ],
       [
-        " dwelling",
+        ", dwelling in",
         "G3611"
       ],
       [
-        " in the light",
+        " the light",
         "G5457"
       ],
       [
-        " which no man",
-        "G3762"
+        " which no man can approach unto",
+        "G0676"
       ],
       [
-        " can approach unto;",
-        "G676"
-      ],
-      [
-        " whom",
+        "; whom",
         "G3739"
       ],
       [
-        " no man",
-        "G444"
+        " no",
+        "G3762"
       ],
       [
-        " hath seen,",
+        " man",
+        "G0444"
+      ],
+      [
+        " hath seen",
         "G1492"
       ],
       [
-        " nor",
+        ", nor",
         "G3761"
       ],
       [
@@ -4213,11 +6387,11 @@
         "G1410"
       ],
       [
-        " see:",
+        " see",
         "G1492"
       ],
       [
-        " to whom",
+        ": to whom",
         "G3739"
       ],
       [
@@ -4233,21 +6407,119 @@
         "G2904"
       ],
       [
-        " everlasting.",
-        "G166"
+        " everlasting",
+        "G0166"
       ],
       [
-        " Amen.",
-        "G281"
+        ". Amen",
+        "G0281"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "1 Timothy|6|17": [
+      [
+        "Charge",
+        "G3853"
+      ],
+      [
+        " them that are rich",
+        "G4145"
+      ],
+      [
+        " in",
+        "G1722"
+      ],
+      [
+        " this",
+        "G3568"
+      ],
+      [
+        " world",
+        "G0165"
+      ],
+      [
+        ", that they be",
+        "G5309"
+      ],
+      [
+        " not",
+        "G3361"
+      ],
+      [
+        " highminded",
+        "G5309"
+      ],
+      [
+        ", nor",
+        "G3366"
+      ],
+      [
+        " trust",
+        "G1679"
+      ],
+      [
+        " in",
+        "G1909"
+      ],
+      [
+        " uncertain",
+        "G0083"
+      ],
+      [
+        " riches",
+        "G4149"
+      ],
+      [
+        ", but",
+        "G0235"
+      ],
+      [
+        " in",
+        "G1722"
+      ],
+      [
+        " the living",
+        "G2198"
+      ],
+      [
+        " God",
+        "G2316"
+      ],
+      [
+        ", who giveth",
+        "G3930"
+      ],
+      [
+        " us",
+        "G2254"
+      ],
+      [
+        " richly",
+        "G4146"
+      ],
+      [
+        " all things",
+        "G3956"
+      ],
+      [
+        " to",
+        "G1519"
+      ],
+      [
+        " enjoy;",
+        null
       ]
     ],
     "1 Timothy|6|18": [
       [
-        "That they do good,",
-        "G14"
+        "That they do good",
+        "G0014"
       ],
       [
-        " that they be rich",
+        ", that they be rich",
         "G4147"
       ],
       [
@@ -4259,26 +6531,26 @@
         "G2570"
       ],
       [
-        " works,",
+        " works",
         "G2041"
       ],
       [
-        " ready to distribute,",
-        "G1511"
-      ],
-      [
-        "",
+        ", ready to distribute",
         "G2130"
       ],
       [
-        " willing to communicate;",
+        ", willing to communicate",
         "G2843"
+      ],
+      [
+        ";",
+        null
       ]
     ],
     "1 Timothy|6|19": [
       [
         "Laying up in store",
-        "G597"
+        "G0597"
       ],
       [
         " for themselves",
@@ -4297,11 +6569,11 @@
         "G1519"
       ],
       [
-        " the time to come,",
+        " the time to come",
         "G3195"
       ],
       [
-        " that",
+        ", that",
         "G2443"
       ],
       [
@@ -4310,11 +6582,15 @@
       ],
       [
         " eternal",
-        "G166"
+        "G0166"
       ],
       [
-        " life.",
+        " life",
         "G2222"
+      ],
+      [
+        ".",
+        null
       ]
     ],
     "1 Timothy|6|20": [
@@ -4323,44 +6599,94 @@
         "G5599"
       ],
       [
-        " Timothy,",
+        " Timothy",
         "G5095"
       ],
       [
-        " keep",
+        ", keep",
         "G5442"
       ],
       [
-        " that which is committed to thy trust,",
+        " that which is committed to thy trust",
         "G3872"
       ],
       [
-        " avoiding",
+        ", avoiding",
         "G1624"
       ],
       [
         " profane",
-        "G952"
+        "G0952"
       ],
       [
-        " and vain babblings,",
+        " and vain babblings",
         "G2757"
       ],
       [
-        " and",
+        ", and",
         "G2532"
       ],
       [
         " oppositions",
-        "G477"
+        "G0477"
       ],
       [
         " of science",
         "G1108"
       ],
       [
-        " falsely so called:",
+        " falsely so called",
         "G5581"
+      ],
+      [
+        ":",
+        null
+      ]
+    ],
+    "1 Timothy|6|21": [
+      [
+        "Which",
+        "G3739"
+      ],
+      [
+        " some",
+        "G5100"
+      ],
+      [
+        " professing",
+        "G1861"
+      ],
+      [
+        " have erred",
+        "G0795"
+      ],
+      [
+        " concerning",
+        "G4012"
+      ],
+      [
+        " the faith",
+        "G4102"
+      ],
+      [
+        ". Grace",
+        "G5485"
+      ],
+      [
+        " be with",
+        "G3326"
+      ],
+      [
+        " thee",
+        "G4675"
+      ],
+      [
+        ". Amen",
+        "G0281"
+      ],
+      [
+        ".",
+        null
       ]
     ]
   }

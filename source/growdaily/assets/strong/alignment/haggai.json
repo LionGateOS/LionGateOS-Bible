@@ -17,31 +17,31 @@
         "H1867"
       ],
       [
-        " the king,",
+        " the king",
         "H4428"
       ],
       [
-        " in the sixth",
+        ", in the sixth",
         "H8345"
       ],
       [
-        " month,",
+        " month",
         "H2320"
       ],
       [
-        " in the first",
-        "H259"
+        ", in the first",
+        "H0259"
       ],
       [
         " day",
         "H3117"
       ],
       [
-        " of the month,",
+        " of the month",
         "H2320"
       ],
       [
-        " came the word",
+        ", came the word",
         "H1697"
       ],
       [
@@ -69,19 +69,19 @@
         "H1121"
       ],
       [
-        " of Shealtiel,",
+        " of Shealtiel",
         "H7597"
       ],
       [
-        " governor",
+        ", governor",
         "H6346"
       ],
       [
-        " of Judah,",
+        " of Judah",
         "H3063"
       ],
       [
-        " and to Joshua",
+        ", and to Joshua",
         "H3091"
       ],
       [
@@ -89,57 +89,61 @@
         "H1121"
       ],
       [
-        " of Josedech,",
+        " of Josedech",
         "H3087"
       ],
       [
-        " the high",
+        ", the high",
         "H1419"
       ],
       [
-        " priest,",
+        " priest",
         "H3548"
       ],
       [
-        " saying,",
+        ", saying",
+        "H0559"
+      ],
+      [
+        ",",
         null
       ]
     ],
     "Haggai|1|2": [
       [
         "Thus speaketh",
-        "H559"
+        "H0559"
       ],
       [
         " the LORD",
         "H3068"
       ],
       [
-        " of hosts,",
+        " of hosts",
         "H6635"
       ],
       [
-        " saying,",
-        "H559"
+        ", saying",
+        "H0559"
       ],
       [
-        " This people",
+        ", This people",
         "H5971"
       ],
       [
-        " say,",
-        "H559"
+        " say",
+        "H0559"
       ],
       [
-        " The time",
+        ", The time",
         "H6256"
       ],
       [
-        " is not come,",
-        "H935"
+        " is not come",
+        "H0935"
       ],
       [
-        " the time",
+        ", the time",
         "H6256"
       ],
       [
@@ -151,7 +155,11 @@
         "H1004"
       ],
       [
-        " should be built.",
+        " should be built",
+        "H1129"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -173,11 +181,15 @@
         "H2292"
       ],
       [
-        " the prophet,",
+        " the prophet",
         "H5030"
       ],
       [
-        " saying,",
+        ", saying",
+        "H0559"
+      ],
+      [
+        ",",
         null
       ]
     ],
@@ -195,41 +207,45 @@
         "H5603"
       ],
       [
-        " houses,",
+        " houses",
         "H1004"
       ],
       [
-        " and this house",
+        ", and this house",
         "H1004"
       ],
       [
-        " lie waste?",
+        " lie waste",
+        "H2720"
+      ],
+      [
+        "?",
         null
       ]
     ],
     "Haggai|1|5": [
       [
         "Now therefore thus saith",
-        "H559"
+        "H0559"
       ],
       [
         " the LORD",
         "H3068"
       ],
       [
-        " of hosts;",
+        " of hosts",
         "H6635"
       ],
       [
-        " Consider",
+        "; Consider",
         "H7760"
       ],
       [
-        "",
-        "H3824"
+        " your ways",
+        "H1870"
       ],
       [
-        " your ways.",
+        ".",
         null
       ]
     ],
@@ -239,43 +255,43 @@
         "H2232"
       ],
       [
-        " much,",
+        " much",
         "H7235"
       ],
       [
-        " and bring",
-        "H935"
+        ", and bring",
+        "H0935"
       ],
       [
-        " in little;",
+        " in little",
         "H4592"
       ],
       [
-        " ye eat,",
-        "H398"
+        "; ye eat",
+        "H0398"
       ],
       [
-        " but ye have not enough;",
+        ", but ye have not enough",
         "H7654"
       ],
       [
-        " ye drink,",
+        "; ye drink",
         "H8354"
       ],
       [
-        " but ye are not filled with drink;",
+        ", but ye are not filled with drink",
         "H7937"
       ],
       [
-        " ye clothe",
+        "; ye clothe",
         "H3847"
       ],
       [
-        " you, but there is none warm;",
+        " you, but there is none warm",
         "H2527"
       ],
       [
-        " and he that earneth wages",
+        "; and he that earneth wages",
         "H7936"
       ],
       [
@@ -287,33 +303,37 @@
         "H6872"
       ],
       [
-        " with holes.",
+        " with holes",
+        "H5344"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Haggai|1|7": [
       [
         "Thus saith",
-        "H559"
+        "H0559"
       ],
       [
         " the LORD",
         "H3068"
       ],
       [
-        " of hosts;",
+        " of hosts",
         "H6635"
       ],
       [
-        " Consider",
+        "; Consider",
         "H7760"
       ],
       [
-        "",
-        "H3824"
+        " your ways",
+        "H1870"
       ],
       [
-        " your ways.",
+        ".",
         null
       ]
     ],
@@ -323,39 +343,43 @@
         "H5927"
       ],
       [
-        " to the mountain,",
+        " to the mountain",
         "H2022"
       ],
       [
-        " and bring",
-        "H935"
+        ", and bring",
+        "H0935"
       ],
       [
-        " wood,",
+        " wood",
         "H6086"
       ],
       [
-        " and build",
+        ", and build",
         "H1129"
       ],
       [
-        " the house;",
+        " the house",
         "H1004"
       ],
       [
-        " and I will take pleasure",
+        "; and I will take pleasure",
         "H7521"
       ],
       [
-        " in it, and I will be glorified,",
+        " in it, and I will be glorified",
         "H3513"
       ],
       [
-        " saith",
-        "H559"
+        ", saith",
+        "H0559"
       ],
       [
-        " the LORD.",
+        " the LORD",
+        "H3068"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -365,23 +389,23 @@
         "H6437"
       ],
       [
-        " for much,",
+        " for much",
         "H7235"
       ],
       [
-        " and, lo, it came to little;",
+        ", and, lo, it came to little",
         "H4592"
       ],
       [
-        " and when ye brought",
-        "H935"
+        "; and when ye brought",
+        "H0935"
       ],
       [
-        " it home,",
+        " it home",
         "H1004"
       ],
       [
-        " I did blow",
+        ", I did blow",
         "H5301"
       ],
       [
@@ -393,11 +417,11 @@
         "H3068"
       ],
       [
-        " of hosts.",
+        " of hosts",
         "H6635"
       ],
       [
-        " Because",
+        ". Because",
         "H3282"
       ],
       [
@@ -405,19 +429,23 @@
         "H1004"
       ],
       [
-        " that is waste,",
+        " that is waste",
         "H2720"
       ],
       [
-        " and ye run",
+        ", and ye run",
         "H7323"
       ],
       [
         " every man",
-        "H376"
+        "H0376"
       ],
       [
-        " unto his own house.",
+        " unto his own house",
+        "H1004"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -431,19 +459,23 @@
         "H3607"
       ],
       [
-        " from dew,",
+        " from dew",
         "H2919"
       ],
       [
-        " and the earth",
-        "H776"
+        ", and the earth",
+        "H0776"
       ],
       [
         " is stayed",
         "H3607"
       ],
       [
-        " from her fruit.",
+        " from her fruit",
+        "H2981"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -457,47 +489,51 @@
         "H2721"
       ],
       [
-        " upon the land,",
-        "H776"
+        " upon the land",
+        "H0776"
       ],
       [
-        " and upon the mountains,",
+        ", and upon the mountains",
         "H2022"
       ],
       [
-        " and upon the corn,",
+        ", and upon the corn",
         "H1715"
       ],
       [
-        " and upon the new wine,",
+        ", and upon the new wine",
         "H8492"
       ],
       [
-        " and upon the oil,",
+        ", and upon the oil",
         "H3323"
       ],
       [
-        " and upon that which the ground",
-        "H127"
+        ", and upon that which the ground",
+        "H0127"
       ],
       [
-        " bringeth forth,",
+        " bringeth forth",
         "H3318"
       ],
       [
-        " and upon men,",
-        "H120"
+        ", and upon men",
+        "H0120"
       ],
       [
-        " and upon cattle,",
-        "H929"
+        ", and upon cattle",
+        "H0929"
       ],
       [
-        " and upon all the labour",
+        ", and upon all the labour",
         "H3018"
       ],
       [
-        " of the hands.",
+        " of the hands",
+        "H3709"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -511,11 +547,11 @@
         "H1121"
       ],
       [
-        " of Shealtiel,",
+        " of Shealtiel",
         "H7597"
       ],
       [
-        " and Joshua",
+        ", and Joshua",
         "H3091"
       ],
       [
@@ -523,27 +559,27 @@
         "H1121"
       ],
       [
-        " of Josedech,",
+        " of Josedech",
         "H3087"
       ],
       [
-        " the high",
+        ", the high",
         "H1419"
       ],
       [
-        " priest,",
+        " priest",
         "H3548"
       ],
       [
-        " with all the remnant",
+        ", with all the remnant",
         "H7611"
       ],
       [
-        " of the people,",
+        " of the people",
         "H5971"
       ],
       [
-        " obeyed",
+        ", obeyed",
         "H8085"
       ],
       [
@@ -555,11 +591,11 @@
         "H3068"
       ],
       [
-        " their God,",
-        "H430"
+        " their God",
+        "H0430"
       ],
       [
-        " and the words",
+        ", and the words",
         "H1697"
       ],
       [
@@ -567,16 +603,16 @@
         "H2292"
       ],
       [
-        " the prophet,",
+        " the prophet",
         "H5030"
       ],
       [
-        " as the LORD",
+        ", as the LORD",
         "H3068"
       ],
       [
         " their God",
-        "H430"
+        "H0430"
       ],
       [
         " had sent",
@@ -595,14 +631,18 @@
         "H6440"
       ],
       [
-        " the LORD.",
+        " the LORD",
+        "H3068"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Haggai|1|13": [
       [
         "Then spake",
-        "H559"
+        "H0559"
       ],
       [
         " Haggai",
@@ -625,19 +665,23 @@
         "H4400"
       ],
       [
-        " unto the people,",
+        " unto the people",
         "H5971"
       ],
       [
-        " saying,",
-        "H559"
+        ", saying",
+        "H0559"
       ],
       [
-        " I am with you, saith",
+        ", I am with you, saith",
         "H5002"
       ],
       [
-        " the LORD.",
+        " the LORD",
+        "H3068"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -663,19 +707,19 @@
         "H1121"
       ],
       [
-        " of Shealtiel,",
+        " of Shealtiel",
         "H7597"
       ],
       [
-        " governor",
+        ", governor",
         "H6346"
       ],
       [
-        " of Judah,",
+        " of Judah",
         "H3063"
       ],
       [
-        " and the spirit",
+        ", and the spirit",
         "H7307"
       ],
       [
@@ -687,19 +731,19 @@
         "H1121"
       ],
       [
-        " of Josedech,",
+        " of Josedech",
         "H3087"
       ],
       [
-        " the high",
+        ", the high",
         "H1419"
       ],
       [
-        " priest,",
+        " priest",
         "H3548"
       ],
       [
-        " and the spirit",
+        ", and the spirit",
         "H7307"
       ],
       [
@@ -707,12 +751,12 @@
         "H7611"
       ],
       [
-        " of the people;",
+        " of the people",
         "H5971"
       ],
       [
-        " and they came",
-        "H935"
+        "; and they came",
+        "H0935"
       ],
       [
         " and did",
@@ -731,18 +775,22 @@
         "H3068"
       ],
       [
-        " of hosts,",
+        " of hosts",
         "H6635"
       ],
       [
-        " their God,",
+        ", their God",
+        "H0430"
+      ],
+      [
+        ",",
         null
       ]
     ],
     "Haggai|1|15": [
       [
         "In the four",
-        "H702"
+        "H0702"
       ],
       [
         " and twentieth",
@@ -757,11 +805,11 @@
         "H8345"
       ],
       [
-        " month,",
+        " month",
         "H2320"
       ],
       [
-        " in the second",
+        ", in the second",
         "H8147"
       ],
       [
@@ -773,7 +821,11 @@
         "H1867"
       ],
       [
-        " the king.",
+        " the king",
+        "H4428"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -784,18 +836,18 @@
       ],
       [
         " month, in the one",
-        "H259"
+        "H0259"
       ],
       [
         " and twentieth",
         "H6242"
       ],
       [
-        " day of the month,",
+        " day of the month",
         "H2320"
       ],
       [
-        " came the word",
+        ", came the word",
         "H1697"
       ],
       [
@@ -811,18 +863,22 @@
         "H5030"
       ],
       [
-        " Haggai,",
+        " Haggai",
         "H2292"
       ],
       [
-        " saying,",
+        ", saying",
+        "H0559"
+      ],
+      [
+        ",",
         null
       ]
     ],
     "Haggai|2|2": [
       [
         "Speak",
-        "H559"
+        "H0559"
       ],
       [
         " now to Zerubbabel",
@@ -833,19 +889,19 @@
         "H1121"
       ],
       [
-        " of Shealtiel,",
+        " of Shealtiel",
         "H7597"
       ],
       [
-        " governor",
+        ", governor",
         "H6346"
       ],
       [
-        " of Judah,",
+        " of Judah",
         "H3063"
       ],
       [
-        " and to Joshua",
+        ", and to Joshua",
         "H3091"
       ],
       [
@@ -853,97 +909,83 @@
         "H1121"
       ],
       [
-        " of Josedech,",
+        " of Josedech",
         "H3087"
       ],
       [
-        " the high",
+        ", the high",
         "H1419"
       ],
       [
-        " priest,",
+        " priest",
         "H3548"
       ],
       [
-        " and to the residue",
+        ", and to the residue",
         "H7611"
       ],
       [
-        " of the people,",
+        " of the people",
         "H5971"
       ],
       [
-        " saying,",
+        ", saying",
+        "H0559"
+      ],
+      [
+        ",",
+        null
+      ]
+    ],
+    "Haggai|2|3": [
+      [
+        "Who is left",
+        "H7604"
+      ],
+      [
+        " among you that saw",
+        "H7200"
+      ],
+      [
+        " this house",
+        "H1004"
+      ],
+      [
+        " in her first",
+        "H7223"
+      ],
+      [
+        " glory",
+        "H3519"
+      ],
+      [
+        "? and how do ye see",
+        "H7200"
+      ],
+      [
+        " it now? is it not in your eyes",
+        "H5869"
+      ],
+      [
+        " in comparison",
+        "H3644"
+      ],
+      [
+        " of it as nothing?",
         null
       ]
     ],
     "Haggai|2|4": [
       [
-        "Yet now be strong,",
+        "Yet now be strong",
         "H2388"
       ],
       [
-        " O Zerubbabel,",
+        ", O Zerubbabel",
         "H2216"
       ],
       [
-        " saith",
-        "H5002"
-      ],
-      [
-        " the LORD;",
-        "H3068"
-      ],
-      [
-        " and be strong,",
-        "H2388"
-      ],
-      [
-        " O Joshua,",
-        "H3091"
-      ],
-      [
-        " son",
-        "H1121"
-      ],
-      [
-        " of Josedech,",
-        "H3087"
-      ],
-      [
-        " the high",
-        "H1419"
-      ],
-      [
-        " priest;",
-        "H3548"
-      ],
-      [
-        " and be strong,",
-        "H2388"
-      ],
-      [
-        " all ye people",
-        "H5971"
-      ],
-      [
-        " of the land,",
-        "H776"
-      ],
-      [
-        " saith",
-        "H5002"
-      ],
-      [
-        " the LORD,",
-        "H3068"
-      ],
-      [
-        " and work:",
-        "H6213"
-      ],
-      [
-        " for I am with you, saith",
+        ", saith",
         "H5002"
       ],
       [
@@ -951,7 +993,151 @@
         "H3068"
       ],
       [
-        " of hosts:",
+        "; and be strong",
+        "H2388"
+      ],
+      [
+        ", O Joshua",
+        "H3091"
+      ],
+      [
+        ", son",
+        "H1121"
+      ],
+      [
+        " of Josedech",
+        "H3087"
+      ],
+      [
+        ", the high",
+        "H1419"
+      ],
+      [
+        " priest",
+        "H3548"
+      ],
+      [
+        "; and be strong",
+        "H2388"
+      ],
+      [
+        ", all ye people",
+        "H5971"
+      ],
+      [
+        " of the land",
+        "H0776"
+      ],
+      [
+        ", saith",
+        "H5002"
+      ],
+      [
+        " the LORD",
+        "H3068"
+      ],
+      [
+        ", and work",
+        "H6213"
+      ],
+      [
+        ": for I am with you, saith",
+        "H5002"
+      ],
+      [
+        " the LORD",
+        "H3068"
+      ],
+      [
+        " of hosts",
+        "H6635"
+      ],
+      [
+        ":",
+        null
+      ]
+    ],
+    "Haggai|2|5": [
+      [
+        "According to the word",
+        "H1697"
+      ],
+      [
+        " that I covenanted",
+        "H3772"
+      ],
+      [
+        " with you when ye came",
+        "H3318"
+      ],
+      [
+        " out of Egypt",
+        "H4714"
+      ],
+      [
+        ", so my spirit",
+        "H7307"
+      ],
+      [
+        " remaineth",
+        "H5975"
+      ],
+      [
+        " among",
+        "H8432"
+      ],
+      [
+        " you: fear",
+        "H3372"
+      ],
+      [
+        " ye not.",
+        null
+      ]
+    ],
+    "Haggai|2|6": [
+      [
+        "For thus saith",
+        "H0559"
+      ],
+      [
+        " the LORD",
+        "H3068"
+      ],
+      [
+        " of hosts",
+        "H6635"
+      ],
+      [
+        "; Yet once",
+        "H0259"
+      ],
+      [
+        ", it is a little while",
+        "H4592"
+      ],
+      [
+        ", and I will shake",
+        "H7493"
+      ],
+      [
+        " the heavens",
+        "H8064"
+      ],
+      [
+        ", and the earth",
+        "H0776"
+      ],
+      [
+        ", and the sea",
+        "H3220"
+      ],
+      [
+        ", and the dry",
+        "H2724"
+      ],
+      [
+        " land;",
         null
       ]
     ],
@@ -961,11 +1147,11 @@
         "H7493"
       ],
       [
-        " all nations,",
+        " all nations",
         "H1471"
       ],
       [
-        " and the desire",
+        ", and the desire",
         "H2532"
       ],
       [
@@ -973,11 +1159,11 @@
         "H1471"
       ],
       [
-        " shall come:",
-        "H935"
+        " shall come",
+        "H0935"
       ],
       [
-        " and I will fill",
+        ": and I will fill",
         "H4390"
       ],
       [
@@ -985,19 +1171,23 @@
         "H1004"
       ],
       [
-        " with glory,",
+        " with glory",
         "H3519"
       ],
       [
-        " saith",
-        "H559"
+        ", saith",
+        "H0559"
       ],
       [
         " the LORD",
         "H3068"
       ],
       [
-        " of hosts.",
+        " of hosts",
+        "H6635"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1019,7 +1209,11 @@
         "H3068"
       ],
       [
-        " of hosts.",
+        " of hosts",
+        "H6635"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1030,7 +1224,7 @@
       ],
       [
         " of this latter",
-        "H314"
+        "H0314"
       ],
       [
         " house",
@@ -1041,11 +1235,11 @@
         "H1419"
       ],
       [
-        " of the former,",
+        " of the former",
         "H7223"
       ],
       [
-        " saith",
+        ", saith",
         "H5002"
       ],
       [
@@ -1053,11 +1247,11 @@
         "H3068"
       ],
       [
-        " of hosts:",
+        " of hosts",
         "H6635"
       ],
       [
-        " and in this place",
+        ": and in this place",
         "H4725"
       ],
       [
@@ -1065,26 +1259,30 @@
         "H5414"
       ],
       [
-        " peace,",
+        " peace",
         "H7965"
       ],
       [
-        " saith",
-        "H559"
+        ", saith",
+        "H0559"
       ],
       [
         " the LORD",
         "H3068"
       ],
       [
-        " of hosts.",
+        " of hosts",
+        "H6635"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Haggai|2|10": [
       [
         "In the four",
-        "H702"
+        "H0702"
       ],
       [
         " and twentieth",
@@ -1103,11 +1301,11 @@
         "H8141"
       ],
       [
-        " of Darius,",
+        " of Darius",
         "H1867"
       ],
       [
-        " came the word",
+        ", came the word",
         "H1697"
       ],
       [
@@ -1123,29 +1321,33 @@
         "H2292"
       ],
       [
-        " the prophet,",
+        " the prophet",
         "H5030"
       ],
       [
-        " saying,",
+        ", saying",
+        "H0559"
+      ],
+      [
+        ",",
         null
       ]
     ],
     "Haggai|2|11": [
       [
         "Thus saith",
-        "H559"
+        "H0559"
       ],
       [
         " the LORD",
         "H3068"
       ],
       [
-        " of hosts;",
+        " of hosts",
         "H6635"
       ],
       [
-        " Ask",
+        "; Ask",
         "H7592"
       ],
       [
@@ -1153,25 +1355,103 @@
         "H3548"
       ],
       [
-        " concerning the law,",
+        " concerning the law",
         "H8451"
       ],
       [
-        " saying,",
+        ", saying",
+        "H0559"
+      ],
+      [
+        ",",
+        null
+      ]
+    ],
+    "Haggai|2|12": [
+      [
+        "If one",
+        "H0376"
+      ],
+      [
+        " bear",
+        "H5375"
+      ],
+      [
+        " holy",
+        "H6944"
+      ],
+      [
+        " flesh",
+        "H1320"
+      ],
+      [
+        " in the skirt",
+        "H3671"
+      ],
+      [
+        " of his garment",
+        "H0899"
+      ],
+      [
+        ", and with his skirt",
+        "H3671"
+      ],
+      [
+        " do touch",
+        "H5060"
+      ],
+      [
+        " bread",
+        "H3899"
+      ],
+      [
+        ", or pottage",
+        "H5138"
+      ],
+      [
+        ", or wine",
+        "H3196"
+      ],
+      [
+        ", or oil",
+        "H8081"
+      ],
+      [
+        ", or any meat",
+        "H3978"
+      ],
+      [
+        ", shall it be holy",
+        "H6942"
+      ],
+      [
+        "? And the priests",
+        "H3548"
+      ],
+      [
+        " answered",
+        "H6030"
+      ],
+      [
+        " and said",
+        "H0559"
+      ],
+      [
+        ", No.",
         null
       ]
     ],
     "Haggai|2|13": [
       [
         "Then said",
-        "H559"
+        "H0559"
       ],
       [
-        " Haggai,",
+        " Haggai",
         "H2292"
       ],
       [
-        " If one that is unclean",
+        ", If one that is unclean",
         "H2931"
       ],
       [
@@ -1183,11 +1463,11 @@
         "H5060"
       ],
       [
-        " any of these, shall it be unclean?",
+        " any of these, shall it be unclean",
         "H2930"
       ],
       [
-        " And the priests",
+        "? And the priests",
         "H3548"
       ],
       [
@@ -1195,11 +1475,15 @@
         "H6030"
       ],
       [
-        " and said,",
-        "H559"
+        " and said",
+        "H0559"
       ],
       [
-        " It shall be unclean.",
+        ", It shall be unclean",
+        "H2930"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1209,19 +1493,19 @@
         "H6030"
       ],
       [
-        " Haggai,",
+        " Haggai",
         "H2292"
       ],
       [
-        " and said,",
-        "H559"
+        ", and said",
+        "H0559"
       ],
       [
-        " So is this people,",
+        ", So is this people",
         "H5971"
       ],
       [
-        " and so is this nation",
+        ", and so is this nation",
         "H1471"
       ],
       [
@@ -1233,23 +1517,27 @@
         "H5002"
       ],
       [
-        " the LORD;",
+        " the LORD",
         "H3068"
       ],
       [
-        " and so is every work",
+        "; and so is every work",
         "H4639"
       ],
       [
-        " of their hands;",
+        " of their hands",
         "H3027"
       ],
       [
-        " and that which they offer",
+        "; and that which they offer",
         "H7126"
       ],
       [
-        " there is unclean.",
+        " there is unclean",
+        "H2931"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1259,24 +1547,20 @@
         "H7760"
       ],
       [
-        "",
-        "H3824"
-      ],
-      [
         " from this day",
         "H3117"
       ],
       [
-        " and upward,",
+        " and upward",
         "H4605"
       ],
       [
-        " from before",
+        ", from before",
         "H2962"
       ],
       [
         " a stone",
-        "H68"
+        "H0068"
       ],
       [
         " was laid",
@@ -1284,21 +1568,25 @@
       ],
       [
         " upon a stone",
-        "H68"
+        "H0068"
       ],
       [
         " in the temple",
         "H1964"
       ],
       [
-        " of the LORD:",
+        " of the LORD",
+        "H3068"
+      ],
+      [
+        ":",
         null
       ]
     ],
     "Haggai|2|16": [
       [
         "Since those days were, when one came",
-        "H935"
+        "H0935"
       ],
       [
         " to an heap",
@@ -1309,12 +1597,12 @@
         "H6242"
       ],
       [
-        " measures, there were but ten:",
+        " measures, there were but ten",
         "H6235"
       ],
       [
-        " when one came",
-        "H935"
+        ": when one came",
+        "H0935"
       ],
       [
         " to the pressfat",
@@ -1329,11 +1617,15 @@
         "H2572"
       ],
       [
-        " vessels out of the press,",
+        " vessels out of the press",
         "H6333"
       ],
       [
-        " there were but twenty.",
+        ", there were but twenty",
+        "H6242"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1359,15 +1651,119 @@
         "H4639"
       ],
       [
-        " of your hands;",
+        " of your hands",
         "H3027"
       ],
       [
-        " yet ye turned not to me, saith",
+        "; yet ye turned not to me, saith",
         "H5002"
       ],
       [
-        " the LORD.",
+        " the LORD",
+        "H3068"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Haggai|2|18": [
+      [
+        "Consider",
+        "H7760"
+      ],
+      [
+        " now from this day",
+        "H3117"
+      ],
+      [
+        " and upward",
+        "H4605"
+      ],
+      [
+        ", from the four",
+        "H0702"
+      ],
+      [
+        " and twentieth",
+        "H6242"
+      ],
+      [
+        " day",
+        "H3117"
+      ],
+      [
+        " of the ninth",
+        "H8671"
+      ],
+      [
+        " month, even from the day",
+        "H3117"
+      ],
+      [
+        " that the foundation",
+        "H3245"
+      ],
+      [
+        " of the LORD'S",
+        "H3068"
+      ],
+      [
+        " temple",
+        "H1964"
+      ],
+      [
+        " was laid, consider",
+        "H7760"
+      ],
+      [
+        " it.",
+        null
+      ]
+    ],
+    "Haggai|2|19": [
+      [
+        "Is the seed",
+        "H2233"
+      ],
+      [
+        " yet in the barn",
+        "H4035"
+      ],
+      [
+        "? yea, as yet the vine",
+        "H1612"
+      ],
+      [
+        ", and the fig tree",
+        "H8384"
+      ],
+      [
+        ", and the pomegranate",
+        "H7416"
+      ],
+      [
+        ", and the olive",
+        "H2132"
+      ],
+      [
+        " tree",
+        "H6086"
+      ],
+      [
+        ", hath not brought forth",
+        "H5375"
+      ],
+      [
+        ": from this day",
+        "H3117"
+      ],
+      [
+        " will I bless",
+        "H1288"
+      ],
+      [
+        " you.",
         null
       ]
     ],
@@ -1390,44 +1786,48 @@
       ],
       [
         " in the four",
-        "H702"
+        "H0702"
       ],
       [
         " and twentieth",
         "H6242"
       ],
       [
-        " day of the month,",
+        " day of the month",
         "H2320"
       ],
       [
-        " saying,",
+        ", saying",
+        "H0559"
+      ],
+      [
+        ",",
         null
       ]
     ],
     "Haggai|2|21": [
       [
         "Speak",
-        "H559"
+        "H0559"
       ],
       [
-        " to Zerubbabel,",
+        " to Zerubbabel",
         "H2216"
       ],
       [
-        " governor",
+        ", governor",
         "H6346"
       ],
       [
-        " of Judah,",
+        " of Judah",
         "H3063"
       ],
       [
-        " saying,",
-        "H559"
+        ", saying",
+        "H0559"
       ],
       [
-        " I will shake",
+        ", I will shake",
         "H7493"
       ],
       [
@@ -1435,7 +1835,11 @@
         "H8064"
       ],
       [
-        " and the earth;",
+        " and the earth",
+        "H0776"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -1449,11 +1853,11 @@
         "H3678"
       ],
       [
-        " of kingdoms,",
+        " of kingdoms",
         "H4467"
       ],
       [
-        " and I will destroy",
+        ", and I will destroy",
         "H8045"
       ],
       [
@@ -1465,19 +1869,19 @@
         "H4467"
       ],
       [
-        " of the heathen;",
+        " of the heathen",
         "H1471"
       ],
       [
-        " and I will overthrow",
+        "; and I will overthrow",
         "H2015"
       ],
       [
-        " the chariots,",
+        " the chariots",
         "H4818"
       ],
       [
-        " and those that ride",
+        ", and those that ride",
         "H7392"
       ],
       [
@@ -1489,29 +1893,33 @@
         "H7392"
       ],
       [
-        " shall come down,",
+        " shall come down",
         "H3381"
       ],
       [
-        " every one",
-        "H376"
+        ", every one",
+        "H0376"
       ],
       [
         " by the sword",
         "H2719"
       ],
       [
-        " of his brother.",
+        " of his brother",
+        "H0251"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Haggai|2|23": [
       [
-        "In that day,",
+        "In that day",
         "H3117"
       ],
       [
-        " saith",
+        ", saith",
         "H5002"
       ],
       [
@@ -1519,48 +1927,48 @@
         "H3068"
       ],
       [
-        " of hosts,",
+        " of hosts",
         "H6635"
       ],
       [
-        " will I take",
+        ", will I take",
         "H3947"
       ],
       [
-        " thee, O Zerubbabel,",
+        " thee, O Zerubbabel",
         "H2216"
       ],
       [
-        " my servant,",
+        ", my servant",
         "H5650"
       ],
       [
-        " the son",
+        ", the son",
         "H1121"
       ],
       [
-        " of Shealtiel,",
+        " of Shealtiel",
         "H7597"
       ],
       [
-        " saith",
+        ", saith",
         "H5002"
       ],
       [
-        " the LORD,",
+        " the LORD",
         "H3068"
       ],
       [
-        " and will make",
+        ", and will make",
         "H7760"
       ],
       [
-        " thee as a signet:",
+        " thee as a signet",
         "H2368"
       ],
       [
-        " for I have chosen",
-        "H977"
+        ": for I have chosen",
+        "H0977"
       ],
       [
         " thee, saith",
@@ -1571,7 +1979,11 @@
         "H3068"
       ],
       [
-        " of hosts.",
+        " of hosts",
+        "H6635"
+      ],
+      [
+        ".",
         null
       ]
     ]

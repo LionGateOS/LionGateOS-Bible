@@ -17,33 +17,41 @@
         "H5030"
       ],
       [
-        " did see.",
+        " did see",
+        "H2372"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Habakkuk|1|2": [
       [
-        "O LORD,",
+        "O LORD",
         "H3068"
       ],
       [
-        " how long shall I cry,",
+        ", how long shall I cry",
         "H7768"
       ],
       [
-        " and thou wilt not hear!",
+        ", and thou wilt not hear",
         "H8085"
       ],
       [
-        " even cry out",
+        "! even cry out",
         "H2199"
       ],
       [
-        " unto thee of violence,",
+        " unto thee of violence",
         "H2555"
       ],
       [
-        " and thou wilt not save!",
+        ", and thou wilt not save",
+        "H3467"
+      ],
+      [
+        "!",
         null
       ]
     ],
@@ -53,19 +61,19 @@
         "H7200"
       ],
       [
-        " me iniquity,",
-        "H205"
+        " me iniquity",
+        "H0205"
       ],
       [
-        " and cause me to behold",
+        ", and cause me to behold",
         "H5027"
       ],
       [
-        " grievance?",
+        " grievance",
         "H5999"
       ],
       [
-        " for spoiling",
+        "? for spoiling",
         "H7701"
       ],
       [
@@ -81,7 +89,11 @@
         "H7379"
       ],
       [
-        " and contention.",
+        " and contention",
+        "H4066"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -91,11 +103,11 @@
         "H8451"
       ],
       [
-        " is slacked,",
+        " is slacked",
         "H6313"
       ],
       [
-        " and judgment",
+        ", and judgment",
         "H4941"
       ],
       [
@@ -103,11 +115,11 @@
         "H5331"
       ],
       [
-        " go forth:",
+        " go forth",
         "H3318"
       ],
       [
-        " for the wicked",
+        ": for the wicked",
         "H7563"
       ],
       [
@@ -115,11 +127,11 @@
         "H3803"
       ],
       [
-        " about the righteous;",
+        " about the righteous",
         "H6662"
       ],
       [
-        " therefore wrong",
+        "; therefore wrong",
         "H6127"
       ],
       [
@@ -127,7 +139,129 @@
         "H4941"
       ],
       [
-        " proceedeth.",
+        " proceedeth",
+        "H3318"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Habakkuk|1|5": [
+      [
+        "Behold",
+        "H7200"
+      ],
+      [
+        " ye among the heathen",
+        "H1471"
+      ],
+      [
+        ", and regard",
+        "H5027"
+      ],
+      [
+        ", and wonder",
+        "H8539"
+      ],
+      [
+        " marvellously",
+        "H8539"
+      ],
+      [
+        ": for I will work",
+        "H6466"
+      ],
+      [
+        " a work",
+        "H6467"
+      ],
+      [
+        " in your days",
+        "H3117"
+      ],
+      [
+        ", which ye will not believe",
+        "H0539"
+      ],
+      [
+        ", though it be told",
+        "H5608"
+      ],
+      [
+        " you.",
+        null
+      ]
+    ],
+    "Habakkuk|1|6": [
+      [
+        "For, lo, I raise up",
+        "H6965"
+      ],
+      [
+        " the Chaldeans",
+        "H3778"
+      ],
+      [
+        ", that bitter",
+        "H4751"
+      ],
+      [
+        " and hasty",
+        "H4116"
+      ],
+      [
+        " nation",
+        "H1471"
+      ],
+      [
+        ", which shall march",
+        "H1980"
+      ],
+      [
+        " through the breadth",
+        "H4800"
+      ],
+      [
+        " of the land",
+        "H0776"
+      ],
+      [
+        ", to possess",
+        "H3423"
+      ],
+      [
+        " the dwellingplaces",
+        "H4908"
+      ],
+      [
+        " that are not theirs.",
+        null
+      ]
+    ],
+    "Habakkuk|1|7": [
+      [
+        "They are terrible",
+        "H0366"
+      ],
+      [
+        " and dreadful",
+        "H3372"
+      ],
+      [
+        ": their judgment",
+        "H4941"
+      ],
+      [
+        " and their dignity",
+        "H7613"
+      ],
+      [
+        " shall proceed",
+        "H3318"
+      ],
+      [
+        " of themselves.",
         null
       ]
     ],
@@ -141,11 +275,11 @@
         "H7043"
       ],
       [
-        " than the leopards,",
+        " than the leopards",
         "H5246"
       ],
       [
-        " and are more fierce",
+        ", and are more fierce",
         "H2300"
       ],
       [
@@ -153,11 +287,11 @@
         "H6153"
       ],
       [
-        " wolves:",
+        " wolves",
         "H2061"
       ],
       [
-        " and their horsemen",
+        ": and their horsemen",
         "H6571"
       ],
       [
@@ -170,14 +304,14 @@
       ],
       [
         " shall come",
-        "H935"
+        "H0935"
       ],
       [
-        " from far;",
+        " from far",
         "H7350"
       ],
       [
-        " they shall fly",
+        "; they shall fly",
         "H5774"
       ],
       [
@@ -189,21 +323,25 @@
         "H2363"
       ],
       [
-        " to eat.",
+        " to eat",
+        "H0398"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Habakkuk|1|9": [
       [
         "They shall come",
-        "H935"
+        "H0935"
       ],
       [
-        " all for violence:",
+        " all for violence",
         "H2555"
       ],
       [
-        " their faces",
+        ": their faces",
         "H6440"
       ],
       [
@@ -211,19 +349,65 @@
         "H4041"
       ],
       [
-        " as the east wind,",
+        " as the east wind",
         "H6921"
       ],
       [
-        " and they shall gather",
-        "H622"
+        ", and they shall gather",
+        "H0622"
       ],
       [
         " the captivity",
         "H7628"
       ],
       [
-        " as the sand.",
+        " as the sand",
+        "H2344"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Habakkuk|1|10": [
+      [
+        "And they shall scoff",
+        "H7046"
+      ],
+      [
+        " at the kings",
+        "H4428"
+      ],
+      [
+        ", and the princes",
+        "H7336"
+      ],
+      [
+        " shall be a scorn",
+        "H4890"
+      ],
+      [
+        " unto them: they shall deride",
+        "H7832"
+      ],
+      [
+        " every strong hold",
+        "H4013"
+      ],
+      [
+        "; for they shall heap",
+        "H6651"
+      ],
+      [
+        " dust",
+        "H6083"
+      ],
+      [
+        ", and take",
+        "H3920"
+      ],
+      [
+        " it.",
         null
       ]
     ],
@@ -233,19 +417,19 @@
         "H7307"
       ],
       [
-        " change,",
+        " change",
         "H2498"
       ],
       [
-        " and he shall pass over,",
+        ", and he shall pass over",
         "H5674"
       ],
       [
-        " and offend,",
-        "H816"
+        ", and offend",
+        "H0816"
       ],
       [
-        " imputing this",
+        ", imputing this",
         "H2098"
       ],
       [
@@ -253,53 +437,149 @@
         "H3581"
       ],
       [
-        " unto his god.",
+        " unto his god",
+        "H0433"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Habakkuk|1|12": [
       [
-        "Art thou not from everlasting,",
+        "Art thou not from everlasting",
         "H6924"
       ],
       [
-        " O LORD",
+        ", O LORD",
         "H3068"
       ],
       [
-        " my God,",
-        "H430"
+        " my God",
+        "H0430"
       ],
       [
-        " mine Holy One?",
+        ", mine Holy One",
         "H6918"
       ],
       [
-        " we shall not die.",
+        "? we shall not die",
         "H4191"
       ],
       [
-        " O LORD,",
+        ". O LORD",
         "H3068"
       ],
       [
-        " thou hast ordained",
+        ", thou hast ordained",
         "H7760"
       ],
       [
-        " them for judgment;",
+        " them for judgment",
         "H4941"
       ],
       [
-        " and, O mighty God,",
+        "; and, O mighty God",
         "H6697"
       ],
       [
-        " thou hast established",
+        ", thou hast established",
         "H3245"
       ],
       [
-        " them for correction.",
+        " them for correction",
+        "H3198"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Habakkuk|1|13": [
+      [
+        "Thou art of purer",
+        "H2889"
+      ],
+      [
+        " eyes",
+        "H5869"
+      ],
+      [
+        " than to behold",
+        "H7200"
+      ],
+      [
+        " evil",
+        "H7451"
+      ],
+      [
+        ", and canst",
+        "H3201"
+      ],
+      [
+        " not look",
+        "H5027"
+      ],
+      [
+        " on iniquity",
+        "H5999"
+      ],
+      [
+        ": wherefore lookest",
+        "H5027"
+      ],
+      [
+        " thou upon them that deal treacherously",
+        "H0898"
+      ],
+      [
+        ", and holdest thy tongue",
+        "H2790"
+      ],
+      [
+        " when the wicked",
+        "H7563"
+      ],
+      [
+        " devoureth",
+        "H1104"
+      ],
+      [
+        " the man that is more righteous",
+        "H6662"
+      ],
+      [
+        " than he?",
+        null
+      ]
+    ],
+    "Habakkuk|1|14": [
+      [
+        "And makest",
+        "H6213"
+      ],
+      [
+        " men",
+        "H0120"
+      ],
+      [
+        " as the fishes",
+        "H1709"
+      ],
+      [
+        " of the sea",
+        "H3220"
+      ],
+      [
+        ", as the creeping things",
+        "H7431"
+      ],
+      [
+        ", that have no ruler",
+        "H4910"
+      ],
+      [
+        " over them?",
         null
       ]
     ],
@@ -309,31 +589,35 @@
         "H5927"
       ],
       [
-        " all of them with the angle,",
+        " all of them with the angle",
         "H2443"
       ],
       [
-        " they catch",
+        ", they catch",
         "H1641"
       ],
       [
-        " them in their net,",
+        " them in their net",
         "H2764"
       ],
       [
-        " and gather",
-        "H622"
+        ", and gather",
+        "H0622"
       ],
       [
-        " them in their drag:",
+        " them in their drag",
         "H4365"
       ],
       [
-        " therefore they rejoice",
+        ": therefore they rejoice",
         "H8055"
       ],
       [
-        " and are glad.",
+        " and are glad",
+        "H1523"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -343,19 +627,19 @@
         "H2076"
       ],
       [
-        " unto their net,",
+        " unto their net",
         "H2764"
       ],
       [
-        " and burn incense",
+        ", and burn incense",
         "H6999"
       ],
       [
-        " unto their drag;",
+        " unto their drag",
         "H4365"
       ],
       [
-        " because by them",
+        "; because by them",
         "H1992"
       ],
       [
@@ -363,15 +647,19 @@
         "H2506"
       ],
       [
-        " is fat,",
+        " is fat",
         "H8082"
       ],
       [
-        " and their meat",
+        ", and their meat",
         "H3978"
       ],
       [
-        " plenteous.",
+        " plenteous",
+        "H1277"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -381,11 +669,11 @@
         "H7324"
       ],
       [
-        " their net,",
+        " their net",
         "H2764"
       ],
       [
-        " and not spare",
+        ", and not spare",
         "H2550"
       ],
       [
@@ -397,7 +685,11 @@
         "H2026"
       ],
       [
-        " the nations?",
+        " the nations",
+        "H1471"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -407,19 +699,19 @@
         "H5975"
       ],
       [
-        " upon my watch,",
+        " upon my watch",
         "H4931"
       ],
       [
-        " and set",
+        ", and set",
         "H3320"
       ],
       [
-        " me upon the tower,",
+        " me upon the tower",
         "H4692"
       ],
       [
-        " and will watch",
+        ", and will watch",
         "H6822"
       ],
       [
@@ -435,7 +727,53 @@
         "H7725"
       ],
       [
-        " when I am reproved.",
+        " when I am reproved",
+        "H8433"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Habakkuk|2|2": [
+      [
+        "And the LORD",
+        "H3068"
+      ],
+      [
+        " answered",
+        "H6030"
+      ],
+      [
+        " me, and said",
+        "H0559"
+      ],
+      [
+        ", Write",
+        "H3789"
+      ],
+      [
+        " the vision",
+        "H2377"
+      ],
+      [
+        ", and make it plain",
+        "H0874"
+      ],
+      [
+        " upon tables",
+        "H3871"
+      ],
+      [
+        ", that he may run",
+        "H7323"
+      ],
+      [
+        " that readeth",
+        "H7121"
+      ],
+      [
+        " it.",
         null
       ]
     ],
@@ -445,39 +783,43 @@
         "H2377"
       ],
       [
-        " is yet for an appointed time,",
+        " is yet for an appointed time",
         "H4150"
       ],
       [
-        " but at the end",
+        ", but at the end",
         "H7093"
       ],
       [
-        " it shall speak,",
+        " it shall speak",
         "H6315"
       ],
       [
-        " and not lie:",
+        ", and not lie",
         "H3576"
       ],
       [
-        " though it tarry,",
+        ": though it tarry",
         "H4102"
       ],
       [
-        " wait",
+        ", wait",
         "H2442"
       ],
       [
         " for it; because it will surely",
-        "H935"
+        "H0935"
       ],
       [
-        " come,",
-        "H935"
+        " come",
+        "H0935"
       ],
       [
-        " it will not tarry.",
+        ", it will not tarry",
+        "H0309"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -503,33 +845,37 @@
         "H2421"
       ],
       [
-        " by his faith.",
+        " by his faith",
+        "H0530"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Habakkuk|2|5": [
       [
         "Yea also, because he transgresseth",
-        "H898"
+        "H0898"
       ],
       [
-        " by wine,",
+        " by wine",
         "H3196"
       ],
       [
-        " he is a proud",
+        ", he is a proud",
         "H3093"
       ],
       [
-        " man,",
+        " man",
         "H1397"
       ],
       [
-        " neither keepeth at home,",
+        ", neither keepeth at home",
         "H5115"
       ],
       [
-        " who enlargeth",
+        ", who enlargeth",
         "H7337"
       ],
       [
@@ -537,31 +883,35 @@
         "H5315"
       ],
       [
-        " as hell,",
+        " as hell",
         "H7585"
       ],
       [
-        " and is as death,",
+        ", and is as death",
         "H4194"
       ],
       [
-        " and cannot be satisfied,",
+        ", and cannot be satisfied",
         "H7646"
       ],
       [
-        " but gathereth",
-        "H622"
+        ", but gathereth",
+        "H0622"
       ],
       [
-        " unto him all nations,",
+        " unto him all nations",
         "H1471"
       ],
       [
-        " and heapeth",
+        ", and heapeth",
         "H6908"
       ],
       [
-        " unto him all people:",
+        " unto him all people",
+        "H5971"
+      ],
+      [
+        ":",
         null
       ]
     ],
@@ -583,11 +933,11 @@
         "H2420"
       ],
       [
-        " against him, and say,",
-        "H559"
+        " against him, and say",
+        "H0559"
       ],
       [
-        " Woe",
+        ", Woe",
         "H1945"
       ],
       [
@@ -599,7 +949,95 @@
         "H3513"
       ],
       [
-        " himself with thick clay!",
+        " himself with thick clay",
+        "H5671"
+      ],
+      [
+        "!",
+        null
+      ]
+    ],
+    "Habakkuk|2|7": [
+      [
+        "Shall they not rise up",
+        "H6965"
+      ],
+      [
+        " suddenly",
+        "H6621"
+      ],
+      [
+        " that shall bite",
+        "H5391"
+      ],
+      [
+        " thee, and awake",
+        "H3364"
+      ],
+      [
+        " that shall vex",
+        "H2111"
+      ],
+      [
+        " thee, and thou shalt be for booties",
+        "H4933"
+      ],
+      [
+        " unto them?",
+        null
+      ]
+    ],
+    "Habakkuk|2|8": [
+      [
+        "Because thou hast spoiled",
+        "H7997"
+      ],
+      [
+        " many",
+        "H7227"
+      ],
+      [
+        " nations",
+        "H1471"
+      ],
+      [
+        ", all the remnant",
+        "H3499"
+      ],
+      [
+        " of the people",
+        "H5971"
+      ],
+      [
+        " shall spoil",
+        "H7997"
+      ],
+      [
+        " thee; because of men's",
+        "H0120"
+      ],
+      [
+        " blood",
+        "H1818"
+      ],
+      [
+        ", and for the violence",
+        "H2555"
+      ],
+      [
+        " of the land",
+        "H0776"
+      ],
+      [
+        ", of the city",
+        "H7151"
+      ],
+      [
+        ", and of all that dwell",
+        "H3427"
+      ],
+      [
+        " therein.",
         null
       ]
     ],
@@ -621,11 +1059,11 @@
         "H1215"
       ],
       [
-        " to his house,",
+        " to his house",
         "H1004"
       ],
       [
-        " that he may set",
+        ", that he may set",
         "H7760"
       ],
       [
@@ -633,11 +1071,11 @@
         "H7064"
       ],
       [
-        " on high,",
+        " on high",
         "H4791"
       ],
       [
-        " that he may be delivered",
+        ", that he may be delivered",
         "H5337"
       ],
       [
@@ -645,7 +1083,11 @@
         "H3709"
       ],
       [
-        " of evil!",
+        " of evil",
+        "H7451"
+      ],
+      [
+        "!",
         null
       ]
     ],
@@ -671,15 +1113,49 @@
         "H7227"
       ],
       [
-        " people,",
+        " people",
         "H5971"
       ],
       [
-        " and hast sinned",
+        ", and hast sinned",
         "H2398"
       ],
       [
-        " against thy soul.",
+        " against thy soul",
+        "H5315"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Habakkuk|2|11": [
+      [
+        "For the stone",
+        "H0068"
+      ],
+      [
+        " shall cry out",
+        "H2199"
+      ],
+      [
+        " of the wall",
+        "H7023"
+      ],
+      [
+        ", and the beam out",
+        "H3714"
+      ],
+      [
+        " of the timber",
+        "H6086"
+      ],
+      [
+        " shall answer",
+        "H6030"
+      ],
+      [
+        " it.",
         null
       ]
     ],
@@ -697,11 +1173,11 @@
         "H5892"
       ],
       [
-        " with blood,",
+        " with blood",
         "H1818"
       ],
       [
-        " and stablisheth",
+        ", and stablisheth",
         "H3559"
       ],
       [
@@ -709,7 +1185,11 @@
         "H7151"
       ],
       [
-        " by iniquity!",
+        " by iniquity",
+        "H5766"
+      ],
+      [
+        "!",
         null
       ]
     ],
@@ -735,11 +1215,11 @@
         "H1767"
       ],
       [
-        " fire,",
-        "H784"
+        " fire",
+        "H0784"
       ],
       [
-        " and the people",
+        ", and the people",
         "H3816"
       ],
       [
@@ -751,14 +1231,18 @@
         "H1767"
       ],
       [
-        " vanity?",
+        " vanity",
+        "H7385"
+      ],
+      [
+        "?",
         null
       ]
     ],
     "Habakkuk|2|14": [
       [
         "For the earth",
-        "H776"
+        "H0776"
       ],
       [
         " shall be filled",
@@ -773,11 +1257,11 @@
         "H3519"
       ],
       [
-        " of the LORD,",
+        " of the LORD",
         "H3068"
       ],
       [
-        " as the waters",
+        ", as the waters",
         "H4325"
       ],
       [
@@ -785,7 +1269,11 @@
         "H3680"
       ],
       [
-        " the sea.",
+        " the sea",
+        "H3220"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -799,11 +1287,11 @@
         "H7453"
       ],
       [
-        " drink,",
+        " drink",
         "H8248"
       ],
       [
-        " that puttest",
+        ", that puttest",
         "H5596"
       ],
       [
@@ -819,7 +1307,11 @@
         "H5027"
       ],
       [
-        " on their nakedness!",
+        " on their nakedness",
+        "H4589"
+      ],
+      [
+        "!",
         null
       ]
     ],
@@ -833,19 +1325,19 @@
         "H7036"
       ],
       [
-        " for glory:",
+        " for glory",
         "H3519"
       ],
       [
-        " drink",
+        ": drink",
         "H8354"
       ],
       [
-        " thou also, and let thy foreskin be uncovered:",
+        " thou also, and let thy foreskin be uncovered",
         "H6188"
       ],
       [
-        " the cup",
+        ": the cup",
         "H3563"
       ],
       [
@@ -865,7 +1357,65 @@
         "H7022"
       ],
       [
-        " shall be on thy glory.",
+        " shall be on thy glory",
+        "H3519"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Habakkuk|2|17": [
+      [
+        "For the violence",
+        "H2555"
+      ],
+      [
+        " of Lebanon",
+        "H3844"
+      ],
+      [
+        " shall cover",
+        "H3680"
+      ],
+      [
+        " thee, and the spoil",
+        "H7701"
+      ],
+      [
+        " of beasts",
+        "H0929"
+      ],
+      [
+        ", which made them afraid",
+        "H2865"
+      ],
+      [
+        ", because of men's",
+        "H0120"
+      ],
+      [
+        " blood",
+        "H1818"
+      ],
+      [
+        ", and for the violence",
+        "H2555"
+      ],
+      [
+        " of the land",
+        "H0776"
+      ],
+      [
+        ", of the city",
+        "H7151"
+      ],
+      [
+        ", and of all that dwell",
+        "H3427"
+      ],
+      [
+        " therein.",
         null
       ]
     ],
@@ -887,19 +1437,19 @@
         "H6458"
       ],
       [
-        " it; the molten image,",
+        " it; the molten image",
         "H4541"
       ],
       [
-        " and a teacher",
+        ", and a teacher",
         "H3384"
       ],
       [
-        " of lies,",
+        " of lies",
         "H8267"
       ],
       [
-        " that the maker",
+        ", that the maker",
         "H3335"
       ],
       [
@@ -908,7 +1458,7 @@
       ],
       [
         " trusteth",
-        "H982"
+        "H0982"
       ],
       [
         " therein, to make",
@@ -916,10 +1466,102 @@
       ],
       [
         " dumb",
-        "H483"
+        "H0483"
       ],
       [
-        " idols?",
+        " idols",
+        "H0457"
+      ],
+      [
+        "?",
+        null
+      ]
+    ],
+    "Habakkuk|2|19": [
+      [
+        "Woe",
+        "H1945"
+      ],
+      [
+        " unto him that saith",
+        "H0559"
+      ],
+      [
+        " to the wood",
+        "H6086"
+      ],
+      [
+        ", Awake",
+        "H6974"
+      ],
+      [
+        "; to the dumb",
+        "H1748"
+      ],
+      [
+        " stone",
+        "H0068"
+      ],
+      [
+        ", Arise",
+        "H5782"
+      ],
+      [
+        ", it shall teach",
+        "H3384"
+      ],
+      [
+        "! Behold, it is laid",
+        "H8610"
+      ],
+      [
+        " over with gold",
+        "H2091"
+      ],
+      [
+        " and silver",
+        "H3701"
+      ],
+      [
+        ", and there is no breath",
+        "H7307"
+      ],
+      [
+        " at all in the midst",
+        "H7130"
+      ],
+      [
+        " of it.",
+        null
+      ]
+    ],
+    "Habakkuk|2|20": [
+      [
+        "But the LORD",
+        "H3068"
+      ],
+      [
+        " is in his holy",
+        "H6944"
+      ],
+      [
+        " temple",
+        "H1964"
+      ],
+      [
+        ": let all the earth",
+        "H0776"
+      ],
+      [
+        " keep silence",
+        "H2013"
+      ],
+      [
+        " before",
+        "H6440"
+      ],
+      [
+        " him.",
         null
       ]
     ],
@@ -937,33 +1579,37 @@
         "H5030"
       ],
       [
-        " upon Shigionoth.",
+        " upon Shigionoth",
+        "H7692"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Habakkuk|3|2": [
       [
-        "O LORD,",
+        "O LORD",
         "H3068"
       ],
       [
-        " I have heard",
+        ", I have heard",
         "H8085"
       ],
       [
-        " thy speech,",
+        " thy speech",
         "H8088"
       ],
       [
-        " and was afraid:",
+        ", and was afraid",
         "H3372"
       ],
       [
-        " O LORD,",
+        ": O LORD",
         "H3068"
       ],
       [
-        " revive",
+        ", revive",
         "H2421"
       ],
       [
@@ -975,11 +1621,11 @@
         "H7130"
       ],
       [
-        " of the years,",
+        " of the years",
         "H8141"
       ],
       [
-        " in the midst",
+        ", in the midst",
         "H7130"
       ],
       [
@@ -987,11 +1633,11 @@
         "H8141"
       ],
       [
-        " make known;",
+        " make known",
         "H3045"
       ],
       [
-        " in wrath",
+        "; in wrath",
         "H7267"
       ],
       [
@@ -999,25 +1645,29 @@
         "H2142"
       ],
       [
-        " mercy.",
+        " mercy",
+        "H7355"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Habakkuk|3|3": [
       [
         "God",
-        "H433"
+        "H0433"
       ],
       [
         " came",
-        "H935"
+        "H0935"
       ],
       [
-        " from Teman,",
+        " from Teman",
         "H8487"
       ],
       [
-        " and the Holy One",
+        ", and the Holy One",
         "H6918"
       ],
       [
@@ -1025,15 +1675,15 @@
         "H2022"
       ],
       [
-        " Paran.",
+        " Paran",
         "H6290"
       ],
       [
-        " Selah.",
+        ". Selah",
         "H5542"
       ],
       [
-        " His glory",
+        ". His glory",
         "H1935"
       ],
       [
@@ -1041,19 +1691,23 @@
         "H3680"
       ],
       [
-        " the heavens,",
+        " the heavens",
         "H8064"
       ],
       [
-        " and the earth",
-        "H776"
+        ", and the earth",
+        "H0776"
       ],
       [
         " was full",
         "H4390"
       ],
       [
-        " of his praise.",
+        " of his praise",
+        "H8416"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1063,23 +1717,27 @@
         "H5051"
       ],
       [
-        " was as the light;",
-        "H216"
+        " was as the light",
+        "H0216"
       ],
       [
-        " he had horns",
+        "; he had horns",
         "H7161"
       ],
       [
-        " coming out of his hand:",
+        " coming out of his hand",
         "H3027"
       ],
       [
-        " and there was the hiding",
+        ": and there was the hiding",
         "H2253"
       ],
       [
-        " of his power.",
+        " of his power",
+        "H5797"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1093,11 +1751,11 @@
         "H3212"
       ],
       [
-        " the pestilence,",
+        " the pestilence",
         "H1698"
       ],
       [
-        " and burning coals",
+        ", and burning coals",
         "H7565"
       ],
       [
@@ -1105,37 +1763,41 @@
         "H3318"
       ],
       [
-        " at his feet.",
+        " at his feet",
+        "H7272"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Habakkuk|3|6": [
       [
-        "He stood,",
+        "He stood",
         "H5975"
       ],
       [
-        " and measured",
+        ", and measured",
         "H4128"
       ],
       [
-        " the earth:",
-        "H776"
+        " the earth",
+        "H0776"
       ],
       [
-        " he beheld,",
+        ": he beheld",
         "H7200"
       ],
       [
-        " and drove asunder",
+        ", and drove asunder",
         "H5425"
       ],
       [
-        " the nations;",
+        " the nations",
         "H1471"
       ],
       [
-        " and the everlasting",
+        "; and the everlasting",
         "H5703"
       ],
       [
@@ -1143,11 +1805,11 @@
         "H2042"
       ],
       [
-        " were scattered,",
+        " were scattered",
         "H6327"
       ],
       [
-        " the perpetual",
+        ", the perpetual",
         "H5769"
       ],
       [
@@ -1155,15 +1817,19 @@
         "H1389"
       ],
       [
-        " did bow:",
+        " did bow",
         "H7817"
       ],
       [
-        " his ways",
+        ": his ways",
         "H1979"
       ],
       [
-        " are everlasting.",
+        " are everlasting",
+        "H5769"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1174,30 +1840,34 @@
       ],
       [
         " the tents",
-        "H168"
+        "H0168"
       ],
       [
         " of Cushan",
         "H3572"
       ],
       [
-        " in affliction:",
-        "H205"
+        " in affliction",
+        "H0205"
       ],
       [
-        " and the curtains",
+        ": and the curtains",
         "H3407"
       ],
       [
         " of the land",
-        "H776"
+        "H0776"
       ],
       [
         " of Midian",
         "H4080"
       ],
       [
-        " did tremble.",
+        " did tremble",
+        "H7264"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1211,27 +1881,27 @@
         "H2734"
       ],
       [
-        " against the rivers?",
+        " against the rivers",
         "H5104"
       ],
       [
-        " was thine anger",
-        "H639"
+        "? was thine anger",
+        "H0639"
       ],
       [
-        " against the rivers?",
+        " against the rivers",
         "H5104"
       ],
       [
-        " was thy wrath",
+        "? was thy wrath",
         "H5678"
       ],
       [
-        " against the sea,",
+        " against the sea",
         "H3220"
       ],
       [
-        " that thou didst ride",
+        ", that thou didst ride",
         "H7392"
       ],
       [
@@ -1243,7 +1913,11 @@
         "H4818"
       ],
       [
-        " of salvation?",
+        " of salvation",
+        "H3444"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -1257,35 +1931,39 @@
         "H6181"
       ],
       [
-        " naked,",
+        " naked",
         "H5783"
       ],
       [
-        " according to the oaths",
+        ", according to the oaths",
         "H7621"
       ],
       [
-        " of the tribes,",
+        " of the tribes",
         "H4294"
       ],
       [
-        " even thy word.",
-        "H562"
+        ", even thy word",
+        "H0562"
       ],
       [
-        " Selah.",
+        ". Selah",
         "H5542"
       ],
       [
-        " Thou didst cleave",
+        ". Thou didst cleave",
         "H1234"
       ],
       [
         " the earth",
-        "H776"
+        "H0776"
       ],
       [
-        " with rivers.",
+        " with rivers",
+        "H5104"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1299,11 +1977,11 @@
         "H7200"
       ],
       [
-        " thee, and they trembled:",
+        " thee, and they trembled",
         "H2342"
       ],
       [
-        " the overflowing",
+        ": the overflowing",
         "H2230"
       ],
       [
@@ -1311,11 +1989,11 @@
         "H4325"
       ],
       [
-        " passed by:",
+        " passed by",
         "H5674"
       ],
       [
-        " the deep",
+        ": the deep",
         "H8415"
       ],
       [
@@ -1323,11 +2001,11 @@
         "H5414"
       ],
       [
-        " his voice,",
+        " his voice",
         "H6963"
       ],
       [
-        " and lifted up",
+        ", and lifted up",
         "H5375"
       ],
       [
@@ -1335,7 +2013,11 @@
         "H3027"
       ],
       [
-        " on high.",
+        " on high",
+        "H7315"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1353,23 +2035,23 @@
         "H5975"
       ],
       [
-        " in their habitation:",
+        " in their habitation",
         "H2073"
       ],
       [
-        " at the light",
-        "H216"
+        ": at the light",
+        "H0216"
       ],
       [
         " of thine arrows",
         "H2671"
       ],
       [
-        " they went,",
+        " they went",
         "H1980"
       ],
       [
-        " and at the shining",
+        ", and at the shining",
         "H5051"
       ],
       [
@@ -1377,7 +2059,11 @@
         "H1300"
       ],
       [
-        " spear.",
+        " spear",
+        "H2595"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1388,14 +2074,14 @@
       ],
       [
         " the land",
-        "H776"
+        "H0776"
       ],
       [
-        " in indignation,",
+        " in indignation",
         "H2195"
       ],
       [
-        " thou didst thresh",
+        ", thou didst thresh",
         "H1758"
       ],
       [
@@ -1403,7 +2089,11 @@
         "H1471"
       ],
       [
-        " in anger.",
+        " in anger",
+        "H0639"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1417,19 +2107,19 @@
         "H3468"
       ],
       [
-        " of thy people,",
+        " of thy people",
         "H5971"
       ],
       [
-        " even for salvation",
+        ", even for salvation",
         "H3468"
       ],
       [
-        " with thine anointed;",
+        " with thine anointed",
         "H4899"
       ],
       [
-        " thou woundedst",
+        "; thou woundedst",
         "H4272"
       ],
       [
@@ -1441,11 +2131,11 @@
         "H1004"
       ],
       [
-        " of the wicked,",
+        " of the wicked",
         "H7563"
       ],
       [
-        " by discovering",
+        ", by discovering",
         "H6168"
       ],
       [
@@ -1453,11 +2143,15 @@
         "H3247"
       ],
       [
-        " unto the neck.",
+        " unto the neck",
         "H6677"
       ],
       [
-        " Selah.",
+        ". Selah",
+        "H5542"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1475,11 +2169,11 @@
         "H7218"
       ],
       [
-        " of his villages:",
+        " of his villages",
         "H6518"
       ],
       [
-        " they came out as a whirlwind",
+        ": they came out as a whirlwind",
         "H5590"
       ],
       [
@@ -1492,14 +2186,18 @@
       ],
       [
         " was as to devour",
-        "H398"
+        "H0398"
       ],
       [
         " the poor",
         "H6041"
       ],
       [
-        " secretly.",
+        " secretly",
+        "H4565"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1513,11 +2211,11 @@
         "H3220"
       ],
       [
-        " with thine horses,",
+        " with thine horses",
         "H5483"
       ],
       [
-        " through the heap",
+        ", through the heap",
         "H2563"
       ],
       [
@@ -1525,25 +2223,29 @@
         "H7227"
       ],
       [
-        " waters.",
+        " waters",
+        "H4325"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Habakkuk|3|16": [
       [
-        "When I heard,",
+        "When I heard",
         "H8085"
       ],
       [
-        " my belly",
-        "H990"
+        ", my belly",
+        "H0990"
       ],
       [
-        " trembled;",
+        " trembled",
         "H7264"
       ],
       [
-        " my lips",
+        "; my lips",
         "H8193"
       ],
       [
@@ -1551,23 +2253,23 @@
         "H6750"
       ],
       [
-        " at the voice:",
+        " at the voice",
         "H6963"
       ],
       [
-        " rottenness",
+        ": rottenness",
         "H7538"
       ],
       [
         " entered",
-        "H935"
+        "H0935"
       ],
       [
-        " into my bones,",
+        " into my bones",
         "H6106"
       ],
       [
-        " and I trembled",
+        ", and I trembled",
         "H7264"
       ],
       [
@@ -1579,19 +2281,23 @@
         "H3117"
       ],
       [
-        " of trouble:",
+        " of trouble",
         "H6869"
       ],
       [
-        " when he cometh up",
+        ": when he cometh up",
         "H5927"
       ],
       [
-        " unto the people,",
+        " unto the people",
         "H5971"
       ],
       [
-        " he will invade them with his troops.",
+        ", he will invade them with his troops",
+        "H1464"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1601,19 +2307,19 @@
         "H8384"
       ],
       [
-        " shall not blossom,",
+        " shall not blossom",
         "H6524"
       ],
       [
-        " neither shall fruit",
+        ", neither shall fruit",
         "H2981"
       ],
       [
-        " be in the vines;",
+        " be in the vines",
         "H1612"
       ],
       [
-        " the labour",
+        "; the labour",
         "H4639"
       ],
       [
@@ -1621,11 +2327,11 @@
         "H2132"
       ],
       [
-        " shall fail,",
+        " shall fail",
         "H3584"
       ],
       [
-        " and the fields",
+        ", and the fields",
         "H7709"
       ],
       [
@@ -1633,11 +2339,11 @@
         "H6213"
       ],
       [
-        " no meat;",
-        "H400"
+        " no meat",
+        "H0400"
       ],
       [
-        " the flock",
+        "; the flock",
         "H6629"
       ],
       [
@@ -1645,15 +2351,19 @@
         "H1504"
       ],
       [
-        " from the fold,",
+        " from the fold",
         "H4356"
       ],
       [
-        " and there shall be no herd",
+        ", and there shall be no herd",
         "H1241"
       ],
       [
-        " in the stalls:",
+        " in the stalls",
+        "H7517"
+      ],
+      [
+        ":",
         null
       ]
     ],
@@ -1663,19 +2373,23 @@
         "H5937"
       ],
       [
-        " in the LORD,",
+        " in the LORD",
         "H3068"
       ],
       [
-        " I will joy",
+        ", I will joy",
         "H1523"
       ],
       [
         " in the God",
-        "H430"
+        "H0430"
       ],
       [
-        " of my salvation.",
+        " of my salvation",
+        "H3468"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -1686,14 +2400,14 @@
       ],
       [
         " God",
-        "H136"
+        "H0136"
       ],
       [
-        " is my strength,",
+        " is my strength",
         "H2428"
       ],
       [
-        " and he will make",
+        ", and he will make",
         "H7760"
       ],
       [
@@ -1701,23 +2415,27 @@
         "H7272"
       ],
       [
-        " like hinds'",
-        "H355"
+        " like hinds",
+        "H0355"
       ],
       [
-        " feet, and he will make me to walk",
+        "' feet, and he will make me to walk",
         "H1869"
       ],
       [
-        " upon mine high places.",
+        " upon mine high places",
         "H1116"
       ],
       [
-        " To the chief singer",
+        ". To the chief singer",
         "H5329"
       ],
       [
-        " on my stringed instruments.",
+        " on my stringed instruments",
+        "H5058"
+      ],
+      [
+        ".",
         null
       ]
     ]

@@ -17,15 +17,25 @@ GrowDaily pins one documented 1769 KJV transcription: the thiagobodruk 1769 Oxfo
 
 ## Licensing / Public-Domain Information
 
-The King James Version text is in the public domain worldwide. The thiagobodruk transcription is also freely available. No copyright restriction applies to the text itself.
+Outside the United Kingdom, the underlying KJV source text used by this
+project is treated as public domain.
+
+The Authorized / King James Version has a special continuing rights regime
+in the United Kingdom. The project has submitted a preliminary permissions
+inquiry to Cambridge University Press & Assessment and does not claim
+unrestricted UK distribution rights while that inquiry remains unresolved.
+
+This section addresses the underlying KJV text only. Strong's annotations,
+dictionaries, software, and other third-party data have separate provenance
+and license records.
 
 ## Checksums
 
 | File | SHA-256 |
 |---|---|
-| `en_kjv.json` (repaired standard) | `aa93816e3ca6a47deae0de21b4212527384cf143c0588032c199b817ab5adeec` |
+| `en_kjv.json` (repaired standard) | `4109ee74d422614995325b5d2f43da9ec35d9be547d6a11bc68fb0978179585f` |
 | `en_kjv.json.before-clean` (pre-cleaning backup) | `47463eb68296f9a0e487d7b5c56f6fecdeadc0ddeb64db18fea3b31ca286cd99` |
-| `kjv_modified.json` (custom) | `7baa9a815e504d901c4a8dd6104d917c2c960869a70f5cdec4319ca6e81c6312` |
+| `kjv_modified.json` (custom) | `f2e29b70e61fb1345d80721905caf9f59049f5265ad1c28bd2f9e2d82fedbb4c` |
 | `strong_kjv.json` (Phase 1 Strong's) | `dcc057b771f73e4ca6690d526cab07f256dfb5971b6a5d3c48cad042f5c4534a` |
 
 ## Deterministic Regeneration
@@ -50,13 +60,14 @@ The following are proven with direct evidence:
 - Source and repaired checksums (see above)
 - 66 books
 - 1,189 chapters
-- 31,100 verses
+- 31,102 verses
 - No remaining braces or guillemets in any verse
 - Genesis 1:12 restored with authentic wording: "And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good."
 - No LionGateOS substitutions in the standard asset (verified by `standardKjvAuthenticity.test.js`)
 - Deterministic regeneration from the preserved pre-clean backup (running `repair_en_kjv.py` produces the same checksum)
-- Strong's Phase 1 production asset (`strong_kjv.json`) covers 31,090 of 31,100 verses with 355,011 word-index → Strong's ID mappings
-- Strong's Phase 2 alignment (regenerated against repaired text) confirms 23,442 exact matches with the kaiserlik/kjv source
+- Historical Phase 1 `strong_kjv.json` remains preserved as a legacy Kaiserlik-derived asset
+- Current Schema 2.0 production alignment covers all 31,102 canonical verses with 348,950 Strong's markers and 0 fallbacks
+- Current GD+ projection covers all 31,102 verses with 348,902 retained Strong's markers and 0 projection fallbacks
 
 ## NOT FULLY PROVEN
 
@@ -68,7 +79,7 @@ The following are known uncertainties:
 - Exact agreement with a third independent same-edition source is NOT proven. Only two sources have been compared.
 - The jburson source under `tmp/` is NOT durable provenance — it is a secondary comparison point only.
 
-## Full-Bible Comparison Results (31,100 verses)
+## Historical Pre-Structural-Repair Comparison Results (31,100-verse snapshot)
 
 Comparison of repaired `en_kjv.json` against independent `jburson-kjv.json`:
 
@@ -92,37 +103,65 @@ Comparison of repaired `en_kjv.json` against independent `jburson-kjv.json`:
 
 These include spelling variants, proper name variants, hyphenation differences, minor word substitutions, and 326 verses with token-count differences due to different verse splitting.
 
-### Structural Differences
+### Structural Differences — corrected 2026-10-04
 
-The jburson source has 31,102 verses vs en_kjv's 31,100 due to different verse-numbering conventions.
+The earlier 31,100-verse `en_kjv.json` was not merely an alternate verse-numbering convention. Structural reconciliation found six omitted canonical verse boundaries and four erroneous extra split boundaries. The canonical asset has been repaired to 31,102 verses. The comparison table above is retained as historical evidence from the pre-repair 31,100-verse snapshot and has not been presented as a recomputation of the current asset.
 
 ## Strong's Architecture
 
-### Phase 1 (Production, Tracked)
+### Legacy Phase 1 asset
 
-- Asset: `assets/strong/strong_kjv.json`
-- Runtime: `logic/strongIndex.ts` → `require("../assets/strong/strong_kjv.json")` (Metro-bundled)
-- Consumer: `screens/BibleScreen.js` → `import { lookupStrongs } from "../logic/strongIndex"`
-- Coverage: 31,090 of 31,100 verses (99.97%), 355,011 word-index → Strong's ID mappings
-- The 10 missing verses have no Strong's markers in the kaiserlik source
-- NOT stale: maps kaiserlik source word positions, independent of display text
+The repository still contains the historical
+`assets/strong/strong_kjv.json` mapping generated from `kaiserlik/kjv`.
 
-### Phase 2 (Experimental, /tmp only)
+It is retained as legacy/historical data and may still be referenced by
+older lookup code. It is not the authoritative source for the active
+Schema 2.0 inline GD+ alignment.
 
-- Preview: `/tmp/growdaily-strongs-alignment-preview.json`
-- Assets: `/tmp/growdaily-strongs-alignment-assets/`
-- Runtime: `logic/strongsAlignmentLoader.js` (reads from `/tmp`, NOT used by BibleScreen)
-- Regenerated against repaired custom KJV: 23,442 exact matches, 7,655 text-mismatch fallbacks, 3 missing-in-source fallbacks, 0 reconstruction failures
+### Schema 2.0 inline alignment — current production
 
-### Positional Validity Across Both Translations
+Current production assets:
 
-The Phase 1 Strong's data (`strong_kjv.json`) maps word-index positions from the kaiserlik source text to Strong's IDs. This data is valid for both the Standard KJV and the LionGateOS Custom King James Version because:
+- `assets/strong/alignment/manifest.json`
+- 66 per-book alignment files
+- runtime loader: `logic/inlineStrongsLoader.js`
+- GD projection: `logic/customKjvInlineStrongs.js`
 
-1. Both translations have identical per-verse canonical token counts (790,539 tokens each)
-2. The word-index in `strong_kjv.json` corresponds to the order of Strong's markers in the kaiserlik source, not to display-text word positions
-3. The `lookupStrongs()` function returns Strong's entries in source order, not aligned to specific display words
-4. The Phase 2 alignment (when available) provides word-boundary data for exact display alignment, but the Phase 1 system works at the verse level without requiring word-by-word alignment
-5. Custom substitutions (e.g., Ghost→Spirit, scapegoat→Azazel) change visible words but preserve token count and position, so Strong's IDs remain valid
+Verified standard production totals:
+
+- canonical verses: 31,102
+- aligned verses: 31,102
+- plain fallbacks: 0
+- Strong's markers: 348,950
+- missing verses: 0
+- reconstruction failures: 0
+
+Current source chain:
+
+- eBible `eng-kjv` USFM:
+  31,099 Strong's-bearing verses / 348,884 markers
+- pinned CrossWire KJV fallback:
+  Mark 9:43, Luke 6:41, Luke 17:36 / 66 markers
+
+The active Schema 2.0 alignment therefore no longer requires Kaiserlik.
+
+### GD+ custom projection
+
+Canonical GD wording remains authoritative.
+
+For changed GD verses, Strong's IDs transfer only through conservative,
+deterministic matching. Changed or ambiguous wording is left unnumbered
+rather than guessed.
+
+Verified GD+ totals:
+
+- projected verses: 31,102
+- projection fallbacks: 0
+- changed GD verses: 335
+- changed verses projected: 335
+- retained Strong's markers: 348,902
+- source markers conservatively not transferred: 48
+- reconstruction failures: 0
 
 ## Retrieval Date
 

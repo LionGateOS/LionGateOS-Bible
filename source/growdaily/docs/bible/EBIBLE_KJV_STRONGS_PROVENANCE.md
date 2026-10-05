@@ -124,26 +124,50 @@ No Strong's identifier needs to be invented to handle these differences.
 
 ## Strong's coverage observed in source
 
-The pre-migration audit found:
+The pinned eBible package was audited across all 31,102 canonical verse
+coordinates.
 
-- canonical verses inspected: 31,102
-- verses containing one or more Strong's annotations: 31,099
-- verses containing no Strong's annotations: 3
-- Strong's attributes observed: 348,884
-- parsed Strong's IDs: 348,884
-- multi-ID attributes: 0
-- unparsed Strong's attribute values: 0
+Observed eBible Strong's coverage:
 
-The three canonical verses with no embedded Strong's annotations in the
-eBible source are:
+- 31,102 canonical verse coordinates
+- 31,099 verses containing Strong's annotations
+- 3 verses containing no Strong's annotations
+- 348,884 Strong's attributes
+- 348,884 deterministically mapped Strong's markers
+- 0 unresolved Strong's markers
+- 0 canonical reconstruction failures
+
+The three eBible verses without Strong's annotations are:
 
 - Mark 9:43
 - Luke 6:41
 - Luke 17:36
 
-These are unresolved source-coverage cases, not missing Scripture verses.
+Those three verses are supplied by the separately pinned CrossWire KJV
+fallback source recorded in:
 
-GD+ must not fabricate word-level Strong's assignments for them.
+`CROSSWIRE_KJV_STRONGS_FALLBACK_MANIFEST.json`
+
+CrossWire contributes:
+
+- Mark 9:43 — 32 markers
+- Luke 6:41 — 22 markers
+- Luke 17:36 — 12 markers
+- total — 66 markers
+
+Luke 17:36 contains a canonical editorial note after the source verse.
+That editorial note remains explicitly untagged.
+
+Verified production result:
+
+- 31,102 standard aligned verses
+- 0 standard fallbacks
+- 348,950 standard Strong's markers
+- 31,102 GD+ projected verses
+- 0 GD+ projection fallbacks
+- 348,902 retained GD+ Strong's markers
+- 48 markers conservatively not transferred across changed GD wording
+- 0 reconstruction failures
 
 ## Rights information recorded from the package
 
@@ -176,33 +200,46 @@ public release.
 
 ## Relationship to the previous Kaiserlik source
 
-The existing GD production inline alignment was generated from
-`kaiserlik/kjv`.
+The historical GD alignment was generated from `kaiserlik/kjv`.
 
-That source is being replaced because its provenance/licensing record was
-not sufficiently clear for the audit standard required by this project.
+That source did not have a sufficiently clear provenance/licensing record
+for the audit standard required by this project.
 
-The historical implementation and generated results are retained in Git
-history and backups.
+The active Schema 2.0 production alignment has now been regenerated without
+requiring Kaiserlik:
 
-The eBible migration must be validated alongside the existing implementation
-before the production alignment assets are replaced.
+- primary source: pinned eBible `eng-kjv` USFM
+- eBible contribution: 31,099 verses / 348,884 markers
+- residual source: pinned CrossWire KJV
+- CrossWire contribution: 3 verses / 66 markers
+- final production alignment: 31,102 verses / 348,950 markers
+- production fallbacks: 0
+
+Historical Kaiserlik-derived files may remain for audit or legacy
+compatibility, but Kaiserlik is no longer the upstream source for the active
+Schema 2.0 inline alignment.
 
 ## Reproducibility
 
-A future generator must verify:
+A reproducible regeneration must verify:
 
-1. the archive SHA-256
-2. exactly 66 selected canonical USFM books
-3. every selected file against
+1. the pinned eBible archive SHA-256
+2. exactly 66 canonical eBible USFM files
+3. every selected eBible file against
    `EBIBLE_KJV_STRONGS_SOURCE_MANIFEST.json`
-4. the expected 31,102 canonical verse coordinates
-5. canonical-text reconstruction after alignment
-6. Strong's ID syntax and counts
-7. explicit accounting for verses without source Strong's data
+4. all 31,102 canonical verse coordinates
+5. all 348,884 mapped eBible Strong's markers
+6. the pinned CrossWire repository commit
+7. the pinned CrossWire OSIS and configuration checksums
+8. CrossWire scope of exactly Mark 9:43, Luke 6:41, and Luke 17:36
+9. exactly 66 CrossWire markers
+10. canonical reconstruction for every aligned verse
+11. final standard total of 348,950 Strong's markers
+12. final GD+ total of 348,902 retained Strong's markers
+13. zero standard and GD+ fallbacks
 
-A source package that does not match the pinned checksums must not silently
-produce release assets.
+A source that does not match the pinned checksums must not silently produce
+release assets.
 
 ## Known documentation corrections still required
 
@@ -220,6 +257,23 @@ preserved.
 
 ## Status
 
-**PROVENANCE RECORDED — PRODUCTION MIGRATION NOT YET COMPLETE**
+**PRODUCTION STRONG'S MIGRATION COMPLETE — TECHNICAL VALIDATION PASSED**
 
-Creating this record does not replace current production Strong's assets.
+Verified production state:
+
+- 66 books
+- 31,102 canonical verses
+- 31,102 standard aligned verses
+- 0 standard fallbacks
+- 348,950 standard Strong's markers
+- 31,102 GD+ projected verses
+- 0 GD+ projection fallbacks
+- 348,902 GD+ Strong's markers
+- 0 reconstruction failures
+
+The active Schema 2.0 alignment no longer requires Kaiserlik.
+
+Technical completion does not by itself resolve every third-party rights
+question. The independent provenance/licensing status of the eBible
+Strong's annotation layer and CrossWire's recorded license statements remain
+explicit release-audit items.

@@ -9,27 +9,27 @@
         "H2377"
       ],
       [
-        " of Obadiah.",
+        " of Obadiah",
         "H5662"
       ],
       [
-        " Thus saith",
-        "H559"
+        ". Thus saith",
+        "H0559"
       ],
       [
         " the Lord",
-        "H136"
+        "H0136"
       ],
       [
         " GOD",
         "H3069"
       ],
       [
-        " concerning Edom;",
-        "H123"
+        " concerning Edom",
+        "H0123"
       ],
       [
-        " We have heard",
+        "; We have heard",
         "H8085"
       ],
       [
@@ -37,11 +37,11 @@
         "H8052"
       ],
       [
-        " from the LORD,",
+        " from the LORD",
         "H3068"
       ],
       [
-        " and an ambassador",
+        ", and an ambassador",
         "H6735"
       ],
       [
@@ -49,11 +49,11 @@
         "H7971"
       ],
       [
-        " among the heathen,",
+        " among the heathen",
         "H1471"
       ],
       [
-        " Arise",
+        ", Arise",
         "H6965"
       ],
       [
@@ -61,7 +61,11 @@
         "H6965"
       ],
       [
-        " against her in battle.",
+        " against her in battle",
+        "H4421"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -75,15 +79,19 @@
         "H6996"
       ],
       [
-        " among the heathen:",
+        " among the heathen",
         "H1471"
       ],
       [
-        " thou art greatly",
+        ": thou art greatly",
         "H3966"
       ],
       [
-        " despised.",
+        " despised",
+        "H0959"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -109,31 +117,35 @@
         "H2288"
       ],
       [
-        " of the rock,",
+        " of the rock",
         "H5553"
       ],
       [
-        " whose habitation",
+        ", whose habitation",
         "H3427"
       ],
       [
-        " is high;",
+        " is high",
         "H4791"
       ],
       [
-        " that saith",
-        "H559"
+        "; that saith",
+        "H0559"
       ],
       [
-        " in his heart,",
+        " in his heart",
         "H3820"
       ],
       [
-        " Who shall bring me down",
+        ", Who shall bring me down",
         "H3381"
       ],
       [
-        " to the ground?",
+        " to the ground",
+        "H0776"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -143,11 +155,11 @@
         "H1361"
       ],
       [
-        " thyself as the eagle,",
+        " thyself as the eagle",
         "H5404"
       ],
       [
-        " and though thou set",
+        ", and though thou set",
         "H7760"
       ],
       [
@@ -155,19 +167,23 @@
         "H7064"
       ],
       [
-        " among the stars,",
+        " among the stars",
         "H3556"
       ],
       [
-        " thence will I bring thee down,",
+        ", thence will I bring thee down",
         "H3381"
       ],
       [
-        " saith",
+        ", saith",
         "H5002"
       ],
       [
-        " the LORD.",
+        " the LORD",
+        "H3068"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -178,42 +194,46 @@
       ],
       [
         " came",
-        "H935"
+        "H0935"
       ],
       [
         " to thee, if robbers",
         "H7703"
       ],
       [
-        " by night,",
+        " by night",
         "H3915"
       ],
       [
-        " (how art thou cut off!)",
+        ", (how art thou cut off",
         "H1820"
       ],
       [
-        " would they not have stolen",
+        "!) would they not have stolen",
         "H1589"
       ],
       [
-        " till they had enough?",
+        " till they had enough",
         "H1767"
       ],
       [
-        " if the grapegatherers",
+        "? if the grapegatherers",
         "H1219"
       ],
       [
         " came",
-        "H935"
+        "H0935"
       ],
       [
         " to thee, would they not leave",
         "H7604"
       ],
       [
-        " some grapes?",
+        " some grapes",
+        "H5955"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -223,45 +243,103 @@
         "H6215"
       ],
       [
-        " searched out!",
+        " searched out",
         "H2664"
       ],
       [
-        " how are his hidden",
+        "! how are his hidden",
         "H4710"
       ],
       [
-        " things sought up!",
+        " things sought up",
+        "H1158"
+      ],
+      [
+        "!",
+        null
+      ]
+    ],
+    "Obadiah|1|7": [
+      [
+        "All the men",
+        "H0582"
+      ],
+      [
+        " of thy confederacy",
+        "H1285"
+      ],
+      [
+        " have brought",
+        "H7971"
+      ],
+      [
+        " thee even to the border",
+        "H1366"
+      ],
+      [
+        ": the men",
+        "H0582"
+      ],
+      [
+        " that were at peace",
+        "H7965"
+      ],
+      [
+        " with thee have deceived",
+        "H5377"
+      ],
+      [
+        " thee, and prevailed",
+        "H3201"
+      ],
+      [
+        " against thee; they that eat thy bread",
+        "H3899"
+      ],
+      [
+        " have laid",
+        "H7760"
+      ],
+      [
+        " a wound",
+        "H4204"
+      ],
+      [
+        " under thee: there is none understanding",
+        "H8394"
+      ],
+      [
+        " in him.",
         null
       ]
     ],
     "Obadiah|1|8": [
       [
-        "Shall I not in that day,",
+        "Shall I not in that day",
         "H3117"
       ],
       [
-        " saith",
+        ", saith",
         "H5002"
       ],
       [
-        " the LORD,",
+        " the LORD",
         "H3068"
       ],
       [
-        " even destroy",
-        "H6"
+        ", even destroy",
+        "H0006"
       ],
       [
         " the wise",
         "H2450"
       ],
       [
-        " men out of Edom,",
-        "H123"
+        " men out of Edom",
+        "H0123"
       ],
       [
-        " and understanding",
+        ", and understanding",
         "H8394"
       ],
       [
@@ -269,7 +347,11 @@
         "H2022"
       ],
       [
-        " of Esau?",
+        " of Esau",
+        "H6215"
+      ],
+      [
+        "?",
         null
       ]
     ],
@@ -279,16 +361,16 @@
         "H1368"
       ],
       [
-        " men, O Teman,",
+        " men, O Teman",
         "H8487"
       ],
       [
-        " shall be dismayed,",
+        ", shall be dismayed",
         "H2865"
       ],
       [
-        " to the end that every one",
-        "H376"
+        ", to the end that every one",
+        "H0376"
       ],
       [
         " of the mount",
@@ -303,7 +385,11 @@
         "H3772"
       ],
       [
-        " by slaughter.",
+        " by slaughter",
+        "H6993"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -314,7 +400,7 @@
       ],
       [
         " against thy brother",
-        "H251"
+        "H0251"
       ],
       [
         " Jacob",
@@ -322,7 +408,7 @@
       ],
       [
         " shame",
-        "H955"
+        "H0955"
       ],
       [
         " shall cover",
@@ -333,7 +419,69 @@
         "H3772"
       ],
       [
-        " for ever.",
+        " for ever",
+        "H5769"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Obadiah|1|11": [
+      [
+        "In the day",
+        "H3117"
+      ],
+      [
+        " that thou stoodest",
+        "H5975"
+      ],
+      [
+        " on the other side, in the day",
+        "H3117"
+      ],
+      [
+        " that the strangers",
+        "H2114"
+      ],
+      [
+        " carried away captive",
+        "H7617"
+      ],
+      [
+        " his forces",
+        "H2428"
+      ],
+      [
+        ", and foreigners",
+        "H5237"
+      ],
+      [
+        " entered",
+        "H0935"
+      ],
+      [
+        " into his gates",
+        "H8179"
+      ],
+      [
+        ", and cast",
+        "H3032"
+      ],
+      [
+        " lots",
+        "H1486"
+      ],
+      [
+        " upon Jerusalem",
+        "H3389"
+      ],
+      [
+        ", even thou wast as one",
+        "H0259"
+      ],
+      [
+        " of them.",
         null
       ]
     ],
@@ -348,18 +496,18 @@
       ],
       [
         " of thy brother",
-        "H251"
+        "H0251"
       ],
       [
         " in the day",
         "H3117"
       ],
       [
-        " that he became a stranger;",
+        " that he became a stranger",
         "H5235"
       ],
       [
-        " neither shouldest thou have rejoiced",
+        "; neither shouldest thou have rejoiced",
         "H8055"
       ],
       [
@@ -375,11 +523,11 @@
         "H3117"
       ],
       [
-        " of their destruction;",
-        "H6"
+        " of their destruction",
+        "H0006"
       ],
       [
-        " neither shouldest thou have spoken",
+        "; neither shouldest thou have spoken",
         "H6310"
       ],
       [
@@ -391,14 +539,18 @@
         "H3117"
       ],
       [
-        " of distress.",
+        " of distress",
+        "H6869"
+      ],
+      [
+        ".",
         null
       ]
     ],
     "Obadiah|1|13": [
       [
         "Thou shouldest not have entered",
-        "H935"
+        "H0935"
       ],
       [
         " into the gate",
@@ -413,11 +565,11 @@
         "H3117"
       ],
       [
-        " of their calamity;",
-        "H343"
+        " of their calamity",
+        "H0343"
       ],
       [
-        " yea, thou shouldest not have looked",
+        "; yea, thou shouldest not have looked",
         "H7200"
       ],
       [
@@ -429,11 +581,11 @@
         "H3117"
       ],
       [
-        " of their calamity,",
-        "H343"
+        " of their calamity",
+        "H0343"
       ],
       [
-        " nor have laid",
+        ", nor have laid",
         "H7971"
       ],
       [
@@ -445,7 +597,11 @@
         "H3117"
       ],
       [
-        " of their calamity;",
+        " of their calamity",
+        "H0343"
+      ],
+      [
+        ";",
         null
       ]
     ],
@@ -455,19 +611,19 @@
         "H5975"
       ],
       [
-        " in the crossway,",
+        " in the crossway",
         "H6563"
       ],
       [
-        " to cut off",
+        ", to cut off",
         "H3772"
       ],
       [
-        " those of his that did escape;",
+        " those of his that did escape",
         "H6412"
       ],
       [
-        " neither shouldest thou have delivered up",
+        "; neither shouldest thou have delivered up",
         "H5462"
       ],
       [
@@ -479,7 +635,11 @@
         "H3117"
       ],
       [
-        " of distress.",
+        " of distress",
+        "H6869"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -497,15 +657,15 @@
         "H7138"
       ],
       [
-        " upon all the heathen:",
+        " upon all the heathen",
         "H1471"
       ],
       [
-        " as thou hast done,",
+        ": as thou hast done",
         "H6213"
       ],
       [
-        " it shall be done",
+        ", it shall be done",
         "H6213"
       ],
       [
@@ -517,7 +677,53 @@
         "H7725"
       ],
       [
-        " upon thine own head.",
+        " upon thine own head",
+        "H7218"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Obadiah|1|16": [
+      [
+        "For as ye have drunk",
+        "H8354"
+      ],
+      [
+        " upon my holy",
+        "H6944"
+      ],
+      [
+        " mountain",
+        "H2022"
+      ],
+      [
+        ", so shall all the heathen",
+        "H1471"
+      ],
+      [
+        " drink",
+        "H8354"
+      ],
+      [
+        " continually",
+        "H8548"
+      ],
+      [
+        ", yea, they shall drink",
+        "H8354"
+      ],
+      [
+        ", and they shall swallow down",
+        "H3886"
+      ],
+      [
+        ", and they shall be as though they had not",
+        "H3808"
+      ],
+      [
+        " been.",
         null
       ]
     ],
@@ -531,15 +737,15 @@
         "H6726"
       ],
       [
-        " shall be deliverance,",
+        " shall be deliverance",
         "H6413"
       ],
       [
-        " and there shall be holiness;",
+        ", and there shall be holiness",
         "H6944"
       ],
       [
-        " and the house",
+        "; and the house",
         "H1004"
       ],
       [
@@ -551,7 +757,81 @@
         "H3423"
       ],
       [
-        " their possessions.",
+        " their possessions",
+        "H4180"
+      ],
+      [
+        ".",
+        null
+      ]
+    ],
+    "Obadiah|1|18": [
+      [
+        "And the house",
+        "H1004"
+      ],
+      [
+        " of Jacob",
+        "H3290"
+      ],
+      [
+        " shall be a fire",
+        "H0784"
+      ],
+      [
+        ", and the house",
+        "H1004"
+      ],
+      [
+        " of Joseph",
+        "H3130"
+      ],
+      [
+        " a flame",
+        "H3852"
+      ],
+      [
+        ", and the house",
+        "H1004"
+      ],
+      [
+        " of Esau",
+        "H6215"
+      ],
+      [
+        " for stubble",
+        "H7179"
+      ],
+      [
+        ", and they shall kindle",
+        "H1814"
+      ],
+      [
+        " in them, and devour",
+        "H0398"
+      ],
+      [
+        " them; and there shall not be any remaining",
+        "H8300"
+      ],
+      [
+        " of the house",
+        "H1004"
+      ],
+      [
+        " of Esau",
+        "H6215"
+      ],
+      [
+        "; for the LORD",
+        "H3068"
+      ],
+      [
+        " hath spoken",
+        "H1696"
+      ],
+      [
+        " it.",
         null
       ]
     ],
@@ -569,19 +849,19 @@
         "H2022"
       ],
       [
-        " of Esau;",
+        " of Esau",
         "H6215"
       ],
       [
-        " and they of the plain",
+        "; and they of the plain",
         "H8219"
       ],
       [
-        " the Philistines:",
+        " the Philistines",
         "H6430"
       ],
       [
-        " and they shall possess",
+        ": and they shall possess",
         "H3423"
       ],
       [
@@ -589,23 +869,27 @@
         "H7704"
       ],
       [
-        " of Ephraim,",
-        "H669"
+        " of Ephraim",
+        "H0669"
       ],
       [
-        " and the fields",
+        ", and the fields",
         "H7704"
       ],
       [
-        " of Samaria:",
+        " of Samaria",
         "H8111"
       ],
       [
-        " and Benjamin",
+        ": and Benjamin",
         "H1144"
       ],
       [
-        " shall possess Gilead.",
+        " shall possess Gilead",
+        "H1568"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -627,27 +911,27 @@
         "H3478"
       ],
       [
-        " shall possess that of the Canaanites,",
+        " shall possess that of the Canaanites",
         "H3669"
       ],
       [
-        " even unto Zarephath;",
+        ", even unto Zarephath",
         "H6886"
       ],
       [
-        " and the captivity",
+        "; and the captivity",
         "H1546"
       ],
       [
-        " of Jerusalem,",
+        " of Jerusalem",
         "H3389"
       ],
       [
-        " which is in Sepharad,",
+        ", which is in Sepharad",
         "H5614"
       ],
       [
-        " shall possess",
+        ", shall possess",
         "H3423"
       ],
       [
@@ -655,7 +939,11 @@
         "H5892"
       ],
       [
-        " of the south.",
+        " of the south",
+        "H5045"
+      ],
+      [
+        ".",
         null
       ]
     ],
@@ -685,15 +973,19 @@
         "H2022"
       ],
       [
-        " of Esau;",
+        " of Esau",
         "H6215"
       ],
       [
-        " and the kingdom",
+        "; and the kingdom",
         "H4410"
       ],
       [
-        " shall be the LORD'S.",
+        " shall be the LORD'S",
+        "H3068"
+      ],
+      [
+        ".",
         null
       ]
     ]
