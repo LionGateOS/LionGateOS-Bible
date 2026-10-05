@@ -1,0 +1,485 @@
+{
+  "schemaVersion": "1.0",
+  "purpose": "Pinned eBible KJV USFM input manifest for GD Strong's alignment source migration",
+  "source": {
+    "provider": "eBible.org",
+    "translation": "King James Version + Apocrypha",
+    "sourceUrl": "https://ebible.org/Scriptures/eng-kjv_usfm.zip",
+    "retrievedDate": "2026-10-04",
+    "archiveFilename": "eng-kjv_usfm.zip",
+    "archiveSha256": "0e0359e9e488582a72c86800f227839ecb16dada7bb5ba316509d374c59e559a",
+    "packageSourceFilesDated": "2026-09-26",
+    "packageGeneratedByEBible": "2026-10-03"
+  },
+  "selectionPolicy": {
+    "canonicalBooksOnly": true,
+    "expectedCanonicalBooks": 66,
+    "apocryphaExcluded": true,
+    "frontMatterExcluded": true
+  },
+  "canonicalBookCount": 66,
+  "files": [
+    {
+      "book": "Genesis",
+      "usfmCode": "GEN",
+      "filename": "02-GENeng-kjv.usfm",
+      "sha256": "db880f1d6925387aed76d8f7736e830ba23f53d15add7198e9864c8028ca509c",
+      "bytes": 557290
+    },
+    {
+      "book": "Exodus",
+      "usfmCode": "EXO",
+      "filename": "03-EXOeng-kjv.usfm",
+      "sha256": "33e401b47ac371534d6ff74015aea219fca572c7943a75fdef7c57d124654913",
+      "bytes": 459146
+    },
+    {
+      "book": "Leviticus",
+      "usfmCode": "LEV",
+      "filename": "04-LEVeng-kjv.usfm",
+      "sha256": "a525b4944c44edd42d54ad401d84f1ac5b961363543ec033351d7f2bfa188e50",
+      "bytes": 326245
+    },
+    {
+      "book": "Numbers",
+      "usfmCode": "NUM",
+      "filename": "05-NUMeng-kjv.usfm",
+      "sha256": "91b33ac6290fdc5da1941f256a3a34efc1d98f3510d08e1738f524e33fee01d6",
+      "bytes": 471838
+    },
+    {
+      "book": "Deuteronomy",
+      "usfmCode": "DEU",
+      "filename": "06-DEUeng-kjv.usfm",
+      "sha256": "e99c5be28ab2b38ce373ebf369e16cf98117aafc6b079d326daae239cac9f53c",
+      "bytes": 382856
+    },
+    {
+      "book": "Joshua",
+      "usfmCode": "JOS",
+      "filename": "07-JOSeng-kjv.usfm",
+      "sha256": "59e065d27ce672ac569bb17534367cc89f6c1db87383368a018ad529f493d000",
+      "bytes": 270104
+    },
+    {
+      "book": "Judges",
+      "usfmCode": "JDG",
+      "filename": "08-JDGeng-kjv.usfm",
+      "sha256": "f7e81a499c5964f4120fe9bcfbf07e8cbb84edb789185c6def963c33b3109588",
+      "bytes": 271465
+    },
+    {
+      "book": "Ruth",
+      "usfmCode": "RUT",
+      "filename": "09-RUTeng-kjv.usfm",
+      "sha256": "cc0bbc73153bd55ceb20fe2fe72ad27570f52b681efc15ffe05916a101ea4b8e",
+      "bytes": 35063
+    },
+    {
+      "book": "1 Samuel",
+      "usfmCode": "1SA",
+      "filename": "10-1SAeng-kjv.usfm",
+      "sha256": "850b3c62e86c1a651e82fbb32698e85543e497a4aa13aef1b4d5a72b00ff6f53",
+      "bytes": 361143
+    },
+    {
+      "book": "2 Samuel",
+      "usfmCode": "2SA",
+      "filename": "11-2SAeng-kjv.usfm",
+      "sha256": "b6b426ffd1f6827aa2c45e2c1177f0f8084e5cb0b42b657ca13db779577d690d",
+      "bytes": 301450
+    },
+    {
+      "book": "1 Kings",
+      "usfmCode": "1KI",
+      "filename": "12-1KIeng-kjv.usfm",
+      "sha256": "019fa60e498e27eaef1932c5b8897a93acdf095d64c7bde6631aba457e96d905",
+      "bytes": 358288
+    },
+    {
+      "book": "2 Kings",
+      "usfmCode": "2KI",
+      "filename": "13-2KIeng-kjv.usfm",
+      "sha256": "ad18065a6f10bfce0d2c42e113933b9364e1f632ea5d3e56967b118f5200634b",
+      "bytes": 336812
+    },
+    {
+      "book": "1 Chronicles",
+      "usfmCode": "1CH",
+      "filename": "14-1CHeng-kjv.usfm",
+      "sha256": "bd0d03f2cda5b072f3e5d4adf416902706b3823f6b5377b41355aa5bd79efd94",
+      "bytes": 326040
+    },
+    {
+      "book": "2 Chronicles",
+      "usfmCode": "2CH",
+      "filename": "15-2CHeng-kjv.usfm",
+      "sha256": "113f9b4e54993bb588d5cc0557b927a89b3971bfc59bf66b6c72af0c3cad0e6b",
+      "bytes": 386113
+    },
+    {
+      "book": "Ezra",
+      "usfmCode": "EZR",
+      "filename": "16-EZReng-kjv.usfm",
+      "sha256": "6aa66d9bbd92831e536e82e4c5ae8869be9f308529ad7577ea7bccb39ce1c535",
+      "bytes": 118095
+    },
+    {
+      "book": "Nehemiah",
+      "usfmCode": "NEH",
+      "filename": "17-NEHeng-kjv.usfm",
+      "sha256": "a04c8172944276575a2ce758a7ed13dc7f593b178033705124f78f8ea54196a4",
+      "bytes": 157595
+    },
+    {
+      "book": "Esther",
+      "usfmCode": "EST",
+      "filename": "18-ESTeng-kjv.usfm",
+      "sha256": "76bd1c76fbbbd030ac06db2ded73b4ce1dd745946d5210a6a869b3434af34467",
+      "bytes": 84967
+    },
+    {
+      "book": "Job",
+      "usfmCode": "JOB",
+      "filename": "19-JOBeng-kjv.usfm",
+      "sha256": "12afb40b79779fcd6125ec8b261bd17b990023da804e02bff86fd5cb8f1d63a9",
+      "bytes": 262508
+    },
+    {
+      "book": "Psalms",
+      "usfmCode": "PSA",
+      "filename": "20-PSAeng-kjv.usfm",
+      "sha256": "da64243944525513b329b9acf52d20b3a49cebd26e12577c1a85c2847d1bc90f",
+      "bytes": 661997
+    },
+    {
+      "book": "Proverbs",
+      "usfmCode": "PRO",
+      "filename": "21-PROeng-kjv.usfm",
+      "sha256": "fdc629aa383881688e26d2bae8d482d81a2a77affc1a16e0a6d5d984669807a0",
+      "bytes": 235046
+    },
+    {
+      "book": "Ecclesiastes",
+      "usfmCode": "ECC",
+      "filename": "22-ECCeng-kjv.usfm",
+      "sha256": "6316803ca1a6bea0b8a43a8aaa713ba072285b77a17a7ce2d6b882c1e4390842",
+      "bytes": 79896
+    },
+    {
+      "book": "Song of Solomon",
+      "usfmCode": "SNG",
+      "filename": "23-SNGeng-kjv.usfm",
+      "sha256": "5fe7513b34a50f56e8f6945ad1cffeabcdb9dc565148b9e3637aa247c007dcc9",
+      "bytes": 39584
+    },
+    {
+      "book": "Isaiah",
+      "usfmCode": "ISA",
+      "filename": "24-ISAeng-kjv.usfm",
+      "sha256": "78daa962d92d011bdc8c422e0917c63ac29af8ac7a0233ee50d15da4a5a52673",
+      "bytes": 525289
+    },
+    {
+      "book": "Jeremiah",
+      "usfmCode": "JER",
+      "filename": "25-JEReng-kjv.usfm",
+      "sha256": "cb16590c8f533058ae10ebcbdeb44d3cfeb8401e78bb5cb941d261578609baa9",
+      "bytes": 595900
+    },
+    {
+      "book": "Lamentations",
+      "usfmCode": "LAM",
+      "filename": "26-LAMeng-kjv.usfm",
+      "sha256": "f1ba05ac421db373d36d28ed27dc0bdc32de62ad9b4df35bda425b124b85f747",
+      "bytes": 49376
+    },
+    {
+      "book": "Ezekiel",
+      "usfmCode": "EZK",
+      "filename": "27-EZKeng-kjv.usfm",
+      "sha256": "7ddd41b6f6a55f53823376000eda80ad511755fcdc4f46b8f25242538232aff9",
+      "bytes": 542862
+    },
+    {
+      "book": "Daniel",
+      "usfmCode": "DAN",
+      "filename": "28-DANeng-kjv.usfm",
+      "sha256": "1d3dbb03c2104b67b4a29f060feb376b953560a098699d0712822c538140a2b3",
+      "bytes": 182219
+    },
+    {
+      "book": "Hosea",
+      "usfmCode": "HOS",
+      "filename": "29-HOSeng-kjv.usfm",
+      "sha256": "7aface174cc1180e7f5748a5cb7a20fec2f22488684600f24a02419ea28a756a",
+      "bytes": 73500
+    },
+    {
+      "book": "Joel",
+      "usfmCode": "JOL",
+      "filename": "30-JOLeng-kjv.usfm",
+      "sha256": "ee6a676e6a62427711b1e328b28f2d0d676ccf30418428546e27a855efc1c017",
+      "bytes": 29276
+    },
+    {
+      "book": "Amos",
+      "usfmCode": "AMO",
+      "filename": "31-AMOeng-kjv.usfm",
+      "sha256": "11f050d7a2a18258dfbf1019d65d213730d8858dd2ec2f8213992f8eb95159ed",
+      "bytes": 61055
+    },
+    {
+      "book": "Obadiah",
+      "usfmCode": "OBA",
+      "filename": "32-OBAeng-kjv.usfm",
+      "sha256": "bcec7ea459982c680ac845cab2af4ba4804f5eb0d189a67ec1b8b9a2862ea03a",
+      "bytes": 9272
+    },
+    {
+      "book": "Jonah",
+      "usfmCode": "JON",
+      "filename": "33-JONeng-kjv.usfm",
+      "sha256": "d7c409da4c56e2da1c8c80aea7d982c26ce91569f75131ef17f9d11c2cb8c052",
+      "bytes": 19409
+    },
+    {
+      "book": "Micah",
+      "usfmCode": "MIC",
+      "filename": "34-MICeng-kjv.usfm",
+      "sha256": "d009aa1e5279ab302e544089aa08e7c7439780e2a5c96a2318df65afa4697d01",
+      "bytes": 44295
+    },
+    {
+      "book": "Nahum",
+      "usfmCode": "NAM",
+      "filename": "35-NAMeng-kjv.usfm",
+      "sha256": "f48a3a76b58f0480c24fe5d7340d0215a8c7738e07159451742a92f2544d1699",
+      "bytes": 19276
+    },
+    {
+      "book": "Habakkuk",
+      "usfmCode": "HAB",
+      "filename": "36-HABeng-kjv.usfm",
+      "sha256": "17b4ce9504ddbcd6b2e14d31381dc85f14ec7e47f4c27c4fda42c9b514b743da",
+      "bytes": 22696
+    },
+    {
+      "book": "Zephaniah",
+      "usfmCode": "ZEP",
+      "filename": "37-ZEPeng-kjv.usfm",
+      "sha256": "be8e13dc70ae33cad0d26938e7d6557d303a81dd915523db3e4d385352d902e7",
+      "bytes": 23317
+    },
+    {
+      "book": "Haggai",
+      "usfmCode": "HAG",
+      "filename": "38-HAGeng-kjv.usfm",
+      "sha256": "58693dfef409ee9e049b52dc0bf9124cf7d92165472c216ed4d9ce618ea6f06c",
+      "bytes": 16473
+    },
+    {
+      "book": "Zechariah",
+      "usfmCode": "ZEC",
+      "filename": "39-ZECeng-kjv.usfm",
+      "sha256": "b2cf8515506463af3b0a6aa6a691dceb9407f706f9efc75cd35c0d8d58be0e95",
+      "bytes": 90553
+    },
+    {
+      "book": "Malachi",
+      "usfmCode": "MAL",
+      "filename": "40-MALeng-kjv.usfm",
+      "sha256": "fead6953dca48bd57ece74546e091224d66667ad27dec242d95f8a062a96b883",
+      "bytes": 25339
+    },
+    {
+      "book": "Matthew",
+      "usfmCode": "MAT",
+      "filename": "70-MATeng-kjv.usfm",
+      "sha256": "84714bf0722b0f84432af5f410a7deadc341d96aeb9171dcfb927ccf3ddbb15f",
+      "bytes": 503746
+    },
+    {
+      "book": "Mark",
+      "usfmCode": "MRK",
+      "filename": "71-MRKeng-kjv.usfm",
+      "sha256": "54292d060cf21dbcf0921f0337fabc72a9c862125b302f106b661a050ff2c57c",
+      "bytes": 310027
+    },
+    {
+      "book": "Luke",
+      "usfmCode": "LUK",
+      "filename": "72-LUKeng-kjv.usfm",
+      "sha256": "dfdaac75c74409f9c45171cae0f0cf9c4db2960908797bd44e51f7f31ce11cd5",
+      "bytes": 538389
+    },
+    {
+      "book": "John",
+      "usfmCode": "JHN",
+      "filename": "73-JHNeng-kjv.usfm",
+      "sha256": "2af0ac3b8cfab9740ab364ba0923425a92a959c89b74fbbdcea404b33fe27bf8",
+      "bytes": 411784
+    },
+    {
+      "book": "Acts",
+      "usfmCode": "ACT",
+      "filename": "74-ACTeng-kjv.usfm",
+      "sha256": "2551b52392e1ea7a1d6e17271e83505ecc2645d74c8a576a149c758b92608097",
+      "bytes": 483750
+    },
+    {
+      "book": "Romans",
+      "usfmCode": "ROM",
+      "filename": "75-ROMeng-kjv.usfm",
+      "sha256": "fced9082f9afce233ad60a7fb6954cd85da758967b9aa243bb7cfd4713fb556f",
+      "bytes": 186658
+    },
+    {
+      "book": "1 Corinthians",
+      "usfmCode": "1CO",
+      "filename": "76-1COeng-kjv.usfm",
+      "sha256": "56417a4bd04abf50a58cc83e923e230304453fd9d41828476e7605f2164e9a71",
+      "bytes": 185345
+    },
+    {
+      "book": "2 Corinthians",
+      "usfmCode": "2CO",
+      "filename": "77-2COeng-kjv.usfm",
+      "sha256": "fc2f5e33279e3760ab4762cd5863e42562801b46f424b6af8ad299e937c811d3",
+      "bytes": 120270
+    },
+    {
+      "book": "Galatians",
+      "usfmCode": "GAL",
+      "filename": "78-GALeng-kjv.usfm",
+      "sha256": "db98e5ef67dec0500703b6fe937bb1d9627da70677fb10e4f8a56dc290c1aeaa",
+      "bytes": 61401
+    },
+    {
+      "book": "Ephesians",
+      "usfmCode": "EPH",
+      "filename": "79-EPHeng-kjv.usfm",
+      "sha256": "6351f3ae0365450cd2db0ab1076dde5d88a3c16cba596d028f2f89cb3d9b6a18",
+      "bytes": 61712
+    },
+    {
+      "book": "Philippians",
+      "usfmCode": "PHP",
+      "filename": "80-PHPeng-kjv.usfm",
+      "sha256": "c2c3f27b141885db725701207e36a235dcdb4fa0a9f32733dc76aee2cd0eeab9",
+      "bytes": 44603
+    },
+    {
+      "book": "Colossians",
+      "usfmCode": "COL",
+      "filename": "81-COLeng-kjv.usfm",
+      "sha256": "921f4720e313865cc5056d7bfc30099e346c418885ea542fe0920b280f551a11",
+      "bytes": 41232
+    },
+    {
+      "book": "1 Thessalonians",
+      "usfmCode": "1TH",
+      "filename": "82-1THeng-kjv.usfm",
+      "sha256": "0c6b2d864a88f20655662dc70f9cad406e8dd13198e44fae2e0f4833b6f9b737",
+      "bytes": 39167
+    },
+    {
+      "book": "2 Thessalonians",
+      "usfmCode": "2TH",
+      "filename": "83-2THeng-kjv.usfm",
+      "sha256": "862cb3d9f7a102eb352c1c7eadefc3fe02d14ca4745afb4e1528229386dbe20d",
+      "bytes": 21727
+    },
+    {
+      "book": "1 Timothy",
+      "usfmCode": "1TI",
+      "filename": "84-1TIeng-kjv.usfm",
+      "sha256": "6daaf7b26db5f91b873e19dd46f2d6ecb1f7efc28f16ba92a55fbac3d67ea163",
+      "bytes": 45930
+    },
+    {
+      "book": "2 Timothy",
+      "usfmCode": "2TI",
+      "filename": "85-2TIeng-kjv.usfm",
+      "sha256": "cd30f7b64a474b011a9f90229059b70ec338de6f63cd2dfdfd9abb04ef00a9ca",
+      "bytes": 34326
+    },
+    {
+      "book": "Titus",
+      "usfmCode": "TIT",
+      "filename": "86-TITeng-kjv.usfm",
+      "sha256": "c4fd1271c03e0aaa4abf20848169b3ed630642d15b8e6a1cd497e3072c305982",
+      "bytes": 18955
+    },
+    {
+      "book": "Philemon",
+      "usfmCode": "PHM",
+      "filename": "87-PHMeng-kjv.usfm",
+      "sha256": "2c5dce4e7735d72eaf553a9115037209df91660e22bb24142b239084260eb0e6",
+      "bytes": 9418
+    },
+    {
+      "book": "Hebrews",
+      "usfmCode": "HEB",
+      "filename": "88-HEBeng-kjv.usfm",
+      "sha256": "9ad8123543a615d107470719a37cf717f99002f00c882c3d8f0a90c5a341912b",
+      "bytes": 135206
+    },
+    {
+      "book": "James",
+      "usfmCode": "JAS",
+      "filename": "89-JASeng-kjv.usfm",
+      "sha256": "950cd047694f5544a59059b80df804ace9e48a52ff893d171d1812f52b227a3a",
+      "bytes": 46104
+    },
+    {
+      "book": "1 Peter",
+      "usfmCode": "1PE",
+      "filename": "90-1PEeng-kjv.usfm",
+      "sha256": "9187aeaf8b514527c28e435da0738db2d503d3167db4897d5862e9c8cb7ab3b5",
+      "bytes": 47618
+    },
+    {
+      "book": "2 Peter",
+      "usfmCode": "2PE",
+      "filename": "91-2PEeng-kjv.usfm",
+      "sha256": "d371a736a7d460a9a1fb6c83ffb8450ac45c92830c7c561dcd5d2b8ce2613302",
+      "bytes": 30827
+    },
+    {
+      "book": "1 John",
+      "usfmCode": "1JN",
+      "filename": "92-1JNeng-kjv.usfm",
+      "sha256": "f257c6147d74d7a714dca7e7b44684d0f81f53a5f46ee63ff9f46bbf7173b773",
+      "bytes": 52339
+    },
+    {
+      "book": "2 John",
+      "usfmCode": "2JN",
+      "filename": "93-2JNeng-kjv.usfm",
+      "sha256": "47f1d8394fe44b414d8c1481cc40bfdb859ce8f22c630aaa6120b086122fe824",
+      "bytes": 6434
+    },
+    {
+      "book": "3 John",
+      "usfmCode": "3JN",
+      "filename": "94-3JNeng-kjv.usfm",
+      "sha256": "2e95e896c2a782e0b97e26b939e5e244cd22acc93946587033d788765b16c0a5",
+      "bytes": 6003
+    },
+    {
+      "book": "Jude",
+      "usfmCode": "JUD",
+      "filename": "95-JUDeng-kjv.usfm",
+      "sha256": "d94fb5857b1bb4303233ea7e2a59e5868fa7d102c083f97d64bb065a942b1082",
+      "bytes": 12629
+    },
+    {
+      "book": "Revelation",
+      "usfmCode": "REV",
+      "filename": "96-REVeng-kjv.usfm",
+      "sha256": "9b32b54f49d951f0d99b87c3678986658f5974d27eb7f00bd7f65789873612fa",
+      "bytes": 242393
+    }
+  ]
+}
