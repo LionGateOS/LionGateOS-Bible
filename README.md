@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/branding/gd-bible-logo.png" alt="GD Bible logo" width="320">
+  <img src="assets/branding/liongateos-bible-logo.png" alt="GD Bible logo" width="320">
 </p>
 
 # GD Bible — Grow Daily
@@ -49,7 +49,8 @@ GD contains:
 GD+ contains:
 
 - the same complete GD custom Bible text
-- the same Royal Purple words-of-Jesus system
+- the same Jesus speech identification system
+- Aqua words-of-Jesus rendering optimized for Strong's study
 - integrated Hebrew and Greek Strong's numbers for study
 - Strong's dictionary support where supported by the target Bible software
 
