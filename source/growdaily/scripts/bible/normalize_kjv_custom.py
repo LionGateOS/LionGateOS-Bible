@@ -423,7 +423,7 @@ def main():
     passed = (
         len(modified) == 66
         and modified_structure["chapters"] == 1189
-        and modified_structure["verses"] == 31100
+        and modified_structure["verses"] == 31102
         and remaining_brace_verses == 0
         and remaining["Holy Ghost"] == 0
         and remaining["Ghost"] == 0
@@ -483,7 +483,7 @@ def main():
     report.append(f"Output verse count: {modified_structure['verses']}")
     report.append(f"Output still has exactly 66 books: {modified_structure['books'] == 66}")
     report.append(f"Output still has exactly 1189 chapters: {modified_structure['chapters'] == 1189}")
-    report.append(f"Output still has exactly 31100 verses: {modified_structure['verses'] == 31100}")
+    report.append(f"Output still has exactly 31102 verses: {modified_structure['verses'] == 31102}")
     report.append(f"Verses still containing braces after cleanup: {remaining_brace_verses}")
     report.append("")
     report.append("Original counts:")
@@ -536,7 +536,7 @@ def main():
     print(f"Output verse count: {modified_structure['verses']}")
     print(f"Output still has exactly 66 books: {modified_structure['books'] == 66}")
     print(f"Output still has exactly 1189 chapters: {modified_structure['chapters'] == 1189}")
-    print(f"Output still has exactly 31100 verses: {modified_structure['verses'] == 31100}")
+    print(f"Output still has exactly 31102 verses: {modified_structure['verses'] == 31102}")
     print(f"Verses still containing braces after cleanup: {remaining_brace_verses}")
     print(f"Ghost verses found: {len(targets['ghost'])}")
     print(f"Adoption verses found: {len(targets['adoption'])}")

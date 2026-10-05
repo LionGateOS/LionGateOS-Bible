@@ -12,7 +12,7 @@ import re
 import unicodedata
 from pathlib import Path
 
-ROOT = Path("/home/liongateos/growdaily")
+ROOT = Path(__file__).resolve().parents[2]
 STANDARD = ROOT / "assets/bible/en_kjv.json"
 CUSTOM = ROOT / "assets/bible/kjv_modified.json"
 REPORT = ROOT / "__tests__/__fixtures__/satan_reconciliation.json"

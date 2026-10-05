@@ -15,7 +15,7 @@ The result is a clean, authentic KJV text with:
   - All canonical translator-added words preserved (without braces)
   - All publisher editorial apparatus removed
   - No braces or guillemet in any verse
-  - 66 books, 1189 chapters, 31100 verses
+  - 66 books, 1189 chapters, 31102 verses
 
 Usage:
     python3 scripts/bible/repair_en_kjv.py
@@ -25,7 +25,7 @@ import json
 import re
 from pathlib import Path
 
-ROOT = Path("/home/liongateos/growdaily")
+ROOT = Path(__file__).resolve().parents[2]
 BACKUP = ROOT / "assets/bible/en_kjv.json.before-clean-20260607-211743"
 OUTPUT = ROOT / "assets/bible/en_kjv.json"
 
@@ -156,7 +156,7 @@ def main():
     passed = (
         repaired_counts["books"] == 66
         and repaired_counts["chapters"] == 1189
-        and repaired_counts["verses"] == 31100
+        and repaired_counts["verses"] == 31102
         and remaining_braces == 0
         and remaining_guillemet == 0
         and gen_1_12 == expected

@@ -6,8 +6,8 @@
 
 ## Files
 
-- Original: `/home/liongateos/growdaily/assets/bible/en_kjv.json`
-- Modified: `/home/liongateos/growdaily/assets/bible/kjv_modified.json`
+- Original: `source/growdaily/assets/bible/en_kjv.json`
+- Modified: `source/growdaily/assets/bible/kjv_modified.json`
 
 ## Structure Check
 

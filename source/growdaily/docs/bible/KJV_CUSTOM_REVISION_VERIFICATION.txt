@@ -1,6 +1,6 @@
 === GrowDaily KJV Custom Revision Verification v3 ===
-Input file: /home/liongateos/LionGateOS-Bible/source/growdaily/assets/bible/en_kjv.json
-Output file: /home/liongateos/LionGateOS-Bible/source/growdaily/assets/bible/kjv_modified.json
+Input file: source/growdaily/assets/bible/en_kjv.json
+Output file: source/growdaily/assets/bible/kjv_modified.json
 Input book count: 66
 Input chapter count: 1189
 Input verse count: 31100

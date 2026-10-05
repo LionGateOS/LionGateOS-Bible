@@ -3,7 +3,7 @@ import re
 import sys
 from pathlib import Path
 
-ROOT = Path("/home/liongateos/growdaily")
+ROOT = Path(__file__).resolve().parents[2]
 ORIGINAL = ROOT / "assets/bible/en_kjv.json"
 MODIFIED = ROOT / "assets/bible/kjv_modified.json"
 REPORT = ROOT / "docs/bible/KJV_CUSTOM_REVISION_AUDIT.md"

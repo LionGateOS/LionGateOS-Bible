@@ -2,7 +2,7 @@
 """
 Full-Bible reconciliation between Standard KJV and Custom KJV.
 
-Compares all 31,100 verses token-by-token using a deterministic canonical
+Compares all 31,102 verses token-by-token using a deterministic canonical
 tokenizer. Classifies every difference as:
   - approved_substitution: same token count, different tokens at known positions
   - missing_token: custom has fewer tokens than standard
@@ -18,15 +18,17 @@ Usage:
     python3 scripts/bible/reconcile_kjv_custom.py --report /tmp/reconciliation.json
 """
 import json
+import hashlib
 import re
 import sys
 import unicodedata
 from pathlib import Path
 from collections import Counter
 
-ROOT = Path("/home/liongateos/growdaily")
+ROOT = Path(__file__).resolve().parents[2]
 STANDARD = ROOT / "assets/bible/en_kjv.json"
 CUSTOM = ROOT / "assets/bible/kjv_modified.json"
+RUNTIME_MANIFEST = ROOT / "assets/bible/kjv_custom_runtime_manifest.json"
 DEFAULT_REPORT = ROOT / "__tests__/__fixtures__/kjv_custom_reconciliation.json"
 
 BOOK_NAMES = [
@@ -237,6 +239,21 @@ def main():
 
     standard = json.loads(STANDARD.read_text("utf-8"))
     custom = json.loads(CUSTOM.read_text("utf-8"))
+    manifest = json.loads(RUNTIME_MANIFEST.read_text("utf-8"))
+
+    manifest_entries = manifest.get("changedVerses", [])
+    manifest_by_ref = {}
+    duplicate_manifest_refs = []
+
+    for entry in manifest_entries:
+        ref = entry.get("ref")
+        if not ref:
+            duplicate_manifest_refs.append("<missing-ref>")
+            continue
+        if ref in manifest_by_ref:
+            duplicate_manifest_refs.append(ref)
+            continue
+        manifest_by_ref[ref] = entry
 
     # Structure validation
     std_books = len(standard)
@@ -252,10 +269,37 @@ def main():
     total_reordered = 0
     total_unapproved = 0
     total_reference_issues = 0
+    manifest_approved_verses = 0
 
     affected_refs = []
     verse_reports = []
     root_causes = Counter()
+    seen_refs = set()
+
+    # The runtime manifest is the authoritative approval contract for every
+    # intentional Standard -> Custom verse difference.
+    if duplicate_manifest_refs:
+        total_reference_issues += len(duplicate_manifest_refs)
+        root_causes["duplicate_manifest_ref"] += len(duplicate_manifest_refs)
+        affected_refs.extend(
+            f"manifest duplicate ref: {ref}" for ref in duplicate_manifest_refs
+        )
+
+    if manifest.get("totalVerses") != cus_verses:
+        total_reference_issues += 1
+        root_causes["manifest_total_mismatch"] += 1
+        affected_refs.append(
+            f"manifest totalVerses={manifest.get('totalVerses')} custom={cus_verses}"
+        )
+
+    manifest_sha = manifest.get("customAssetSha256")
+    actual_sha = hashlib.sha256(CUSTOM.read_bytes()).hexdigest()
+    if manifest_sha != actual_sha:
+        total_reference_issues += 1
+        root_causes["manifest_custom_sha_mismatch"] += 1
+        affected_refs.append(
+            f"manifest custom SHA mismatch: manifest={manifest_sha} actual={actual_sha}"
+        )
 
     for bi, (sbook, cbook) in enumerate(zip(standard, custom)):
         s_chapters = sbook.get("chapters", [])
@@ -265,6 +309,7 @@ def main():
         if len(s_chapters) != len(c_chapters):
             total_reference_issues += 1
             affected_refs.append(f"{book_name}: chapter count mismatch")
+            root_causes["chapter_count_mismatch"] += 1
             continue
 
         for ci, (schap, cchap) in enumerate(zip(s_chapters, c_chapters)):
@@ -273,57 +318,132 @@ def main():
             if len(schap) != len(cchap):
                 total_reference_issues += 1
                 affected_refs.append(f"{book_name} {chapter_num}: verse count mismatch")
+                root_causes["verse_count_mismatch"] += 1
                 continue
 
             for vi, (sverse, cverse) in enumerate(zip(schap, cchap)):
                 verse_num = vi + 1
                 ref = f"{book_name} {chapter_num}:{verse_num}"
                 total_verses += 1
+                seen_refs.add(ref)
 
+                approved_entry = manifest_by_ref.get(ref)
+
+                # No textual difference is valid only when the approval manifest
+                # also does not claim this verse as intentionally changed.
+                if sverse == cverse:
+                    if approved_entry is not None:
+                        verses_with_differences += 1
+                        total_reference_issues += 1
+                        affected_refs.append(ref)
+                        root_causes["stale_manifest_entry"] += 1
+                        verse_reports.append({
+                            "ref": ref,
+                            "std_text": sverse,
+                            "cus_text": cverse,
+                            "contract_issue": "manifest lists verse as changed but runtime texts are identical",
+                        })
+                    continue
+
+                # An intentional change is approved only if BOTH locked texts in
+                # the runtime manifest match the current assets exactly.
+                if (
+                    approved_entry is not None
+                    and approved_entry.get("standard") == sverse
+                    and approved_entry.get("custom") == cverse
+                ):
+                    manifest_approved_verses += 1
+
+                    # Preserve the historical diagnostic count for the subset of
+                    # token substitutions recognized by the old tokenizer rules.
+                    rec = reconcile_verse(sverse, cverse)
+                    total_approved += len(rec["approved_substitutions"])
+                    continue
+
+                # Any changed verse not exactly authorized by the manifest is a
+                # contract violation. Keep the existing token diagnostics so the
+                # report still explains missing/added/reordered/replaced content.
                 rec = reconcile_verse(sverse, cverse)
 
-                has_diff = (
-                    rec["missing_tokens"]
-                    or rec["added_tokens"]
-                    or rec["unapproved_replacements"]
-                    or rec["reordered_tokens"]
-                )
+                verses_with_differences += 1
+                affected_refs.append(ref)
 
-                if has_diff:
-                    verses_with_differences += 1
-                    affected_refs.append(ref)
+                missing_count = len(rec["missing_tokens"])
+                added_count = len(rec["added_tokens"])
+                reordered_count = len(rec["reordered_tokens"])
+                unapproved_count = len(rec["unapproved_replacements"])
 
-                    if rec["missing_tokens"]:
-                        total_missing += len(rec["missing_tokens"])
-                        root_causes["missing_token"] += 1
-                    if rec["added_tokens"]:
-                        total_added += len(rec["added_tokens"])
-                        root_causes["added_token"] += 1
-                    if rec["unapproved_replacements"]:
-                        total_unapproved += len(rec["unapproved_replacements"])
-                        root_causes["unapproved_replacement"] += 1
-                    if rec["reordered_tokens"]:
-                        total_reordered += len(rec["reordered_tokens"])
-                        root_causes["reordered_token"] += 1
+                total_missing += missing_count
+                total_added += added_count
+                total_reordered += reordered_count
+                total_unapproved += unapproved_count
 
-                    verse_reports.append({
-                        "ref": ref,
-                        "std_text": sverse,
-                        "cus_text": cverse,
-                        "reconciliation": rec,
-                    })
-                elif rec["approved_substitutions"]:
-                    total_approved += len(rec["approved_substitutions"])
+                if missing_count:
+                    root_causes["missing_token"] += 1
+                if added_count:
+                    root_causes["added_token"] += 1
+                if reordered_count:
+                    root_causes["reordered_token"] += 1
+                if unapproved_count:
+                    root_causes["unapproved_replacement"] += 1
+
+                if approved_entry is None:
+                    root_causes["change_missing_from_manifest"] += 1
+                    contract_issue = "changed verse is not present in approval manifest"
+                else:
+                    root_causes["manifest_text_mismatch"] += 1
+                    contract_issue = "runtime verse text does not match locked manifest text"
+
+                # Guarantee that a manifest-contract violation fails even when
+                # legacy token diagnostics happen to classify every token as
+                # acceptable.
+                if not (
+                    missing_count
+                    or added_count
+                    or reordered_count
+                    or unapproved_count
+                ):
+                    total_unapproved += 1
+
+                verse_reports.append({
+                    "ref": ref,
+                    "std_text": sverse,
+                    "cus_text": cverse,
+                    "contract_issue": contract_issue,
+                    "reconciliation": rec,
+                })
+
+    unseen_manifest_refs = sorted(set(manifest_by_ref) - seen_refs)
+    for ref in unseen_manifest_refs:
+        total_reference_issues += 1
+        affected_refs.append(ref)
+        root_causes["manifest_ref_not_in_runtime"] += 1
+        verse_reports.append({
+            "ref": ref,
+            "contract_issue": "approval manifest reference does not exist in runtime Bible structure",
+        })
+
+    if manifest_approved_verses != len(manifest_by_ref):
+        # Specific stale/missing/mismatched entries above already add detailed
+        # failures; this records the overall approval-contract mismatch.
+        root_causes["manifest_approved_count_mismatch"] += 1
 
     report = {
         "standard_asset": str(STANDARD),
         "custom_asset": str(CUSTOM),
+        "approval_manifest": str(RUNTIME_MANIFEST),
         "structure": {
             "standard_books": std_books,
             "custom_books": cus_books,
             "standard_verses": std_verses,
             "custom_verses": cus_verses,
             "structure_match": std_books == cus_books and std_verses == cus_verses,
+        },
+        "approval_contract": {
+            "manifest_entries": len(manifest_by_ref),
+            "validated_changed_verses": manifest_approved_verses,
+            "custom_asset_sha256": actual_sha,
+            "manifest_sha_matches": manifest_sha == actual_sha,
         },
         "totals": {
             "total_verses_checked": total_verses,
@@ -341,45 +461,64 @@ def main():
     }
 
     report_path.parent.mkdir(parents=True, exist_ok=True)
-    report_path.write_text(json.dumps(report, ensure_ascii=False, indent=2), "utf-8")
+    report_path.write_text(
+        json.dumps(report, ensure_ascii=False, indent=2),
+        "utf-8",
+    )
 
-    # Summary output
     print("=== Full-Bible KJV Custom Reconciliation ===")
     print(f"Standard: {STANDARD}")
     print(f"Custom:   {CUSTOM}")
+    print(f"Approval: {RUNTIME_MANIFEST}")
     print(f"Structure match: {report['structure']['structure_match']}")
     print(f"Standard books={std_books}, verses={std_verses}")
     print(f"Custom books={cus_books}, verses={cus_verses}")
     print()
+    print("=== Approval Contract ===")
+    print(f"Manifest changed verses:        {len(manifest_by_ref)}")
+    print(f"Validated changed verses:       {manifest_approved_verses}")
+    print(f"Manifest SHA matches custom:    {manifest_sha == actual_sha}")
+    print()
     print("=== Totals ===")
     print(f"Total verses checked:           {total_verses}")
-    print(f"Verses with differences:         {verses_with_differences}")
-    print(f"Total approved substitutions:   {total_approved}")
-    print(f"Total missing tokens:            {total_missing}")
-    print(f"Total added tokens:              {total_added}")
-    print(f"Total reordered tokens:          {total_reordered}")
+    print(f"Verses with violations:         {verses_with_differences}")
+    print(f"Legacy approved substitutions:  {total_approved}")
+    print(f"Total missing tokens:           {total_missing}")
+    print(f"Total added tokens:             {total_added}")
+    print(f"Total reordered tokens:         {total_reordered}")
     print(f"Total unapproved replacements:  {total_unapproved}")
-    print(f"Total reference issues:          {total_reference_issues}")
+    print(f"Total reference issues:         {total_reference_issues}")
     print()
+
     if affected_refs:
         print("=== Affected References ===")
         for ref in affected_refs:
             print(f"  {ref}")
-    print()
+        print()
+
     if root_causes:
         print("=== Root Causes ===")
-        for cause, count in root_causes.most_common():
+        for cause, count in sorted(root_causes.items()):
             print(f"  {cause}: {count}")
-    print()
+        print()
+
     print(f"Report: {report_path}")
 
-    # Exit code: 0 if no defects, 1 if any
-    has_defects = total_missing > 0 or total_added > 0 or total_unapproved > 0 or total_reordered > 0 or total_reference_issues > 0
-    if has_defects:
-        print("RESULT: FAIL")
-        sys.exit(1)
-    else:
-        print("RESULT: PASS")
+    passed = (
+        report["structure"]["structure_match"]
+        and manifest_approved_verses == len(manifest_by_ref)
+        and len(manifest_by_ref) == manifest.get("changedVerseCount")
+        and manifest_sha == actual_sha
+        and verses_with_differences == 0
+        and total_missing == 0
+        and total_added == 0
+        and total_reordered == 0
+        and total_unapproved == 0
+        and total_reference_issues == 0
+    )
+
+    print("RESULT: " + ("PASS" if passed else "FAIL"))
+    return 0 if passed else 1
 
 if __name__ == "__main__":
     main()
