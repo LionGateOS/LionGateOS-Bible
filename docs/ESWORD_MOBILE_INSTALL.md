@@ -1,92 +1,75 @@
 # e-Sword Mobile Install Guide
 
-This guide explains how to install the finished LionGateOS Bible module on mobile devices.
-
-## Important distinction
-
-There are two different situations:
-
-1. **Desktop e-Sword**
-   - This project already produces the desktop Bible module path.
-
-2. **Mobile e-Sword**
-   - Mobile installation is different from desktop.
-   - Apple devices and Android devices do **not** use the same end-user path as desktop e-Sword.
-
----
+This guide records mobile installation behavior that has actually been tested
+for GD and GD+.
 
 ## iPad — e-Sword HD
 
-### Tested GD installation
+### Verified direct import
 
-The easiest tested installation method for GD on iPad is:
+Both current `.bbli` editions have been tested successfully in e-Sword HD on
+iPad:
 
-1. Download the iPad-compatible GD Bible module.
-2. Open the downloaded file from Safari or the Files app.
+- `GD.bbli`
+- `GD+.bbli`
+
+Tested installation steps:
+
+1. Save the desired `.bbli` file on the iPad.
+2. Open the file from Safari or the Files app.
 3. Tap **Share**.
 4. Choose **e-Sword** from the share sheet.
 5. Open e-Sword HD.
-6. Select **GD** from the available Bible versions.
+6. Select **GD** or **GD+** from the available Bible versions.
 
-This workflow has been successfully tested on iPad with `GD.bbli`; after import, the Bible appears in e-Sword HD as **GD**.
+The user does not need to rebuild or convert the tested `.bbli` files.
 
-The distributed file must already be in the format accepted by e-Sword HD.
-End users do not need to rebuild the Bible module themselves.
+### Verified GD behavior
 
----
+- edition appears as **GD**
+- complete GD Scripture loads
+- Jesus speech displays in Royal Purple `#9B00FF`
+- no inline Strong's numbers are present
+
+### Verified GD+ behavior
+
+- edition appears as **GD+**
+- complete GD Scripture loads
+- Jesus speech displays in Aqua `#00E5FF`
+- Strong's numbers are present
+- Strong's numbers remain clickable for lookup in the tested e-Sword HD build
+
+## Desktop e-Sword
+
+The repository also generates desktop `.bblx` packages:
+
+- `GD.bblx`
+- `GD+.bblx`
+
+Desktop and mobile packages are generated from the same canonical GD Bible
+source and must preserve the same 66-book / 31,102-verse coordinate system.
 
 ## iPhone — e-Sword LT
 
-### Short answer
+A simple direct-import workflow for the current GD/GD+ packages has not been
+verified on iPhone in this project.
 
-You **cannot** rely on an iPhone user simply downloading the finished file from GitHub and importing it directly into e-Sword LT.
-
-### Official path
-
-According to the official e-Sword LT FAQ, making and loading your own module for iPhone requires:
-
-1. A **PC with e-Sword 12+**
-2. The **e-Sword PC Module Conversion Utility**
-3. Transfer to the iPhone using **Apple File Sharing**
-4. Restarting e-Sword LT so it imports the converted module
-
-### What this means for end users
-
-If a user only has an iPhone, the official documentation does **not** describe a simple direct-download install path from GitHub or iCloud Files into e-Sword LT.
-
----
+Do not describe iPhone direct installation as supported until it has been
+tested successfully.
 
 ## Android — e-Sword for Android
 
-### Short answer
+A direct custom-module import workflow for the current GD/GD+ packages has not
+been verified on Android in this project.
 
-Android is also **not** documented here as a simple “download from GitHub and import directly into e-Sword” path.
+Do not describe Android sideloading as supported until it has been tested
+successfully.
 
-### Official path
+## Support rule
 
-The official Android tutorial describes downloading modules through the app’s built-in download flow.
-It does **not** provide a normal documented end-user workflow for sideloading user-made custom Bible modules from GitHub into the app.
+Only installation paths and rendering behavior that have been tested in the
+target application should be described as verified.
 
-### What this means for end users
+Current verified mobile target:
 
-A direct custom-module sideload workflow for ordinary Android users is not documented here as a normal supported path.
-
----
-
-## Strong's and custom wording note
-
-This project preserves the canonical 66-book / 31,102-verse structure and has continued rebuilding the desktop e-Sword output successfully.
-
-However, some custom wording changes expand one original word into two or more displayed words.
-That means the project preserves canonical structure and current alignment totals, but users should understand that mobile e-Sword installation and exact Strong's display behavior on mobile still need real-device verification.
-
----
-
-## Best current practical guidance
-
-- **Desktop users:** use the standard desktop module path from this repository.
-- **iPad users:** expect the official PC conversion + Apple File Sharing workflow.
-- **iPhone users:** expect the official PC conversion + Apple File Sharing workflow.
-- **Android users:** do not assume a simple direct custom-module import path is supported.
-
-If the mobile install path becomes easier or better verified in future testing, this document should be updated.
+**iPad running e-Sword HD**

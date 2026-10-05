@@ -2,8 +2,8 @@
 
 ## Plain-language answer
 
-The repository includes Strong's-number dictionary and Bible-alignment data for
-the complete 66-book Bible.
+The repository includes Strong's-number dictionary and Bible-alignment data
+for the complete 66-book Bible.
 
 It is not a digital reproduction of every page, index, and feature in the
 printed *Strong's Exhaustive Concordance*.
@@ -24,74 +24,91 @@ The dictionary records provide information such as:
 - short meaning or gloss
 - KJV-related definition fields where available
 
-## Bible coverage
+## Production alignment
 
-| Coverage item | Total |
+The active production alignment covers the complete canonical Bible.
+
+| Standard KJV production item | Verified total |
 |---|---:|
 | Books | 66 |
 | Canonical verses | 31,102 |
-| Raw source records | 76,774 |
-| Unique source references | 31,102 |
-| Malformed references | 0 |
-| Directly aligned verses | 27,086 |
-| Fallback verses | 4,016 |
-| Missing verses | 0 |
+| Aligned verses | 31,102 |
+| Strong's markers | 348,950 |
+| Alignment fallback verses | 0 |
+| Missing canonical verses | 0 |
 
-The 31,102 unique source references now match the repaired canonical Bible
-structure exactly. Structural reconciliation found and corrected omitted verse
-boundaries and erroneous split boundaries in the earlier 31,100-verse asset.
+The primary production source is the eBible.org King James Version USFM data
+with embedded Hebrew and Greek Strong's identifiers.
 
-## What directly aligned means
+Three verses absent from the primary eBible source use a documented CrossWire
+source fallback. That is a **source-provenance fallback**, not an unresolved
+alignment fallback. The combined production alignment still covers all 31,102
+canonical verses.
 
-A directly aligned verse has verified placement connecting the visible KJV
-word sequence to the corresponding Strong's-number sequence.
+## GD+ projection
 
-These verses can support inline Strong's display with confidence in the
-reconstructed word placement.
+GD+ projects the verified Standard KJV alignment onto the documented GD custom
+wording without changing the GD Scripture text.
 
-## What fallback means
+| GD+ projection item | Verified total |
+|---|---:|
+| Projected verses | 31,102 |
+| Strong's markers retained | 348,902 |
+| Plain fallback verses | 0 |
+| Reconstruction failures | 0 |
+| GD changed verses | 335 |
+| Changed verses projected | 335 |
 
-A fallback verse is not missing.
+The 48-marker difference between the Standard KJV alignment and GD+ is
+intentional.
 
-The full Bible verse remains available and readable, but the project does not
-claim a verified reconstructed word-by-word inline placement for that verse.
+Those markers are not transferred where changed GD wording makes the original
+word association uncertain. The project does not invent or guess Strong's
+associations merely to preserve a numerical total.
 
-This prevents uncertain alignments from being shown as though they were exact.
+## Alignment rules
 
-## Standard and custom KJV support
+The production process follows these rules:
 
-The direct alignment was built from the Standard KJV source.
+1. Canonical GD/KJV Scripture text remains authoritative for displayed text.
+2. Strong's identifiers are transferred only where the word association is
+   supported.
+3. Translator-added or unmatched words are not assigned invented identifiers.
+4. Generated verses must reconstruct the canonical displayed Scripture text.
+5. Ambiguous associations remain unassigned rather than being presented as
+   certain.
 
-The LionGateOS Custom KJV uses a compatibility projection so documented wording
-changes can retain Strong's support where the token structure remains safely
-reconstructable.
+## e-Sword GD+ behavior
 
-Verified custom projection status:
+GD+ keeps Strong's identifiers in ordinary e-Sword markup such as:
 
-- Custom projections: 27,086
-- Custom projection fallbacks: 0
-- Reconstruction failures: 0
+`<num>G190</num>`
+
+The Strong's tags are intentionally left unstyled so e-Sword can keep them
+clickable.
+
+Words spoken by Jesus in GD+ are rendered separately in Aqua `#00E5FF`.
 
 ## Data files
 
+Primary project areas include:
+
 - `source/growdaily/assets/strong/strong_dict_hebrew.json`
 - `source/growdaily/assets/strong/strong_dict_greek.json`
-- `source/growdaily/assets/strong/strong_kjv.json`
-- `source/growdaily/assets/strong/alignment/manifest.json`
 - `source/growdaily/assets/strong/alignment/`
+- `source/growdaily/docs/bible/EBIBLE_KJV_STRONGS_PROVENANCE.md`
+
+Legacy Strong's assets may remain for historical compatibility and audit
+purposes, but they are not the authoritative active GD+ production alignment
+when newer Schema 2.0 production data supersedes them.
 
 ## Attribution and licensing
 
-The bundled dictionary material is derived from Open Scriptures Strong's
-sources.
+The bundled dictionary material includes data derived from Open Scriptures
+Strong's sources.
 
-The repository's imported source note records the Hebrew material as derived
-from XML with Open Scriptures attribution and the Greek material with Open
-Scriptures attribution.
+Production Bible-alignment provenance is documented separately for the eBible
+primary source and the limited CrossWire source fallback.
 
-See:
-
-`source/growdaily/docs/bible/STRONGS_LICENSE_NOTE.md`
-
-Licensing and attribution must be rechecked before changing data sources or
-publishing a packaged public release.
+See the repository provenance and rights documentation before changing data
+sources or publishing a packaged release.

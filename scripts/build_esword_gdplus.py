@@ -301,7 +301,7 @@ db.execute(
         (
             "<p>A custom King James Version edition "
             "with the words of Jesus displayed in "
-            "Royal Purple and Strong's numbers "
+            "Aqua and Strong's numbers "
             "integrated for study.</p>"
         ),
     ),
@@ -417,7 +417,7 @@ metadata = {
     "abbreviation": ABBREVIATION,
     "description": (
         "A custom King James Version edition with "
-        "the words of Jesus displayed in Royal Purple "
+        "the words of Jesus displayed in Aqua "
         "and Strong's numbers integrated for study."
     ),
     "canonical_structure": {
@@ -463,6 +463,6 @@ print("Rows:", row_count)
 print("Projected verses:", projected_count)
 print("Plain fallbacks:", fallback_count)
 print("Strong's markers:", marker_count)
-print("Royal Purple speech verses:", speech_count)
+print("Aqua speech verses:", speech_count)
 print("SQLite integrity:", integrity)
 print("GDPLUS_BUILD=PASS")

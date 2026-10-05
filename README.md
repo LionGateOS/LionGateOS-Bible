@@ -17,9 +17,10 @@ understand exactly what GD contains, what was changed, why it was changed,
 where its source material came from, and how the resulting editions were
 validated.
 
-> **Development status:** GD Bible is under active source, Strong's,
-> words-of-Jesus, export, and rights validation. Development builds exist, but
-> the final public release has not yet been declared complete.
+> **Current status:** GD and GD+ technical builds are generated and validated,
+> including whole-Bible structure, words-of-Jesus rendering, Strong's projection,
+> e-Sword packaging, and successful iPad e-Sword HD testing. Rights and
+> distribution review remains separate from technical validation.
 
 ## What does GD mean?
 
@@ -28,7 +29,7 @@ validated.
 The visible Bible edition name is intentionally short so that Bible software
 and e-Sword can display a clear version abbreviation.
 
-The two planned public editions are:
+The two public editions are:
 
 ### GD
 
@@ -70,9 +71,19 @@ is the principal difference between the two editions.
 | Current documented text operations | 383 |
 | Missing canonical verses | 0 |
 
-Strong's alignment totals are intentionally not listed here while the
-production alignment source is being migrated and exhaustively revalidated.
-Final release totals will be published after that migration is complete.
+Current production Strong's validation records:
+
+- Standard KJV alignment: 31,102 canonical verses
+- Standard KJV Strong's markers: 348,950
+- Standard alignment fallback verses: 0
+- GD+ projected verses: 31,102
+- GD+ Strong's markers: 348,902
+- GD+ plain fallback verses: 0
+- GD+ projection failures: 0
+
+The 48-marker difference between the Standard KJV alignment and GD+ is
+intentional. Strong's identifiers are not guessed across changed or ambiguous
+GD wording.
 
 ## What changed in GD?
 
@@ -129,27 +140,30 @@ See
 [Complete Custom KJV Change Summary](docs/CUSTOM_KJV_CHANGES.md)
 for the detailed revision record.
 
-## Words spoken by Jesus — Royal Purple
+## Words spoken by Jesus
 
-GD uses **Royal Purple** rather than traditional red for words spoken by
-Jesus.
+GD and GD+ use the same reviewed Jesus-speech identification map:
 
-The project contains separate standard-KJV and GD-custom words-of-Jesus
-assets.
+`source/growdaily/assets/red_letters/jesus_speech_map_custom.json`
 
-The earlier implementation successfully reconstructed the underlying verse
-text, but later review identified cases where heuristic speech-boundary logic
-could select the wrong speaker inside a verse.
+Current verified status:
 
-Because of that discovery, the older words-of-Jesus count is **not treated as
-a final editorial result**.
+- mapped verse entries: 2,055
+- speech segments: 2,054
+- unexpected zero-red entries: 0
+- known speech-boundary checks: PASS
+- projection failures: 0
 
-The production system is being replaced with a deterministic,
-source-backed approach using explicit speech spans plus documented reviewed
-exceptions.
+The authoritative system uses explicit speech spans plus documented reviewed
+exceptions rather than relying on the earlier heuristic boundary logic.
 
-Final Royal Purple totals will be published only after the replacement maps
-have completed whole-Bible validation.
+Rendering differs intentionally by edition:
+
+- **GD:** Jesus speech is Royal Purple `#9B00FF`
+- **GD+:** Jesus speech is Aqua `#00E5FF`
+
+GD+ uses Aqua so Jesus speech remains visually distinct while preserving
+plain native e-Sword Strong's-number markup.
 
 ## Strong's study data
 
@@ -166,29 +180,35 @@ The project includes:
 - generated GD+ projection data
 - e-Sword-compatible Strong's markup
 
-The Strong's production alignment source is currently being migrated to a
-reproducible **eBible.org King James Version USFM source** containing embedded
-Hebrew and Greek Strong's identifiers.
+The production alignment uses the reproducible **eBible.org King James
+Version USFM source** containing embedded Hebrew and Greek Strong's identifiers,
+with a documented CrossWire source fallback for three verses absent from the
+primary eBible source.
 
-The migration is being performed conservatively:
+Current validated production totals are:
+
+- Standard KJV: 31,102 aligned verses and 348,950 Strong's markers
+- GD+: 31,102 projected verses and 348,902 Strong's markers
+- GD+ plain fallback verses: 0
+- GD+ projection failures: 0
+
+The alignment remains conservative:
 
 1. the GD/KJV canonical text remains authoritative for displayed Scripture
-2. Strong's identifiers are transferred only where the source word can be
-   positively aligned
-3. translator-added or unmatched words are never assigned invented Strong's
-   identifiers
-4. every generated verse must reconstruct the canonical displayed text
-5. unresolved verses remain readable without pretending that an uncertain
-   word-level alignment is known
+2. Strong's identifiers transfer only when their association is supported
+3. translator-added or unmatched words are never assigned invented identifiers
+4. generated verses must reconstruct the canonical displayed text
+5. uncertain associations across changed GD wording are left unassigned rather
+   than guessed
 
-The previous implementation and its history are being preserved for
-traceability while the replacement is validated.
+Historical alignment material remains available where useful for provenance
+and audit history, but it is not the active GD+ production source.
 
 See [Strong's Data Explained](docs/STRONGS_DATA.md).
 
 ## e-Sword editions
 
-Development builds currently include:
+Current generated e-Sword builds include:
 
 - `GD.bblx`
 - `GD.bbli`

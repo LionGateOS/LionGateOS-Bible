@@ -95,8 +95,10 @@ The USFM contains:
 - words-of-Jesus \wj ... \wj* markup
 - other USFM structural markup
 
-The GD project is evaluating the eBible words-of-Jesus markup as the
-deterministic baseline for Royal Purple speech spans.
+The GD project used the eBible words-of-Jesus markup as an important
+deterministic source for reviewed speech spans. The production GD speech map
+also includes explicit reviewed exceptions where source or editorial review
+required them.
 
 The project should preserve source identification and the exact downloaded
 source/version information used to regenerate derived assets.
@@ -126,11 +128,21 @@ explicit \wj speech markers:
 - 2,028 verses containing \wj markup
 - marker balance verified
 
-The final GD Royal Purple map is not yet considered complete because
-remaining editorial disagreements and exceptions are still under review.
+The current production GD words-of-Jesus map uses deterministic exact
+speech spans plus explicitly reviewed GD exceptions rather than inferred
+speech boundaries.
 
-The intended final architecture is deterministic exact source spans plus
-explicitly reviewed GD exceptions, not inferred speech boundaries.
+Current verified production status:
+
+- mapped verse entries: 2,055
+- speech segments: 2,054
+- unexpected zero-red entries: 0
+- known speech-boundary checks: PASS
+- projection failures: 0
+
+That same reviewed speech identification map is used by both public editions:
+GD renders Jesus speech in Royal Purple `#9B00FF`, while GD+ renders the same
+identified speech in Aqua `#00E5FF`.
 
 ## Strong's dictionaries
 
@@ -227,26 +239,26 @@ public-domain KJV material itself.
 
 Generated e-Sword packages are derived build artifacts.
 
-Current planned public editions are exactly:
+The public GD Bible edition lineup is exactly:
 
-1. GD
-   Grow Daily - Custom King James Version
-   Royal Purple words of Jesus
-   No Strong's numbers
+1. **GD — Grow Daily - Custom King James Version**
+   - Royal Purple `#9B00FF` words of Jesus
+   - no inline Strong's numbers
 
-2. GD+
-   Grow Daily - Custom King James Version with Strong's Numbers
-   Royal Purple words of Jesus
-   Strong's numbers integrated
+2. **GD+ — Grow Daily - Custom King James Version with Strong's Numbers**
+   - Aqua `#00E5FF` words of Jesus
+   - Strong's numbers integrated
 
-Generated modules should only be labeled final after:
+Technical validation of the current GD and GD+ builds includes canonical Bible
+structure, reviewed Jesus-speech mapping, e-Sword package integrity, GD+
+Strong's projection, and successful iPad e-Sword HD testing.
 
-- canonical Bible text validation passes
-- Royal Purple speech-map validation passes
-- Strong's validation passes where applicable
-- applicable source rights and attribution records are current
-- temporary test editions have been excluded
-- UK distribution wording has been reviewed
+Technical validation does not replace rights review.
+
+Before a packaged release is represented as legally cleared for a particular
+distribution territory, applicable source-rights and attribution records must
+be current and any special Authorized Version requirements for that territory
+must be addressed.
 
 
 ## Audit rule
@@ -275,4 +287,3 @@ Do not silently replace a source without updating this record.
    Kaiserlik-derived mappings.
 5. Obtain UK distribution permission or written clarification before claiming
    unrestricted complete GD/GD+ distribution in the United Kingdom.
-6. Complete the deterministic reviewed Royal Purple source-span migration.

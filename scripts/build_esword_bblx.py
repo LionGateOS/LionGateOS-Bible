@@ -11,7 +11,7 @@ JESUS_COLOR_NAME = "Royal Purple"
 JESUS_COLOR_HEX = "#9B00FF"
 OUTPUT = Path("editions/esword/GD.bblx")
 MOBILE_OUTPUT = Path("editions/esword/GD.bbli")
-METADATA_OUTPUT = Path("editions/esword/liongateos-custom-kjv.metadata.json")
+METADATA_OUTPUT = Path("editions/esword/GD.metadata.json")
 
 DIVISIONS = [
     {
