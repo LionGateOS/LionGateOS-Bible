@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/branding/liongateos-bible-logo.png" alt="GD Bible logo" width="320">
+  <img src="assets/branding/gd-bible-logo.png" alt="Grow Daily / GD Bible logo" width="420">
 </p>
 
 # GD Bible — Grow Daily
