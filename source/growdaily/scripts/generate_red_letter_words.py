@@ -18,28 +18,34 @@ Segments concatenate to reproduce the full verse text.
 import json
 import re
 import os
-import subprocess
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(SCRIPT_DIR)
+SEED_PATH = os.path.join(
+    ROOT, "assets", "red_letters", "red_letter_seed_refs.json"
+)
 
 
 # ── Load data sources ──────────────────────────────────────────────────────
 
 def load_red_letter_set():
-    """Extract red-letter verse set from the ORIGINAL committed redLetters.js
-    (the version with the hardcoded RED_LETTERS object)."""
-    # Get the original version from git
-    result = subprocess.run(
-        ["git", "show", "66a59a98:logic/redLetters.js"],
-        capture_output=True, text=True, cwd=ROOT,
-    )
-    if result.returncode != 0:
-        raise RuntimeError("Could not retrieve original redLetters.js from git")
-    content = result.stdout
-    refs = set(re.findall(r'"(.*?)":\s*true', content))
-    if not refs:
-        raise RuntimeError("No red-letter refs found in original redLetters.js")
+    """Load the frozen canonical red-letter reference seed."""
+    with open(SEED_PATH, encoding="utf-8") as f:
+        raw_refs = json.load(f)
+
+    if not isinstance(raw_refs, list):
+        raise RuntimeError("Red-letter seed asset must be a JSON list")
+
+    refs = set(raw_refs)
+
+    if len(raw_refs) != 2055:
+        raise RuntimeError(
+            f"Expected 2055 red-letter seed refs, found {len(raw_refs)}"
+        )
+
+    if len(refs) != len(raw_refs):
+        raise RuntimeError("Duplicate refs found in red-letter seed asset")
+
     return refs
 
 
@@ -209,7 +215,7 @@ def create_segments(verse_text, red_flags):
 def main():
     red_set = load_red_letter_set()
     kjv = load_kjv()
-    print(f"Loaded {len(red_set)} red-letter verse refs from git")
+    print(f"Loaded {len(red_set)} red-letter verse refs from frozen seed asset")
 
     gospel_names = {"Matthew", "Mark", "Luke", "John"}
     gospel_indices = {}
@@ -257,14 +263,14 @@ def main():
         with open(overrides_path) as f:
             overrides = json.load(f)
         for key, segs in overrides.items():
+            result[key] = segs
+            override_count += 1
             if key not in result:
-                result[key] = segs
-                override_count += 1
                 stats["total"] += 1
-                if len(segs) == 1 and segs[0]["red"]:
-                    stats["full_red"] += 1
-                else:
-                    stats["partial"] += 1
+            if len(segs) == 1 and segs[0]["red"]:
+                stats["full_red"] += 1
+            else:
+                stats["partial"] += 1
         print(f"Merged {override_count} curated non-Gospel overrides")
     else:
         print(f"WARNING: curated overrides not found at {overrides_path}")

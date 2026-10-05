@@ -6,7 +6,7 @@ The canonical logo asset for this repository is:
 
 This image is copied from the GrowDaily application branding asset:
 
-`/home/liongateos/growdaily/assets/branding/growdaily-splash-tree-book.png`
+`source GrowDaily asset: assets/branding/growdaily-splash-tree-book.png`
 
 Purpose:
 

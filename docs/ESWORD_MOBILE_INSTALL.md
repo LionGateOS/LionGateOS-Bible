@@ -17,30 +17,21 @@ There are two different situations:
 
 ## iPad — e-Sword HD
 
-### Short answer
+### Tested GD installation
 
-You **cannot** rely on an iPad user simply downloading the finished file from GitHub in Safari and importing it directly into e-Sword HD.
+The easiest tested installation method for GD on iPad is:
 
-### Official path
+1. Download the iPad-compatible GD Bible module.
+2. Open the downloaded file from Safari or the Files app.
+3. Tap **Share**.
+4. Choose **e-Sword** from the share sheet.
+5. Open e-Sword HD.
+6. Select **GD** from the available Bible versions.
 
-According to the official e-Sword HD FAQ, making and loading your own module for iPad requires:
+This workflow has been successfully tested on iPad with `GD.bbli`; after import, the Bible appears in e-Sword HD as **GD**.
 
-1. A **PC with e-Sword 12+**
-2. The **e-Sword PC Module Conversion Utility**
-3. Transfer to the iPad using **Apple File Sharing**
-4. Restarting e-Sword HD so it imports the converted module
-
-### What this means for end users
-
-If a user only has an iPad, the official documentation does **not** describe a simple “download from GitHub to iPad and import directly” workflow.
-
-### Practical recommendation
-
-For iPad users, distribute clear instructions that say:
-
-- the module must already be converted for e-Sword HD
-- the user will still need the official Apple File Sharing transfer path described by e-Sword
-- direct Safari/iCloud-only installation is not currently documented here as a supported path
+The distributed file must already be in the format accepted by e-Sword HD.
+End users do not need to rebuild the Bible module themselves.
 
 ---
 
@@ -84,7 +75,7 @@ A direct custom-module sideload workflow for ordinary Android users is not docum
 
 ## Strong's and custom wording note
 
-This project preserves the canonical 66-book / 31,100-verse structure and has continued rebuilding the desktop e-Sword output successfully.
+This project preserves the canonical 66-book / 31,102-verse structure and has continued rebuilding the desktop e-Sword output successfully.
 
 However, some custom wording changes expand one original word into two or more displayed words.
 That means the project preserves canonical structure and current alignment totals, but users should understand that mobile e-Sword installation and exact Strong's display behavior on mobile still need real-device verification.

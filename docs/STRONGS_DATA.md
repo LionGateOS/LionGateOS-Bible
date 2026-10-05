@@ -29,17 +29,17 @@ The dictionary records provide information such as:
 | Coverage item | Total |
 |---|---:|
 | Books | 66 |
-| Canonical verses | 31,100 |
+| Canonical verses | 31,102 |
 | Raw source records | 76,774 |
 | Unique source references | 31,102 |
 | Malformed references | 0 |
-| Directly aligned verses | 26,926 |
-| Fallback verses | 4,174 |
+| Directly aligned verses | 27,086 |
+| Fallback verses | 4,016 |
 | Missing verses | 0 |
 
-The two additional unique source references are handled by the project's
-canonical verse reconciliation process. The final Bible contains the expected
-31,100 canonical verses.
+The 31,102 unique source references now match the repaired canonical Bible
+structure exactly. Structural reconciliation found and corrected omitted verse
+boundaries and erroneous split boundaries in the earlier 31,100-verse asset.
 
 ## What directly aligned means
 
@@ -68,7 +68,7 @@ reconstructable.
 
 Verified custom projection status:
 
-- Custom projections: 26,926
+- Custom projections: 27,086
 - Custom projection fallbacks: 0
 - Reconstruction failures: 0
 

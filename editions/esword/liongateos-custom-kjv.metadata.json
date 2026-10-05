@@ -1,15 +1,24 @@
 {
-  "title": "LionGateOS Custom King James Version",
-  "abbreviation": "LGOS-KJV",
+  "title": "Grow Daily - Custom King James Version",
+  "abbreviation": "GD",
+  "words_of_jesus": {
+    "enabled": true,
+    "color_name": "Royal Purple",
+    "color_hex": "#9B00FF",
+    "speech_map": "source/growdaily/assets/red_letters/jesus_speech_map_custom.json",
+    "mapped_verse_count": 2055,
+    "speech_segment_count": 2054
+  },
   "canonical_structure": {
     "book_count": 66,
-    "verse_count": 31100,
+    "verse_count": 31102,
     "coordinates_unchanged": true,
     "note": "Seven divisions are presentation and search metadata only. Canonical 66-book verse coordinates remain unchanged."
   },
   "deliverables": {
-    "desktop_esword_bblx": "editions/esword/liongateos-custom-kjv.bblx",
-    "ios_esword_status": "blocked_pending_official_conversion_path"
+    "desktop_esword_bblx": "editions/esword/GD.bblx",
+    "mobile_esword_bbli": "editions/esword/GD.bbli",
+    "ios_esword_status": "verified_ipad_esword_hd_import"
   },
   "presentation_metadata": {
     "division_count": 7,

@@ -2,7 +2,7 @@
 
 ## Plain-language overview
 
-The LionGateOS Custom KJV preserves the complete 66-book, 31,100-verse
+The GD custom KJV preserves the complete 66-book, 31,102-verse
 structure of the Standard KJV.
 
 The custom edition applies 383 documented text operations across 335 unique

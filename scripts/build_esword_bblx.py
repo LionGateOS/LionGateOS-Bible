@@ -1,9 +1,16 @@
 import json
 import sqlite3
+import shutil
 from pathlib import Path
 
 SOURCE = Path("source/growdaily/assets/bible/kjv_modified.json")
-OUTPUT = Path("editions/esword/liongateos-custom-kjv.bblx")
+SPEECH_MAP = Path(
+    "source/growdaily/assets/red_letters/jesus_speech_map_custom.json"
+)
+JESUS_COLOR_NAME = "Royal Purple"
+JESUS_COLOR_HEX = "#9B00FF"
+OUTPUT = Path("editions/esword/GD.bblx")
+MOBILE_OUTPUT = Path("editions/esword/GD.bbli")
 METADATA_OUTPUT = Path("editions/esword/liongateos-custom-kjv.metadata.json")
 
 DIVISIONS = [
@@ -52,12 +59,24 @@ DIVISIONS = [
 ]
 
 bible = json.loads(SOURCE.read_text(encoding="utf-8"))
+speech_map = json.loads(SPEECH_MAP.read_text(encoding="utf-8"))
+
+if not isinstance(speech_map, dict):
+    raise SystemExit("ERROR: Jesus-speech map must be an object")
+
+if len(speech_map) != 2055:
+    raise SystemExit(
+        f"ERROR: expected 2,055 Jesus-speech verses, found {len(speech_map)}"
+    )
 
 if len(bible) != 66:
     raise SystemExit(f"ERROR: expected 66 books, found {len(bible)}")
 
 rows = []
 book_metadata = []
+used_speech_refs = set()
+purple_segment_count = 0
+
 for book_number, book in enumerate(bible, start=1):
     book_metadata.append(
         {
@@ -73,12 +92,81 @@ for book_number, book in enumerate(bible, start=1):
                     f"ERROR: invalid scripture at "
                     f"{book['name']} {chapter_number}:{verse_number}"
                 )
+            ref = f"{book['name']}|{chapter_number}|{verse_number}"
+            rendered_scripture = scripture
+
+            if ref in speech_map:
+                segments = speech_map[ref]
+
+                if not isinstance(segments, list) or not segments:
+                    raise SystemExit(
+                        f"ERROR: invalid Jesus-speech segments at {ref}"
+                    )
+
+                reconstructed = ""
+                rendered_parts = []
+                has_purple = False
+
+                for segment in segments:
+                    if (
+                        not isinstance(segment, dict)
+                        or not isinstance(segment.get("text"), str)
+                        or not isinstance(segment.get("red"), bool)
+                    ):
+                        raise SystemExit(
+                            f"ERROR: malformed Jesus-speech segment at {ref}"
+                        )
+
+                    segment_text = segment["text"]
+                    reconstructed += segment_text
+
+                    if segment["red"]:
+                        has_purple = True
+                        purple_segment_count += 1
+                        rendered_parts.append(
+                            f'<span style="color:{JESUS_COLOR_HEX}">'
+                            f"{segment_text}</span>"
+                        )
+                    else:
+                        rendered_parts.append(segment_text)
+
+                if reconstructed != scripture:
+                    raise SystemExit(
+                        f"ERROR: Jesus-speech map text mismatch at {ref}"
+                    )
+
+                if not has_purple and ref != "Matthew|23|7":
+                    raise SystemExit(
+                        f"ERROR: Jesus-speech entry has no speech span at {ref}"
+                    )
+
+                rendered_scripture = "".join(rendered_parts)
+                used_speech_refs.add(ref)
+
             rows.append(
-                (book_number, chapter_number, verse_number, scripture)
+                (
+                    book_number,
+                    chapter_number,
+                    verse_number,
+                    rendered_scripture,
+                )
             )
 
-if len(rows) != 31100:
-    raise SystemExit(f"ERROR: expected 31,100 verses, found {len(rows)}")
+unused_speech_refs = set(speech_map) - used_speech_refs
+if unused_speech_refs:
+    preview = sorted(unused_speech_refs)[:10]
+    raise SystemExit(
+        f"ERROR: unused Jesus-speech refs: {preview}"
+    )
+
+if len(used_speech_refs) != 2055:
+    raise SystemExit(
+        f"ERROR: expected 2,055 rendered speech verses, "
+        f"found {len(used_speech_refs)}"
+    )
+
+if len(rows) != 31102:
+    raise SystemExit(f"ERROR: expected 31,102 verses, found {len(rows)}")
 
 OUTPUT.parent.mkdir(parents=True, exist_ok=True)
 if OUTPUT.exists():
@@ -113,11 +201,11 @@ ON Bible(Book, Chapter, Verse);
 db.execute(
     "INSERT INTO Details VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
     (
-        "LionGateOS Custom King James Version",
-        "LGOS-KJV",
+        "Grow Daily - Custom King James Version",
+        "GD",
         (
-            "<p>Generated from the verified LionGateOS Custom "
-            "King James Version source.</p>"
+            "<p>GD stands for Grow Daily. A custom King James Version "
+            "edition with the words of Jesus displayed in Royal Purple.</p>"
         ),
         4,
         1,
@@ -146,6 +234,11 @@ details = db.execute("SELECT * FROM Details").fetchone()
 
 db.close()
 
+# e-Sword HD mobile Bible modules use the same verified SQLite Bible schema.
+# Generate the .bbli from the completed, integrity-checked desktop database so
+# both deliverables contain exactly the same canonical Scripture content.
+shutil.copyfile(OUTPUT, MOBILE_OUTPUT)
+
 division_by_book = {}
 for division in DIVISIONS:
     for book_number in division["book_numbers"]:
@@ -156,8 +249,16 @@ for division in DIVISIONS:
         }
 
 metadata = {
-    "title": "LionGateOS Custom King James Version",
-    "abbreviation": "LGOS-KJV",
+    "title": "Grow Daily - Custom King James Version",
+    "abbreviation": "GD",
+    "words_of_jesus": {
+        "enabled": True,
+        "color_name": JESUS_COLOR_NAME,
+        "color_hex": JESUS_COLOR_HEX,
+        "speech_map": str(SPEECH_MAP),
+        "mapped_verse_count": len(used_speech_refs),
+        "speech_segment_count": purple_segment_count,
+    },
     "canonical_structure": {
         "book_count": len(bible),
         "verse_count": len(rows),
@@ -169,7 +270,8 @@ metadata = {
     },
     "deliverables": {
         "desktop_esword_bblx": str(OUTPUT),
-        "ios_esword_status": "blocked_pending_official_conversion_path",
+        "mobile_esword_bbli": str(MOBILE_OUTPUT),
+        "ios_esword_status": "verified_ipad_esword_hd_import",
     },
     "presentation_metadata": {
         "division_count": len(DIVISIONS),
@@ -199,9 +301,13 @@ METADATA_OUTPUT.write_text(
 )
 
 print("Wrote:", OUTPUT)
+print("Mobile:", MOBILE_OUTPUT)
 print("Metadata:", METADATA_OUTPUT)
 print("Rows:", count)
 print("Details:", details)
+print("Jesus-speech verses:", len(used_speech_refs))
+print("Royal Purple speech segments:", purple_segment_count)
+print("Royal Purple:", JESUS_COLOR_HEX)
 print("John 3:16:", sample)
 print("SQLite integrity:", integrity)
 print("Size:", OUTPUT.stat().st_size, "bytes")

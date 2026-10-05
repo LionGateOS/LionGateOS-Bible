@@ -1,0 +1,29 @@
+{
+  "title": "Grow Daily - Custom King James Version with Strong's Numbers",
+  "abbreviation": "GD+",
+  "description": "A custom King James Version edition with the words of Jesus displayed in Royal Purple and Strong's numbers integrated for study.",
+  "canonical_structure": {
+    "book_count": 66,
+    "verse_count": 31102,
+    "coordinates_unchanged": true
+  },
+  "words_of_jesus": {
+    "enabled": true,
+    "color_name": "Aqua",
+    "color_hex": "#00E5FF",
+    "mapped_verse_count": 2055
+  },
+  "strongs": {
+    "enabled": true,
+    "source_alignment_schema": "2.0",
+    "projected_verse_count": 31102,
+    "plain_fallback_verse_count": 0,
+    "strongs_marker_count": 348902,
+    "changed_custom_verse_count": 335,
+    "changed_projected_verse_count": 335
+  },
+  "deliverables": {
+    "desktop_esword_bblx": "editions/esword/GD+.bblx",
+    "mobile_esword_bbli": "editions/esword/GD+.bbli"
+  }
+}

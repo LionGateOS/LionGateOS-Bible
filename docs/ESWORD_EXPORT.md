@@ -8,10 +8,10 @@ The current local exporter is:
 
 It generates:
 
-- `editions/esword/liongateos-custom-kjv.bblx`
+- `editions/esword/GD.bblx`
 - `editions/esword/liongateos-custom-kjv.metadata.json`
 
-The `.bblx` file keeps the canonical 66-book, 31,100-verse coordinate system
+The `.bblx` file keeps the canonical 66-book, 31,102-verse coordinate system
 unchanged.
 
 The metadata sidecar adds seven-division presentation/search labels only. It
