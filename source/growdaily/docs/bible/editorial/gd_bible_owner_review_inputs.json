@@ -1,0 +1,463 @@
+{
+  "artifact": "gd-bible-owner-review-inputs",
+  "schema_version": "gd-bible-owner-review-inputs/1",
+  "recorded": "2026-10-14",
+  "authority": "owner_specified",
+  "provenance_class": "owner_specified_editorial_candidate",
+  "default_candidate_status": "review_candidate",
+  "statements": {
+    "authority": "Owner-specified review inputs. They are not archive evidence, are not automatically correct, are not automatically approved changes, and are not permission to edit the Bible.",
+    "sufficiency": "An owner candidate is sufficient reason to force a verse into later review even when archive evidence is below the Track B threshold.",
+    "evidence_separation": "The owner's note, question and proposed change are preserved separately from archive evidence and are never counted as, or converted into, archive evidence.",
+    "non_claims": "This file asserts no theological, linguistic, textual or translational justification of its own. Only the owner's own words are recorded.",
+    "scripture_text": "Scripture quoted inside an owner note is part of that note and is preserved verbatim; it is not re-derived from, or verified against, the Bible assets here.",
+    "resolution": "Canonical verse keys are resolved deterministically at build time by the committed GD reference mapper over the committed canonical coordinates. Stored verse_key/canonical_reference values are re-verified against a fresh resolution and a mismatch fails the build.",
+    "external_translations": "Where an owner note mentions another translation, that mention is owner-supplied rationale only and is never treated as evidence.",
+    "style_policy_notes": "Style-policy notes are owner-supplied context. Every owner-note occurrence and every style example is preserved verbatim; a scripture reference that appears inside a note or an example is part of that note and is never promoted into a review candidate or into archive evidence."
+  },
+  "verse_candidates": [
+    {
+      "candidate_id": "owner-c01-luke-15-25-musick",
+      "candidate_category": "modernization",
+      "owner_reference_raw": "Luke 15:25",
+      "owner_reference_parser_input": "Luke 15:25",
+      "owner_reference_normalization": null,
+      "owner_reference_raw_parser_status": "mapped_verse",
+      "canonical_reference": "Luke 15:25",
+      "verse_key": "b42:c15:v25",
+      "owner_note_occurrences": [
+        {
+          "occurrence": 1,
+          "text": "Luke 15:25 Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing. The word musick"
+        }
+      ],
+      "proposed_change": {
+        "kind": "word_replacement",
+        "from": "musick",
+        "to": ["music"],
+        "alternatives_preserved": false,
+        "selection": "single"
+      },
+      "owner_question": null,
+      "candidate_status": "review_candidate",
+      "provenance_class": "owner_specified_editorial_candidate",
+      "accepted_translation": false,
+      "flags": {
+        "owner_cites_external_translation": false,
+        "external_translation_is_evidence": false
+      },
+      "context_only_references": [],
+      "context_only_verse_keys": [],
+      "resolution_note": "Owner-supplied modernization candidate; not an automatic change."
+    },
+    {
+      "candidate_id": "owner-c02-jude-1-called",
+      "candidate_category": "translation_alternative",
+      "owner_reference_raw": "Jude 1",
+      "owner_reference_parser_input": "Jude 1",
+      "owner_reference_normalization": null,
+      "owner_reference_raw_parser_status": "mapped_verse",
+      "canonical_reference": "Jude 1:1",
+      "verse_key": "b65:c1:v1",
+      "owner_note_occurrences": [
+        {
+          "occurrence": 1,
+          "text": "The first verse in the epistle of Jude gives us insight into this process. This letter is addressed “to them that are sanctified by God the Father, and preserved in Jesus Christ, and called.” That word called is better read as invited. This word is quite different from how it is used in Matthew 22:14, where Christ says that “many are called, but few are chosen.” This is God personally inviting someone to be part of His Family. And this verse shows that before God calls an individual, God the Father sanctifies him or her."
+        },
+        {
+          "occurrence": 2,
+          "text": "\"Called\" (Jude 1) -> better translated as \"invited.\""
+        }
+      ],
+      "proposed_change": {
+        "kind": "translation_alternative",
+        "from": "called",
+        "to": ["invited"],
+        "alternatives_preserved": false,
+        "selection": "single"
+      },
+      "owner_question": null,
+      "candidate_status": "review_candidate",
+      "provenance_class": "owner_specified_editorial_candidate",
+      "accepted_translation": false,
+      "flags": {
+        "owner_cites_external_translation": false,
+        "external_translation_is_evidence": false
+      },
+      "context_only_references": [],
+      "context_only_verse_keys": [],
+      "resolution_note": "Owner states this is the FIRST VERSE of Jude; the raw notation \"Jude 1\" is preserved and resolves under the committed parser's single-chapter-book semantics to Jude 1:1. \"invited\" is not asserted to be correct merely because the owner proposed it."
+    },
+    {
+      "candidate_id": "owner-c03-1corinthians-2-12-spirit",
+      "candidate_category": "capitalization",
+      "owner_reference_raw": "1 Corinthians 2:12",
+      "owner_reference_parser_input": "1 Corinthians 2:12",
+      "owner_reference_normalization": null,
+      "owner_reference_raw_parser_status": "mapped_verse",
+      "canonical_reference": "1 Corinthians 2:12",
+      "verse_key": "b46:c2:v12",
+      "owner_note_occurrences": [
+        {
+          "occurrence": 1,
+          "text": "1 Corinthians 2:12 Now we have received, not the spirit of the world, but the spirit which is of God; that we might know the things that are freely given to us by God.\n\nShould the word spirit referring to God's be capitalized?"
+        }
+      ],
+      "proposed_change": null,
+      "owner_question": "Should \"spirit\" referring to the Spirit of God be capitalized \"Spirit\"?",
+      "candidate_status": "review_candidate",
+      "provenance_class": "owner_specified_editorial_candidate",
+      "accepted_translation": false,
+      "flags": {
+        "owner_cites_external_translation": false,
+        "external_translation_is_evidence": false
+      },
+      "context_only_references": [],
+      "context_only_verse_keys": [],
+      "resolution_note": "Capitalization/context candidate posed as an owner question; no replacement string is proposed."
+    },
+    {
+      "candidate_id": "owner-c04-1john-4-2-come",
+      "candidate_category": "translation_alternative",
+      "owner_reference_raw": "1 John 4:2",
+      "owner_reference_parser_input": "1 John 4:2",
+      "owner_reference_normalization": null,
+      "owner_reference_raw_parser_status": "mapped_verse",
+      "canonical_reference": "1 John 4:2",
+      "verse_key": "b62:c4:v2",
+      "owner_note_occurrences": [
+        {
+          "occurrence": 1,
+          "text": "1 John 4:2 Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God.\n\nThe word come should read coming"
+        }
+      ],
+      "proposed_change": {
+        "kind": "translation_alternative",
+        "from": "come",
+        "to": ["coming"],
+        "alternatives_preserved": false,
+        "selection": "single"
+      },
+      "owner_question": null,
+      "candidate_status": "review_candidate",
+      "provenance_class": "owner_specified_editorial_candidate",
+      "accepted_translation": false,
+      "flags": {
+        "owner_cites_external_translation": false,
+        "external_translation_is_evidence": false
+      },
+      "context_only_references": [],
+      "context_only_verse_keys": [],
+      "resolution_note": "Interpretive/translation candidate requiring evidence review."
+    },
+    {
+      "candidate_id": "owner-c05-ephesians-1-14-earnest",
+      "candidate_category": "translation_alternative",
+      "owner_reference_raw": "Ephesians 1:14",
+      "owner_reference_parser_input": "Ephesians 1:14",
+      "owner_reference_normalization": null,
+      "owner_reference_raw_parser_status": "mapped_verse",
+      "canonical_reference": "Ephesians 1:14",
+      "verse_key": "b49:c1:v14",
+      "owner_note_occurrences": [
+        {
+          "occurrence": 1,
+          "text": "Ephesians 1:14, change earnest to pledge"
+        }
+      ],
+      "proposed_change": {
+        "kind": "word_replacement",
+        "from": "earnest",
+        "to": ["pledge"],
+        "alternatives_preserved": false,
+        "selection": "single"
+      },
+      "owner_question": null,
+      "candidate_status": "review_candidate",
+      "provenance_class": "owner_specified_editorial_candidate",
+      "accepted_translation": false,
+      "flags": {
+        "owner_cites_external_translation": false,
+        "external_translation_is_evidence": false
+      },
+      "context_only_references": [],
+      "context_only_verse_keys": [],
+      "resolution_note": null
+    },
+    {
+      "candidate_id": "owner-c06-1john-2-20-unction",
+      "candidate_category": "translation_alternative",
+      "owner_reference_raw": "1 John 2:20",
+      "owner_reference_parser_input": "1 John 2:20",
+      "owner_reference_normalization": null,
+      "owner_reference_raw_parser_status": "mapped_verse",
+      "canonical_reference": "1 John 2:20",
+      "verse_key": "b62:c2:v20",
+      "owner_note_occurrences": [
+        {
+          "occurrence": 1,
+          "text": "1 John 2:20 says, \"But ye have an unction from the Holy One, and ye know all things.\" The New King James translates unction as \"anointing.\" Receiving the Holy Spirit means you have an anointing from the Holy One, from God Himself!"
+        },
+        {
+          "occurrence": 2,
+          "repeat_of_occurrence": 1,
+          "text": "1 John 2:20 says, \"But ye have an unction from the Holy One, and ye know all things.\" The New King James translates unction as \"anointing.\" Receiving the Holy Spirit means you have an anointing from the Holy One, from God Himself!"
+        }
+      ],
+      "proposed_change": {
+        "kind": "word_replacement",
+        "from": "unction",
+        "to": ["anointing"],
+        "alternatives_preserved": false,
+        "selection": "single"
+      },
+      "owner_question": null,
+      "candidate_status": "review_candidate",
+      "provenance_class": "owner_specified_editorial_candidate",
+      "accepted_translation": false,
+      "flags": {
+        "owner_cites_external_translation": true,
+        "external_translation_is_evidence": false
+      },
+      "context_only_references": [],
+      "context_only_verse_keys": [],
+      "resolution_note": "The owner supplied this note twice; both occurrences are preserved. The note's New King James mention is owner-supplied rationale only and is not authoritative evidence."
+    },
+    {
+      "candidate_id": "owner-c07-john-14-2-mansions",
+      "candidate_category": "translation_alternative",
+      "owner_reference_raw": "John 14:2-3",
+      "owner_reference_parser_input": "John 14:2",
+      "owner_reference_normalization": {
+        "from": "John 14:2-3",
+        "to": "John 14:2",
+        "authority": "owner_declared",
+        "reason": "The owner's requested lexical candidate applies to John 14:2; John 14:3 is quoted context only and is not a change candidate."
+      },
+      "owner_reference_raw_parser_status": "mapped_range",
+      "canonical_reference": "John 14:2",
+      "verse_key": "b43:c14:v2",
+      "owner_note_occurrences": [
+        {
+          "occurrence": 1,
+          "text": "In my Father's house are many mansions [or offices]: if it were not so, I would have told you. I go to prepare a place for you. And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, there ye may be also\" (John 14:2-3)\n\nChange mansions to offices"
+        }
+      ],
+      "proposed_change": {
+        "kind": "word_replacement",
+        "from": "mansions",
+        "to": ["offices"],
+        "alternatives_preserved": false,
+        "selection": "single"
+      },
+      "owner_question": null,
+      "candidate_status": "review_candidate",
+      "provenance_class": "owner_specified_editorial_candidate",
+      "accepted_translation": false,
+      "flags": {
+        "owner_cites_external_translation": false,
+        "external_translation_is_evidence": false
+      },
+      "context_only_references": ["John 14:2-3"],
+      "context_only_verse_keys": ["b43:c14:v3"],
+      "resolution_note": "Owner note quotes John 14:2-3 as context; the raw range is preserved and John 14:3 is explicitly context only, not a candidate."
+    },
+    {
+      "candidate_id": "owner-c08-isaiah-35-7-dragons",
+      "candidate_category": "translation_alternative",
+      "owner_reference_raw": "Isaias 35:7",
+      "owner_reference_parser_input": "Isaiah 35:7",
+      "owner_reference_normalization": {
+        "from": "Isaias 35:7",
+        "to": "Isaiah 35:7",
+        "authority": "owner_declared",
+        "reason": "The owner's raw spelling \"Isaias\" is not resolvable by the committed parser; the owner-directed normalization to the canonical book spelling is declared here rather than inferred by the builder."
+      },
+      "owner_reference_raw_parser_status": "unresolved",
+      "canonical_reference": "Isaiah 35:7",
+      "verse_key": "b23:c35:v7",
+      "owner_note_occurrences": [
+        {
+          "occurrence": 1,
+          "text": "Isaias 35:7 dragons should read jackals"
+        }
+      ],
+      "proposed_change": {
+        "kind": "word_replacement",
+        "from": "dragons",
+        "to": ["jackals"],
+        "alternatives_preserved": false,
+        "selection": "single"
+      },
+      "owner_question": null,
+      "candidate_status": "review_candidate",
+      "provenance_class": "owner_specified_editorial_candidate",
+      "accepted_translation": false,
+      "flags": {
+        "owner_cites_external_translation": false,
+        "external_translation_is_evidence": false
+      },
+      "context_only_references": [],
+      "context_only_verse_keys": [],
+      "resolution_note": "Raw spelling \"Isaias 35:7\" preserved in owner provenance; canonical verse is Isaiah 35:7. The committed parser does not resolve \"Isaias\" and the builder does not add an alias for it."
+    },
+    {
+      "candidate_id": "owner-c09-malachi-3-17-jewels",
+      "candidate_category": "translation_alternative",
+      "owner_reference_raw": "Malachi 3:17",
+      "owner_reference_parser_input": "Malachi 3:17",
+      "owner_reference_normalization": null,
+      "owner_reference_raw_parser_status": "mapped_verse",
+      "canonical_reference": "Malachi 3:17",
+      "verse_key": "b39:c3:v17",
+      "owner_note_occurrences": [
+        {
+          "occurrence": 1,
+          "text": "\"Jewels\" (Malachi 3:17) -> not a good translation; should be \"special treasure.\""
+        }
+      ],
+      "proposed_change": {
+        "kind": "word_replacement",
+        "from": "jewels",
+        "to": ["special treasure"],
+        "alternatives_preserved": false,
+        "selection": "single"
+      },
+      "owner_question": null,
+      "candidate_status": "review_candidate",
+      "provenance_class": "owner_specified_editorial_candidate",
+      "accepted_translation": false,
+      "flags": {
+        "owner_cites_external_translation": false,
+        "external_translation_is_evidence": false
+      },
+      "context_only_references": [],
+      "context_only_verse_keys": [],
+      "resolution_note": null
+    },
+    {
+      "candidate_id": "owner-c10-jeremiah-17-9-desperately-wicked",
+      "candidate_category": "translation_alternative",
+      "owner_reference_raw": "Jeremiah 17:9",
+      "owner_reference_parser_input": "Jeremiah 17:9",
+      "owner_reference_normalization": null,
+      "owner_reference_raw_parser_status": "mapped_verse",
+      "canonical_reference": "Jeremiah 17:9",
+      "verse_key": "b24:c17:v9",
+      "owner_note_occurrences": [
+        {
+          "occurrence": 1,
+          "text": "Jeremiah 17:9: \"The heart is deceitful above all things, and desperately wicked: who can know it?\"\n\nThe phrase \"desperately wicked\" should read \"dangerously sick,\" \"incurably sick\" or \"sick unto death.\""
+        }
+      ],
+      "proposed_change": {
+        "kind": "word_replacement",
+        "from": "desperately wicked",
+        "to": ["dangerously sick", "incurably sick", "sick unto death"],
+        "alternatives_preserved": true,
+        "selection": null
+      },
+      "owner_question": null,
+      "candidate_status": "review_candidate",
+      "provenance_class": "owner_specified_editorial_candidate",
+      "accepted_translation": false,
+      "flags": {
+        "owner_cites_external_translation": false,
+        "external_translation_is_evidence": false
+      },
+      "context_only_references": [],
+      "context_only_verse_keys": [],
+      "resolution_note": "All three owner-supplied alternatives are preserved; none is selected."
+    }
+  ],
+  "style_policies": [
+    {
+      "policy_id": "style-01-reverential-capitalization",
+      "policy_scope": "bible_wide_typographic_style",
+      "title": "Reverential capitalization of pronouns referring to God the Father and Jesus Christ",
+      "owner_note_occurrences": [
+        {
+          "occurrence": 1,
+          "text": "Please use Reverential Capitalization Style Many modern Christian publishers and specific translations (like the New King James Version or New American Standard Bible) use \"reverential capitalization,\" where any pronoun referring to deity is capitalized. If you are using this style, you should capitalize the pronouns referring to God the Father and Jesus:\n\n- he becomes He (referring to God)\n- me becomes Me (referring to Jesus)\n- him becomes Him (referring to God)\n\nHere is how the verse looks with reverential capitalization applied:\n\nJohn 8:29 And He that sent Me is with Me: the Father hath not left Me alone; for I do always those things that please Him."
+        },
+        {
+          "occurrence": 2,
+          "text": "Reverential Capitalization in the Grow Daily (GD) Translation Throughout this text, pronouns referring to the Father and the Son are capitalized. When Christ refers to Himself with a capitalized Me or My, it does not imply a lack of humility in His spoken words, but rather reflects the typographic reverence of the translation itself. It also acts as a visual guide to help readers track who is acting or speaking in pronoun-dense verses, making daily reading and study clearer."
+        },
+        {
+          "occurrence": 3,
+          "text": "This rule should be last because in case i find out it’s not appropriate, then I can always modify the rule, I just want it to be easy to revert to when the reverential capitalization happened. I just need to confirm if when referring to self is appropriate. I will have it changed regardless but I want it last so it’s easier to get it back to before that last change. The reason, I want a full edited Bible before I get a minister to look at it."
+        }
+      ],
+      "owner_intent": "Throughout the future Grow Daily Bible, pronouns referring to God the Father and Jesus Christ should use reverential capitalization.",
+      "examples": [
+        {"from": "he", "to": "He", "condition": "when referring to God"},
+        {"from": "him", "to": "Him", "condition": "when referring to God"},
+        {"from": "me", "to": "Me", "condition": "when referring to Jesus"},
+        {"from": "my", "to": "My", "condition": "when referring to Jesus"}
+      ],
+      "example_reference_raw": "John 8:29",
+      "example_text_owner_supplied": "\"And He that sent Me is with Me: the Father hath not left Me alone; for I do always those things that please Him.\"",
+      "example_is_illustrative_only": true,
+      "owner_rationale": [
+        "typographic reverence",
+        "helps readers track who is acting/speaking in pronoun-dense verses"
+      ],
+      "stage": "final_reversible_style_pass",
+      "apply_order": "last",
+      "reversible_boundary_required": true,
+      "owner_open_review_question": "Confirm whether capitalizing Christ's first-person self-references such as Me/My is typographically appropriate under reverential capitalization style.",
+      "owner_intends_to_use_regardless": true,
+      "owner_requires_review_before_presenting_to_minister": true,
+      "requires_contextual_classification": true,
+      "blind_replacement_forbidden": true,
+      "status": "review_candidate",
+      "approved": false,
+      "implementation_status": "not_implemented",
+      "applied": false
+    },
+    {
+      "policy_id": "style-02-gods-kingdom",
+      "policy_scope": "bible_wide_typographic_style",
+      "title": "Capitalize Kingdom when it refers to God's Kingdom",
+      "owner_note_occurrences": [
+        {
+          "occurrence": 1,
+          "text": "Bible translation - whenever God's kingdom is written capitalize Kingdom"
+        }
+      ],
+      "owner_intent": "Whenever God's kingdom is written, capitalize Kingdom.",
+      "examples": [
+        {"from": "kingdom", "to": "Kingdom", "condition": "when semantically referring specifically to God's Kingdom"}
+      ],
+      "requires_contextual_classification": true,
+      "blind_replacement_forbidden": true,
+      "status": "review_candidate",
+      "approved": false,
+      "implementation_status": "not_implemented",
+      "applied": false
+    },
+    {
+      "policy_id": "style-03-gods-word",
+      "policy_scope": "bible_wide_typographic_style",
+      "title": "Capitalize Word when it refers to God's Word",
+      "owner_note_occurrences": [
+        {
+          "occurrence": 1,
+          "text": "Also the word 'word' when referring to God's word might be capitalized."
+        }
+      ],
+      "owner_intent": "The word \"word\", when referring to God's word, might be capitalized.",
+      "wording_hedge_preserved": "might",
+      "examples": [
+        {"from": "word", "to": "Word", "condition": "when semantically referring to God's Word"}
+      ],
+      "requires_contextual_classification": true,
+      "blind_replacement_forbidden": true,
+      "status": "review_candidate_question",
+      "approved": false,
+      "implementation_status": "not_implemented",
+      "applied": false
+    }
+  ]
+}

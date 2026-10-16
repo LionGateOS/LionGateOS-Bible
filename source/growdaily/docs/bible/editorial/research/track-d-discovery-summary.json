@@ -1,0 +1,31 @@
+{
+  "total_findings": 5608,
+  "by_author": {
+    "HWA": 4802,
+    "GF": 806
+  },
+  "by_topic": {
+    "wording": 1653,
+    "translation": 3892,
+    "capitalization": 63
+  },
+  "by_classification": {
+    "wording_explanation": 2242,
+    "explicit_correction": 240,
+    "translation_discussion": 3014,
+    "capitalization_observation": 112
+  },
+  "by_attribution_confidence": {
+    "likely": 5608
+  },
+  "by_provenance": {
+    "in_chunk_exact": 5521,
+    "in_chunk_normalized": 84,
+    "document_only": 3
+  },
+  "distinct_documents": 1808,
+  "duplicate_documents": 1022,
+  "distinct_teaching_occasions": 5402,
+  "findings_with_verse_mappings": 4128,
+  "findings_with_related_rules": 199
+}
