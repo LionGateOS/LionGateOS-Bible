@@ -1,0 +1,383 @@
+{
+  "package": "implementation-review-master-v1",
+  "generated_at": "2026-10-19T17:26:39.651215-04:00",
+  "validated_at": "2026-10-19T17:26:39.651215-04:00",
+  "overall_status": "PASS",
+  "checks_total": 42,
+  "checks_passed": 42,
+  "failures": [],
+  "checks": [
+    {
+      "check": "input_sha256:original_master",
+      "pass": true,
+      "detail": {
+        "path": "UPSTREAM_TRACK_D_ROOT/combined-correction-master-v1/combined-correction-candidates.jsonl",
+        "expected": "000f92795bc8e134c1dfd464a1e42d7369e2a87199361504f60fd2263e170db6",
+        "actual": "000f92795bc8e134c1dfd464a1e42d7369e2a87199361504f60fd2263e170db6"
+      }
+    },
+    {
+      "check": "input_sha256:attribution_corrected_master",
+      "pass": true,
+      "detail": {
+        "path": "UPSTREAM_TRACK_D_ROOT/combined-correction-master-v1/author-attribution-correction-v1/combined-correction-candidates-attribution-corrected.jsonl",
+        "expected": "814f74b036c4fa4df7158135ef74be810feaab9b71738f7718c9892a2013591f",
+        "actual": "814f74b036c4fa4df7158135ef74be810feaab9b71738f7718c9892a2013591f"
+      }
+    },
+    {
+      "check": "input_sha256:attribution_corrections",
+      "pass": true,
+      "detail": {
+        "path": "UPSTREAM_TRACK_D_ROOT/combined-correction-master-v1/author-attribution-correction-v1/author-attribution-corrections.jsonl",
+        "expected": "591ae7e22a9fe3b60afc44fd116e432d830390cfbb22931145f12c875baaae09",
+        "actual": "591ae7e22a9fe3b60afc44fd116e432d830390cfbb22931145f12c875baaae09"
+      }
+    },
+    {
+      "check": "input_sha256:attribution_corrected_groups",
+      "pass": true,
+      "detail": {
+        "path": "UPSTREAM_TRACK_D_ROOT/combined-correction-master-v1/author-attribution-correction-v1/correction-groups-attribution-corrected.jsonl",
+        "expected": "5ebb719315710c771fc7d2db110a9399479a8aabf6c99b0c5704d80f6a5e4bd9",
+        "actual": "5ebb719315710c771fc7d2db110a9399479a8aabf6c99b0c5704d80f6a5e4bd9"
+      }
+    },
+    {
+      "check": "input_sha256:grouping_eligible_candidates",
+      "pass": true,
+      "detail": {
+        "path": "UPSTREAM_TRACK_D_ROOT/combined-correction-master-v1/correction-grouping-audit-v2/eligible-candidates.jsonl",
+        "expected": "d1db8a1d26096e955c14bcfabae3ca8ca7c6a66578c8d6b77cc6392388fd86f7",
+        "actual": "d1db8a1d26096e955c14bcfabae3ca8ca7c6a66578c8d6b77cc6392388fd86f7"
+      }
+    },
+    {
+      "check": "input_sha256:grouping_held_for_review",
+      "pass": true,
+      "detail": {
+        "path": "UPSTREAM_TRACK_D_ROOT/combined-correction-master-v1/correction-grouping-audit-v2/held-for-review.jsonl",
+        "expected": "d2a192d3079eeb499cff49f3acef1cba8238036578b5ef4dd477505961ab6adf",
+        "actual": "d2a192d3079eeb499cff49f3acef1cba8238036578b5ef4dd477505961ab6adf"
+      }
+    },
+    {
+      "check": "input_sha256:reference_normalization_audit",
+      "pass": true,
+      "detail": {
+        "path": "UPSTREAM_TRACK_D_ROOT/combined-correction-master-v1/reference-normalization-audit-v1/reference-normalization-audit.jsonl",
+        "expected": "744790752ada5f9e2567a75b44e2455156eb51f61db56f264bff8cdaeab6e960",
+        "actual": "744790752ada5f9e2567a75b44e2455156eb51f61db56f264bff8cdaeab6e960"
+      }
+    },
+    {
+      "check": "input_sha256:grouping_audit_summary",
+      "pass": true,
+      "detail": {
+        "path": "UPSTREAM_TRACK_D_ROOT/combined-correction-master-v1/correction-grouping-audit-v2/summary.json",
+        "expected": "a9a5e8a83f12a20f48e9881375768c8782e3361cf5e2c320a478f8ad46be7e8d",
+        "actual": "a9a5e8a83f12a20f48e9881375768c8782e3361cf5e2c320a478f8ad46be7e8d"
+      }
+    },
+    {
+      "check": "input_sha256:reference_normalization_summary",
+      "pass": true,
+      "detail": {
+        "path": "UPSTREAM_TRACK_D_ROOT/combined-correction-master-v1/reference-normalization-audit-v1/summary.json",
+        "expected": "22df4890116839e12093ba1c3005c6faee4421bb959f68ee25fb05f0562e33f1",
+        "actual": "22df4890116839e12093ba1c3005c6faee4421bb959f68ee25fb05f0562e33f1"
+      }
+    },
+    {
+      "check": "input_sha256:attribution_correction_summary",
+      "pass": true,
+      "detail": {
+        "path": "UPSTREAM_TRACK_D_ROOT/combined-correction-master-v1/author-attribution-correction-v1/summary.json",
+        "expected": "2656e7b5a6070a51728c5b4c523236564c89becd37d635e5fb8b805c63d1d1e5",
+        "actual": "2656e7b5a6070a51728c5b4c523236564c89becd37d635e5fb8b805c63d1d1e5"
+      }
+    },
+    {
+      "check": "input_sha256:master_summary",
+      "pass": true,
+      "detail": {
+        "path": "UPSTREAM_TRACK_D_ROOT/combined-correction-master-v1/summary.json",
+        "expected": "8cee1eb79a3b5e4989aab356f506d04d93483cd4911aa2e5d751ceaba57d0bb1",
+        "actual": "8cee1eb79a3b5e4989aab356f506d04d93483cd4911aa2e5d751ceaba57d0bb1"
+      }
+    },
+    {
+      "check": "input_sha256:case_handoff_register",
+      "pass": true,
+      "detail": {
+        "path": "UPSTREAM_TRACK_D_ROOT/combined-correction-master-v1/case-handoff-register.json",
+        "expected": "df2831860ae1f948cd9a06dfc20bdec059575f59487888174d5e024716c6acb4",
+        "actual": "df2831860ae1f948cd9a06dfc20bdec059575f59487888174d5e024716c6acb4"
+      }
+    },
+    {
+      "check": "correction_master_line_count_657",
+      "pass": true,
+      "detail": {
+        "count": 657
+      }
+    },
+    {
+      "check": "correction_master_uids_unique",
+      "pass": true,
+      "detail": {}
+    },
+    {
+      "check": "correction_master_uids_complete",
+      "pass": true,
+      "detail": {
+        "missing": []
+      }
+    },
+    {
+      "check": "correction_master_evidence_preserved_exact",
+      "pass": true,
+      "detail": {
+        "drifted_fields": [],
+        "drift_count": 0
+      }
+    },
+    {
+      "check": "baseline_sets_498_159",
+      "pass": true,
+      "detail": {
+        "eligible": 498,
+        "held": 159
+      }
+    },
+    {
+      "check": "baseline_partition_covers_657",
+      "pass": true,
+      "detail": {}
+    },
+    {
+      "check": "held_file_covers_baseline_plus_extra",
+      "pass": true,
+      "detail": {
+        "baseline": 159,
+        "extra": [
+          "612c1a2a547f2ac1bf07d99282c11989b3e4f6b647dce2adea4ef05b99493e5a",
+          "b1b2ab6b35cae3269bf1feee746b1eae0473815150f92fa6c1bcf1a7968dd802",
+          "cb96dcf4eba933fe9db8d1b4c011e2cba6f0350658ef118994f844a18c8117e7",
+          "f6d0f0c3f055b560685494acdbebfc96e4e7abfa28353d510505a84949195b52"
+        ]
+      }
+    },
+    {
+      "check": "held_baseline_reasons_preserved",
+      "pass": true,
+      "detail": {}
+    },
+    {
+      "check": "disposition_partition_is_657",
+      "pass": true,
+      "detail": {
+        "counts": {
+          "potential_future_update": 7,
+          "implementation_candidate": 487,
+          "held_for_review": 163
+        }
+      }
+    },
+    {
+      "check": "groups_count_440",
+      "pass": true,
+      "detail": {
+        "count": 440
+      }
+    },
+    {
+      "check": "group_ids_unique",
+      "pass": true,
+      "detail": {}
+    },
+    {
+      "check": "group_membership_and_counts_exact",
+      "pass": true,
+      "detail": {
+        "drifts": [],
+        "drift_count": 0
+      }
+    },
+    {
+      "check": "group_members_equal_eligible_set",
+      "pass": true,
+      "detail": {
+        "members": 498
+      }
+    },
+    {
+      "check": "implementation_candidate_criteria",
+      "pass": true,
+      "detail": {
+        "failures": [],
+        "failure_count": 0
+      }
+    },
+    {
+      "check": "implementation_groups_match_qualifying_groups",
+      "pass": true,
+      "detail": {
+        "impl": 431,
+        "qualifying": 431,
+        "missing": [],
+        "extra": []
+      }
+    },
+    {
+      "check": "single_source_candidates_preserved",
+      "pass": true,
+      "detail": {
+        "single_source_groups": 409
+      }
+    },
+    {
+      "check": "potential_duplicate_groups_flagged",
+      "pass": true,
+      "detail": {
+        "dup_flagged_impl_groups": 39
+      }
+    },
+    {
+      "check": "potential_future_updates_requirements",
+      "pass": true,
+      "detail": {
+        "count": 7
+      }
+    },
+    {
+      "check": "source_evidence_index_complete",
+      "pass": true,
+      "detail": {
+        "distinct_docs": 373,
+        "indexed": 373,
+        "failures": []
+      }
+    },
+    {
+      "check": "archive_rehash_all_documents",
+      "pass": true,
+      "detail": {
+        "documents": 657,
+        "verify_mismatch_or_missing": 0
+      }
+    },
+    {
+      "check": "needs_public_link_coverage",
+      "pass": true,
+      "detail": {
+        "links_needed": 438,
+        "missing": [],
+        "extra": []
+      }
+    },
+    {
+      "check": "no_invented_public_urls",
+      "pass": true,
+      "detail": {
+        "with_url": 0
+      }
+    },
+    {
+      "check": "generated_artifact_hashes_match_summary",
+      "pass": true,
+      "detail": {
+        "checked": 8,
+        "mismatches": []
+      }
+    },
+    {
+      "check": "summary_covers_all_data_files_and_readme",
+      "pass": true,
+      "detail": {
+        "listed": [
+          "README.md",
+          "correction-master.jsonl",
+          "held-for-review.jsonl",
+          "implementation-candidates.jsonl",
+          "needs-public-source-link.jsonl",
+          "potential-future-updates.jsonl",
+          "source-evidence-index.jsonl",
+          "unique-correction-groups.jsonl"
+        ]
+      }
+    },
+    {
+      "check": "original_master_and_outputs_unchanged",
+      "pass": true,
+      "detail": {
+        "verified_artifacts": 12,
+        "corrections": []
+      }
+    },
+    {
+      "check": "canonical_bible_text_unchanged",
+      "pass": true,
+      "detail": {
+        "path": "LOCAL_HOME/LionGateOS-Bible/source/growdaily/assets/bible/en_kjv.json",
+        "sha256": "4109ee74d422614995325b5d2f43da9ec35d9be547d6a11bc68fb0978179585f",
+        "expected": "4109ee74d422614995325b5d2f43da9ec35d9be547d6a11bc68fb0978179585f"
+      }
+    },
+    {
+      "check": "canonical_coordinates_readable_and_nonempty",
+      "pass": true,
+      "detail": {
+        "sha256": "a0d2c672f6c06f3307c22027216ae53f98bdf910903ef86c049fbbdeb4e9753f",
+        "note": "current hash recorded; upstream master summary did not pin this file; read-only usage only"
+      }
+    },
+    {
+      "check": "case_project_unmodified_by_this_batch",
+      "pass": true,
+      "detail": {
+        "case_repo": "LOCAL_HOME/pcog-archive-collector",
+        "pre-existing dirty entries (predates batch)": [
+          {
+            "path": "gd_m06_a1_stage_a_run.py",
+            "mtime": "2026-10-12T04:12:34.450128-04:00"
+          }
+        ],
+        "evidence": "root filesystem outside the session workspace is mounted read-only | ro,nosuid... on /dev/nvme0n1p4; no write to CASE, the source archive, or the master directory was possible during this batch"
+      }
+    },
+    {
+      "check": "preexisting_case_repo_dirty_state_recorded",
+      "pass": true,
+      "detail": {
+        "note": "pcog-archive-collector worktree carried 1 modified file (gd_m06_a1_stage_a_run.py, mtime 2026-10-12) before this batch began; documented, not caused by this batch; not repaired by this batch"
+      }
+    },
+    {
+      "check": "grouping_v2_summary_self_hash_note",
+      "pass": true,
+      "detail": {
+        "issue": "correction-grouping-audit-v2/summary.json records a hash of itself, which is self-referentially impossible; its actual SHA-256 is a9a5e8a83f12a20f48e9881375768c8782e3361cf5e2c320a478f8ad46be7e8d; all of its DATA files (eligible-candidates, correction-groups, held-for-review) verified against their recorded hashes. Treated as a known self-hash artifact, not tampering evidence."
+      }
+    }
+  ],
+  "summary_json_sha256": "69ad4954e3ef465a07239a7aca765560dc90bd060177ef38a9a8f1245561e8ea",
+  "self_hash_note": "validation.json cannot contain its own SHA-256 (and summary.json cannot contain its own); every other artifact's hash is verifiable from summary.json -> artifact_sha256",
+  "summary_recorded_counts": {
+    "findings": 657,
+    "eligible_baseline": 498,
+    "held_baseline": 159,
+    "groups": 440,
+    "implementation_candidate_groups": 431,
+    "impl_findings": 487,
+    "future_findings": 7,
+    "held_findings": 163,
+    "single_source_impl_groups": 409,
+    "multi_source_impl_groups": 22,
+    "distinct_source_documents": 373,
+    "attribution_corrections_applied": 3,
+    "integrity_failures": 0,
+    "potential_duplicate_groups": 39
+  },
+  "record_scope": "Historical validation of the original, pre-sanitization package. Its recorded artifact hashes refer to the original files."
+}

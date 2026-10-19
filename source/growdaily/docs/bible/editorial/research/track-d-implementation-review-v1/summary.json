@@ -1,0 +1,118 @@
+{
+  "package": "implementation-review-master-v1",
+  "created_at": "2026-10-19T17:26:39.651215-04:00",
+  "policy": {
+    "qualified_authors": [
+      "Herbert W. Armstrong",
+      "Gerald Flurry"
+    ],
+    "single_verified_source_qualifies": true,
+    "three_or_more_sources": "preferred_not_required",
+    "other_authors_ministers_secondary": "potential_future_updates_with_explicit_human_approval",
+    "evidence_rule": "every candidate retains citation, exact archive-relative path, SHA-256, quotation, attribution, original and proposed wording, and verse reference",
+    "public_url_rule": "only exact verified URLs from existing evidence; none existed, none invented",
+    "hash_meaning": "SHA-256 proves file integrity only, not theological or translation correctness",
+    "grouping_rules": "existing strict grouping preserved (exact case-sensitive wording after NFC + whitespace normalization; matching canonical verse set and correction type); near-duplicates flagged, never merged"
+  },
+  "status": "REVIEW_PACKAGE_COMPLETE; implementation Requires human owner review",
+  "bible_text_changed": false,
+  "case_project_modified": false,
+  "source_archive_modified": false,
+  "original_master_modified": false,
+  "outputs_noted_location_blocker": "target directory under UPSTREAM_TRACK_D_ROOT/combined-correction-master-v1/ was on a read-only filesystem at batch time; package built in the writable session workspace instead (see README.md)",
+  "dispositions": {
+    "total_findings": 657,
+    "implementation_candidate_findings": 487,
+    "implementation_candidate_groups": 431,
+    "single_source_candidate_groups": 409,
+    "multi_source_candidate_groups": 22,
+    "potential_future_updates": 7,
+    "held_for_review": 163,
+    "held_baseline": 159,
+    "eligible_baseline": 498,
+    "unique_correction_groups": 440,
+    "potential_duplicate_groups": 39,
+    "distinct_source_documents": 373,
+    "author_attribution_corrections_applied": 3
+  },
+  "source_coverage": {
+    "archive_root": "ARCHIVE_ROOT",
+    "findings_with_verified_source_hash": 657,
+    "integrity_failures": 0,
+    "candidates_needing_public_link": 438,
+    "public_links_available_in_evidence": false
+  },
+  "provenance": {
+    "inputs": {
+      "original_master": {
+        "path": "UPSTREAM_TRACK_D_ROOT/combined-correction-master-v1/combined-correction-candidates.jsonl",
+        "sha256": "000f92795bc8e134c1dfd464a1e42d7369e2a87199361504f60fd2263e170db6"
+      },
+      "attribution_corrected_master": {
+        "path": "UPSTREAM_TRACK_D_ROOT/combined-correction-master-v1/author-attribution-correction-v1/combined-correction-candidates-attribution-corrected.jsonl",
+        "sha256": "814f74b036c4fa4df7158135ef74be810feaab9b71738f7718c9892a2013591f"
+      },
+      "attribution_corrections": {
+        "path": "UPSTREAM_TRACK_D_ROOT/combined-correction-master-v1/author-attribution-correction-v1/author-attribution-corrections.jsonl",
+        "sha256": "591ae7e22a9fe3b60afc44fd116e432d830390cfbb22931145f12c875baaae09"
+      },
+      "attribution_corrected_groups": {
+        "path": "UPSTREAM_TRACK_D_ROOT/combined-correction-master-v1/author-attribution-correction-v1/correction-groups-attribution-corrected.jsonl",
+        "sha256": "5ebb719315710c771fc7d2db110a9399479a8aabf6c99b0c5704d80f6a5e4bd9"
+      },
+      "grouping_eligible_candidates": {
+        "path": "UPSTREAM_TRACK_D_ROOT/combined-correction-master-v1/correction-grouping-audit-v2/eligible-candidates.jsonl",
+        "sha256": "d1db8a1d26096e955c14bcfabae3ca8ca7c6a66578c8d6b77cc6392388fd86f7"
+      },
+      "grouping_held_for_review": {
+        "path": "UPSTREAM_TRACK_D_ROOT/combined-correction-master-v1/correction-grouping-audit-v2/held-for-review.jsonl",
+        "sha256": "d2a192d3079eeb499cff49f3acef1cba8238036578b5ef4dd477505961ab6adf"
+      },
+      "reference_normalization_audit": {
+        "path": "UPSTREAM_TRACK_D_ROOT/combined-correction-master-v1/reference-normalization-audit-v1/reference-normalization-audit.jsonl",
+        "sha256": "744790752ada5f9e2567a75b44e2455156eb51f61db56f264bff8cdaeab6e960"
+      },
+      "grouping_audit_summary": {
+        "path": "UPSTREAM_TRACK_D_ROOT/combined-correction-master-v1/correction-grouping-audit-v2/summary.json",
+        "sha256": "a9a5e8a83f12a20f48e9881375768c8782e3361cf5e2c320a478f8ad46be7e8d"
+      },
+      "reference_normalization_summary": {
+        "path": "UPSTREAM_TRACK_D_ROOT/combined-correction-master-v1/reference-normalization-audit-v1/summary.json",
+        "sha256": "22df4890116839e12093ba1c3005c6faee4421bb959f68ee25fb05f0562e33f1"
+      },
+      "attribution_correction_summary": {
+        "path": "UPSTREAM_TRACK_D_ROOT/combined-correction-master-v1/author-attribution-correction-v1/summary.json",
+        "sha256": "2656e7b5a6070a51728c5b4c523236564c89becd37d635e5fb8b805c63d1d1e5"
+      },
+      "master_summary": {
+        "path": "UPSTREAM_TRACK_D_ROOT/combined-correction-master-v1/summary.json",
+        "sha256": "8cee1eb79a3b5e4989aab356f506d04d93483cd4911aa2e5d751ceaba57d0bb1"
+      },
+      "case_handoff_register": {
+        "path": "UPSTREAM_TRACK_D_ROOT/combined-correction-master-v1/case-handoff-register.json",
+        "sha256": "df2831860ae1f948cd9a06dfc20bdec059575f59487888174d5e024716c6acb4"
+      }
+    },
+    "derived_master": "author-attribution-correction-v1/combined-correction-candidates-attribution-corrected.jsonl"
+  },
+  "artifact_sha256": {
+    "correction-master.jsonl": "0230fb02c6594cbe68bd2da5dd8e08609cb18a75c94fbb9d3648d59a2b21a43c",
+    "unique-correction-groups.jsonl": "4ac171b7f993bf3ed1eef52dd096f7f8e0ee832502c71fd522d784abea4c34ab",
+    "implementation-candidates.jsonl": "3072459ca78e69da6936814fe549d2129c9a4ad03a94d7e9200a800143687411",
+    "potential-future-updates.jsonl": "244164d74635b48e176110d78b5f7b292a808707248de3be10038e2455dffdf6",
+    "held-for-review.jsonl": "661ae0880c941b70767e022f457566e94a6cf84dbf4afa0faa3b688538a10529",
+    "source-evidence-index.jsonl": "696b4b9c26f531d01615fe4da50f4442cb99f98cbf6433a553dfee52abe80bf2",
+    "needs-public-source-link.jsonl": "d20d978ee2025e35556e0741cf896cf869530a97ccfc303151debb732d789da4",
+    "README.md": "bd658c14b26c222eb2d0c9e0e15663243e6322bff0917d013e1d458fb0989832"
+  },
+  "artifact_sha256_note": "summary.json cannot contain its own SHA-256, and neither can validation.json; validation.json records summary.json's hash and recomputes every other artifact's",
+  "publication_copy": {
+    "private_absolute_paths_redacted": true,
+    "original_batch_validation": "PASS, 42/42 before sanitization",
+    "original_validation_record": "original-batch-validation.json",
+    "artifact_hashes_refreshed": true,
+    "upstream_source_reaudit_performed": false,
+    "bible_text_changed": false,
+    "requires_owner_review_before_implementation": true
+  }
+}
